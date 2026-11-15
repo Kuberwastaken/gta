@@ -60,7 +60,7 @@ Quote YAML strings with double quotes. Escape inner double quotes as `\"` or use
 - Length: flagship pages 900-1800 words; normal pages 500-1000; nothing under 350 words of body. No padding — if you run out of facts, stop.
 - Voice: knowledgeable fan-journalist, crisp, a little Vice City flavour is fine. No hype words ("epic", "mind-blowing"), no "In conclusion", no "delve", no "it's worth noting", no em-dash spam. Use American English.
 - Quotes: max ~2 sentences, in quotation marks, attributed. Never paste long official text.
-- No images. Do not embed Rockstar artwork. You may describe trailers.
+- Use real related imagery after the hero/title on every authored page. Prefer official downloadable/shareable Rockstar media with credit, source link, descriptive alt text and dimensions. Use a clearly captioned GTA VI fallback if no specific image fits. No AI-generated imagery. Official YouTube videos should be playable embeds with direct viewing links for age-restricted playback. Do not host hacked footage or imply promotional art proves a gameplay mechanic.
 - Do not copy other fan sites' prose. Use their facts with citation.
 - Mention what is **not** known yet when relevant ("Rockstar has not said…"). This is valuable.
 - Each page ends with a short "## What we're watching" or "## Bottom line" only if it adds something; otherwise no outro.

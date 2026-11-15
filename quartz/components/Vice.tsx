@@ -6,6 +6,7 @@ import { inlineMd } from "../util/inlineMd"
 import { byWeight, fm, href, realPages, relatedPages, sectionPages, title } from "../util/pages"
 import { BANNERS, GLASS_MAP, HERO_ASCII } from "./ascii.generated"
 import readingTime from "reading-time"
+import { pageMedia, officialVideos } from "../util/media"
 // @ts-ignore
 import countdownScript from "./scripts/countdown.inline"
 // @ts-ignore
@@ -506,3 +507,31 @@ export const ViceFooter: QuartzComponent = ({ fileData }: QuartzComponentProps) 
 }
 
 export const c = <T extends QuartzComponent>(comp: T) => (() => comp) satisfies QuartzComponentConstructor
+
+/* Real promotional media, with provenance and a direct viewing fallback. */
+export const PageMedia: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+  if (!fileData.filePath || fileData.slug === "404") return null
+  const slug = String(fileData.slug ?? "index")
+  const image = pageMedia(slug, fm(fileData).heroImage)
+  return (
+    <figure class="page-media">
+      <a href={image.url} target="_blank" rel="noopener" aria-label={`View original: ${image.alt}`}>
+        <img src={`/static/media/${image.file}`} alt={image.alt} width={image.width} height={image.height} decoding="async" loading="eager" />
+      </a>
+      <figcaption>{image.alt}. <a href={image.source} target="_blank" rel="noopener">Image: {image.credit}</a>.</figcaption>
+    </figure>
+  )
+}
+export const TrailerPlayer: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+  const video = officialVideos[String(fileData.slug)]
+  if (!video) return null
+  return (
+    <section class="trailer-player" aria-label={`Watch ${video.title}`}>
+      <h2>Watch the official video</h2>
+      <div class="video-frame">
+        <iframe src={`https://www.youtube-nocookie.com/embed/${video.id}`} title={video.title} width="1280" height="720" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />
+      </div>
+      <p class="media-note"><a href={`https://www.youtube.com/watch?v=${video.id}`} target="_blank" rel="noopener">Watch on Rockstar Games' YouTube channel</a>. YouTube may require sign-in or age verification; use this link if the embedded player cannot play.</p>
+    </section>
+  )
+}

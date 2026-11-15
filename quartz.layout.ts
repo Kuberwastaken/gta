@@ -94,10 +94,13 @@ const left = [
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     make(Vice.HomeHero)(),
+    Component.ConditionalRender({ component: make(Vice.PageMedia)(), condition: isHome }),
     Component.ConditionalRender({ component: make(Vice.Crumbs)(), condition: notHome }),
     make(Vice.HubBanner)(),
     Component.ConditionalRender({ component: Component.ArticleTitle(), condition: notHome }),
     make(Vice.PageMeta)(),
+    Component.ConditionalRender({ component: make(Vice.PageMedia)(), condition: notHome }),
+    make(Vice.TrailerPlayer)(),
     make(Vice.QuickAnswer)(),
     make(Vice.GraphIntro)(),
     Component.ConditionalRender({ component: fullGraph, condition: isGraphPage }),
@@ -108,7 +111,7 @@ export const defaultContentPageLayout: PageLayout = {
 }
 
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [make(Vice.Crumbs)(), make(Vice.HubBanner)(), Component.ArticleTitle(), make(Vice.PageMeta)()],
+  beforeBody: [make(Vice.Crumbs)(), make(Vice.HubBanner)(), Component.ArticleTitle(), make(Vice.PageMeta)(), make(Vice.PageMedia)()],
   left,
   right: [],
 }

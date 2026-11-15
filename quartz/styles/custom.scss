@@ -1480,3 +1480,25 @@ footer.vfooter {
     }
   }
 }
+
+/* Official media stays inside the existing reading column. */
+.page-media { margin: 1.5rem 0 2rem; min-width: 0; }
+.page-media > a { display: block; background: transparent !important; }
+.page-media img { display: block; width: 100%; height: auto; max-height: 520px; object-fit: contain; margin: 0; background: var(--card); border-radius: 10px; }
+.page-media figcaption, .media-note { font-size: 12px; line-height: 1.6; color: var(--text-3); margin-top: 8px; }
+.trailer-player { min-width: 0; margin: 1.5rem 0 2rem; }
+.video-frame { position: relative; aspect-ratio: 16 / 9; width: 100%; overflow: hidden; border-radius: 10px; background: #111; }
+.video-frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+/* Keep Quartz's minimum-width and full-height sidebar rules from forcing overflow. */
+.page > #quartz-body .center { min-width: 0; width: 100%; box-sizing: border-box; }
+.page > #quartz-body .page-header { min-width: 0; }
+.article-title { overflow-wrap: anywhere; }
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.left { height: auto; min-height: 0; position: relative; padding: 20px 0 0 !important; }
+  .page > #quartz-body .page-header { margin-top: 24px !important; }
+  .page > #quartz-body .center { max-width: 100%; }
+  .page-media { margin-top: 1rem; }
+}
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.left > div:has(> .countdown-link) { display: none; }
+}
