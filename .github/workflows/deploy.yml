@@ -1,0 +1,56 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - run: npm ci
+      - name: Content gate
+        run: node scripts/check-content.mjs
+      - name: Build
+        run: npx quartz build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+  indexnow:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping IndexNow (Bing, Yandex, Seznam, Naver)
+        run: |
+          set -e
+          urls=$(curl -fsSL https://gta.kuber.studio/static/urls.json)
+          body=$(jq -n --argjson urls "$urls" '{host:"gta.kuber.studio",key:"6f1c2e9a4b7d4e2fa8c35d9b1e07a4c2",keyLocation:"https://gta.kuber.studio/6f1c2e9a4b7d4e2fa8c35d9b1e07a4c2.txt",urlList:$urls}')
+          curl -sS -o /dev/null -w "IndexNow HTTP %{http_code}\n" -X POST https://api.indexnow.org/indexnow -H "Content-Type: application/json; charset=utf-8" -d "$body"
