@@ -94,7 +94,6 @@ const left = [
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     make(Vice.HomeHero)(),
-    Component.ConditionalRender({ component: make(Vice.PageMedia)(), condition: isHome }),
     Component.ConditionalRender({ component: make(Vice.Crumbs)(), condition: notHome }),
     make(Vice.HubBanner)(),
     Component.ConditionalRender({ component: Component.ArticleTitle(), condition: notHome }),
