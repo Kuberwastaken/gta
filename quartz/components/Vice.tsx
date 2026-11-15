@@ -4,7 +4,7 @@ import { canonicalUrl, pageDates, pageKind, SECTIONS, sectionOf, site, STATUS, S
 import { getFaq, getSources, breadcrumbs } from "../util/jsonld"
 import { inlineMd } from "../util/inlineMd"
 import { byWeight, fm, href, realPages, relatedPages, sectionPages, title } from "../util/pages"
-import { BANNERS, GLASS_MAP, HERO_ASCII, LOGO_ASCII } from "./ascii.generated"
+import { BANNERS, GLASS_MAP, HERO_ASCII, HERO_COLS } from "./ascii.generated"
 import readingTime from "reading-time"
 // @ts-ignore
 import countdownScript from "./scripts/countdown.inline"
@@ -66,8 +66,8 @@ export const SideBrand: QuartzComponent = ({ fileData }: QuartzComponentProps) =
 
 /* The sun from the hero, cropped, so the glass countdown has something to refract. */
 const MINI_ASCII = HERO_ASCII.split("\n")
-  .slice(7, 31)
-  .map((l) => l.padEnd(132).slice(48, 112))
+  .slice(10, 42)
+  .map((l) => l.padEnd(HERO_COLS).slice(58, 138))
   .join("\n")
 
 /* ───────────── Countdown (liquid glass) ───────────── */
@@ -202,32 +202,37 @@ export const HomeSections: QuartzComponent = ({ fileData, allFiles }: QuartzComp
 export const HomeLatest: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
   if (fileData.slug !== "index") return null
   const slug = fileData.slug as FullSlug
-  const updates = realPages(allFiles)
-    .filter((p) => p.slug !== "index" && !p.slug!.endsWith("/index") && !p.slug!.startsWith("about/"))
-    .sort((a, b) => (pageDates(b).published?.getTime() ?? 0) - (pageDates(a).published?.getTime() ?? 0) || byWeight(a, b))
-    .slice(0, 10)
+  // Latest first: news by publish date, then everything else, newest edits on top.
+  const pages = realPages(allFiles).filter(
+    (p) => p.slug !== "index" && p.slug !== "graph" && !p.slug!.endsWith("/index") && !p.slug!.startsWith("about/"),
+  )
+  const ts = (p: (typeof pages)[number]) => pageDates(p).published?.getTime() ?? 0
+  const news = pages.filter((p) => p.slug!.startsWith("news/")).sort((a, b) => ts(b) - ts(a))
+  const rest = pages.filter((p) => !p.slug!.startsWith("news/")).sort((a, b) => ts(b) - ts(a) || byWeight(a, b))
+  const [lead, ...others] = [...news, ...rest]
+  const card = (p: (typeof pages)[number], big = false) => {
+    const d = pageDates(p).published
+    const sec = sectionOf(p.slug!)
+    return (
+      <a class={`post ${big ? "post-lead" : ""}`} href={href(slug, p.slug!)}>
+        <span class="post-meta">
+          <span class="post-sec">{sec?.label}</span>
+          {d && <time datetime={d.toISOString()}>{d.toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" })}</time>}
+          <StatusBadge status={fm(p).status} />
+        </span>
+        <span class="post-title">{String(fm(p).title ?? title(p))}</span>
+        <span class="post-desc">{String(fm(p).description ?? "")}</span>
+      </a>
+    )
+  }
   return (
-    <section class="log panel" aria-labelledby="log-h">
-      <div class="block-head">
-        <h2 id="log-h">Recently published</h2>
-        <a class="meta" href="/index.xml">RSS</a>
+    <section class="latest" aria-labelledby="latest-h">
+      <div class="latest-head">
+        <h2 id="latest-h">Latest</h2>
+        <a href="/index.xml">RSS</a>
       </div>
-      <ol>
-        {updates.map((p) => {
-          const d = pageDates(p).published
-          const sec = sectionOf(p.slug!)
-          return (
-            <li>
-              <a href={href(slug, p.slug!)}>
-                {d && <time class="mono" datetime={d.toISOString()}>{iso(d)}</time>}
-                <span class="l-sec">{sec?.nav}</span>
-                <span class="l-title">{title(p)}</span>
-                <StatusBadge status={fm(p).status} />
-              </a>
-            </li>
-          )
-        })}
-      </ol>
+      {lead && card(lead, true)}
+      <div class="post-grid">{others.slice(0, 18).map((p) => card(p))}</div>
     </section>
   )
 }
@@ -492,66 +497,31 @@ export const Crumbs: QuartzComponent = ({ cfg, fileData, allFiles }: QuartzCompo
   )
 }
 
-/* ───────────── Footer ───────────── */
-export const ViceFooter: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
+/* ───────────── Footer: one quiet block ───────────── */
+export const ViceFooter: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const slug = fileData.slug as FullSlug
   const year = new Date().getFullYear()
-  const popular = realPages(allFiles)
-    .filter((p) => fm(p).popular)
-    .sort(byWeight)
-    .slice(0, 10)
+  const to = (s: string) => resolveRelative(slug, s as FullSlug)
   return (
     <footer class="vfooter">
-      <pre class="ascii footer-logo" aria-hidden="true">
-        {LOGO_ASCII}
-      </pre>
-      <div class="vf-grid">
-        <div class="vf-brand">
-          <p>{site.tagline}</p>
-          <p class="vf-by">
-            Written and built by <a href="https://kuber.studio/">Kuber Mehta</a>, part of{" "}
-            <a href="https://kuber.studio/">kuber.studio</a>
-          </p>
-        </div>
-        <div>
-          <h2>Sections</h2>
-          <ul>
-            {SECTIONS.map((s) => (
-              <li>
-                <a href={resolveRelative(slug, `${s.slug}/index` as FullSlug)}>{s.label}</a>
-              </li>
-            ))}
-          </ul>
-        </div>
-        {popular.length > 0 && (
-          <div>
-            <h2>Most read</h2>
-            <ul>
-              {popular.map((p) => (
-                <li>
-                  <a href={href(slug, p.slug!)}>{title(p)}</a>
-                </li>
-              ))}
-            </ul>
-          </div>
-        )}
-        <div>
-          <h2>Site</h2>
-          <ul>
-            <li><a href={resolveRelative(slug, "graph" as FullSlug)}>Topic graph</a></li>
-            <li><a href={resolveRelative(slug, "about/how-we-grade" as FullSlug)}>How we grade claims</a></li>
-            <li><a href={resolveRelative(slug, "about/corrections" as FullSlug)}>Corrections</a></li>
-            <li><a href="/index.xml">RSS, everything</a></li>
-            <li><a href="/news.xml">RSS, news</a></li>
-            <li><a href="/llms.txt">llms.txt</a></li>
-            <li><a href="/sitemap.xml">Sitemap</a></li>
-          </ul>
-        </div>
+      <div class="vf-row">
+        <a class="brand" href={to("index")}>
+          <Mark />
+          <Wordmark />
+        </a>
+        <nav class="vf-links" aria-label="Site">
+          <a href={to("about/index")}>About</a>
+          <a href={to("about/how-we-grade")}>How we grade</a>
+          <a href={to("about/corrections")}>Corrections</a>
+          <a href={to("graph")}>Topic graph</a>
+          <a href="/index.xml">RSS</a>
+          <a href="/llms.txt">llms.txt</a>
+        </nav>
       </div>
       <p class="vf-legal">
-        © {year} {site.name}. An independent fan reference, not affiliated with, endorsed or sponsored by Rockstar Games
-        or Take-Two Interactive. Grand Theft Auto and GTA are trademarks of Take-Two Interactive Software, Inc. All art on
-        this site is original ASCII.
+        © {year} {site.name}, by <a href="https://kuber.studio/">Kuber Mehta</a>. An independent fan reference, not
+        affiliated with Rockstar Games or Take-Two Interactive. Grand Theft Auto and GTA are trademarks of Take-Two
+        Interactive Software, Inc.
       </p>
     </footer>
   )

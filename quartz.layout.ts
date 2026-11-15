@@ -16,12 +16,12 @@ const localGraph = {
   drag: true,
   zoom: true,
   depth: 1,
-  scale: 1.1,
-  repelForce: 0.6,
-  centerForce: 0.3,
-  linkDistance: 30,
-  fontSize: 0.55,
-  opacityScale: 1.8,
+  scale: 1.6,
+  repelForce: 1.4,
+  centerForce: 0.2,
+  linkDistance: 60,
+  fontSize: 0.7,
+  opacityScale: 2.2,
   showTags: false,
   removeTags: [] as string[],
   focusOnHover: true,
@@ -43,13 +43,22 @@ const globalGraph = {
   enableRadial: false,
 }
 
-const sidebarGraph = Component.Graph({ title: "Graph view", localGraph, globalGraph })
+const articleGraph = Component.Graph({ title: "Topic graph", localGraph, globalGraph })
 const fullGraph = Component.Graph({ title: "", localGraph: globalGraph, globalGraph })
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [make(Vice.FaqBlock)(), make(Vice.SourcesBlock)(), make(Vice.RelatedBlock)(), make(Vice.PrevNext)()],
+  afterBody: [
+    make(Vice.FaqBlock)(),
+    make(Vice.SourcesBlock)(),
+    make(Vice.RelatedBlock)(),
+    Component.ConditionalRender({
+      component: articleGraph,
+      condition: (p) => p.fileData.slug !== "index" && p.fileData.slug !== "graph",
+    }),
+    make(Vice.PrevNext)(),
+  ],
   footer: make(Vice.ViceFooter)(),
 }
 
@@ -92,19 +101,14 @@ export const defaultContentPageLayout: PageLayout = {
     make(Vice.QuickAnswer)(),
     make(Vice.GraphIntro)(),
     Component.ConditionalRender({ component: fullGraph, condition: isGraphPage }),
-    make(Vice.HomeSections)(),
     make(Vice.HomeLatest)(),
   ],
   left,
-  right: [
-    Component.ConditionalRender({ component: sidebarGraph, condition: (p) => !isGraphPage(p) }),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [],
 }
 
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [make(Vice.Crumbs)(), make(Vice.HubBanner)(), Component.ArticleTitle(), make(Vice.PageMeta)()],
   left,
-  right: [sidebarGraph],
+  right: [],
 }
