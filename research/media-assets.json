@@ -190,5 +190,15 @@
     "width": 675,
     "height": 1000,
     "label": "Trailer 2"
+  },
+  "jason-aiming-community-frame": {
+    "file": "jason-aiming-community-frame.webp",
+    "url": "https://i.redd.it/88px1oafn50f1.jpeg",
+    "source": "https://www.reddit.com/r/GTA6/comments/1kk12jx/gta_6_detailjason_shoots_with_both_eyes_open/",
+    "width": 1429,
+    "height": 804,
+    "label": "Community-shared Rockstar trailer frame; neither eye fully closed",
+    "processing": "Downloaded original JPEG, visually inspected, converted to WebP quality85 without crop",
+    "credit": "Rockstar Games; frame shared by u/SirKnightShitFourth"
   }
 }

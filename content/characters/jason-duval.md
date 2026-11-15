@@ -6,7 +6,7 @@ description: "Jason Duval, GTA 6's male lead: Army veteran, drug runner in the L
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-15
+updated: 2026-11-16
 verified: 2026-11-15
 weight: 2
 tags: ["characters", "jason", "story", "leonida-keys"]
@@ -158,3 +158,7 @@ We have not seen Baker's or Smith's original posts; the denials come via Rocksta
 - Whether "Focus" is his alone.
 
 The rest of the cast is on [[characters/index|all GTA 6 characters]].
+
+## Why fans study his weapon animations
+
+The [[media/gta-6-jason-gun-handling-analysis|gun-handling analysis]] traces the original Reddit threads about Jason aiming with both eyes open and moving a muzzle near Lucia. His Army service is official; a special unit or distinct combat bonus is not established by those frames.

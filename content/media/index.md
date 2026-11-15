@@ -5,7 +5,7 @@ shortTitle: "Trailers and media"
 description: "Every official GTA 6 video in order: Trailer 1 (1:31), Trailer 2 (2:47), the 26:48 Extended Look and the 1:29 Launch Trailer, plus screenshots and easter eggs."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 verified: 2026-11-15
 weight: 1
 tags: ["trailers", "media"]
@@ -73,3 +73,7 @@ Not under that name. Forbes and others spent June and July 2026 predicting a sum
 - [[media/gta-6-easter-eggs-in-trailers|Trailer easter eggs]]: Vice City, RDR2 and GTA IV callbacks, graded.
 
 Elsewhere: [[music/gta-6-trailer-songs|every trailer song]], the [[timeline/index|GTA 6 timeline]] with each video in context, and the [[characters/index|characters hub]], built on the bios that launched with Trailer 2.
+
+## Close reading and community discoveries
+
+- [[media/gta-6-jason-gun-handling-analysis|Jason's gun handling]]: official Army biography, both-eyes-open frame and the competing readings of his movement near Lucia.

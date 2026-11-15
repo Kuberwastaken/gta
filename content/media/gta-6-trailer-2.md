@@ -5,7 +5,7 @@ shortTitle: "Trailer 2"
 description: "GTA 6 Trailer 2 dropped unannounced on May 6, 2025. It runs 2:47, was captured in-game on PS5, and came with 70 screenshots and eight character profiles."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 verified: 2026-11-15
 weight: 4
 tags: ["trailers", "media", "characters"]
@@ -139,3 +139,7 @@ Den of Geek's breakdown spotted Jason's V-Rock T-shirt (Vice City's rock station
 | Phil Cassidy lookalike | Not named by Rockstar | <span class="tag-rumour">rumour</span> |
 
 The country-station read held once Rockstar revealed [[music/gta-6-radio-stations|the radio stations]] in October 2026. The body-change system is on [[gameplay/gta-6-gameplay-features-confirmed|confirmed gameplay features]]. Rockstar's next major video was the 26:48 Extended Look on August 27, 2026; the full run is in the [[media/index|media hub]].
+
+## A closer look at Jason
+
+Our [[media/gta-6-jason-gun-handling-analysis|gun-handling analysis]] separates Jason's confirmed Army backstory from fan interpretations of aiming and character animation, with original Reddit discussion and skeptical counterexamples.
