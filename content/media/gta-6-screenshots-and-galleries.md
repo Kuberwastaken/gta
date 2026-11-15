@@ -5,11 +5,11 @@ shortTitle: "Screenshots and galleries"
 description: "Every official GTA 6 screenshot drop, dated: 70 with Trailer 2, about 12 in October 2026 and 39 in the Nov 5 Launch Gallery, plus which leaked images to skip."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-16
+verified: 2026-11-16
 weight: 6
 tags: ["media", "trailers"]
-tldr: "Rockstar has released GTA 6 screenshots in three main drops: **70** with [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025, **about 12** in mid-October 2026, and the **39-image Launch Gallery** on November 5, 2026. All live on rockstargames.com/VI. An aggregator's total of 138 is unverified."
+tldr: "Rockstar has released GTA 6 screenshots in three main drops: **70** with [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025, **about 12** in mid-October 2026, and the **39-image Launch Gallery** on November 5, 2026. All live on rockstargames.com/VI. Rockstar's media page now lists **138 screenshots**, with edition bonuses and artwork in separate collections."
 facts:
   - k: "Trailer 2 drop"
     v: "70 screenshots (May 6, 2025)"
@@ -17,13 +17,13 @@ facts:
     v: "About 12 screenshots"
   - k: "Launch Gallery"
     v: "39 screenshots (Nov 5, 2026)"
-  - k: "Claimed total"
-    v: "138 (aggregator, unverified)"
+  - k: "Official index total"
+    v: "138 (Rockstar media index)"
   - k: "Official home"
     v: "rockstargames.com/VI"
 faq:
   - q: "How many official GTA 6 screenshots are there?"
-    a: "We can account for about 121 in dated drops: 70 with Trailer 2, about 12 in October 2026 and 39 in the November Launch Gallery. One aggregator puts the total at 138, which we have not verified. Edition and pre-order galleries add more images that nobody has counted reliably."
+    a: "Rockstar's media index lists 138 screenshots as checked on November 16, 2026. It lists 51 Ultimate Edition benefits, 12 Vintage Vice City Pack images and 27 artwork/wallpaper entries separately. Those categories are not all additional gameplay screenshots."
   - q: "Where can I see the official GTA 6 screenshots?"
     a: "On Rockstar's GTA VI site, rockstargames.com/VI, including the Only in Leonida character and location pages and the Launch Gallery post on Rockstar Newswire."
   - q: "What is the GTA 6 Launch Gallery?"
@@ -31,6 +31,11 @@ faq:
   - q: "Are the GTA 6 screenshots captured in-game?"
     a: "Rockstar has said its trailers were captured in-game on PS5. It has not published capture notes for each screenshot set."
 sources:
+  - title: "Explore Vice City and Beyond: Media & Artwork"
+    url: "https://www.rockstargames.com/VI/media"
+    publisher: "Rockstar Games"
+    date: "Checked Nov 16, 2026"
+    tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
@@ -60,7 +65,7 @@ sources:
 related: ["news/2026-11-05-gta-6-launch-gallery", "media/gta-6-trailer-2", "media/gta-6-easter-eggs-in-trailers"]
 ---
 
-Rockstar has released official GTA 6 screenshots in three main drops: 70 alongside [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025, about 12 in mid-October 2026, and the 39-image Launch Gallery on November 5, 2026. All of them are on Rockstar's GTA VI site. We do not reproduce Rockstar artwork; this page dates each set and says where to find it.
+Rockstar has released official GTA 6 screenshots in three main drops: 70 alongside [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025, about 12 in mid-October 2026, and the 39-image Launch Gallery on November 5, 2026. All of them are on Rockstar's GTA VI site. The image above is credited to Rockstar; this page dates each set and links to the original galleries.
 
 ## Every official GTA 6 screenshot drop
 
@@ -75,7 +80,7 @@ The 70 count is from Wikipedia, citing IGN and VGC. The October and November cou
 
 ## How many GTA 6 screenshots are there in total?
 
-The dated drops add up to about 121. The aggregator timesaver.gg puts the full official pack at 138 <span class="tag-rumour">rumour</span>. The 17-image gap may be the June edition and pre-order art, which nobody we found has counted <span class="tag-speculation">speculation</span>. Until Rockstar publishes a gallery index, treat any exact total as approximate.
+Rockstar's [official media index](https://www.rockstargames.com/VI/media) now lists **138 screenshots** and offers the collection as a downloadable ZIP <span class="tag-confirmed">confirmed</span>. That is the current first-party count, not a number inferred by adding selected news drops. The same index keeps 51 Ultimate Edition benefit images, 12 Vintage Vice City Pack images and 27 artwork/wallpaper entries in separate categories. Do not add those categories together and call the result a screenshot count. The index can change as Rockstar adds material; these totals were checked on November 16, 2026.
 
 ## What do the Trailer 2 screenshots cover?
 
