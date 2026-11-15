@@ -464,52 +464,43 @@ export const Crumbs: QuartzComponent = ({ cfg, fileData, allFiles }: QuartzCompo
 /* ───────────── Footer: editorial ───────────── */
 export const ViceFooter: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const slug = fileData.slug as FullSlug
-  const year = new Date().getFullYear()
   const to = (s: string) => resolveRelative(slug, s as FullSlug)
   return (
     <footer class="vfooter">
-      <div class="vf-top">
+      <div class="vf-main">
         <p class="vf-line">
           Sourced, graded GTA 6 coverage from Vice City to the Keys. Orchestrated by{" "}
           <a href="https://kuber.studio/">Kuber Mehta</a>.
         </p>
-        <a class="vf-up" href="#">
-          Back to top ↑
-        </a>
+        <div class="vf-cols">
+          <nav aria-label="Read">
+            <h2>Read</h2>
+            <a href={to("release/index")}>Release and buying</a>
+            <a href={to("characters/index")}>Characters</a>
+            <a href={to("world/index")}>World and map</a>
+            <a href={to("leaks/index")}>Leaks ledger</a>
+            <a href={to("news/index")}>News</a>
+          </nav>
+          <nav aria-label="About">
+            <h2>About</h2>
+            <a href={to("about/index")}>About the site</a>
+            <a href={to("about/how-we-grade")}>How we grade</a>
+            <a href={to("about/corrections")}>Corrections</a>
+            <a href={to("graph")}>Topic graph</a>
+          </nav>
+          <nav aria-label="Follow">
+            <h2>Follow</h2>
+            <a href="/index.xml">RSS</a>
+            <a href="/news.xml">News RSS</a>
+            <a href="https://x.com/Kuberwastaken">X</a>
+            <a href="https://github.com/Kuberwastaken">GitHub</a>
+          </nav>
+        </div>
       </div>
-      <div class="vf-cols">
-        <nav aria-label="Read">
-          <h2>Read</h2>
-          <a href={to("release/index")}>Release and buying</a>
-          <a href={to("characters/index")}>Characters</a>
-          <a href={to("world/index")}>World and map</a>
-          <a href={to("leaks/index")}>Leaks ledger</a>
-          <a href={to("news/index")}>News</a>
-        </nav>
-        <nav aria-label="About">
-          <h2>About</h2>
-          <a href={to("about/index")}>About the site</a>
-          <a href={to("about/how-we-grade")}>How we grade</a>
-          <a href={to("about/corrections")}>Corrections</a>
-          <a href={to("graph")}>Topic graph</a>
-        </nav>
-        <nav aria-label="Follow">
-          <h2>Follow</h2>
-          <a href="/index.xml">RSS</a>
-          <a href="/news.xml">News RSS</a>
-          <a href="https://x.com/Kuberwastaken">X</a>
-          <a href="https://github.com/Kuberwastaken">GitHub</a>
-        </nav>
-            <a class="vf-word" href={to("index")} aria-label={`${site.name} home`}>
+      <a class="vf-word" href={to("index")} aria-label={`${site.name} home`}>
         <span class="w1">GTA VI</span>
         <span class="w2">Wire</span>
       </a>
-      </div>
-
-      <p class="vf-legal">
-        © {year} {site.name}. Independent fan reference, not affiliated with Rockstar Games or Take-Two Interactive.
-        Grand Theft Auto and GTA are trademarks of Take-Two Interactive Software, Inc.
-      </p>
     </footer>
   )
 }

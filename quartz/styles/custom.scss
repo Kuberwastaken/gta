@@ -1588,3 +1588,40 @@ article th {
 .vfooter .vf-word {
   align-self: end;
 }
+
+/* footer v3: two columns, wordmark top-right beside the byline, no dead rows */
+.vfooter {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 24px 48px;
+  align-items: start;
+  margin-top: 64px !important;
+  padding: 28px 0 32px !important;
+  .vf-main {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+  }
+  .vf-cols {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 170px)) !important;
+    gap: 24px !important;
+    margin: 0 !important;
+  }
+  .vf-word {
+    margin: 0 !important;
+    align-self: start !important;
+    justify-self: end;
+    font-size: clamp(56px, 8vw, 124px) !important;
+  }
+  @media all and ($mobile) {
+    grid-template-columns: 1fr;
+    .vf-cols {
+      grid-template-columns: 1fr 1fr !important;
+    }
+    .vf-word {
+      justify-self: start;
+      align-items: flex-start !important;
+    }
+  }
+}
