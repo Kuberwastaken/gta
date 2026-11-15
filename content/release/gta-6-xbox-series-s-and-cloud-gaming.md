@@ -5,7 +5,7 @@ shortTitle: "Series S and cloud gaming"
 description: "GTA 6 runs natively on Series S at 30 fps and streams to Xbox One via Xbox Cloud Gaming from 1 AM ET Nov 19. You must buy it: no Game Pass, no PC cloud."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 verified: 2026-11-15
 weight: 9
 tags: ["release", "xbox", "platforms", "performance"]
@@ -27,7 +27,7 @@ faq:
   - q: "Can I play GTA 6 on Xbox One?"
     a: "Only through Xbox Cloud Gaming, from 1 AM ET on Nov 19, 2026, at Series S settings. You must own the game; there is no native Xbox One version."
   - q: "Is GTA 6 on Game Pass?"
-    a: "No. You buy it like any other game. Since Nov 11, Xbox has sold cloud playtime without a Game Pass subscription in supported markets, so owning the game plus playtime is enough to stream."
+    a: "No. You buy it like any other game. Since Nov 11, Xbox has sold cloud playtime without a Game Pass subscription in supported markets. Verify GTA VI eligibility for the playtime method on your account before buying hours."
   - q: "What time can I stream GTA 6 on the West Coast?"
     a: "10 PM PT on Wednesday, Nov 18, which is 1 AM ET. Native consoles on the West Coast unlock an hour earlier, at 9 PM PT."
   - q: "Can I stream GTA 6 on PC through Xbox Cloud?"
@@ -35,6 +35,16 @@ faq:
   - q: "Can I play GTA 6 on PS4?"
     a: "No. There is no PS4 version and no PlayStation cloud option. PS5 owners can only stream from their own console via Remote Play."
 sources:
+  - title: "Cloud playtime - 10 hours"
+    url: "https://www.xbox.com/en-US/games/store/cloud-playtime-10-hours/9pl4njhpdn7l"
+    publisher: "Xbox Store"
+    tier: "primary"
+    date: "Checked Nov 16, 2026"
+  - title: "Xbox Cloud Gaming: playtime methods and limits"
+    url: "https://www.xbox.com/en-US/cloud-gaming"
+    publisher: "Xbox"
+    tier: "primary"
+    date: "Checked Nov 16, 2026"
   - title: "Grand Theft Auto VI Comes to Xbox One and Xbox Series X|S Through Xbox Cloud Gaming on November 19"
     url: "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
     publisher: "Xbox Wire"
@@ -106,7 +116,9 @@ Microsoft gave only the Eastern time. Whether other countries stream at their ow
 
 ## Do I need Game Pass to stream it?
 
-No, you need to own the game. From Nov 11, Xbox sells cloud playtime without a Game Pass subscription in supported markets; Xbox Wire gave no playtime pricing. <span class="tag-confirmed">confirmed</span> GTA V and Red Dead Redemption 2 come to cloud "in the coming months", the same post says.
+You need to own the game. Xbox sells cloud playtime without a Game Pass subscription in supported markets. The [US 10-hour pack](https://www.xbox.com/en-US/games/store/cloud-playtime-10-hours/9pl4njhpdn7l) currently lists **$3.99** for select owned games. <span class="tag-confirmed">confirmed</span> Microsoft's general cloud page also offers ad-supported sessions for eligible games, with session limits. Neither general offer is a promise that every GTA VI account can use that playtime method. Check the specific game's cloud entitlement before buying hours.
+
+The [[guides/gta-6-cheapest-way-to-play|cost comparison]] separates game ownership, hardware and cloud access, including the limits of the "$10 GTA VI" claim. GTA V and Red Dead Redemption 2 are due on cloud "in the coming months", per Xbox Wire.
 
 ## Can I stream to PC, a phone or a browser?
 

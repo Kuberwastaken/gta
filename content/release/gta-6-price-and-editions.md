@@ -6,7 +6,7 @@ description: "GTA 6 is $79.99 Standard or $99.99 Ultimate in the US, £69.99/£8
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-15
+updated: 2026-11-16
 verified: 2026-11-15
 weight: 3
 tags: ["release", "price", "editions"]
@@ -150,3 +150,7 @@ Xbox Cloud Gaming costs the same game purchase. GTA VI is not in Game Pass, and 
 ## Which edition are people buying?
 
 Sensor Tower estimates 89% of pre-orders are Ultimate. <span class="tag-reported">reported</span> (estimate) Its full numbers are on [[release/gta-6-sales-and-pre-orders|sales and pre-orders]]. Still unknown: PlayStation's upgrade price, and any [[release/gta-6-pc-release-date|PC pricing]], since no PC version is announced. More launch logistics are on the [[release/index|release hub]].
+
+## The whole cost, including hardware
+
+The [[guides/gta-6-cheapest-way-to-play|cheapest-way-to-play comparison]] adds the game to current console listings and separates cloud time from game ownership. Its US totals and India snapshots are dated, with used asking prices kept separate from sold-price averages.

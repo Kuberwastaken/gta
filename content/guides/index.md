@@ -5,7 +5,7 @@ shortTitle: "Guides"
 description: "GTA 6 launch-week guides: pre-load and 250 GB to clear before Nov 19, Standard vs Ultimate, the GTA+ auto-renew, beginner tips on heat and cash, and a FAQ."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 verified: 2026-11-15
 weight: 1
 tags: ["guides", "beginner", "release"]
@@ -43,3 +43,9 @@ In the [[release/index|release hub]], which owns the unlock table, regional pric
 ## What isn't in these guides yet
 
 Rockstar has not published a button layout, a mission count or patch notes for 1.002, so none of those appear here. We will add tested answers after Nov 19 and log every change on the [[about/corrections|corrections page]].
+
+## Watching instead of playing
+
+The [[guides/gta-6-launch-livestreams|launch livestream guide]] has YouTube's confirmed event destination, RDCWorld pre-show and converted start times. Event participation is kept separate from personal-channel schedules.
+
+- [[guides/gta-6-cheapest-way-to-play|Cheapest way to play]]: dated hardware-plus-game totals, used listing caveats and cloud-hours eligibility.
