@@ -461,31 +461,52 @@ export const Crumbs: QuartzComponent = ({ cfg, fileData, allFiles }: QuartzCompo
   )
 }
 
-/* ───────────── Footer: one quiet block ───────────── */
+/* ───────────── Footer: editorial ───────────── */
 export const ViceFooter: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const slug = fileData.slug as FullSlug
   const year = new Date().getFullYear()
   const to = (s: string) => resolveRelative(slug, s as FullSlug)
   return (
     <footer class="vfooter">
-      <div class="vf-row">
-        <a class="brand" href={to("index")}>
-          <Mark />
-          <Wordmark />
+      <div class="vf-top">
+        <p class="vf-line">
+          Sourced, graded GTA 6 coverage from Vice City to the Keys. Written by{" "}
+          <a href="https://kuber.studio/">Kuber Mehta</a>.
+        </p>
+        <a class="vf-up" href="#">
+          Back to top ↑
         </a>
-        <nav class="vf-links" aria-label="Site">
-          <a href={to("about/index")}>About</a>
+      </div>
+      <div class="vf-cols">
+        <nav aria-label="Read">
+          <h2>Read</h2>
+          <a href={to("release/index")}>Release and buying</a>
+          <a href={to("characters/index")}>Characters</a>
+          <a href={to("world/index")}>World and map</a>
+          <a href={to("leaks/index")}>Leaks ledger</a>
+          <a href={to("news/index")}>News</a>
+        </nav>
+        <nav aria-label="About">
+          <h2>About</h2>
+          <a href={to("about/index")}>About the site</a>
           <a href={to("about/how-we-grade")}>How we grade</a>
           <a href={to("about/corrections")}>Corrections</a>
           <a href={to("graph")}>Topic graph</a>
+        </nav>
+        <nav aria-label="Follow">
+          <h2>Follow</h2>
           <a href="/index.xml">RSS</a>
-          <a href="/llms.txt">llms.txt</a>
+          <a href="/news.xml">News RSS</a>
+          <a href="https://x.com/Kuberwastaken">X</a>
+          <a href="https://github.com/Kuberwastaken">GitHub</a>
         </nav>
       </div>
+      <a class="vf-word" href={to("index")} aria-label={`${site.name} home`}>
+        GTA VI <span>Wire</span>
+      </a>
       <p class="vf-legal">
-        © {year} {site.name}, by <a href="https://kuber.studio/">Kuber Mehta</a>. An independent fan reference, not
-        affiliated with Rockstar Games or Take-Two Interactive. Grand Theft Auto and GTA are trademarks of Take-Two
-        Interactive Software, Inc.
+        © {year} {site.name}. Independent fan reference, not affiliated with Rockstar Games or Take-Two Interactive.
+        Grand Theft Auto and GTA are trademarks of Take-Two Interactive Software, Inc.
       </p>
     </footer>
   )

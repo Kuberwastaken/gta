@@ -17,8 +17,8 @@ const config: QuartzConfig = {
       // Self-host fonts: no third-party connection on the critical path.
       cdnCaching: false,
       typography: {
-        header: { name: "Anton", weights: [400] },
-        body: { name: "Manrope", weights: [400, 500, 600, 700] },
+        header: { name: "Big Shoulders Display", weights: [700, 800, 900] },
+        body: { name: "Jost", weights: [400, 500, 600] },
         code: { name: "JetBrains Mono", weights: [400, 500] },
       },
       colors: {
