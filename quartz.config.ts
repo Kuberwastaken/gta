@@ -18,8 +18,8 @@ const config: QuartzConfig = {
       cdnCaching: false,
       typography: {
         header: { name: "Anton", weights: [400] },
-        body: { name: "Geist", weights: [400, 500, 600] },
-        code: { name: "Geist Mono", weights: [400, 500] },
+        body: { name: "Manrope", weights: [400, 500, 600, 700] },
+        code: { name: "JetBrains Mono", weights: [400, 500] },
       },
       colors: {
         lightMode: {
@@ -34,11 +34,11 @@ const config: QuartzConfig = {
           textHighlight: "#ff9a3c55",
         },
         darkMode: {
-          light: "#0e0818",
-          lightgray: "#2a1f3a",
-          gray: "#8c7fa3",
-          darkgray: "#bdb2cf",
-          dark: "#f7f0ff",
+          light: "#000000",
+          lightgray: "#1c1c1f",
+          gray: "#85858d",
+          darkgray: "#b4b4bb",
+          dark: "#f5f5f7",
           secondary: "#ff4d8d",
           tertiary: "#ff9a3c",
           highlight: "rgba(255, 77, 141, 0.08)",

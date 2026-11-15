@@ -8,26 +8,25 @@
    Craft passes after unslop by Damir Sokolovsky (@heydamir), CC BY 4.0. */
 
 :root {
-  --bg-0: #0a0612;
-  --bg: #0e0818;
-  --card: #160e23;
-  --raised: #20162f;
-  --text-1: #f7f0ff;
-  --text-2: #bdb2cf;
-  --text-3: #8c7fa3;
-  --hair: rgba(247, 240, 255, 0.09);
-  --hair-2: rgba(247, 240, 255, 0.14);
+  /* AMOLED black, neutral greys, sunset highlights */
+  --bg-0: #000000;
+  --bg: #000000;
+  --card: rgba(255, 255, 255, 0.04);
+  --raised: rgba(255, 255, 255, 0.07);
+  --text-1: #f5f5f7;
+  --text-2: #b4b4bb;
+  --text-3: #85858d;
+  --hair: rgba(255, 255, 255, 0.09);
+  --hair-2: rgba(255, 255, 255, 0.14);
   --pink: #ff4d8d;
   --orange: #ff9a3c;
   --sea: #4fd8d0;
-  --on-accent: #12081c;
+  --on-accent: #0a0008;
   --mono: var(--codeFont);
   --display: var(--headerFont);
   --ease: cubic-bezier(0.22, 1, 0.36, 1);
   --sunset: linear-gradient(90deg, var(--pink), var(--orange));
-  --glow-top:
-    radial-gradient(1100px 460px at 55% -220px, rgba(255, 138, 61, 0.2), transparent 70%),
-    radial-gradient(800px 380px at 92% -160px, rgba(255, 77, 141, 0.18), transparent 70%);
+  --glow-top: none;
   --ascii-grad: linear-gradient(
     180deg,
     #7a5cff 0%,
@@ -42,15 +41,15 @@
     #1b4f63 100%
   );
   --g-confirmed: #4fd8d0;
-  --g-reported: #bdb2cf;
+  --g-reported: #b4b4bb;
   --g-rumour: #ff9a3c;
   --g-speculation: #b48cff;
   --g-debunked: #ff5a6e;
   --g-mixed: #e3a6cf;
-  --glass-tint: rgba(247, 240, 255, 0.06);
-  --glass-rim: rgba(255, 255, 255, 0.32);
-  --glass-edge: rgba(247, 240, 255, 0.14);
-  --glass-shadow: 0 18px 50px -18px rgba(5, 0, 12, 0.8);
+  --glass-tint: rgba(255, 255, 255, 0.045);
+  --glass-rim: rgba(255, 255, 255, 0.28);
+  --glass-edge: rgba(255, 255, 255, 0.11);
+  --glass-shadow: 0 20px 50px -24px rgba(0, 0, 0, 0.9);
 }
 
 :root[saved-theme="light"] {
@@ -87,8 +86,7 @@ html {
   scroll-padding-top: 24px;
 }
 body {
-  background: var(--glow-top), var(--bg);
-  background-repeat: no-repeat;
+  background: #000;
   color: var(--text-2);
   font-size: 15px;
   -webkit-font-smoothing: antialiased;
@@ -568,7 +566,8 @@ article tr:last-child td {
 /* ───────────── Home hero: headline, then the panorama ───────────── */
 .hero {
   container-type: inline-size;
-  margin-bottom: 48px;
+  margin-bottom: 32px;
+  overflow: hidden;
 }
 .hero-stage {
   position: relative;
@@ -640,9 +639,8 @@ article tr:last-child td {
 }
 .hero pre.ascii-scene {
   position: relative;
-  z-index: -1;
-  /* the top rows are open sky: let them sit behind the buttons */
-  margin-top: calc(100cqw / 168 / 0.6 * -9);
+  /* the first rows are open sky: crop them */
+  margin-top: calc(100cqw / 168 / 0.6 * -8);
   font-size: calc(100cqw / 168 / 0.6);
   filter: drop-shadow(0 0 18px rgba(255, 77, 141, 0.25));
 }
@@ -675,6 +673,7 @@ article tr:last-child td {
   align-items: baseline;
   justify-content: space-between;
   margin-bottom: 16px;
+  h1,
   h2 {
     margin: 0;
     font-family: var(--display);
@@ -1315,5 +1314,139 @@ footer:not(.vfooter) {
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
+  }
+}
+
+
+/* ───────────── AMOLED black + sunset highlights the glass picks up ───────────── */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(640px 420px at 88% -6%, rgba(255, 77, 141, 0.22), transparent 70%),
+    radial-gradient(560px 380px at 62% -12%, rgba(255, 154, 60, 0.16), transparent 70%),
+    radial-gradient(520px 520px at -8% 104%, rgba(122, 92, 255, 0.14), transparent 70%),
+    radial-gradient(420px 360px at 100% 100%, rgba(79, 216, 208, 0.08), transparent 70%);
+}
+:root[saved-theme="light"] body {
+  background: var(--bg);
+}
+:root[saved-theme="light"] body::before {
+  opacity: 0.6;
+}
+
+/* Liquid-glass surfaces: every box is frosted glass over the highlights */
+@mixin glass-surface {
+  background: var(--glass-tint) !important;
+  border: 1px solid var(--glass-edge) !important;
+  box-shadow:
+    inset 1px 1px 0 0 var(--glass-rim),
+    inset -1px -1px 0 0 rgba(255, 255, 255, 0.04),
+    var(--glass-shadow);
+  -webkit-backdrop-filter: blur(18px) saturate(1.6);
+  backdrop-filter: blur(18px) saturate(1.6);
+}
+.panel,
+.post,
+.prevnext a,
+.page-listing li.section-li,
+article .table-container,
+.page-footer .graph > .graph-outer,
+.page-header .graph > .graph-outer {
+  @include glass-surface;
+}
+.post-lead {
+  background:
+    linear-gradient(135deg, rgba(255, 77, 141, 0.14), rgba(255, 154, 60, 0.06) 55%, transparent),
+    var(--glass-tint) !important;
+}
+.search > .search-button,
+.hero-quick a,
+.btn-secondary {
+  @include glass-surface;
+  box-shadow: inset 1px 1px 0 0 var(--glass-rim) !important;
+}
+.btn-primary {
+  box-shadow:
+    inset 1px 1px 0 0 rgba(255, 255, 255, 0.45),
+    0 10px 30px -10px rgba(255, 77, 141, 0.6);
+}
+article th {
+  background: rgba(255, 255, 255, 0.05) !important;
+}
+
+/* Countdown: a glass pill pinned top right */
+.cd-wrap.compact {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  z-index: 40;
+  padding: 0;
+  border: 0;
+  background: none;
+  overflow: visible;
+  container-type: normal;
+  .countdown {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 8px 16px;
+    border-radius: 999px;
+  }
+  .cd-label {
+    font-size: 12px;
+  }
+  .cd-grid {
+    display: flex;
+    gap: 10px;
+    margin: 0;
+    span {
+      flex-direction: row;
+      align-items: baseline;
+      gap: 2px;
+    }
+    b {
+      font-size: 20px;
+    }
+    i {
+      font-size: 11px;
+    }
+  }
+  .cd-date {
+    display: none;
+  }
+}
+@media all and ($mobile) {
+  .cd-wrap.compact {
+    position: static;
+    .countdown {
+      justify-content: space-between;
+    }
+  }
+}
+
+/* Tighter sidebar */
+.page {
+  max-width: 1400px;
+}
+.page > #quartz-body .sidebar.left {
+  padding: 24px 8px 24px 24px !important;
+}
+.page > #quartz-body .page-header {
+  margin-top: 72px !important;
+}
+.page > #quartz-body .center {
+  padding-right: 24px;
+}
+
+.page > #quartz-body .sidebar.left {
+  overflow-y: auto !important;
+  overscroll-behavior: contain;
+  .explorer {
+    overflow: visible !important;
+    flex: 0 0 auto !important;
   }
 }

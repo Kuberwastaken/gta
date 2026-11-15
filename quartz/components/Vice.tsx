@@ -4,7 +4,7 @@ import { canonicalUrl, pageDates, pageKind, SECTIONS, sectionOf, site, STATUS, S
 import { getFaq, getSources, breadcrumbs } from "../util/jsonld"
 import { inlineMd } from "../util/inlineMd"
 import { byWeight, fm, href, realPages, relatedPages, sectionPages, title } from "../util/pages"
-import { BANNERS, GLASS_MAP, HERO_ASCII, HERO_COLS } from "./ascii.generated"
+import { BANNERS, GLASS_MAP, HERO_ASCII } from "./ascii.generated"
 import readingTime from "reading-time"
 // @ts-ignore
 import countdownScript from "./scripts/countdown.inline"
@@ -64,21 +64,10 @@ export const SideBrand: QuartzComponent = ({ fileData }: QuartzComponentProps) =
   )
 }
 
-/* The sun from the hero, cropped, so the glass countdown has something to refract. */
-const MINI_ASCII = HERO_ASCII.split("\n")
-  .slice(10, 42)
-  .map((l) => l.padEnd(HERO_COLS).slice(58, 138))
-  .join("\n")
-
 /* ───────────── Countdown (liquid glass) ───────────── */
 function CountdownInner({ compact }: { compact?: boolean }) {
   return (
     <div class={`cd-wrap ${compact ? "compact" : ""}`}>
-      {compact && (
-        <pre class="ascii ascii-scene cd-ascii" aria-hidden="true">
-          {MINI_ASCII}
-        </pre>
-      )}
       <CountdownCard compact={compact} />
     </div>
   )
@@ -117,36 +106,11 @@ export const Countdown: QuartzComponentConstructor<{ compact?: boolean } | undef
 /* ───────────── Home hero: the ASCII sunset is the one bright element ───────────── */
 export const HomeHero: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   if (fileData.slug !== "index") return null
-  const slug = fileData.slug as FullSlug
-  const quick = (fm(fileData).quick ?? []) as { q: string; to: string }[]
   return (
-    <section class="hero" aria-labelledby="hero-h">
-      <div class="hero-stage">
-        <pre class="ascii ascii-scene" aria-hidden="true" data-ascii="scene">
-          {HERO_ASCII}
-        </pre>
-        <div class="hero-shade" aria-hidden="true" />
-        <div class="hero-copy">
-          <h1 id="hero-h" class="hero-title">Every GTA 6 fact, graded and sourced</h1>
-          <p class="hero-sub">{String(fm(fileData).heroSub ?? site.tagline)}</p>
-          <div class="hero-cta">
-            <a class="btn btn-primary" href={resolveRelative(slug, "release/gta-6-release-time-by-country" as FullSlug)}>
-              Release time in your country
-            </a>
-            <a class="btn btn-secondary" href={resolveRelative(slug, "graph" as FullSlug)}>
-              Open the topic graph
-            </a>
-          </div>
-        </div>
-      </div>
-      {quick.length > 0 && (
-        <nav class="hero-quick" aria-label="Most searched">
-          <span class="hq-k">Most searched</span>
-          {quick.map((x) => (
-            <a href={resolveRelative(slug, x.to as FullSlug)}>{x.q}</a>
-          ))}
-        </nav>
-      )}
+    <section class="hero" aria-label="Vice City at sunset, drawn in ASCII">
+      <pre class="ascii ascii-scene" aria-hidden="true" data-ascii="scene">
+        {HERO_ASCII}
+      </pre>
     </section>
   )
 }
@@ -228,7 +192,7 @@ export const HomeLatest: QuartzComponent = ({ fileData, allFiles }: QuartzCompon
   return (
     <section class="latest" aria-labelledby="latest-h">
       <div class="latest-head">
-        <h2 id="latest-h">Latest</h2>
+        <h1 id="latest-h">Latest on GTA 6</h1>
         <a href="/index.xml">RSS</a>
       </div>
       {lead && card(lead, true)}
