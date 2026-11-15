@@ -470,7 +470,7 @@ export const ViceFooter: QuartzComponent = ({ fileData }: QuartzComponentProps) 
     <footer class="vfooter">
       <div class="vf-top">
         <p class="vf-line">
-          Sourced, graded GTA 6 coverage from Vice City to the Keys. Written by{" "}
+          Sourced, graded GTA 6 coverage from Vice City to the Keys. Orchestrated by{" "}
           <a href="https://kuber.studio/">Kuber Mehta</a>.
         </p>
         <a class="vf-up" href="#">
@@ -500,10 +500,12 @@ export const ViceFooter: QuartzComponent = ({ fileData }: QuartzComponentProps) 
           <a href="https://x.com/Kuberwastaken">X</a>
           <a href="https://github.com/Kuberwastaken">GitHub</a>
         </nav>
-      </div>
-      <a class="vf-word" href={to("index")} aria-label={`${site.name} home`}>
-        GTA VI <span>Wire</span>
+            <a class="vf-word" href={to("index")} aria-label={`${site.name} home`}>
+        <span class="w1">GTA VI</span>
+        <span class="w2">Wire</span>
       </a>
+      </div>
+
       <p class="vf-legal">
         © {year} {site.name}. Independent fan reference, not affiliated with Rockstar Games or Take-Two Interactive.
         Grand Theft Auto and GTA are trademarks of Take-Two Interactive Software, Inc.

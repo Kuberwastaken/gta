@@ -1548,3 +1548,43 @@ article th {
 .vfooter {
   margin-top: 64px !important;
 }
+
+/* footer: wordmark sits to the right of the link columns */
+.vfooter .vf-cols {
+  grid-template-columns: repeat(3, minmax(0, 170px)) minmax(0, 1fr) !important;
+  align-items: end;
+  @media all and ($mobile) {
+    grid-template-columns: 1fr 1fr !important;
+  }
+}
+.vfooter .vf-word {
+  margin: 0 !important;
+  justify-self: end;
+  display: flex !important;
+  flex-direction: column;
+  align-items: flex-end;
+  font-size: clamp(56px, 8.5vw, 132px) !important;
+  line-height: 0.82 !important;
+  -webkit-text-stroke: 0 !important;
+  color: var(--text-1) !important;
+  .w1 {
+    color: var(--text-1);
+  }
+  .w2 {
+    background: var(--sunset);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  @media all and ($mobile) {
+    grid-column: 1 / -1;
+    justify-self: start;
+    align-items: flex-start;
+  }
+}
+.vfooter .vf-cols {
+  align-items: start !important;
+}
+.vfooter .vf-word {
+  align-self: end;
+}
