@@ -1,5 +1,5 @@
 ---
-title: "Ambrosia in GTA 6: sugar country, bikers and Lake Leonida"
+title: "Ambrosia in GTA 6: sugar refinery, biker gang and Lake Leonida"
 seoTitle: "Ambrosia in GTA 6: Sugar Refinery, Bikers and Real Location"
 shortTitle: "Ambrosia"
 description: "Ambrosia is GTA 6's inland sugar town, run by the Allied Crystal refinery and a biker gang. Its real match (Clewiston, Lake Okeechobee) and the county question."
@@ -9,7 +9,7 @@ updated: 2026-11-15
 verified: 2026-11-15
 weight: 9
 tags: ["ambrosia", "world", "real-life-locations"]
-tldr: "**Ambrosia is GTA 6's inland sugar country** \"in the heart of Leonida\", where the **Allied Crystal sugar refinery** provides the jobs and a local biker gang \"provides almost everything else\". Outlets match it to **Clewiston on Lake Okeechobee**."
+tldr: "**Ambrosia is GTA 6's company town** \"in the heart of Leonida,\" where the Allied Crystal sugar refinery provides the jobs and a local biker gang \"provides almost everything else.\" Outlets match it to Clewiston and the Lake Okeechobee sugar belt."
 facts:
   - k: "Location"
     v: "Central Leonida"
@@ -25,13 +25,13 @@ facts:
     v: "Unconfirmed"
 faq:
   - q: "What is Ambrosia in GTA 6?"
-    a: "One of Leonida's six official regions, an inland industrial town where, Rockstar says, the Allied Crystal sugar refinery provides the jobs and the local biker gang provides almost everything else."
+    a: "One of Leonida's six official regions, an inland industrial town where, in Rockstar's words, 'American industry and old school values still reign supreme - whatever the cost.'"
   - q: "What real place is Ambrosia based on?"
-    a: "GTABase and GTA BOOM match it to Clewiston and the Lake Okeechobee sugar country, nicknamed 'America's Sweetest Town.' Neither outlet cites Lakeland. Rockstar has not stated a match."
+    a: "Clewiston, Florida, 'America's Sweetest Town,' and the sugar country around Lake Okeechobee, per GTABase and GTA BOOM. Lakeland, a common fan guess, is not cited by either."
   - q: "Is there an Ambrosia County in GTA 6?"
-    a: "Unclear. Some earlier coverage referred to an 'Ambrosia County', but the leaked map's five counties don't include one. Rockstar calls Ambrosia a destination, not a county."
+    a: "Probably not under that name. Earlier coverage used 'Ambrosia County,' but the five counties on the CyberLeek leaked map are Lummox, Kelly, Leonard, Vice-Dale and Mariana. Rockstar names no counties."
   - q: "Where is Lake Leonida?"
-    a: "Rockstar names Lake Leonida as the home of One-Eyed Willie's off-road mod shop. Outlets read it as the game's Lake Okeechobee, which places it in Ambrosia's sugar country."
+    a: "Rockstar puts One-Eyed Willie's off-road mod shop there. Outlets read Lake Leonida as the game's Lake Okeechobee, which would place it in Ambrosia's sugar country."
 sources:
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
@@ -62,43 +62,37 @@ sources:
 related: ["world/leonida-regions", "world/gta-6-leaked-map-and-counties", "world/gta-6-real-life-locations"]
 ---
 
-**Ambrosia** is the industrial heartland of GTA 6's Leonida: a sugar town where one refinery employs everyone and a biker gang runs the rest. Outlets match it to **Clewiston and the Lake Okeechobee sugar country**, and it's one of Rockstar's [[world/leonida-regions|six official regions]].
+Ambrosia is GTA 6's company town. Rockstar's full description: "In the heart of Leonida, American industry and old school values still reign supreme - whatever the cost. The Allied Crystal sugar refinery provides the jobs, while the local biker gang provides almost everything else" <span class="tag-confirmed">confirmed</span>.
 
-Rockstar's description: "In the heart of Leonida, American industry and old school values still reign supreme - whatever the cost. The Allied Crystal sugar refinery provides the jobs, while the local biker gang provides almost everything else" <span class="tag-confirmed">confirmed</span>.
+That makes it the only one of the [[world/leonida-regions|six official regions]] defined by a single employer and a single gang. It sits inland, away from the beaches that sell Vice City and the Keys.
 
 ## What real place is Ambrosia based on?
 
-Clewiston, Florida, known as "America's Sweetest Town", and the sugar-growing country around Lake Okeechobee, according to GTABase and GTA BOOM <span class="tag-reported">reported</span>. In this reading, the game's **Lake Leonida** is Lake Okeechobee.
-
-Some fan lists put Lakeland forward instead. Neither of the outlets we checked cites it. As always, Rockstar blends and compresses, and hasn't confirmed any of these matches. The full table is on [[world/gta-6-real-life-locations|GTA 6 real-life locations]].
+Clewiston, Florida, nicknamed "America's Sweetest Town," and the sugar-growing country around Lake Okeechobee, according to GTABase and GTA BOOM <span class="tag-reported">reported</span>. In that reading, the game's Lake Leonida is Lake Okeechobee. Lakeland turns up in fan lists, but neither outlet cites it. Rockstar hasn't confirmed any match; the full table is on [[world/gta-6-real-life-locations|GTA 6 real-life locations]].
 
 ## What places are in Ambrosia?
 
 | Place | What it is | Grade |
 | --- | --- | --- |
-| Allied Crystal sugar refinery | The town's main employer, named in Rockstar's region copy | <span class="tag-confirmed">confirmed</span> |
-| Lake Leonida | Home of One-Eyed Willie's off-road mod shop, per Rockstar's edition pages | <span class="tag-confirmed">confirmed</span> |
+| Allied Crystal sugar refinery | The town's employer, named in Rockstar's region copy | <span class="tag-confirmed">confirmed</span> |
+| Lake Leonida | Named on Rockstar's edition pages | <span class="tag-confirmed">confirmed</span> |
 | One-Eyed Willie's | Off-road mod shop at Lake Leonida | <span class="tag-confirmed">confirmed</span> |
 | Lake Leonida as part of Ambrosia | Press reading via the Lake Okeechobee match | <span class="tag-reported">reported</span> |
 
-"Ambrosia" also appears on photos of the official Collector's Box map poster <span class="tag-reported">reported</span>.
+Insider Gaming's compiled location list includes both the Allied Crystal Sugar Refinery and Lake Leonida, and "Ambrosia" is one of the names read off photos of the official Collector's Box map poster in November <span class="tag-reported">reported</span>. Rockstar has named no streets or other businesses.
 
 ## Who runs Ambrosia?
 
-Per Rockstar, "the local biker gang" <span class="tag-confirmed">confirmed</span>. The gang hasn't been named, and none of the eight official character bios is tied to Ambrosia. Whether Jason and Lucia cross paths with the bikers is unannounced. See [[characters/index|all characters]].
-
-Rockstar's "old school values... whatever the cost" framing points to small-town power, company-town economics and violence under the surface <span class="tag-speculation">speculation</span>.
+"The local biker gang," per Rockstar <span class="tag-confirmed">confirmed</span>. It has no name, logo or leader on record, and none of Rockstar's official character bios is set in Ambrosia. Whether [[characters/jason-duval|Jason]] and Lucia work with or against the bikers is unannounced; the full cast is on [[characters/index|all characters]].
 
 ## Is there an Ambrosia County?
 
-This is one of the open contradictions in Leonida's geography. Earlier coverage referred to an "**Ambrosia County**". The CyberLeek leaked map, though, shows five counties (Lummox, Kelly, Leonard, Vice-Dale and Mariana) and none is called Ambrosia <span class="tag-rumour">rumour</span>.
+This is one of Leonida's open contradictions. Earlier coverage referred to an "Ambrosia County." The CyberLeek leaked map from August 2026 shows five counties, Lummox (north), Kelly (west), Leonard (east), Vice-Dale (around Vice City) and Mariana (south and wetlands), and none is Ambrosia <span class="tag-rumour">rumour</span>.
 
-Possible explanations: the earlier label was simply wrong, the leaked build predates a renaming, or Ambrosia is a town inside one of those counties <span class="tag-speculation">speculation</span>. Rockstar only ever calls it a destination. The leak evidence is weighed on [[world/gta-6-leaked-map-and-counties|the leaked map and counties]].
+GTABase suggests the leaked build may date from 2023, so names could have changed since. Rockstar has only ever called Ambrosia a destination, never a county. The leak evidence is weighed on [[world/gta-6-leaked-map-and-counties|the leaked map and counties]].
 
 ## What can you do around Ambrosia?
 
-One-Eyed Willie's suggests off-road vehicle modding near the lake <span class="tag-confirmed">confirmed</span>. The previews add hunting, fishing and off-roading as activities across the state <span class="tag-reported">reported</span>. Vehicle customization and the named off-roaders, like the '67 Vapid Dominator Buggy, are on [[gameplay/gta-6-vehicles|GTA 6 vehicles]]. Leonida's freshwater wildlife, including alligators, is on [[world/gta-6-wildlife-and-animals|wildlife and animals]].
+One-Eyed Willie's points to off-road modding by the lake <span class="tag-confirmed">confirmed</span>. Rockstar's edition pages name one off-road car, the '67 Vapid Dominator Buggy, billed as a "Mud Club monster" <span class="tag-confirmed">confirmed</span>; see [[gameplay/gta-6-vehicles|GTA 6 vehicles]]. Hunting and fishing are reported activities statewide <span class="tag-reported">reported</span>, and Leonida's animals, from alligators to feral cats, are on [[world/gta-6-wildlife-and-animals|wildlife and animals]].
 
-## What hasn't been shown
-
-No footage has been labeled as Ambrosia, the biker gang has no name or logo, and the refinery's role in the story is unknown. More regions are on the [[world/index|world hub]].
+Rockstar has shown no footage labeled as Ambrosia and has not said what role the refinery plays in the story. The other regions are on the [[world/index|world hub]].

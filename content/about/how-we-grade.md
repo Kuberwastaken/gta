@@ -2,7 +2,7 @@
 title: "How we grade GTA 6 news and leaks: confirmed, reported, rumour and more"
 seoTitle: "How We Grade GTA 6 Leaks and News: Our Rating System"
 shortTitle: "How we grade"
-description: "Every GTA 6 claim on GTA VI Wire is graded confirmed, reported, rumour, speculation or debunked. Here is what each grade means, how sources rank and how grades change."
+description: "Every GTA 6 claim on GTA VI Wire is graded confirmed, reported, rumour, speculation or debunked. What each grade means, how sources rank and how grades change."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
@@ -59,10 +59,18 @@ sources:
     url: "https://www.videogameschronicle.com/news/rockstar-confirms-gta-6-targets-30-fps-with-ps5-pro-exclusive-ray-tracing/"
     publisher: "VGC"
     date: "Nov 2026"
+  - title: "GTA 6 Extended Look: Everything we learned"
+    url: "https://www.redbull.com/int-en/gta-6-extended-look-everything-revealed"
+    publisher: "Red Bull"
+    date: "Aug 28, 2026"
+  - title: "GTA 6: Famitsu's Full Rob Nelson Interview Translated Into English"
+    url: "https://www.gtavice.net/news/gta-6-famitsus-full-rob-nelson-interview-translated-into-english"
+    publisher: "GTAVice.net"
+    date: "Sep 9, 2026"
 related: ["leaks/index", "about/corrections", "leaks/gta-6-actor-identifications"]
 ---
 
-Every factual claim on GTA VI Wire carries one of five grades, and every page carries a page-level status. **Confirmed means first-party. Reported means credible press. Rumour means unproven.** Speculation is our own inference, and debunked means shown false. Nothing here is presented as fact unless the people who make, publish, sell or rate the game have said it.
+Every factual claim on GTA VI Wire carries one of five grades, and every page carries a page-level status. **Confirmed means first-party. Reported means credible press. Rumour means unproven.** Speculation is our own inference; debunked means shown false. A claim is stated as fact only if Rockstar, Take-Two, a platform holder or a ratings board has said it.
 
 ## What do the grades mean?
 
@@ -94,7 +102,7 @@ A named Rockstar developer in an interview, like Rob Nelson of Rockstar North, c
 
 ## How do grades change over time?
 
-Grades are not permanent. Here are real cases from across the site:
+Grades move with evidence. Four cases from the site:
 
 - **Female lead (reported to confirmed).** Bloomberg reported in July 2022 that the game would star a Latina woman in a Bonnie and Clyde-style duo ([GamesRadar+ summary](https://www.gamesradar.com/gta-6-to-feature-series-first-female-protagonist-as-rockstar-overhauls-workplace-culture)). It stayed <span class="tag-reported">reported</span> until Trailer 1 showed Lucia in December 2023. See [[characters/gta-6-first-female-protagonist|the first female protagonist]].
 - **Hurricanes (rumour to confirmed).** Storms were a fan rumour for years. On September 29, 2026 Rockstar told [Game Informer](https://gameinformer.com/exclusive/2026/09/29/exclusive-grand-theft-auto-vi-features-tropical-storms-and-hurricanes) the game has tropical storms and seasonal hurricanes. See [[world/gta-6-weather-and-hurricanes|weather and hurricanes]].
@@ -103,7 +111,7 @@ Grades are not permanent. Here are real cases from across the site:
 
 ## What stays reported or rumour?
 
-Some claims sit in the middle, and we say so plainly:
+Three claims still sit in the middle:
 
 - **PC in Q1 2027.** GamesBeat cited four unnamed sources in October 2026 ([via PCWorld](https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html)). Credible outlet, no Rockstar comment: <span class="tag-reported">reported</span>. PC at launch is <span class="tag-debunked">debunked</span>. See [[leaks/gta-6-pc-at-launch-rumour|PC at launch]].
 - **Actor IDs.** Manni L. Perez as Lucia and Dylan Rourke as Jason are fan identifications: <span class="tag-rumour">rumour</span>. Stephen Root told AP he is in the game, so his part is <span class="tag-reported">reported</span>, but Rockstar has not credited him as Brian Heder. See [[leaks/gta-6-actor-identifications|actor identifications]].
@@ -111,6 +119,8 @@ Some claims sit in the middle, and we say so plainly:
 
 ## How do you handle contradictions?
 
-When sources disagree, we show both versions, say which one we trust and why. The pre-load date is a good example: older coverage said November 12, but Rockstar's November 3 Newswire moved it to November 10. We go with the newer first-party post and note the stale one.
+When sources disagree, we show both versions and say which one we trust and why. Pre-load: older coverage said November 12, Rockstar's November 3 Newswire said November 10. We go with the newer first-party post and note the stale one. Character switching: Red Bull reported you can swap between Jason and Lucia "at any time", while Rob Nelson told Famitsu switching is restricted by story progression. The developer on the record wins; see [[gameplay/gta-6-character-switching|character switching]].
 
-If a claim is debunked, we keep it on the [[leaks/index|leaks ledger]] with the date it was settled. Rumours that turned out wrong are part of the record. Factual errors in our own writing are a different thing, and they go on the [[about/corrections|corrections page]].
+If a claim is debunked, we keep it on the [[leaks/index|leaks ledger]] with the date it was settled. Rumours that turned out wrong stay part of the record. Our own factual errors go on the [[about/corrections|corrections page]].
+
+More on the site and its sourcing rules: [[about/index|About GTA VI Wire]].

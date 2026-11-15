@@ -1,15 +1,15 @@
 ---
-title: "The GTA 6 2022 leak: what happened, the hacker and the court case"
+title: "GTA 6 2022 leak: the 90-clip hack, Arion Kurtaj and the 2026 retrial"
 seoTitle: "GTA 6 2022 Leak: What Happened and the Arion Kurtaj Case"
 shortTitle: "The 2022 leak"
-description: "In Sept 2022 a hacker leaked 90+ early GTA 6 clips. Rockstar confirmed it, Arion Kurtaj got a hospital order, and a retrial was listed for Nov 9, 2026."
+description: "A hacker leaked 90+ early GTA 6 clips on Sept 18, 2022. Rockstar put the cost at $5M; Arion Kurtaj got a hospital order and faces a Nov 9, 2026 retrial."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 3
 tags: ["timeline", "leaks", "rockstar"]
-tldr: "On **September 18, 2022**, a hacker posted **90+ clips** (about 50 minutes) of early-development GTA 6 footage. Rockstar confirmed a 'network intrusion' the next day and said it expected no long-term effect on development. The hacker, **Arion Kurtaj** of Lapsus$, received an indefinite hospital order in December 2023. A retrial was listed for **November 9, 2026**, with no outcome reported as of November 15. Other leaks are on [[leaks/index|the leaks ledger]]."
+tldr: "On **September 18, 2022**, a hacker posted **90+ clips** (about 50 minutes) of early-development GTA 6 footage; Rockstar confirmed the breach a day later. **Arion Kurtaj** of Lapsus$ got an indefinite hospital order in December 2023, and his retrial was listed for **November 9, 2026**, with no outcome reported by Nov 15. Later leaks are on [[leaks/index|the leaks ledger]]."
 facts:
   - k: "Leak date"
     v: "September 18, 2022"
@@ -72,33 +72,31 @@ sources:
 related: ["leaks/gta-6-cyberleek-2026-leaks", "timeline/gta-6-delays", "timeline/gta-6-development-history"]
 ---
 
-On **September 18, 2022**, a hacker posted more than **90 videos**, about 50 minutes in all, of early-development GTA 6 footage on GTAForums. Rockstar confirmed the breach the next day. The hacker, **Arion Kurtaj** of the Lapsus$ group, was 17 when arrested. He received an indefinite hospital order in December 2023, and a retrial was listed for **November 9, 2026** <span class="tag-reported">reported</span>. No outcome had been reported as of November 15, 2026.
+On **September 18, 2022**, a user calling themselves "teapotuberhacker" posted more than **90 clips**, about 50 minutes in all, of early-development GTA 6 footage on GTAForums. Rockstar confirmed the breach the next day. The hacker, **Arion Kurtaj** of the Lapsus$ group, was 17 when arrested, received an indefinite hospital order in December 2023, and had a retrial listed for **November 9, 2026** <span class="tag-reported">reported</span>. No outcome had been reported as of November 15, 2026.
 
-This page covers what happened and the legal case. We do not link to, host or describe the leaked footage in detail. It showed an unfinished build from years before release.
+We do not link to, host or describe the footage. It showed an unfinished build from more than a year before the first trailer.
 
 ## What happened in the GTA 6 leak?
 
 ### September 18, 2022: the footage goes up
 
-A user calling themselves "teapotuberhacker" posted 90+ clips to GTAForums and claimed to have source code too. The same actor claimed responsibility for a breach at Uber around the same time <span class="tag-confirmed">confirmed</span>. Take-Two began issuing takedown requests to get the videos removed.
+teapotuberhacker posted the clips to GTAForums and claimed to hold source code as well. The same actor claimed the breach at Uber that month <span class="tag-confirmed">confirmed</span>. Take-Two started issuing takedown requests.
 
 ### September 19, 2022: Rockstar confirms it
 
-Rockstar's statement said an "unauthorized third party illegally accessed and downloaded confidential information from our systems, including early development footage for the next Grand Theft Auto". Rockstar said it was "extremely disappointed" and did "not anticipate any long-term effect on our development timelines" <span class="tag-confirmed">confirmed</span>.
+Rockstar said an "unauthorized third party illegally accessed and downloaded confidential information from our systems, including early development footage for the next Grand Theft Auto". It was "extremely disappointed" and did "not anticipate any long-term effect on our development timelines" <span class="tag-confirmed">confirmed</span>.
 
-That was the first official acknowledgment that the footage was real. It also mattered because it came seven months after Rockstar first confirmed, on February 4, 2022, that development was "well underway".
+That was the first time Rockstar acknowledged the footage was real. Its only earlier word on the game was the February 4, 2022 Newswire line that development was "well underway". Trailer 1 would not arrive until December 2023, 14 months later.
 
 ### September 22, 2022: the arrest
 
-City of London Police arrested a 17-year-old in Oxfordshire. He was later named as Arion Kurtaj <span class="tag-confirmed">confirmed</span>.
+City of London Police arrested a 17-year-old in Oxfordshire, later named as Arion Kurtaj <span class="tag-confirmed">confirmed</span>.
 
 ## Who is Arion Kurtaj?
 
-Kurtaj was a teenage member of **Lapsus$**, a hacking group behind a string of high-profile corporate breaches. The 2023 jury findings covered 12 offenses across several companies, including Uber, Nvidia and BT/EE as well as Rockstar <span class="tag-confirmed">confirmed</span>. That is why the Rockstar hack was tried alongside the others, and why the same person claimed the Uber breach around the time the GTA footage appeared.
+A teenage member of **Lapsus$**. The August 2023 jury findings covered 12 offenses, among them the hacks of Rockstar, Uber, Nvidia and BT/EE <span class="tag-confirmed">confirmed</span>. The Rockstar hack was one count among the 12, tried together.
 
-## What did the 2022 leak reveal, and what did it get right?
-
-We do not detail the footage. What we can say is how the main claims of the time held up:
+## Which 2022 claims held up?
 
 | Claim in 2022 | Outcome | Grade |
 | --- | --- | --- |
@@ -120,21 +118,21 @@ We do not detail the footage. What we can say is how the main claims of the time
 | Oct 9, 2026 | Retrial listed for Nov 9, 2026 at Woolwich Crown Court | <span class="tag-reported">reported</span> |
 | Nov 9, 2026 | Retrial scheduled to open; no outcome reported as of Nov 15 | <span class="tag-reported">reported</span> |
 
-### The 2023 hospital order
+### The December 2023 hospital order
 
-Kurtaj was 18 by the time of sentencing on December 21, 2023. The judge cited his continued intent to commit cybercrime. Rockstar told the court the hack cost it about **$5 million**, per Wikipedia <span class="tag-confirmed">confirmed</span>. An indefinite hospital order means he could be held in a secure hospital with no fixed end date.
+Kurtaj was 18 at sentencing. The judge cited his continued intent to commit cybercrime, and the order has no fixed end date. Rockstar told the court the hack cost it about **$5 million**, per Wikipedia <span class="tag-confirmed">confirmed</span>.
 
 ### Why there is a retrial in 2026
 
-Because he was found unfit to stand trial in 2023, the jury decided only whether he did the acts, not whether he was guilty. In July 2026, BBC cyber correspondent Joe Tidy reported that Kurtaj had been assessed fit to plead and moved to a "normal prison" to await a retrial, as relayed by IGN. Game Rant later reported, citing a Red Lion Chambers LinkedIn post, that the retrial was listed for November 9, 2026 at Woolwich Crown Court. We will update this page when an outcome is reported.
+Because he was unfit to stand trial in 2023, the jury ruled only on whether he did the acts, not on guilt. In July 2026 the BBC's cyber correspondent Joe Tidy reported, as relayed by IGN, that Kurtaj had been assessed fit to plead and moved to a "normal prison". Game Rant then reported, citing a Red Lion Chambers LinkedIn post, that the retrial was listed for November 9 at Woolwich Crown Court. We will add the outcome when it is reported.
 
 ## Did the 2022 leak delay GTA 6?
 
-Rockstar said no at the time. The game was later [[timeline/gta-6-delays|delayed twice]], first in May 2025 and again in November 2025, and both times Rockstar cited quality and polish. Neither statement mentioned the hack. So the 2022 claim that the leak "would delay GTA 6" is graded false as stated <span class="tag-debunked">debunked</span>. Whether the breach had any quieter effect on Rockstar's schedule is unknown.
+Rockstar said no at the time. The game was later [[timeline/gta-6-delays|delayed twice]], in May 2025 and November 2025, and both statements cited quality and polish without mentioning the hack. The 2022 prediction that the leak "would delay GTA 6" is graded false as stated <span class="tag-debunked">debunked</span>. Whether the breach cost Rockstar time it never disclosed is unknown.
 
 ## What changed at Rockstar after the leak?
 
-Rockstar has not tied any policy to the hack directly. In February 2024 it ordered staff back to the office five days a week from April, "for productivity and security", per Wikipedia citing IGN and Bloomberg <span class="tag-reported">reported</span>. Security came up again in the October 2025 firings, when Rockstar accused staff of leaking confidential information on Discord; see [[timeline/rockstar-uk-firings-and-union|the UK firings]]. More on the studio side in [[timeline/gta-6-development-history|development history]].
+Rockstar has not tied any policy to the hack. In February 2024 it ordered staff back to the office five days a week from April, "for productivity and security", per Wikipedia citing IGN and Bloomberg <span class="tag-reported">reported</span>. Leaks came up again in October 2025, when Rockstar fired 31 UK staff for allegedly sharing confidential information on Discord; see [[timeline/rockstar-uk-firings-and-union|the UK firings]]. Studio background is on [[timeline/gta-6-development-history|development history]].
 
 ## How the 2022 leak compares with later GTA 6 leaks
 
@@ -145,4 +143,4 @@ Rockstar has not tied any policy to the hack directly. In February 2024 it order
 | CyberLeek | Aug-Oct 2026 | Gameplay clips, a map image, a 24-minute video | Rockstar called it "heartbreaking" |
 | Collector's Box map | Nov 12-14, 2026 | A photo of the boxed paper map | No statement reported |
 
-The 2026 leaks are covered on [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek]] and [[news/2026-11-14-collectors-box-map-leak|the map leak]]. The [[media/gta-6-trailer-1|Trailer 1]] page covers the 2023 early release. Everything is in order on the [[timeline/index|GTA 6 timeline]].
+The 2026 leaks are on [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek]] and [[news/2026-11-14-collectors-box-map-leak|the map leak]]; the early trailer release is on [[media/gta-6-trailer-1|Trailer 1]]. Every date is on the [[timeline/index|GTA 6 timeline]].

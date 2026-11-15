@@ -2,38 +2,38 @@
 title: "GTA 6 on Xbox Series S, Xbox One and Xbox Cloud Gaming"
 seoTitle: "GTA 6 Xbox Series S and Cloud Gaming: Xbox One, Game Pass"
 shortTitle: "Series S and cloud gaming"
-description: "GTA 6 runs natively on Xbox Series S at 30 fps and streams to Xbox One via Xbox Cloud Gaming from 1 AM ET Nov 19. It is not on Game Pass and not on PC cloud."
+description: "GTA 6 runs natively on Series S at 30 fps and streams to Xbox One via Xbox Cloud Gaming from 1 AM ET Nov 19. You must buy it: no Game Pass, no PC cloud."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 9
 tags: ["release", "xbox", "platforms", "performance"]
-tldr: "GTA 6 runs **natively on Xbox Series S** at the same 30 fps target as Series X. **Xbox One owners can play via Xbox Cloud Gaming** from **1 AM ET on Nov 19**, but you must **buy the game**: it is not in Game Pass, and there is no PC or browser cloud streaming at launch."
+tldr: "GTA 6 runs **natively on Xbox Series S** at the same 30 fps target as Series X. Xbox One owners can stream it through **Xbox Cloud Gaming from 1 AM ET on Nov 19**, an hour after the native US unlock, but only if they buy the game. It is not in Game Pass, and PC or browser streaming is not available at launch."
 facts:
   - k: "Series S"
     v: "Native, 30 fps target"
   - k: "Xbox One"
-    v: "Cloud only"
+    v: "Cloud only, Series S settings"
   - k: "Cloud start"
     v: "1 AM ET, Nov 19, 2026"
   - k: "Game Pass"
-    v: "No, must buy"
+    v: "No, must buy ($79.99 / $99.99)"
+  - k: "Cloud without Game Pass"
+    v: "Playtime purchasable from Nov 11"
   - k: "PC/browser cloud"
     v: "No, not at launch"
-  - k: "Cloud quality"
-    v: "Series S settings"
 faq:
   - q: "Can I play GTA 6 on Xbox One?"
-    a: "Only through Xbox Cloud Gaming, from 1 AM ET on Nov 19, 2026. You must own the game; there is no native Xbox One version."
+    a: "Only through Xbox Cloud Gaming, from 1 AM ET on Nov 19, 2026, at Series S settings. You must own the game; there is no native Xbox One version."
   - q: "Is GTA 6 on Game Pass?"
-    a: "No. You have to buy GTA 6 to play it, including over Xbox Cloud Gaming. From Nov 11, cloud playtime can be bought without Game Pass in supported markets."
-  - q: "Does GTA 6 run on Xbox Series S?"
-    a: "Yes, natively, at the same 30 fps target as other consoles. Microsoft has not disclosed the Series S resolution."
+    a: "No. You buy it like any other game. Since Nov 11, Xbox has sold cloud playtime without a Game Pass subscription in supported markets, so owning the game plus playtime is enough to stream."
+  - q: "What time can I stream GTA 6 on the West Coast?"
+    a: "10 PM PT on Wednesday, Nov 18, which is 1 AM ET. Native consoles on the West Coast unlock an hour earlier, at 9 PM PT."
   - q: "Can I stream GTA 6 on PC through Xbox Cloud?"
-    a: "No. There is no PC or browser cloud streaming for GTA 6 at launch, reportedly confirmed by Xbox's Matthew Ball."
+    a: "No. Dexerto reports that Xbox's Matthew Ball confirmed there is no PC or browser streaming at launch."
   - q: "Can I play GTA 6 on PS4?"
-    a: "No. There is no PS4 version and no PlayStation cloud option. GTA 6 is PS5 and Xbox Series X|S only, with Xbox One via cloud."
+    a: "No. There is no PS4 version and no PlayStation cloud option. PS5 owners can only stream from their own console via Remote Play."
 sources:
   - title: "Grand Theft Auto VI Comes to Xbox One and Xbox Series X|S Through Xbox Cloud Gaming on November 19"
     url: "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
@@ -54,36 +54,46 @@ sources:
     url: "https://www.rockstargames.com/VI"
     publisher: "Rockstar Games"
     tier: "primary"
+  - title: "GTA 6 pre-orders break $1 billion with 10 million sales, analyst firm estimates"
+    url: "https://www.tweaktown.com/news/114626/gta-6-pre-orders-break-dollars1-billion-with-10-million-sales-analyst-firm-estimates/index.html"
+    publisher: "TweakTown"
+  - title: "Grand Theft Auto 6 is 'the most pre-ordered' game of all time on both Xbox and PlayStation"
+    url: "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation/"
+    publisher: "PC Gamer"
+    date: "Nov 2026"
+  - title: "GTA 6 Price UK, Europe, Canada & Australia: £69.99, €79.99, C$109.99 (28 Stores)"
+    url: "https://timesaver.gg/blog/gta-6-price-uk-europe-canada-australia"
+    publisher: "Timesaver.gg"
+    date: "Oct 22, 2026"
+  - title: "GTA 6 news today"
+    url: "https://gta6times.com/news"
+    publisher: "gta6times"
 related: ["release/gta-6-ps5-pro-performance", "release/gta-6-release-time-by-country", "guides/gta-6-storage-space-guide", "release/gta-6-pc-release-date"]
 ---
 
-**Yes, GTA 6 runs natively on Xbox Series S.** Xbox Wire calls it "the most affordable way to play natively", and it gets the same **30 fps target** as every other console. <span class="tag-confirmed">confirmed</span>
+GTA 6 runs natively on Xbox Series S at the same 30 fps target as Series X and PS5. Xbox Wire calls the Series S "the most affordable way to play natively". <span class="tag-confirmed">confirmed</span>
 
-**Xbox One owners can play too, but only through Xbox Cloud Gaming**, starting **1 AM ET on Nov 19, 2026**. You still have to buy the game. It is **not in Game Pass**. <span class="tag-confirmed">confirmed</span> (Microsoft)
+Xbox One owners can play through Xbox Cloud Gaming from 1 AM ET on Nov 19, 2026. The stream runs at Series S settings, and you still have to buy the game: it is not in Game Pass. <span class="tag-confirmed">confirmed</span> (Microsoft)
 
-## GTA 6 on Xbox: what runs where
+## What runs where
 
 | Device | How | Notes |
 | --- | --- | --- |
 | Xbox Series X | Native | 30 fps target |
 | Xbox Series S | Native | 30 fps target; resolution not disclosed |
-| Xbox One | Xbox Cloud Gaming only | Streams at Series S settings; from 1 AM ET Nov 19 |
-| PC / browser | **Not supported at launch** | No cloud streaming to PC |
-| PS4 | **Not supported** | No version, no cloud option |
+| Xbox One | Xbox Cloud Gaming only | Series S settings; from 1 AM ET Nov 19 |
+| PC / browser | Not at launch | No cloud streaming to PC |
+| PS4 | Not supported | No version, no cloud option |
 
-## What resolution does GTA 6 run at on Series S?
-
-Neither Rockstar nor Microsoft has said. Numbers such as "720p–900p" are guesses. <span class="tag-rumour">rumour</span> Rockstar has not given resolutions for **any** console, including the [[release/gta-6-ps5-pro-performance|PS5 Pro]].
+Neither Rockstar nor Microsoft has given a Series S resolution, and the "720p–900p" figures online are guesses. <span class="tag-rumour">rumour</span> Rockstar has published resolutions for no console, the [[release/gta-6-ps5-pro-performance|PS5 Pro]] included.
 
 ## Will GTA 6 fit on a 512 GB Series S?
 
-It should, but barely. The worldwide Xbox package is **225,336,918,016 bytes**: 225.34 GB as the store displays it, about **209.86 GB** as the console counts it. <span class="tag-reported">reported</span> Rockstar's own requirement is "up to 212 GB" free. The Series S's usable space after system files is well under its 512 GB label, so expect to uninstall most other games. <span class="tag-speculation">speculation</span>
-
-Our [[guides/gta-6-storage-space-guide|storage space guide]] has the full breakdown and the expansion-card question. The Japan package is about 1.2 GB smaller.
+Yes, with little room left over. The console reports the download as about 209.86 GB (the store shows 225.34 GB for the same file), and Rockstar asks for up to 212 GB free. <span class="tag-reported">reported</span> The Series S has well under 512 GB usable after system files, so plan to uninstall most other games. <span class="tag-speculation">speculation</span> The unit math and the expansion question are in the [[guides/gta-6-storage-space-guide|storage space guide]].
 
 ## When does GTA 6 start on Xbox Cloud Gaming?
 
-**1 AM ET on Nov 19**, per Xbox Wire. That is **one hour after** the native US console unlock at midnight ET. <span class="tag-confirmed">confirmed</span>
+At 1 AM ET on Nov 19, per Xbox Wire, one hour after the native US unlock at midnight ET. <span class="tag-confirmed">confirmed</span>
 
 | US time zone | Native console | Xbox Cloud |
 | --- | --- | --- |
@@ -92,32 +102,26 @@ Our [[guides/gta-6-storage-space-guide|storage space guide]] has the full breakd
 | Mountain | 10 PM Wed | 11 PM Wed |
 | Pacific | 9 PM Wed | 10 PM Wed |
 
-Microsoft gave only the Eastern time. We do not know whether other countries get cloud access at their own local midnight or at the same moment (06:00 UTC). <span class="tag-speculation">speculation</span> Native unlock times for every region are on [[release/gta-6-release-time-by-country|release time by country]].
+Microsoft gave only the Eastern time. Whether other countries stream at their own store midnight or at the same moment (06:00 UTC) is unknown. <span class="tag-speculation">speculation</span> Native unlock times by region are on [[release/gta-6-release-time-by-country|release time by country]].
 
-## Do I need Game Pass to stream GTA 6?
+## Do I need Game Pass to stream it?
 
-You need to **own the game**. GTA VI is not part of Game Pass. Xbox Wire also says that, **from Nov 11, cloud playtime can be bought without a Game Pass subscription** in supported markets. <span class="tag-confirmed">confirmed</span> Xbox Wire did not give that playtime pricing in the material we have.
+No, you need to own the game. From Nov 11, Xbox sells cloud playtime without a Game Pass subscription in supported markets; Xbox Wire gave no playtime pricing. <span class="tag-confirmed">confirmed</span> GTA V and Red Dead Redemption 2 come to cloud "in the coming months", the same post says.
 
-Xbox Wire adds that **GTA V and Red Dead Redemption 2** will come to cloud "in the coming months". <span class="tag-confirmed">confirmed</span>
+## Can I stream to PC, a phone or a browser?
 
-## Can I stream GTA 6 to PC, a phone or a browser?
+Not at launch. Dexerto reports that Xbox's Matthew Ball confirmed no PC or browser streaming, and the fan aggregator gta6times reported the same on Oct 7. <span class="tag-reported">reported</span> There is no native PC build either; GamesBeat's Q1 2027 report is covered on [[release/gta-6-pc-release-date|GTA 6 PC release date]]. Anything selling a "GTA 6 PC download" is a scam.
 
-**Not at launch.** There is no PC or browser cloud streaming for GTA 6, reportedly confirmed by Xbox's Matthew Ball, per Dexerto. A fan aggregator had reported the same on Oct 7. <span class="tag-reported">reported</span>
+## Buying on Xbox
 
-That closes the "play GTA 6 on PC via the cloud" loophole for now. There is no native PC version either; see [[release/gta-6-pc-release-date|GTA 6 PC release date]]. Anything offering a "GTA 6 PC download" is a scam.
+Xbox pricing matches PlayStation in every market but one: Mexico, where Xbox charges MX$1,499 against MX$1,292.24 on PS Store. <span class="tag-reported">reported</span> The Xbox store shows the Ultimate upgrade price up front ($20 / £20 / €20), while PlayStation hides it until you own the game. Xbox codes in the box are not region-locked, per Rockstar; PS codes are. Full price table: [[release/gta-6-price-and-editions|price and editions]].
+
+Microsoft calls GTA VI "the most pre-ordered title of all time on the Microsoft Store". <span class="tag-confirmed">confirmed</span> Sensor Tower's Nov 11 estimate puts Xbox at about 2.58M of 10.31M pre-orders (about $250M), roughly a quarter of the total. <span class="tag-reported">reported</span> (estimate)
 
 ## Can I play GTA 6 on PS4?
 
-No. GTA 6 is not on PS4, and Sony has announced no cloud streaming option. Rockstar's site lists PS5 and Xbox Series X|S, and says it "Plays Best On PS5". <span class="tag-confirmed">confirmed</span> PS5 owners can use **Remote Play** to stream from their own console, for example to a PlayStation Portal. <span class="tag-reported">reported</span>
-
-## Is Series S a good way to play?
-
-It is the cheapest native option, and you get the full single-player game with the same content as every other version. Expect lower image quality than Series X or PS5 Pro, though no one has measured it yet. The cloud version runs at Series S settings, so Xbox One players get roughly the Series S experience, subject to their internet connection. <span class="tag-speculation">speculation</span>
+No. Rockstar lists PS5 and Xbox Series X|S only, and Sony has no cloud option for it. PS5 owners can stream from their own console with Remote Play, for example to a PlayStation Portal. <span class="tag-reported">reported</span>
 
 ## What we're watching
 
-- Measured Series S resolution after the reported [[release/gta-6-reviews-and-review-embargo|review embargo]].
-- Cloud start times outside the US.
-- Whether PC cloud streaming arrives later.
-
-Back to the [[release/index|release hub]] or the [[guides/gta-6-faq|GTA 6 FAQ]]. Curious what you are streaming? Start with [[world/vice-city|Vice City]].
+A measured Series S resolution after the reported [[release/gta-6-reviews-and-review-embargo|Nov 18 review embargo]], and cloud start times outside the US. Everything else launch-related is on the [[release/index|release hub]]; if you're streaming in, the map starts in [[world/vice-city|Vice City]].

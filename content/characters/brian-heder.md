@@ -1,15 +1,15 @@
 ---
-title: "Brian Heder: GTA 6's Keys smuggler and Jason's landlord"
+title: "Brian Heder in GTA 6: the Keys smuggler who is Jason's landlord"
 seoTitle: "Brian Heder GTA 6: Who He Is and Is Stephen Root Brian?"
 shortTitle: "Brian Heder"
-description: "Brian Heder is a veteran Keys drug runner who lets Jason live rent-free. Stephen Root says he's in GTA 6, but Rockstar hasn't credited him as Brian."
+description: "Brian Heder is GTA 6's veteran Keys drug runner who lets Jason live rent-free for shakedowns. Stephen Root says he's in the game; Rockstar hasn't credited him."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 20
 tags: ["characters", "jason", "leonida-keys", "cast"]
-tldr: "Brian Heder is an old-school drug runner from the **golden age of smuggling in the Keys**, still moving product through his boat yard with his third wife, Lori. He lets **Jason live rent-free** in exchange for help with shakedowns. **Stephen Root** says he is in GTA 6; the Brian link comes from press, not from Root or Rockstar."
+tldr: "Brian Heder is a drug runner from **the golden age of smuggling in the Keys**, still moving product through his boat yard with his third wife, Lori. He lets **Jason live rent-free** in exchange for help with shakedowns. **Stephen Root** told AP he is in GTA 6; the link to Brian comes from press, not from Root or Rockstar."
 facts:
   - k: "Role"
     v: "Veteran drug runner, Jason's landlord"
@@ -18,20 +18,20 @@ facts:
   - k: "Family"
     v: "Third wife, Lori"
   - k: "First seen"
-    v: "Trailer 2 (May 2025)"
+    v: "Trailer 2 (May 6, 2025)"
   - k: "Extended Look"
-    v: "Gives the pair a job over dinner"
+    v: "Gives the pair a job over dinner (reported)"
   - k: "Actor"
     v: "Stephen Root (reported; not credited)"
 faq:
   - q: "Who is Brian Heder in GTA 6?"
-    a: "A veteran drug runner from the golden age of smuggling in the Keys. He still moves product through his boat yard with his third wife, Lori, and lets Jason live rent-free at one of his properties."
+    a: "A veteran drug runner from the golden age of smuggling in the Keys. He moves product through his boat yard with his third wife, Lori, and lets Jason live rent-free at one of his properties."
   - q: "Is Stephen Root in GTA 6?"
-    a: "Yes, by his own account. He told AP 'Yeah, you're gonna see me in there.' In the quotes we have seen he does not name Brian Heder, and Rockstar has not credited him."
+    a: "Yes, by his own account: he told AP 'Yeah, you're gonna see me in there.' In the quotes we have seen he doesn't name Brian Heder, and Rockstar hasn't credited him."
   - q: "What does Jason do for Brian?"
-    a: "Rockstar's bio says Jason lives rent-free at one of Brian's properties as long as he helps with local shakedowns and stops by for Lori's sangria."
+    a: "He helps with local shakedowns and stops by for Lori's sangria. In return he lives rent-free at one of Brian's properties."
   - q: "Who is Lori in GTA 6?"
-    a: "Brian's third wife, named in his official bio. She helps run the boat yard but has no profile of her own."
+    a: "Brian's third wife, named in his official bio as moving product through the boat yard with him. She has no profile of her own."
 sources:
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
@@ -57,63 +57,44 @@ sources:
 related: ["characters/jason-duval", "characters/cal-hampton", "world/leonida-keys"]
 ---
 
-Brian Heder is the old smuggler at the center of [[characters/jason-duval|Jason Duval]]'s life in the [[world/leonida-keys|Leonida Keys]]. He is Jason's landlord, his employer and, judging by the Extended Look, something like a reluctant mentor.
+Brian Heder is the old smuggler at the center of [[characters/jason-duval|Jason Duval]]'s life in the [[world/leonida-keys|Leonida Keys]]: his landlord, his employer and, in the Extended Look, the man telling him to get out while he can. He also has the strongest actor link in the game. Stephen Root has said on the record that he is in GTA 6, and press tie him to Brian.
 
-He is also the character with the strongest actor link in the game: Stephen Root has said he is in GTA 6, and press widely tie him to Brian.
+## What Rockstar says about Brian
 
-## Who is Brian Heder?
+The Only in Leonida bio calls him "a classic drug runner from the golden age of smuggling in the Keys." He is "still moving product through his boat yard with his third wife, Lori," and has "been around long enough to let others do his dirty work."
 
-Rockstar's Only in Leonida bio calls him "a classic drug runner from the golden age of smuggling in the Keys." He still moves product through his boat yard with his third wife, Lori, and he has been in the business long enough to let others do his dirty work.
+Jason is one of those others. Brian lets him live rent-free at one of his properties "so long as he helps with local shakedowns, and stops by for Lori's sangria once in a while." [[characters/cal-hampton|Cal Hampton]]'s bio names Cal as another of Brian's associates, so Brian is the hub of Jason's Keys circle. Lori has no profile of her own.
 
-That "others" includes Jason. Rockstar says Brian lets Jason live rent-free at one of his properties, "so long as he helps with local shakedowns, and stops by for Lori's sangria once in a while."
+His pull quotes:
 
-What the bio establishes:
-
-- **Business:** drug smuggling, run out of a boat yard in the Keys.
-- **Family:** Lori, his third wife, who helps run the operation. She has no profile of her own.
-- **Crew:** Cal's bio describes [[characters/cal-hampton|Cal Hampton]] as another of Brian's associates, alongside Jason.
-- **Style:** Rockstar's pull quotes paint a laid-back beach bum with a dangerous edge, and a past hauling grass by plane.
-
-## What does Brian do in the Extended Look?
-
-In the [[media/gta-6-extended-look|Extended Look]] (August 27, 2026), Brian gives Jason and [[characters/lucia-caminos|Lucia]] a job over dinner. He also warns Jason not to sink deeper into the underworld. <span class="tag-reported">reported</span> (Wikipedia's Extended Look summary)
-
-That warning is interesting coming from a man who lets Jason pay rent in shakedowns. It fits Jason's own bio, which hints that he is ready for a change of career. <span class="tag-speculation">speculation</span>
-
-## Which trailers is Brian in?
+- "Nothing better than a Mudslide at sunset."
+- "I hauled so much grass in that plane, I could make the state of Leonida levitate."
+- "Looks like a Leonida beach bum - moves like a great white shark."
+## What has Brian done on screen?
 
 | Video | Date | Brian's appearance |
 | --- | --- | --- |
-| Trailer 2 | May 6, 2025 | Fans recognized Stephen Root's voice; Brian's bio published the same day |
-| An Extended Look | Aug 27, 2026 | Dinner scene, job offer, warning to Jason |
+| [[media/gta-6-trailer-2|Trailer 2]] | May 6, 2025 | Fans recognized Stephen Root's voice <span class="tag-reported">reported</span>; Brian's bio went up the same day |
+| [[media/gta-6-extended-look|An Extended Look]] | Aug 27, 2026 | Gives Jason and Lucia a job over dinner and warns Jason not to sink deeper into the underworld <span class="tag-reported">reported</span> |
 
-Rockstar has not described Brian's role in [[media/gta-6-trailer-2|Trailer 2]] itself. Fan recognition of Root's voice there is reported by Collider. <span class="tag-reported">reported</span>
+Both Extended Look details come from Wikipedia's summary of the video. Brian sends Jason and [[characters/lucia-caminos|Lucia]] on a job and warns Jason off the life in the same dinner scene. Jason's own bio says "it might be time to try something new," so the two pages point the same way. <span class="tag-speculation">speculation</span>
 
 ## Is Stephen Root Brian Heder?
 
-Probably, but it is not confirmed.
+Probably, but it isn't confirmed. Root, whom Collider's headline calls a "King of the Hill" star, told the Associated Press: "Yeah, you're gonna see me in there." Collider ran the story on September 20, 2026. <span class="tag-reported">reported</span>
 
-Root, known for King of the Hill, told the Associated Press: "Yeah, you're gonna see me in there." Collider ran the story on September 20, 2026. <span class="tag-reported">reported</span>
+In the quotes we have seen, Root never says "Brian Heder." Headlines and Wikipedia make that link, and Rockstar hasn't credited him. So Root is the closest thing GTA 6 has to a confirmed cast member, but the specific role is a press inference.
 
-**The caveat:** in the quotes we have seen, Root does not say "Brian Heder." Headlines and Wikipedia make that link, and Rockstar has not credited him. That makes Root the closest thing GTA 6 has to a confirmed cast member, but his specific role is a press inference.
-
-Rockstar has published no cast list. The full breakdown is on [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
+One more name hangs off this circle. Jim Santangeli, Simon Pearson in Red Dead Redemption 2, says he did a "little small bit" in GTA VI. His role is unknown. <span class="tag-reported">reported</span> The full graded list is on [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
 
 ## Where is Brian based?
 
-The Keys, Rockstar's version of the Florida Keys. Rockstar describes the archipelago as easygoing but right on the doorstep of "some of the most beautiful and dangerous waters in all of America," which suits a man moving product by boat. Brian's boat yard has not been placed on a map. See our [[world/leonida-keys|Leonida Keys]] guide and the [[world/gta-6-leaked-map-and-counties|leaked map]] for what is known about the region's layout.
+The Keys, Rockstar's version of the Florida Keys. Rockstar's region blurb calls the archipelago easygoing but "right on the doorstep of some of the most beautiful and dangerous waters in all of America." His boat yard hasn't been placed on any official map. For the region's layout, see the [[world/gta-6-leaked-map-and-counties|leaked map and counties]] page.
 
 ## Open questions
 
-- Where exactly is Brian's boat yard, and is it a mission hub?
-- Does Lori appear on screen? Rockstar has named her but shown nothing official of her.
-- Is Brian a long-term ally or a liability? His bio says he lets others do his dirty work.
-- Who is Jim Santangeli playing? The RDR2 actor says he has a "little small bit" in GTA VI, but his role is unknown. <span class="tag-reported">reported</span>
-
-## Related characters
-
-- [[characters/jason-duval|Jason Duval]]: lives at Brian's property and runs his shakedowns.
-- [[characters/cal-hampton|Cal Hampton]]: Jason's friend and another of Brian's associates.
-- [[characters/lucia-caminos|Lucia Caminos]]: joins Jason at Brian's dinner table in the Extended Look.
+- Where exactly is the boat yard, and is it a mission hub?
+- Does Lori appear on screen? Rockstar has named her and shown nothing.
+- Is Brian a long-term ally or a liability? His bio says he lets others take the risks.
 
 Back to [[characters/index|all GTA 6 characters]].

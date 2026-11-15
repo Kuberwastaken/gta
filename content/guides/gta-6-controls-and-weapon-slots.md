@@ -2,14 +2,14 @@
 title: "GTA 6 controls and weapon slots: loadout, aiming, Focus and switching"
 seoTitle: "GTA 6 Controls and Weapon Slots: Loadout, Aim and Focus"
 shortTitle: "Controls and weapon slots"
-description: "No weapon wheel: GTA 6 gives you two handguns and two long guns, with the rest in your car. What's known about aiming, Focus mode, switching and the phone."
+description: "No weapon wheel: GTA 6 gives you two handguns and two long guns, the rest stay in your car. Auto-aim is off by default. Rockstar hasn't published a button map."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 9
 tags: ["guides", "weapons", "gameplay", "beginner"]
-tldr: "Rockstar has **not published a control layout** for GTA VI. What previews report: the weapon wheel is replaced by a **loadout of two handguns and two long guns**, with extra guns stored **in your vehicle**; **auto-aim is off by default**; a slow-motion **Focus** mode highlights weak points; and you swap between Jason and Lucia via a **character wheel**, when the story allows."
+tldr: "Rockstar has **not published a control layout**. Previews report the weapon wheel is replaced by a **loadout of two handguns and two long guns**, extra guns ride in your vehicle, auto-aim is off by default, and a slow-motion Focus mode highlights weak points. Jason and Lucia swap via a character wheel when the story allows it."
 facts:
   - k: "Official control map"
     v: "Not published"
@@ -22,14 +22,14 @@ facts:
   - k: "Auto-aim"
     v: "Off by default (reported)"
   - k: "Livestream feed"
-    v: "R3 (reported)"
+    v: "R3 on PS5 (reported)"
 faq:
   - q: "Does GTA 6 have a weapon wheel?"
-    a: "Previews say no. It's replaced by a loadout of two handguns and two long guns, with only one long gun on your back and the rest stored in your vehicle."
+    a: "Previews say no. You carry two handguns and two long guns, one long gun visible on your back, and store the rest in your vehicle the way RDR2 used your horse."
   - q: "What are the GTA 6 controls?"
-    a: "Rockstar hasn't published a full control layout yet. We will add the official map after launch rather than guess button assignments."
+    a: "Rockstar hasn't published a button layout. The only reported binding is R3 for the optional livestream feed on PlayStation."
   - q: "Can you switch characters any time in GTA 6?"
-    a: "Not always. Rob Nelson of Rockstar North says switching is restricted depending on story progress; some missions allow free switching and some lock you to one character."
+    a: "No. Rob Nelson told Famitsu switching is 'restricted depending on the progression of the story'; some missions lock you to Jason or Lucia."
 sources:
   - title: "GTA 6 gameplay: Key details that you might have missed"
     url: "https://www.redbull.com/us-en/gta-6-gameplay-details"
@@ -65,68 +65,50 @@ sources:
 related: ["gameplay/gta-6-weapons", "gameplay/gta-6-character-switching", "guides/gta-6-tips-before-you-start"]
 ---
 
-**Rockstar has not published GTA VI's control layout**, so we are not going to guess which button does what. What previews and the Extended Look do tell us is how the systems work: the **weapon wheel is gone**, replaced by a **loadout of two handguns and two long guns**; extra guns live **in your vehicle**; **auto-aim is off by default**; and a slow-motion **Focus** mode helps you aim. Almost all of it is <span class="tag-reported">reported</span> from previews, not Rockstar's manual.
+Rockstar has not published GTA VI's control layout, and the only button anyone has reported is R3 for the livestream feed. What previews and the Extended Look do describe is how the systems behave: no weapon wheel, a loadout of two handguns and two long guns, the rest of your arsenal in the car, and auto-aim switched off by default. Nearly all of it is <span class="tag-reported">reported</span> from Red Bull, Engadget and Edge, not from a Rockstar manual.
 
-We will add the official control map after launch. For the wider first-hours primer, see [[guides/gta-6-tips-before-you-start|tips before you start]] and the [[guides/index|guides hub]].
+The full primer for your first hours is [[guides/gta-6-tips-before-you-start|tips before you start]]; other launch guides are in the [[guides/index|guides hub]].
 
 ## How many weapons can you carry?
 
 | Where | How many | Grade |
 | --- | --- | --- |
 | On your person: handguns | 2 | <span class="tag-reported">reported</span> |
-| On your person: long guns | 2, but only 1 visible on your back | <span class="tag-reported">reported</span> |
+| On your person: long guns | 2, only 1 visible on your back | <span class="tag-reported">reported</span> |
 | Vehicle storage | Everything else | <span class="tag-reported">reported</span> |
 
-Previews don't spell out how the second long gun is carried if only one sits on your back. We'll confirm on launch day.
+Everything beyond that loadout stays in your vehicle, the way RDR2 stored guns on your horse. Trunks also hold outfits, and people <span class="tag-reported">reported</span>. Previews don't explain where the second long gun goes if only one sits on your back.
 
-The rule, per Red Bull, Engadget and Edge: you carry **two handguns and two long guns**, and only **one long gun goes on your back**. The rest stay in your vehicle, the way RDR2 stored guns on your horse. Trunks also hold outfits, and even people <span class="tag-reported">reported</span>.
+In practice, pick your loadout at the car before a job. If a robbery spills into a street fight two blocks away, the rifle in the trunk is two blocks away too.
 
-The practical upshot: **choose your loadout before you leave the car.** If a job turns into a firefight across the block, you can't pull a rocket launcher out of thin air.
-
-### Does carrying a gun get you arrested?
-
-No, not by itself. A visibly carried weapon changes how NPCs react, but it doesn't automatically draw police <span class="tag-reported">reported</span>. Police respond to witnesses, alarms and trackers. See [[gameplay/gta-6-wanted-system-and-heat|wanted system and heat]].
+A visibly carried weapon changes how NPCs react but doesn't by itself bring police <span class="tag-reported">reported</span>. Police respond to witnesses, alarms and stolen-car trackers, so a witness who sees you draw can still call it in. See [[gameplay/gta-6-wanted-system-and-heat|wanted system and heat]].
 
 ## Which guns are confirmed?
 
-Rockstar's own edition pages name <span class="tag-confirmed">confirmed</span>:
-
-- Jason's **Girardi ES9** pistol
-- Lucia's **Klose K17** pistol
-- The **Hawk & Little Morgan** revolvers, "sourced from the Vercetti Estate" (Ultimate Edition)
-- A tropical weapon pattern inspired by Tommy Vercetti's palm-tree shirt (Vintage Vice City Pack)
-
-The **Duke 556** assault rifle appears in the Extended Look <span class="tag-reported">reported</span>. Full list: [[gameplay/gta-6-weapons|weapons]].
+Rockstar's edition pages name four <span class="tag-confirmed">confirmed</span>: Jason's Girardi ES9 pistol, Lucia's Klose K17 pistol, the Hawk & Little Morgan revolvers "sourced from the Vercetti Estate" (Ultimate Edition), and a tropical weapon pattern based on Tommy Vercetti's palm-tree shirt (Vintage Vice City Pack). The Duke 556 assault rifle appears in the Extended Look <span class="tag-reported">reported</span>. Everything else is on [[gameplay/gta-6-weapons|weapons]].
 
 ## How does aiming work?
 
-- **Auto-aim is off by default** <span class="tag-reported">reported</span>. If you play with lock-on, switch it on in settings before your first mission.
-- **Recoil and weapon weight are heavier** than GTA V <span class="tag-reported">reported</span>.
-- **Focus** is a slow-motion state that highlights weak points. The Extended Look showed Jason using it; whether Lucia has it too is unclear <span class="tag-reported">reported</span>.
-- **Vitals targeting** lets you disarm someone without killing them <span class="tag-reported">reported</span>.
-- **Police cars can be looted** for weapons and gear <span class="tag-reported">reported</span>.
+Auto-aim is off by default <span class="tag-reported">reported</span>. If you rely on lock-on, turn it on in settings before the first mission, not mid-shootout. Recoil and weapon weight are heavier than in GTA V.
 
-On PS5, the DualSense adds haptic feedback, per Rockstar's platform notes as reported. Rockstar hasn't detailed adaptive-trigger behaviour per weapon. See [[release/gta-6-ps5-pro-performance|PS5 and PS5 Pro features]].
+Focus is a slow-motion state that highlights an enemy's weak points. The Extended Look showed Jason using it; nobody has shown Lucia doing the same. Vitals targeting lets you disarm someone without killing them, and police cars can be looted for weapons and gear <span class="tag-reported">reported</span>.
+
+On PS5 the DualSense adds haptic feedback, per Rockstar's platform notes as reported. Rockstar hasn't described per-weapon adaptive-trigger behavior. See [[release/gta-6-ps5-pro-performance|PS5 and PS5 Pro features]].
 
 ## How do you switch between Jason and Lucia?
 
-The Extended Look showed a **character wheel** swap mid-drive <span class="tag-reported">reported</span>. Dazed, after a Rockstar briefing, describes driving as Jason and swapping to Lucia in the passenger seat, or swapping mid-chase between driving and shooting <span class="tag-confirmed">confirmed</span>.
+The Extended Look showed a character-wheel swap mid-drive <span class="tag-reported">reported</span>. Dazed, after a Rockstar briefing, describes driving as Jason and swapping to Lucia in the passenger seat to shoot during a chase <span class="tag-confirmed">confirmed</span>.
 
-But it is **not always available**. Rob Nelson told Famitsu: "There are times when it's restricted depending on the progression of the story." Some missions allow free switching and some lock you to one character. Red Bull's line that you can switch "at any time" contradicts Nelson, and we go with Nelson. See [[gameplay/gta-6-character-switching|character switching]] and our profiles of [[characters/jason-duval|Jason]] and [[characters/lucia-caminos|Lucia]].
+It isn't always available. Rob Nelson told Famitsu: "There are times when it's restricted depending on the progression of the story." Red Bull wrote that you can switch "at any time". Nelson co-runs the studio making the game, so we go with him. More on [[gameplay/gta-6-character-switching|character switching]] and the profiles of [[characters/jason-duval|Jason]] and [[characters/lucia-caminos|Lucia]].
 
-## What about the phone?
+## What does the phone handle?
 
-The phone is the hub for banking (BuckMe), car checks (Waink), rides (RydeMe), vehicle delivery (Scooter Bros) and the Snapmatic social feed <span class="tag-reported">reported</span>. An optional **livestream feed opens with R3** on PlayStation, read by fans as a Lifeinvader nod <span class="tag-reported">reported</span>. The Xbox equivalent would presumably be the right stick click, but nobody has said so <span class="tag-speculation">speculation</span>. See [[gameplay/gta-6-phone-and-social-media|phone and social media]].
+Banking (BuckMe), car scans (Waink), ride-hailing (RydeMe), vehicle delivery (Scooter Bros) and the Snapmatic social feed <span class="tag-reported">reported</span>. An optional livestream feed opens with R3 on PlayStation, which fans read as a Lifeinvader nod <span class="tag-reported">reported</span>. Nobody has named the Xbox equivalent; the right-stick click is our guess <span class="tag-speculation">speculation</span>. See [[gameplay/gta-6-phone-and-social-media|phone and social media]].
 
-## Driving controls
+## How does driving feel?
 
-Rockstar says handling blends GTA IV's weight with GTA V's accessibility <span class="tag-reported">reported</span>. You refuel by holding a button at the pump for about 10 seconds, and stealing cars can involve quick-time events for hijacks <span class="tag-reported">reported</span>. Button assignments are not published. See [[gameplay/gta-6-vehicles|vehicles]].
+Rockstar says handling blends GTA IV's weight with GTA V's accessibility <span class="tag-reported">reported</span>. Refueling means holding a button at the pump for about 10 seconds, and some car thefts end in a quick-time hijack <span class="tag-reported">reported</span>. Theft tools and car security are on [[gameplay/gta-6-vehicles|vehicles]].
 
-## What we don't know yet
+## What's still unknown?
 
-- The default button layout on PS5 and Xbox
-- Whether controls can be fully remapped
-- Accessibility options beyond the auto-aim setting
-- Whether a classic weapon wheel can be turned on
-
-We will fill these in once the game unlocks on Nov 19. Quick answers on everything else: [[guides/gta-6-faq|GTA 6 FAQ]].
+Rockstar hasn't published the default PS5 or Xbox button layout, said whether controls can be fully remapped, listed accessibility options beyond auto-aim, or said whether a classic weapon wheel can be switched on. We will fill these in after the Nov 19 unlock. Short answers on everything else are in the [[guides/gta-6-faq|GTA 6 FAQ]].

@@ -56,17 +56,17 @@ sources:
 related: ["music/gta-6-justice-score", "music/gta-6-radio-stations", "music/gta-6-trailer-songs"]
 ---
 
-***Grand Theft Auto VI: The Album*** is a 34-track album of original songs made for the game. It releases **November 19, 2026**, the same day as GTA 6, through Atlantic Records. Rockstar has put out **10 singles** so far. The full tracklist has not been published by Rockstar; the version circulating since November 14 comes from leaked vinyl packaging <span class="tag-reported">reported</span>.
+*Grand Theft Auto VI: The Album* is 34 original songs recorded for the game, out November 19, 2026 through Atlantic Records, the same day as GTA 6. Rockstar has released 10 singles. The full tracklist in circulation since November 14 comes from leaked vinyl packaging, not from Rockstar <span class="tag-reported">reported</span>.
 
-Rockstar describes it as "34 original tracks that capture the electric energy of Grand Theft Auto VI's world of Vice City and Leonida". It is a different product from the game's radio, which mostly plays licensed catalog music (see [[music/gta-6-radio-stations|every radio station]]), and from the [[music/gta-6-justice-score|Justice score]], which arrives December 11.
+Rockstar pitches it as "34 original tracks that capture the electric energy of Grand Theft Auto VI's world of Vice City and Leonida". It is a separate product from the in-game radio, which mostly plays licensed catalog songs (see [[music/gta-6-radio-stations|every radio station]]), and from the [[music/gta-6-justice-score|Justice score]], due December 11.
 
 ## When was the GTA 6 album announced?
 
-Travis Scott posted Vice City-style artwork on Instagram on September 15, 2026, and other artists followed with similar teasers. Spotify-branded billboards appeared at the same time <span class="tag-reported">reported</span>. Rockstar formally announced the album on September 17 on Newswire and released six singles that day <span class="tag-confirmed">confirmed</span>.
+The rollout started on September 15, 2026, when Travis Scott posted Vice City-style artwork on Instagram; other artists followed, and Spotify-branded billboards went up the same week <span class="tag-reported">reported</span>. Rockstar announced the album on Newswire on September 17 and released six singles that day <span class="tag-confirmed">confirmed</span>. Two more came on October 8, the day the radio stations were revealed, then Justice on October 15 and Tove Lo on November 10.
 
 ## Every official single
 
-These ten are on Rockstar's music page, with release dates from Wikipedia's album article <span class="tag-confirmed">confirmed</span>.
+All ten are on Rockstar's music page <span class="tag-confirmed">confirmed</span>. Release dates come from Wikipedia's album article.
 
 | Single | Artist | Released |
 | --- | --- | --- |
@@ -81,11 +81,11 @@ These ten are on Rockstar's music page, with release dates from Wikipedia's albu
 | Flower in a Hurricane | Justice ft. Tame Impala, SZA and King Gizzard & The Lizard Wizard | Oct 15, 2026 |
 | Blood In Your Eyes | Tove Lo | Nov 10, 2026 |
 
-"Sexy Magic" is one track credited to four acts, not four separate songs. Some early lists split it up. "Flower in a Hurricane" debuted in the [[media/gta-6-launch-trailer|Launch Trailer]] and is also a single from the Justice score. "Blood In Your Eyes" dropped the day [[news/2026-11-10-gta-6-preload-live|pre-load went live]].
+"Sexy Magic" is one track credited to four acts; some early lists counted it as four songs. "Flower in a Hurricane" debuted in the [[media/gta-6-launch-trailer|Launch Trailer]] and doubles as a single from the Justice score. "Blood In Your Eyes" landed the day [[news/2026-11-10-gta-6-preload-live|pre-load went live]].
 
 ## What is the full GTA 6 album tracklist?
 
-On November 14, 2026, Billboard and IGN published a full 34-song tracklist drawn from leaked vinyl packaging, according to Wikipedia's album page, which uses it and calls the packaging "verified". We could not open either outlet's article directly. Rockstar has not confirmed it, so every non-single below is <span class="tag-reported">reported</span> until the album is out.
+Billboard and IGN published a 34-song list on November 14, 2026, taken from leaked vinyl packaging. Wikipedia's album page uses it and calls the packaging "verified". We could not open either outlet's article, and Rockstar has not confirmed the list, so every non-single below is <span class="tag-reported">reported</span> until release.
 
 | # | Track | Artist |
 | --- | --- | --- |
@@ -124,18 +124,16 @@ On November 14, 2026, Billboard and IGN published a full 34-song tracklist drawn
 | 33 | Stone Kold Krazy Luuv | Jesse Johnson and Dâm-Funk |
 | 34 | Overtown Lights | Stanley Clarke, Yussef Dayes and Robert Glasper |
 
-Wikipedia notes the order is the vinyl side order (four sides) and that digital platforms group the tracks together.
+The order follows the four vinyl sides, per Wikipedia; streaming services may sequence it differently.
 
-Lana Del Rey and Burna Boy appear both here and as radio hosts (Back Country Radio and AfroBank FM, per press). Morgan Wallen likewise has a single here and reportedly co-hosts Back Country Radio <span class="tag-reported">reported</span>.
+The other 24 tracks include songs by Playboi Carti, Dua Lipa, Jennie, Camila Cabello, Young Thug, Kali Uchis and Stanley Clarke with Yussef Dayes and Robert Glasper. Justice open the record with "Starting From Zero", featuring Michael McDonald. Three acts cross over into radio: Lana Del Rey and Morgan Wallen are reported hosts of Back Country Radio, and Burna Boy reportedly hosts AfroBank FM <span class="tag-reported">reported</span>.
 
 ## Is the GTA 6 soundtrack on vinyl and CD?
 
-Yes. Rockstar's page sells a standard vinyl, an exclusive vinyl and CD. Per Wikipedia, a limited liquid-filled vinyl sold out almost at once, with resale listings above $440 <span class="tag-reported">reported</span>. IGN, GameSpot and the BBC all pointed out the irony of a physical album for a game whose [[release/gta-6-physical-copy-no-disc|boxed edition has no disc]].
+Yes. Rockstar's page sells a standard vinyl, an exclusive vinyl and a CD. Wikipedia reports that a limited liquid-filled vinyl sold out almost immediately and resold for more than $440 <span class="tag-reported">reported</span>. IGN, GameSpot and the BBC all noted that the album gets physical formats while the game's [[release/gta-6-physical-copy-no-disc|boxed edition has no disc]], only a download code.
 
 ## Is there a GTA 6 concert?
 
-Yes. *Grand Theft Auto VI: The Festival* takes place on **November 21, 2026** at Mana Wynwood in Miami, presented by Rockstar and PlayStation <span class="tag-confirmed">confirmed</span>. Announced performers include Travis Scott, Cardi B, Metro Boomin and Justice, with tickets allocated by lottery. Per Wikipedia, Kodak Black, who is reported to appear in the game as an NPC, is also on the bill <span class="tag-reported">reported</span>. It sits on our [[timeline/index|GTA 6 timeline]] two days after launch.
+Yes. *Grand Theft Auto VI: The Festival* runs on November 21, 2026 at Mana Wynwood in Miami, presented by Rockstar and PlayStation <span class="tag-confirmed">confirmed</span>. Travis Scott, Cardi B, Metro Boomin and Justice are announced, and tickets are allocated by lottery. Wikipedia adds Kodak Black to the bill; he is reported to appear in the game as an NPC <span class="tag-reported">reported</span>. The festival is on the [[timeline/index|GTA 6 timeline]] two days after launch.
 
-## What is not known yet
-
-Rockstar has not said whether Album tracks play on specific radio stations, or which ones. It has not published songwriting credits beyond streaming metadata. See the [[music/index|music hub]] for how The Album, the score and the radio fit together.
+Rockstar has not said which Album tracks, if any, play on which radio stations, and it has published no songwriting credits beyond streaming metadata. The [[music/index|music hub]] shows how the Album, score and radio fit together.

@@ -33,7 +33,7 @@ faq:
   - q: "Is the Justice score the same as GTA 6: The Album?"
     a: "No. The Album is 34 original songs by many artists, out Nov 19. The Original Score is Justice's instrumental and adaptive music for the game, out Dec 11. 'Flower in a Hurricane' is on both."
   - q: "What is an adaptive score?"
-    a: "Music that changes with what the player is doing. Rockstar says Justice's compositions are dynamically tuned to the different ways players engage with the world."
+    a: "Music that changes with what the player is doing. Rockstar says the compositions are 'dynamically tuned' to how players engage with the world, but has not explained the triggers."
 sources:
   - title: "The Music of Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI/music"
@@ -56,20 +56,22 @@ sources:
     url: "https://gamerant.com/gta-6-trailer-3/"
     publisher: "Game Rant"
     date: "Oct 15, 2026"
+  - title: "Grand Theft Auto VI: The Festival to take place in Miami on November 21"
+    url: "https://gamesbeat.com/grand-theft-auto-vi-the-festival-to-take-place-in-miami-on-november-21/"
+    publisher: "GamesBeat"
+    date: "Nov 9, 2026"
 related: ["music/gta-6-soundtrack-album", "media/gta-6-launch-trailer", "music/gta-6-radio-stations"]
 ---
 
-GTA 6's original score is by **Justice**, the French electronic duo of Gaspard Augé and Xavier de Rosnay. The score album, *Grand Theft Auto VI: Original Score*, releases **December 11, 2026** on streaming, CD and vinyl. Rockstar says it holds **30 tracks plus digital bonus tracks** <span class="tag-confirmed">confirmed</span>. The music itself is in the game from launch on [[release/gta-6-release-date|November 19]].
+Justice, the French duo of Gaspard Augé and Xavier de Rosnay, wrote GTA 6's original score. The album, *Grand Theft Auto VI: Original Score*, comes out December 11, 2026 on streaming, CD and vinyl with 30 tracks plus digital bonus tracks, per Rockstar <span class="tag-confirmed">confirmed</span>. The score itself plays in the game from the [[release/gta-6-release-date|November 19 launch]]; only the album waits three weeks.
 
 ## When was Justice announced for GTA 6?
 
-On **October 15, 2026**, the same day as the [[media/gta-6-launch-trailer|Launch Trailer]]. That trailer premiered "Flower in a Hurricane", a Justice track featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard <span class="tag-confirmed">confirmed</span>. NME and Game Rant both covered the reveal that day.
+On October 15, 2026, with the [[media/gta-6-launch-trailer|Launch Trailer]], which premiered the Justice track "Flower in a Hurricane" featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard <span class="tag-confirmed">confirmed</span>. NME and Game Rant covered the reveal the same day. Two weeks later, on October 29, the score album was dated for December 11 and a second single, "Pusher" featuring Gesaffelstein, came out, per Wikipedia <span class="tag-reported">reported</span>. Rockstar's music page now lists both singles and the December date.
 
-On October 29, the full score album was announced for December 11, and a second single, "Pusher" featuring Gesaffelstein, was released, per Wikipedia <span class="tag-reported">reported</span>. Rockstar's music page now carries both singles and the December date.
+## What is an adaptive score?
 
-## What does Rockstar say about the score?
-
-Rockstar calls Justice "Grammy Award winners" and describes the work as an **adaptive score** "featuring expansive compositions all dynamically tuned to the different ways players engage with the world" <span class="tag-confirmed">confirmed</span>. In practice that should mean music that shifts with what Jason and Lucia are doing, from a quiet drive to a [[gameplay/gta-6-wanted-system-and-heat|six-star police chase]] <span class="tag-speculation">speculation</span>. Rockstar has not explained the system in more detail.
+Music that responds to play rather than running as a fixed track. Rockstar's description is "expansive compositions all dynamically tuned to the different ways players engage with the world" <span class="tag-confirmed">confirmed</span>, and it bills Justice as "Grammy Award winners". That is the full extent of Rockstar's explanation. It hasn't said what triggers changes, whether missions and free roam behave differently, or how the score and the [[music/gta-6-radio-stations|radio]] share the mix in a car.
 
 De Rosnay told Billboard the duo was "given the freedom to explore as many things as we needed to, musically speaking", as quoted on Wikipedia's score page <span class="tag-reported">reported</span>.
 
@@ -84,7 +86,7 @@ De Rosnay told Billboard the duo was "given the freedom to explore as many thing
 | Limited triple crystal-clear vinyl | Sold on Rockstar's music page | <span class="tag-confirmed">confirmed</span> |
 | Labels | Ed Banger and Because Music | <span class="tag-reported">reported</span> |
 
-The 50-track, three-hour figure and the label details come from Wikipedia's score article. Rockstar's own copy says only "30 tracks, along with a number of digital bonus tracks". A full track listing has not been published.
+Rockstar's own wording is "30 tracks, along with a number of digital bonus tracks". The 50-track, three-hour digital figure and the Ed Banger and Because Music labels come from Wikipedia's score article. No track listing has been published, so the roughly 20 digital extras that figure implies are unnamed.
 
 ## The singles
 
@@ -93,20 +95,12 @@ The 50-track, three-hour figure and the label details come from Wikipedia's scor
 | Flower in a Hurricane | Tame Impala, SZA, King Gizzard & The Lizard Wizard | Oct 15, 2026 | The Album |
 | Pusher | Gesaffelstein | Oct 29, 2026 | Score only |
 
-"Flower in a Hurricane" is the bridge between the two releases: Rockstar lists it on both [[music/gta-6-soundtrack-album|GTA VI: The Album]] and the score. Per Wikipedia, it runs 3:45 and was produced by Justice with Kevin Parker of Tame Impala <span class="tag-reported">reported</span>. Note the spelling: Rockstar writes "Flower", singular, while some outlets wrote "Flowers".
+"Flower in a Hurricane" is the one track Rockstar lists on both the score and [[music/gta-6-soundtrack-album|GTA VI: The Album]]. Wikipedia puts it at 3:45, produced by Justice with Tame Impala's Kevin Parker <span class="tag-reported">reported</span>. Rockstar spells it "Flower", singular; Game Rant and a few others wrote "Flowers".
 
 Billboard's Katie Bain wrote that "Pusher" recalls the Justice classics "Stress" and "Generator", with "darkly pummeling synths and pacing fit for an action sequence", as quoted by Wikipedia <span class="tag-reported">reported</span>.
 
 ## Why does the score come out after the game?
 
-Rockstar has not said. The split means The Album (Nov 19) arrives with the game, and the score follows three weeks later. One search summary in our research conflated the December 11 date with the radio stations. That is wrong: the stations are in the game at launch, and December 11 applies only to the score album <span class="tag-debunked">debunked</span>.
+Rockstar hasn't said. The Album ships with the game on November 19 and the score follows on December 11. One search summary in our research applied the December 11 date to the radio stations. That is wrong: the stations are in the game at launch, and December 11 is the score album only <span class="tag-debunked">debunked</span>.
 
-## Is Justice playing the GTA 6 festival?
-
-Yes. Justice is on the announced lineup for *Grand Theft Auto VI: The Festival* at Mana Wynwood, Miami, on November 21, 2026 <span class="tag-confirmed">confirmed</span>. Details are on the [[timeline/index|timeline]] and the [[music/index|music hub]].
-
-## What is not known yet
-
-- The full score tracklist and running order.
-- How the adaptive system works in specific situations, such as missions versus free roam.
-- Whether score cues and the [[music/gta-6-radio-stations|radio]] interact, for example fading the radio during chases.
+Justice also play *Grand Theft Auto VI: The Festival* at Mana Wynwood, Miami, on November 21, 2026, alongside Travis Scott, Cardi B and Metro Boomin <span class="tag-confirmed">confirmed</span>. The festival and every other music date are on the [[timeline/index|timeline]] and the [[music/index|music hub]].

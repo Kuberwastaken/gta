@@ -2,7 +2,7 @@
 title: "GTA 6 easter eggs in the trailers: every callback, graded"
 seoTitle: "GTA 6 Trailer Easter Eggs: Every Callback and Reference"
 shortTitle: "Trailer easter eggs"
-description: "Every GTA 6 trailer easter egg: the Ocean View Hotel, a V-Rock shirt, President Hardin's dollar bill, Pißwasser and more, from Trailer 1 to the Extended Look."
+description: "GTA 6 trailer easter eggs, graded: the Ocean View Hotel, a V-Rock shirt, RDR2's President Hardin on a $1 bill, Pißwasser and GTA IV-style stranger encounters."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
@@ -64,13 +64,13 @@ sources:
 related: ["characters/returning-characters-and-cameos", "leaks/tommy-vercetti-return-rumour", "media/gta-6-trailer-2"]
 ---
 
-GTA 6's trailers are full of nods to earlier Rockstar games. The best-sourced ones: the **Ocean View Hotel** from Vice City in [[media/gta-6-trailer-1|Trailer 1]], Jason's **V-Rock T-shirt** and a **$1 bill showing RDR2's President Hardin** in [[media/gta-6-trailer-2|Trailer 2]], and **GTA IV-style stranger encounters** in the [[media/gta-6-extended-look|Extended Look]]. A few callbacks are confirmed by Rockstar's own copy. Most are spotted by press frame-by-frame and graded reported below.
+The best-sourced callbacks in GTA 6's trailers are the Ocean View Hotel from Vice City in [[media/gta-6-trailer-1|Trailer 1]], Jason's V-Rock T-shirt and a $1 bill showing Red Dead Redemption 2's President Hardin in [[media/gta-6-trailer-2|Trailer 2]], and GTA IV-style stranger encounters in the [[media/gta-6-extended-look|Extended Look]]. A handful are confirmed by Rockstar's own copy. The rest were spotted frame by frame by Den of Geek and Engadget and are graded reported.
 
-Rob Nelson of Rockstar North set the tone in a Famitsu interview: "The universes are separate, but we like looking back at previous titles in slightly clever ways" <span class="tag-confirmed">confirmed</span>.
+Rob Nelson of Rockstar North set the rule in a Famitsu interview: "The universes are separate, but we like looking back at previous titles in slightly clever ways" <span class="tag-confirmed">confirmed</span>.
 
-## Easter eggs Rockstar has confirmed
+## Which easter eggs has Rockstar confirmed?
 
-These are in Rockstar's own pages, not just spotted in footage <span class="tag-confirmed">confirmed</span>:
+These appear in Rockstar's own pages, not just in footage <span class="tag-confirmed">confirmed</span>:
 
 | Callback | Where | Points to |
 | --- | --- | --- |
@@ -80,54 +80,48 @@ These are in Rockstar's own pages, not just spotted in footage <span class="tag-
 | Ocean View Hotel and Shore Drive | GTA VI homepage | Vice City (2002) locations |
 | Flash FM | [[music/gta-6-radio-stations|Radio stations]] | Vice City's pop station |
 
-The bonus itself is covered on [[release/gta-6-pre-order-bonuses|pre-order bonuses]], and every station on [[music/gta-6-radio-stations|GTA 6 radio stations]]. The Vercetti references are confirmed as references. Tommy himself appearing in the game is not; see [[leaks/tommy-vercetti-return-rumour|the Tommy Vercetti rumour]].
+The Vercetti items are confirmed as references. Tommy appearing in the game is not; that claim is graded on [[leaks/tommy-vercetti-return-rumour|the Tommy Vercetti rumour]] page.
 
 ## Trailer 1 easter eggs
 
 From Den of Geek's breakdown of the December 2023 trailer <span class="tag-reported">reported</span>:
 
-- **Ocean View Hotel.** A brief shot of the hotel where Tommy Vercetti stayed.
-- **The Scarface building.** A small three-windowed building beside the Atlantic Hotel, modeled on the spot where Tony Montana fought chainsaw-wielding goons in *Scarface*.
-- **Florida viral clips.** Recreations of the "Florida Joker", a man watering his lawn in a thong, an alligator wandering into a convenience store, and a woman twerking on a car roof. Our [[world/gta-6-real-life-locations|real-life locations]] page covers the Miami and Keys references.
-- **Nine1Nine.** A seaplane banner reading "Why Sixty Nine When You Can Nine 1 Nine?", a play on Miami's E11EVEN club. In November 2026 the real club was rebranded "NINE1NINE Vice City" through December 6 <span class="tag-reported">reported</span>.
-- **"Petty Forever" sticker.** A tribute matching the trailer's Tom Petty song.
-- **Seven Mile Bridge.** The Keys bridge, a location Den of Geek says Rockstar could not fit into the original Vice City.
-- **Wildlife.** A shark and dolphins in an ocean overview shot.
-- **Returning vehicle names.** The Cheetah, Banshee, Comet, Stanier, Sabre Turbo, Maverick and Sea Sparrow, among others.
+| Callback | What it is |
+| --- | --- |
+| Ocean View Hotel | Where Tommy Vercetti stayed in GTA Vice City |
+| Three-windowed building beside the Atlantic Hotel | Modeled on the *Scarface* chainsaw-scene location |
+| Florida viral clips | The "Florida Joker", a man watering his lawn in a thong, an alligator in a convenience store, a woman twerking on a car roof |
+| Seaplane banner: "Why Sixty Nine When You Can Nine 1 Nine?" | A riff on Miami's E11EVEN club |
+| "Petty Forever" sticker | A nod to the trailer's Tom Petty song |
+| Seven Mile Bridge | A Keys landmark Den of Geek says Rockstar could not fit into the original Vice City |
+| Shark and dolphins | Wildlife in an ocean overview shot |
+| Cheetah, Banshee, Comet, Stanier, Sabre Turbo, Maverick, Sea Sparrow | Returning vehicle names |
+
+The Nine1Nine joke went real: Miami's E11EVEN was rebranded "NINE1NINE Vice City" from November 6 through December 6, 2026 <span class="tag-reported">reported</span>. The Miami and Keys locations are mapped on [[world/gta-6-real-life-locations|real-life locations]].
 
 ## Trailer 2 easter eggs
 
-From Den of Geek's May 2025 breakdown <span class="tag-reported">reported</span>:
-
-- **V-Rock T-shirt.** Jason wears the logo of Vice City's rock station. Den of Geek floated it as a possible station revival; Rockstar has not confirmed V-Rock as a station.
-- **Phil Cassidy lookalike.** An Ammu-Nation ad stars a man who resembles Phil Cassidy. Because the original Phil lost an arm in Vice City, Den of Geek suggests his son.
-- **President Hardin $1 bill.** Hardin was the US president in Red Dead Redemption 2, a cross-universe wink.
-- **Liberty City plates.** Lucia's family is from Liberty City, per her official bio, and Liberty City plates appear on cars.
-- **Glorianna plates.** A Georgia-style neighboring state.
-- **Fitness and fighting.** Jason lifting weights on the beach and Lucia in an MMA-style cage, which Den of Geek read as possible San Andreas-style workouts and fighting styles.
+From Den of Geek's May 2025 breakdown <span class="tag-reported">reported</span>. Jason wears a V-Rock T-shirt, the logo of Vice City's rock station; Rockstar has not listed V-Rock among its stations. An Ammu-Nation ad stars a Phil Cassidy lookalike, and because the original Phil lost an arm in Vice City, Den of Geek suggests his son. A $1 bill shows President Hardin, RDR2's US president, a wink across Rockstar's two universes. Cars carry Liberty City plates (Lucia's family is from Liberty City, per her bio) and Glorianna plates, a Georgia-style neighbor state. Jason lifting weights on the beach and Lucia in an MMA-style cage read to Den of Geek as San Andreas-style workouts and fighting styles.
 
 ## Extended Look easter eggs
 
 From Engadget's "20+ things you may have missed" <span class="tag-reported">reported</span>:
 
-- **Stranger encounters.** A man dangling from a bridge, in the style of GTA IV's random encounters.
-- **Bench press.** Lucia's workout, a nod to San Andreas.
-- **Slow-motion shooting.** Michael's ability from GTA V, plus Max Payne 3-style killcams.
-- **Lifeinvader.** GTA V's social network returns as a livestream feed on the phone.
-- **Pißwasser.** The series' long-running beer brand, in a bar.
-- **Honor-style system.** The new [[gameplay/gta-6-criminal-profile|Criminal Profile]] is compared to RDR2's Honor.
-- **BAWSAQ?** Engadget wondered whether GTA V's stock exchange returns. Unconfirmed <span class="tag-rumour">rumour</span>.
+| Callback | Source game |
+| --- | --- |
+| A man dangling from a bridge, as a stranger encounter | GTA IV |
+| Lucia on a bench press | GTA San Andreas |
+| Slow-motion shooting | GTA V (Michael's ability) |
+| Killcams | Max Payne 3 |
+| Lifeinvader livestream feed on the phone | GTA V |
+| Pißwasser beer in a bar | Series-wide |
+| [[gameplay/gta-6-criminal-profile|Criminal Profile]] reputation | Compared to RDR2's Honor |
+| NOOSE, Blaine County and Los Santos references | GTA V's world |
 
-Our research also logged references to NOOSE, Blaine County and Los Santos in the Extended Look, per Engadget's coverage <span class="tag-reported">reported</span>.
+Engadget also wondered whether GTA V's BAWSAQ stock exchange returns. Nothing confirms it <span class="tag-rumour">rumour</span>.
 
-## Easter eggs that are still rumours
+## Which easter eggs are still rumours?
 
-- **A UFO easter egg** teased on the [[release/gta-6-collectors-box|Collector's Box]] map, per a GamesRadar+ headline on November 14, 2026. We could not read the article body <span class="tag-rumour">rumour</span>.
-- **An older Tommy Vercetti in person.** Fan theory only <span class="tag-rumour">rumour</span>.
-- **Michael, Franklin, Trevor or Lamar cameos.** Unconfirmed <span class="tag-rumour">rumour</span>.
+A UFO easter egg on the [[release/gta-6-collectors-box|Collector's Box]] map rests on a GamesRadar+ headline from November 14, 2026 whose article body we could not read <span class="tag-rumour">rumour</span>. An older Tommy Vercetti in person is fan theory, as are cameos from Michael, Franklin, Trevor or Lamar <span class="tag-rumour">rumour</span>. The character side of this, from Phil Cassidy to Valentina, is on [[characters/returning-characters-and-cameos|returning characters and cameos]].
 
-The character side of this, from Phil Cassidy to Valentina, is on [[characters/returning-characters-and-cameos|returning characters and cameos]].
-
-## What we're watching
-
-Easter egg hunting really starts on November 19. We will add in-game finds here once they are verified, with the trailer list above as the baseline. The rest of the media coverage is in the [[media/index|media hub]].
+In-game finds start on November 19; verified ones get added here, with the trailer list as the baseline. The rest of the media coverage is in the [[media/index|media hub]].

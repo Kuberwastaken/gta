@@ -2,7 +2,7 @@
 title: "Rockstar UK firings and union vote: what happened and where it stands"
 seoTitle: "Rockstar Firings and Union Vote: What Happened to GTA 6 Devs"
 shortTitle: "UK firings and union"
-description: "Rockstar fired 31 UK staff in Oct 2025, citing leaks. The IWGB calls it union-busting. The tribunal, the Nov 12-26 union vote and what it means for GTA 6."
+description: "Rockstar fired 31 UK staff on Oct 30, 2025, citing Discord leaks; the IWGB says union-busting. Glasgow tribunal closings Nov 17-18, union ballot Nov 12-26."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
@@ -67,14 +67,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
     publisher: "Wikipedia"
     date: "Accessed Nov 15, 2026"
+  - title: "Rockstar Games issues GTA 6 leaks statement and game update after Cyberleek shares footage"
+    url: "https://www.ladbible.com/entertainment/gaming/rockstar-gta-leaks-grand-theft-auto-155567-20260826"
+    publisher: "LADbible"
+    date: "Aug 26, 2026"
 related: ["timeline/gta-6-delays", "timeline/gta-6-development-history", "news/2026-11-15-gta-6-launch-week-briefing"]
 ---
 
-On **October 30, 2025**, Rockstar fired **31 UK employees**, most at Rockstar North in Edinburgh and some at Rockstar Toronto. Rockstar and Take-Two say the staff committed gross misconduct by leaking confidential information on a Discord server <span class="tag-confirmed">confirmed</span> as the company's position. The **IWGB** union says the server was a private union channel and calls the firings union-busting <span class="tag-reported">reported</span>. A year on, a tribunal is near its end and Rockstar's UK staff are voting on union recognition the week GTA 6 launches.
+On **October 30, 2025**, Rockstar fired **31 UK employees**, most at Rockstar North in Edinburgh and some at Rockstar Toronto. Rockstar and Take-Two say the staff committed gross misconduct by leaking confidential information on a Discord server <span class="tag-confirmed">confirmed</span> as the company's position. The **IWGB** union says the server was a private union channel and calls the firings union-busting <span class="tag-reported">reported</span>. In launch week, the tribunal is at closing submissions and about 1,600 UK staff are voting on union recognition.
 
 ## What happened on October 30, 2025?
 
-Rockstar dismissed 31 staff, per most reporting including The Register. Wikipedia counts 34: 31 at Rockstar North plus three in Toronto. Some outlets date the firings to November 2. The firings themselves are not in dispute; the reason is.
+Rockstar dismissed 31 staff, per most reporting including The Register. Wikipedia counts 34: 31 at Rockstar North plus three in Toronto. Some outlets date the firings to November 2. Nobody disputes that the firings happened; the reason is the fight.
 
 | Side | Position |
 | --- | --- |
@@ -85,16 +89,16 @@ The IWGB filed legal claims for victimization and collective dismissal <span cla
 
 ## Did the firings delay GTA 6?
 
-Take-Two says no. The [[timeline/gta-6-delays|second delay]], to November 19, 2026, came on November 6, 2025, a week after the firings. Take-Two said the two were unrelated, per Hitmarker <span class="tag-confirmed">confirmed</span> as the company's statement. Rockstar's delay statement cited only polish. GamesRadar+'s headline at the time, "Delay game, disappoint fans... all in a week's work", captured how the week looked from outside.
+Take-Two says no. The [[timeline/gta-6-delays|second delay]], to November 19, 2026, was announced on November 6, 2025, a week after the firings. Take-Two said the two were unrelated, per Hitmarker <span class="tag-confirmed">confirmed</span> as the company's statement, and Rockstar's delay post cited only polish. GamesRadar+ ran the week under the headline "Delay game, disappoint fans... all in a week's work".
 
-## The response: letter, Parliament and legal claims
+## The case so far
 
 | When | What | Grade |
 | --- | --- | --- |
 | Mid-Nov 2025 | More than 200 Rockstar North staff (VGC: 220) sign a letter demanding reinstatement | <span class="tag-reported">reported</span> |
 | Mid-Nov 2025 | UK Prime Minister Keir Starmer calls it a "deeply concerning case" | <span class="tag-reported">reported</span> |
 | Nov 2025 | IWGB files legal claims | <span class="tag-reported">reported</span> |
-| Jan 12, 2026 | A UK employment judge denies the fired staff interim relief (pay) | <span class="tag-reported">reported</span> |
+| Jan 12, 2026 | A UK employment judge denies the fired staff interim relief (continued pay) | <span class="tag-reported">reported</span> |
 | Sep 10, 2026 | The tribunal hearing opens in Glasgow; it is later extended | <span class="tag-reported">reported</span> |
 | During hearing | Rockstar fails to strike out the blacklisting allegations | <span class="tag-reported">reported</span> |
 | Oct 27, 2026 | A recognition ballot is agreed after four months of talks | <span class="tag-reported">reported</span> |
@@ -104,23 +108,20 @@ Take-Two says no. The [[timeline/gta-6-delays|second delay]], to November 19, 20
 
 ## Is Rockstar getting a union?
 
-Possibly, within days of launch. The recognition ballot covers about 1,600 UK staff and runs from November 12 to 26, 2026, per The Register. If it passes, it would be the largest recognized union in the UK games industry <span class="tag-reported">reported</span>.
+It could have one a week after launch. The recognition ballot covers about 1,600 UK staff and runs November 12 to 26, 2026, per The Register. A yes vote would make it the largest recognized union in the UK games industry <span class="tag-reported">reported</span>.
 
-Rockstar's head of publishing, Jennifer Kolbe, as quoted by The Register: "We go where the team goes. So if they want a union, they will have a union" <span class="tag-confirmed">confirmed</span>. That is a notable shift from the company that fired 31 staff over a union-linked Discord a year earlier.
+Rockstar's head of publishing, Jennifer Kolbe, told The Register: "We go where the team goes. So if they want a union, they will have a union" <span class="tag-confirmed">confirmed</span>. Rockstar is still defending the dismissals at the Glasgow tribunal at the same time.
 
 ## Other workplace reports in 2026
 
-Two more items appear in Wikipedia's citations, which we have not read in the original <span class="tag-reported">reported</span>:
+Two more items appear in Wikipedia's citations; we have not read the originals <span class="tag-reported">reported</span>. Game Developer reported pay-inequity and crunch claims on July 1, 2026. IGN reported on September 11, 2026 that Rockstar installed privacy film after drones photographed its office windows.
 
-- **July 1, 2026:** Game Developer reports pay-inequity and crunch claims.
-- **September 11, 2026:** IGN reports Rockstar installed privacy film after drones photographed office windows.
-
-Leak security is the thread that runs through the firings, the 2024 return-to-office order "for productivity and security", and the 2026 [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek]] leaks. The background is on [[timeline/gta-6-development-history|development history]] and [[timeline/gta-6-2022-leak|the 2022 leak]].
+Rockstar has cited security before: its February 2024 return-to-office order was "for productivity and security", and in August 2026 it called the [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek]] footage "heartbreaking for our team". Background is on [[timeline/gta-6-development-history|development history]] and [[timeline/gta-6-2022-leak|the 2022 leak]].
 
 ## What we're watching
 
-- The tribunal's closing submissions, November 17-18, and any ruling after.
+- Tribunal closing submissions on November 17-18, and the ruling after.
 - The ballot result after November 26.
 - Whether any fired staff are reinstated.
 
-We will add the outcomes here and to the [[timeline/index|GTA 6 timeline]]. The launch-week picture is in our [[news/2026-11-15-gta-6-launch-week-briefing|launch week briefing]].
+Outcomes will go here and on the [[timeline/index|GTA 6 timeline]]. The rest of launch week is in the [[news/2026-11-15-gta-6-launch-week-briefing|launch week briefing]].

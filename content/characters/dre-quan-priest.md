@@ -1,15 +1,15 @@
 ---
-title: "Dre'Quan Priest: GTA 6's hustler chasing a Vice City hit"
+title: "Dre'Quan Priest in GTA 6: the ex-dealer running Only Raw Records"
 seoTitle: "Dre'Quan Priest GTA 6: Who He Is and Only Raw Records"
 shortTitle: "Dre'Quan Priest"
-description: "Dre'Quan Priest is GTA 6's aspiring music mogul: a former street dealer who co-runs Only Raw Records with Boobie Ike and just signed Real Dimez. Bio and role."
+description: "Dre'Quan Priest is GTA 6's would-be music mogul, an ex-dealer who co-runs Only Raw Records with Boobie Ike and just signed Real Dimez. His bio, quotes and role."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 23
 tags: ["characters", "vice-city", "music", "story"]
-tldr: "Dre'Quan Priest is **'more of a hustler than a gangster'**, a former street dealer whose real goal was always music. He runs **Only Raw Records** with Boobie Ike, has just **signed Real Dimez**, and still books acts into Boobie's strip club. Rockstar spells it **Dre'Quan**."
+tldr: "Dre'Quan Priest is **'more of a hustler than a gangster'**, a former street dealer whose goal was always music. He co-runs **Only Raw Records** with Boobie Ike, has just **signed Real Dimez**, and still books acts into Boobie's strip club for now. No trailer scene of him has been reported."
 facts:
   - k: "Role"
     v: "Aspiring music mogul"
@@ -22,18 +22,18 @@ facts:
   - k: "Side job"
     v: "Books acts into Boobie's strip club"
   - k: "First seen"
-    v: "Trailer 2 bios (May 2025)"
+    v: "Trailer 2 bios (May 6, 2025)"
   - k: "Voice actor"
     v: "Not reported"
 faq:
   - q: "Who is Dre'Quan Priest in GTA 6?"
     a: "A former street dealer turned aspiring music mogul who runs Only Raw Records with Boobie Ike. He has just signed the rap duo Real Dimez."
   - q: "How do you spell Dre'Quan's name?"
-    a: "Rockstar spells it Dre'Quan Priest, with an apostrophe. Some outlets, including Game Rant, write Dre-Quan."
+    a: "Rockstar writes Dre'Quan Priest, with an apostrophe. Game Rant and some other outlets write Dre-Quan."
   - q: "What is Only Raw Records?"
-    a: "The record label Dre'Quan runs with Boobie Ike. Rockstar's bios say Boobie is more invested in it than in any other business, and the label has signed Real Dimez."
+    a: "The Vice City label Dre'Quan runs with Boobie Ike. Boobie's bio says it is the venture he is most invested in and that it still needs a hit."
   - q: "Who voices Dre'Quan?"
-    a: "No actor has been reported or confirmed. Rockstar has not released a cast list."
+    a: "No actor has been reported or fan-identified. Rockstar has not released a cast list."
 sources:
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
@@ -56,60 +56,50 @@ sources:
 related: ["characters/boobie-ike", "characters/real-dimez", "music/gta-6-soundtrack-album"]
 ---
 
-Dre'Quan Priest is the ambition behind Only Raw Records, the [[world/vice-city|Vice City]] label he runs with [[characters/boobie-ike|Boobie Ike]]. Where Boobie brings the money and the reputation, Dre'Quan brings the ear and the hunger.
+Dre'Quan Priest runs Only Raw Records, the [[world/vice-city|Vice City]] label he co-owns with [[characters/boobie-ike|Boobie Ike]]. Boobie supplies the money and the reputation. Dre'Quan is the one who signs the talent, and his first big signing is the rap duo [[characters/real-dimez|Real Dimez]].
 
-## Who is Dre'Quan Priest?
+## What Rockstar says about Dre'Quan
 
-Rockstar's Only in Leonida bio sums him up in one line: "Dre'Quan was always more of a hustler than a gangster."
+His Only in Leonida bio opens: "Dre'Quan was always more of a hustler than a gangster." He dealt on the streets to make ends meet, but "breaking into music was the goal."
 
-The rest of his bio, summarized:
+The second half of the bio is about where he is now. He has signed Real Dimez, so his "days of booking acts into Boobie's strip club might be numbered" as he "sets his sights on the Vice City scene." In other words, he is still doing club bookings for his partner while trying to outgrow them.
 
-- **Past:** he dealt on the streets to make ends meet, but breaking into music was always the goal.
-- **Now:** he has signed the [[characters/real-dimez|Real Dimez]] to Only Raw Records.
-- **Day job:** he books acts into Boobie's strip club, though Rockstar hints he will not be doing that much longer.
-- **Goal:** he has his sights set on the wider Vice City music scene.
+His three pull quotes:
 
-His pull quotes on Rockstar's page include the label's name delivered with a pause ("Only Raw... Records") and a theory of A&R that runs through the strip club: if dancers like the record, DJs will play it.
+- "Only Raw... Records"
+- "Dancers are like my A&Rs. If the record's a hit, DJs gonna be spinnin' it."
+- "You're with the label now."
 
-## How do you spell his name?
+The A&R line is the business model. Songs get tested on the strip club floor before they reach DJs, which ties the label directly to Boobie's club. Boobie's own pull quote fills in the rest: "The club money pay for the studio, and the drug money pay for it all."
 
-Rockstar writes **Dre'Quan**, with an apostrophe. Game Rant and some other outlets write "Dre-Quan." This site follows Rockstar.
-
-## What is Only Raw Records?
-
-Only Raw Records is the label at the center of GTA 6's music-industry storyline:
+## Only Raw Records at a glance
 
 | Person | Role at the label |
 | --- | --- |
-| Dre'Quan Priest | Runs it; signs talent |
-| Boobie Ike | Partner and money; his studio and club fund it |
-| Real Dimez | Signed act, chasing a second hit |
+| Dre'Quan Priest | Runs it; signed Real Dimez |
+| Boobie Ike | Partner and backer; the strip club money funds the studio |
+| Real Dimez | Signed act, "hoping lightning can strike twice" after an early hit |
 
-Boobie's bio says the partnership with Dre'Quan is the venture he is most invested in, and that what they still lack is a hit. The Real Dimez, five troubled years removed from their first success, are the bet.
-
-How it fits gameplay is not yet clear. Dazed reports that the Real Dimez's journey can be followed through in-game viral social media posts, so the label's fortunes may play out on your phone as much as in missions. <span class="tag-speculation">speculation</span> See [[gameplay/gta-6-phone-and-social-media|phone and social media]].
+Boobie's bio says the label still needs a hit. Real Dimez, five years past their early single with local rapper DWNPLY, are the bet. Dazed reports that their "journey can be traced via in-game viral social media posts," so part of the label story may play out on the [[gameplay/gta-6-phone-and-social-media|in-game phone]] rather than in missions. <span class="tag-speculation">speculation</span>
 
 ## Has Dre'Quan appeared in a trailer?
 
-Our sources do not describe a specific Dre'Quan scene in any trailer or in the [[media/gta-6-extended-look|Extended Look]]. His bio went up with [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025. Boobie, his partner, is reported as a client in the Extended Look.
+Not in any scene our sources describe. His bio went up with [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025. In the [[media/gta-6-extended-look|Extended Look]], it was his partner Boobie who appeared, reported as the client for Jason and Lucia's drug pickup.
 
-## Is Only Raw Records on the real GTA 6 soundtrack?
+On spelling: Rockstar writes Dre'Quan with an apostrophe. Game Rant and some other outlets use "Dre-Quan." This site follows Rockstar.
 
-Rockstar has not said whether any Only Raw Records tracks appear on in-game radio or on *Grand Theft Auto VI: The Album*, the 34-track original album releasing November 19. See [[music/gta-6-soundtrack-album|the GTA 6 album]] and [[music/gta-6-radio-stations|radio stations]].
+## Will Only Raw music be on the GTA 6 soundtrack?
+
+Rockstar hasn't said. Its real-world release, *Grand Theft Auto VI: The Album*, has 34 original tracks out November 19, and none has been tied to Only Raw or Real Dimez. See [[music/gta-6-soundtrack-album|the GTA 6 album]] and [[music/gta-6-radio-stations|radio stations]].
 
 ## Who voices Dre'Quan?
 
-No actor has been reported or confirmed in our sources. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
+No actor has been reported or fan-identified in our sources. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
 
 ## Open questions
 
-- Does Dre'Quan give Jason and Lucia missions, or does he stay in Boobie's shadow?
-- Is the label storyline tied to the main plot or a side arc?
-- Do Only Raw tracks exist in-game as playable songs?
-
-## Related characters
-
-- [[characters/boobie-ike|Boobie Ike]]: business partner.
-- [[characters/real-dimez|Real Dimez]]: the label's signing.
+- Does Dre'Quan give Jason and Lucia work, or does Boobie handle that side?
+- Is the label storyline part of the main plot or a side arc?
+- Can you hear Real Dimez tracks in-game?
 
 Back to [[characters/index|all GTA 6 characters]].

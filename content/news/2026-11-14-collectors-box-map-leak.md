@@ -2,7 +2,7 @@
 title: "GTA 6 Collector's Box map leaks early: new Leonida place names, and what's real"
 seoTitle: "GTA 6 Collector's Box Map Leak: New Place Names Explained"
 shortTitle: "Collector's Box map leak"
-description: "Photos of the GTA 6 Collector's Box map poster surfaced Nov 12-14, 2026, adding names like Goose Key and Pelican Valley. What it shows and what's uncertain."
+description: "The GTA 6 Collector's Box map poster leaked Nov 12-14, 2026 via Selfridges Manchester, adding Goose Key and Pelican Valley. Which names hold up and which may be misreads."
 status: "mixed"
 published: 2026-11-14
 updated: 2026-11-15
@@ -25,9 +25,9 @@ faq:
   - q: "Is the leaked GTA 6 Collector's Box map real?"
     a: "The poster itself is real: Rockstar's Collector's Box listing includes a Leonida map on the back of a poster. The individual place names transcribed from photos are less certain, because the poster was folded and some words may be misread."
   - q: "What new places are on the GTA 6 Collector's Box map?"
-    a: "Readers transcribed Goose Key (with Southwind), Pelican Valley in Grassrivers, Lummox County, Manzana, Moreau and Key Lento, alongside known areas like Port Gellhorn, Ambrosia and Vice City."
+    a: "New: Goose Key (with Southwind) in the Keys and Pelican Valley in Grassrivers. Lummox County matches the August leak. Manzana and Moreau may be misreads of a folded poster."
   - q: "Is the Collector's Box map the same as the in-game map?"
-    a: "No. It is an illustrated, stylised poster. Treat distances and shapes as art, not as the in-game map."
+    a: "No. It is an illustrated poster, so its shapes and distances are art. Use it for place names, not for measuring the map."
   - q: "Does the GTA 6 Collector's Box include the game?"
     a: "No. The $399.99 Goodtime State - Vice City Collection is merchandise only; the game is sold separately."
 sources:
@@ -67,17 +67,15 @@ sources:
 related: ["world/gta-6-leaked-map-and-counties", "release/gta-6-collectors-box", "leaks/gta-6-cyberleek-2026-leaks"]
 ---
 
-A full view of Leonida from Rockstar's own merchandise leaked between **November 12 and 14, 2026**. The map is printed on the back of the poster inside "The Goodtime State - Vice City Collection" Collector's Box. RockstarINTEL reported it was first seen on display at **Selfridges Manchester**, and a full photo then spread on Instagram, reportedly from a box sold early at that store <span class="tag-reported">reported</span>. Rockstar has not commented.
+A full view of Leonida, printed on the back of the poster in Rockstar's $399.99 Collector's Box, leaked between November 12 and 14, 2026. RockstarINTEL reported the poster was first seen on display at Selfridges Manchester, and a full photo then spread on Instagram, reportedly from a box the store sold early <span class="tag-reported">reported</span>. Rockstar has not commented.
 
 ## Is the map real?
 
-The poster is. Rockstar's Collector's Box copy promises "an illustrated Vice City Leonida poster... with a full view of the Leonida map featured on the back" <span class="tag-confirmed">confirmed</span>. What is less certain is how accurately fans have read the photos. The poster was folded, and Game Rant warns that two names, Moreau and Manzana, may be misread.
-
-It is also a stylised illustration, not the in-game map. Don't use it to measure the [[world/gta-6-map-size|map size]].
+The poster is. Rockstar's listing for "The Goodtime State - Vice City Collection" promises "an illustrated Vice City Leonida poster... with a full view of the Leonida map featured on the back" <span class="tag-confirmed">confirmed</span>. The weak point is the transcription: the poster was folded in the photos, and Game Rant warns that Moreau and Manzana may be misread. It is also an illustration, so it says nothing reliable about [[world/gta-6-map-size|map size]].
 
 ## What new places does it show?
 
-Names transcribed from the photos, per RockstarINTEL, PC Games, Shattered.io and Game Rant <span class="tag-reported">reported</span>:
+Names read from the photos by RockstarINTEL, PC Games, Shattered.io and Game Rant <span class="tag-reported">reported</span>:
 
 | Name | Where | Note |
 | --- | --- | --- |
@@ -89,23 +87,20 @@ Names transcribed from the photos, per RockstarINTEL, PC Games, Shattered.io and
 | Moreau | Unclear | Possible misread |
 | Key Lento | Leonida Keys | Already in promo material |
 
-Pelican Valley sits in [[world/grassrivers|Grassrivers]], and Goose Key and Key Lento in the [[world/leonida-keys|Leonida Keys]]. Known regions also appear: [[world/port-gellhorn|Port Gellhorn]], [[world/ambrosia|Ambrosia]] and [[world/vice-city|Vice City]]. Beebom, as relayed by tbreak, counts 5 major counties, 11 islands or keys, 13 towns and cities and 9 other named locations <span class="tag-rumour">rumour</span>.
+Pelican Valley sits in [[world/grassrivers|Grassrivers]]; Goose Key and Key Lento are in the [[world/leonida-keys|Leonida Keys]]. The known regions are all there: [[world/port-gellhorn|Port Gellhorn]], [[world/ambrosia|Ambrosia]] and [[world/vice-city|Vice City]]. Beebom, relayed by tbreak, counts 5 major counties, 11 islands or keys, 13 towns and cities and 9 other named locations <span class="tag-rumour">rumour</span>.
 
-## How does it compare with the August CyberLeek map?
+## How it compares with the August CyberLeek map
 
-The CyberLeek image from August listed five counties: Lummox, Kelly, Leonard, Vice-Dale and Mariana <span class="tag-rumour">rumour</span>. GTABase suggested that build may date from 2023. Lummox showing up on an official product makes that county name more likely, but the rest of the August list is still unconfirmed. One open contradiction: earlier coverage talked about an "Ambrosia County", which neither leaked list contains. Background on that leak is on [[leaks/gta-6-cyberleek-2026-leaks|the CyberLeek leaks page]].
+The CyberLeek image from August listed five counties: Lummox, Kelly, Leonard, Vice-Dale and Mariana <span class="tag-rumour">rumour</span>. GTABase suggested that build dates from 2023. Lummox appearing on official merchandise makes that one name more credible; the other four are still unconfirmed. Neither list contains the "Ambrosia County" that earlier coverage mentioned. The August leak is covered on [[leaks/gta-6-cyberleek-2026-leaks|the CyberLeek page]].
 
-## What claims should you ignore?
+Two add-on claims have no support. A "non-US sequel tease" on the poster has no on-record source, per Shattered.io <span class="tag-rumour">rumour</span>. A UFO Easter egg on the map comes from a GamesRadar+ headline whose body we could not read <span class="tag-rumour">rumour</span>.
 
-- **A "non-US sequel tease"** on the poster has no verifiable source. Shattered.io found no on-record quote <span class="tag-rumour">rumour</span>.
-- **A UFO Easter egg** on the map comes from a GamesRadar+ headline we couldn't read in full <span class="tag-rumour">rumour</span>.
+## If you want the map without the leak
 
-We don't link to the leaked photos. If you want the map unspoiled, Rockstar has said a free printable Leonida map arrives on rockstargames.com on Nov 19, with a $0.99 physical version on the Rockstar Store later <span class="tag-reported">reported</span>. That comes from a single Push Square summary, so we'll confirm it on launch day. See [[guides/gta-6-printable-map|printable map]].
+We don't link the leaked photos. Rockstar says a free printable Leonida map goes up on rockstargames.com on November 19, with a double-sided physical copy on the Rockstar Store "shortly after launch" for $0.99, or free with any store order <span class="tag-reported">reported</span>. That rests on a single Push Square summary; see [[guides/gta-6-printable-map|printable map]].
 
-## What is the Collector's Box?
-
-It's a $399.99 merchandise box (£349.99, €399.99) sold only on the Rockstar Store, one per account, 18+, shipping from Nov 19. **The game is not included.** Contents include a Macca the Gator figure, Oakley Frogskins, a Leonida Keys crossbody bag and the double-sided map poster <span class="tag-reported">reported</span>. Details: [[release/gta-6-collectors-box|Collector's Box]].
+The Collector's Box itself is merchandise only. It costs $399.99 (£349.99, €399.99), is sold one per account to buyers 18+ on the Rockstar Store, and ships from November 19 without the game. The other ten items include a Macca the Gator figure, Oakley Frogskins, a Leonida Keys crossbody bag and a nine-pin enamel set <span class="tag-reported">reported</span>. Full contents: [[release/gta-6-collectors-box|Collector's Box]].
 
 ## What's next
 
-Launch day will settle the names: once the game is out, the in-game map either shows Goose Key, Pelican Valley and Moreau or it doesn't. We'll update [[world/gta-6-leaked-map-and-counties|leaked map and counties]] and the [[leaks/index|leaks ledger]] then. More stories are in the [[news/index|news hub]].
+The in-game map settles it on November 19: Goose Key, Pelican Valley and Moreau either appear or they don't. We'll update [[world/gta-6-leaked-map-and-counties|leaked map and counties]] and the [[leaks/index|leaks ledger]] then. More in the [[news/index|news hub]].

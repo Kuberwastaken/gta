@@ -2,7 +2,7 @@
 title: "GTA 6 day-one checklist: everything to do before November 19"
 seoTitle: "GTA 6 Day One Checklist: What to Do Before Nov 19"
 shortTitle: "Day-one checklist"
-description: "GTA 6 unlocks at midnight store time on Nov 19. Pre-load, free 250 GB, grab update 1.002, redeem box codes and claim your bonuses: the full launch checklist."
+description: "GTA 6 unlocks at midnight store time on Nov 19. Buy by Nov 19 for the pre-order pack, redeem box codes, clear 250 GB, pre-load and confirm update 1.002."
 status: "mixed"
 published: 2026-11-15
 popular: true
@@ -10,7 +10,7 @@ updated: 2026-11-15
 verified: 2026-11-15
 weight: 1
 tags: ["guides", "beginner", "preload", "unlock-times", "release"]
-tldr: "Buy before **Nov 20** to get the Vintage Vice City Pack, **pre-load now** (it opened Nov 10), clear about **250 GB**, install **update 1.002**, then leave the console in Rest or Sleep mode. The game unlocks at **midnight local store time on Nov 19** (9 PM Nov 18 on the US West Coast). Full times: [[release/gta-6-release-time-by-country|unlock times by country]]."
+tldr: "Buy before Nov 20 to keep the Vintage Vice City Pack, **pre-load now** (open since Nov 10), clear about 250 GB, confirm update 1.002 installed, and leave the console in Rest Mode or Sleep. It unlocks at **midnight local store time on Nov 19**, which is 9 PM Nov 18 on the US West Coast. Every region: [[release/gta-6-release-time-by-country|unlock times by country]]."
 facts:
   - k: "Unlock"
     v: "Midnight local store time, Nov 19, 2026"
@@ -26,13 +26,13 @@ facts:
     v: "None at launch"
 faq:
   - q: "What should I do before GTA 6 comes out?"
-    a: "Buy it, pre-load it, make sure you have about 250 GB free, let update 1.002 install, and leave the console in Rest Mode (PS5) or Sleep (Xbox) with auto-downloads on. Then check your region's unlock time."
+    a: "Clear about 250 GB, start the pre-load (open since Nov 10), and check that update 1.002.000 (1.07 GB on PS5, about 2.2 GB on Xbox) has installed before the night of Nov 18."
   - q: "Do I still get the pre-order bonus if I buy on launch day?"
     a: "Yes. Rockstar says the Vintage Vice City Pack covers all pre-orders and purchases before Nov 20. Xbox Wire puts the cutoff at 23:59:59 on Nov 19."
   - q: "Can I pre-load the physical copy?"
-    a: "Yes. The box holds a download code, not a disc. Redeem it on PS Store or Microsoft Store and the pre-load starts like any digital copy."
+    a: "Yes. The box holds a download code, not a disc; redeem it on PS Store or Microsoft Store and the download starts. PS codes only work on an account in the same region."
   - q: "Does pre-loading let me play early?"
-    a: "No. Pre-loading only downloads the files. The game unlocks at midnight local store time on Nov 19."
+    a: "No. It only downloads the files. The game opens when your store region reaches midnight on Nov 19, starting with New Zealand at 11:00 UTC on Nov 18."
 sources:
   - title: "Grand Theft Auto VI regional pre-load and release times on PlayStation 5 and XBOX Series X|S"
     url: "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s"
@@ -74,95 +74,69 @@ sources:
 related: ["release/gta-6-release-time-by-country", "release/gta-6-preload-and-file-size", "guides/gta-6-tips-before-you-start", "guides/gta-6-faq"]
 ---
 
-GTA VI unlocks at **midnight local store time on Thursday, November 19, 2026**, on PS5 and Xbox Series X|S. If you want to be driving through [[world/vice-city|Vice City]] the minute it opens, the work happens now: buy it, pre-load it, clear space, take the pre-launch patch, and know your exact unlock time.
-
-This page is the short version of everything in our [[release/index|release hub]], ordered by when you should do it. Grades follow our [[about/how-we-grade|grading rules]]: anything not first-party carries a tag.
-
-## The checklist at a glance
+GTA VI unlocks at midnight local store time on Thursday, November 19, 2026, on PS5 and Xbox Series X|S. To be driving through [[world/vice-city|Vice City]] the minute it opens, you need a purchase or redeemed code, about 250 GB free, the pre-load finished and update 1.002.000 installed before Wednesday night. Everything below is ordered by deadline. The underlying sources are in the [[release/index|release hub]]; non-first-party claims carry a grade per [[about/how-we-grade|how we grade]].
 
 | When | Task | Why |
 | --- | --- | --- |
-| Now | Buy (digital or code-in-box) | Pre-load needs a purchase or a redeemed code |
-| Now | Free up about 250 GB | Rockstar says up to 212 GB; extra room helps with patches |
+| Now | Buy, or redeem your box code | Pre-load needs a purchase on your account |
+| Now | Free about 250 GB | Rockstar asks for up to 212 GB; patches need room |
 | Now | Start the pre-load | Open since Nov 10 on both consoles |
-| Now | Turn on auto-downloads and Rest/Sleep mode | Lets update 1.002 and any later patch install overnight |
-| Before Nov 20 | Make sure your purchase is in | Cutoff for the Vintage Vice City Pack |
-| Nov 18 | Mute spoiler keywords | New Zealand unlocks first; reviews reportedly land |
-| Nov 18-19 | Check your console's countdown | Your store region decides the unlock time |
+| Now | Auto-downloads on, console in Rest Mode or Sleep | Update 1.002 and later patches install overnight |
+| By 23:59:59 Nov 19 | Have your purchase in | Vintage Vice City Pack cutoff |
+| Nov 18 | Mute spoiler keywords | New Zealand unlocks at 11:00 UTC; reviews reportedly land |
+| Nov 18-19 | Check your console's store countdown | Your store region, not your clock, sets the unlock |
 
-## 1. Buy the right edition before November 20
+## 1. Buy before November 20
 
-There are two editions: **Standard at $79.99** and **Ultimate at $99.99** in the US. Ultimate is digital only. If you are unsure, our [[guides/gta-6-which-edition-should-you-buy|which edition should you buy]] guide walks through it, and [[release/gta-6-price-and-editions|price and editions]] has every regional price.
+US prices are $79.99 for Standard and $99.99 for Ultimate, which is digital only. Regional prices are on [[release/gta-6-price-and-editions|price and editions]]; the trade-offs are in [[guides/gta-6-which-edition-should-you-buy|which edition should you buy]].
 
-- [ ] Rockstar says the **Vintage Vice City Pack** goes to "all pre-orders and purchases before Nov 20", digital or boxed. Xbox Wire gives the cutoff as 23:59:59 on Nov 19. Either way, buying on launch day still counts.
-- [ ] **Digital** pre-orders on PS5 and Xbox also get a **free month of GTA+**. The boxed copy does not. See [[guides/gta-6-gta-plus-explained|GTA+ explained]].
-- [ ] Standard owners can upgrade later. On Xbox the upgrade costs the gap between editions ($20, £20 or €20) <span class="tag-reported">reported</span>. PlayStation hides the upgrade price until you own the game <span class="tag-reported">reported</span>.
+- [ ] Buy by Nov 19. Rockstar gives the Vintage Vice City Pack to "all pre-orders and purchases before Nov 20", digital or boxed. Xbox Wire's cutoff is 23:59:59 on Nov 19.
+- [ ] Buy digital if you want the free month of GTA+. Digital pre-orders on PS5 and Xbox get it; the box does not. It reportedly renews at about $8 a month, so note the date; see [[guides/gta-6-gta-plus-explained|GTA+ explained]].
+- [ ] Skip Ultimate if unsure. Upgrading later costs the gap ($20, £20 or €20 on Xbox), though PlayStation hides the upgrade price until you own the game <span class="tag-reported">reported</span>.
 
-## 2. Redeem your box code (physical buyers)
+## 2. Redeem your box code today
 
-The boxed Standard edition is **a download code in a box, not a disc**. Copies reached retailers on Nov 12. Details: [[release/gta-6-physical-copy-no-disc|physical copy, no disc]].
+The boxed Standard edition is a download code in a box, with no disc. It reached retailers on Nov 12. Details on [[release/gta-6-physical-copy-no-disc|physical copy, no disc]].
 
-- [ ] Redeem the code on PS Store or Microsoft Store as soon as you have it. That starts your pre-load.
-- [ ] PlayStation codes are locked to your PSN account region. Rockstar says Xbox codes are not region-locked.
-- [ ] Check the code works today, not at midnight. Some buyers, including Best Buy and Rockstar Store customers, report codes that were already used or missing <span class="tag-reported">reported</span>. Kotaku's editor-in-chief could not reproduce the problem, the scope is unclear, and Rockstar has announced no specific fix. If yours fails, go back to the retailer while there is still time.
+- [ ] Redeem it on PS Store or Microsoft Store now; that starts the pre-load.
+- [ ] Match regions on PlayStation. PS codes are locked to your PSN account region. Rockstar says Xbox codes are not region-locked.
+- [ ] If the code fails, go back to the retailer before Nov 19. Some Best Buy and Rockstar Store buyers report codes already used or missing <span class="tag-reported">reported</span>. Kotaku's editor-in-chief couldn't reproduce it, and Rockstar has announced no fix.
 
-## 3. Clear storage space
+## 3. Clear about 250 GB
 
-Rockstar asks for **up to 212 GB** of free space on PS5, PS5 Pro, Xbox Series X and Series S. Console screens show about 209.8 GB on PS5 and 209.86 GB on Xbox <span class="tag-reported">reported</span>.
+Rockstar asks for up to 212 GB free on PS5, PS5 Pro, Series X and Series S. Console screens show about 209.8 GB on PS5 and 209.86 GB on Xbox <span class="tag-reported">reported</span>.
 
-- [ ] Aim for **about 250 GB free**. That is Timesaver's advice, and it covers the "230 GB" printed on German PS5 boxes, which Rockstar has not explained <span class="tag-rumour">rumour</span>.
-- [ ] Xbox's store shows **225.34 GB**. That is the same download in decimal units, not a bigger file. Our [[guides/gta-6-storage-space-guide|storage space guide]] explains the math.
+- [ ] Clear about 250 GB, Timesaver's figure. It also covers the "230 GB" printed on German PS5 boxes, which Rockstar hasn't explained <span class="tag-rumour">rumour</span>.
+- [ ] Ignore the 225.34 GB on the Xbox store. It is the same download counted in decimal units; the math is in the [[guides/gta-6-storage-space-guide|storage space guide]].
 
 ## 4. Pre-load and patch
 
-Pre-load opened on **Nov 10**. Rockstar first said Nov 12, then moved it earlier, so ignore older articles that still say Nov 12. Full detail: [[release/gta-6-preload-and-file-size|pre-load and file size]].
+Pre-load opened Nov 10. Rockstar first announced Nov 12, then moved it earlier, so articles still saying Nov 12 are stale. Full detail on [[release/gta-6-preload-and-file-size|pre-load and file size]].
 
-- [ ] **PS5:** pre-load opened at midnight local time on Nov 10 (New Zealand first, at 11:00 UTC Nov 9).
-- [ ] **Xbox:** one worldwide moment, 12 a.m. GMT Nov 10 (7 PM ET / 4 PM PT on Nov 9).
+- [ ] Start the download now. PS5 opened at midnight local time on Nov 10 (New Zealand first, 11:00 UTC Nov 9). Xbox opened at one worldwide moment: 12 a.m. GMT Nov 10, which was 7 PM ET on Nov 9.
 - [ ] Turn on auto-downloads (PS5) or automatic updates (Xbox) and leave the console in Rest Mode or Sleep <span class="tag-reported">reported</span>.
-- [ ] Confirm **update 1.002.000** has installed. It began rolling out Nov 13: about 1.07 GB on PS5, about 2.18-2.2 GB on Xbox <span class="tag-reported">reported</span>. PS5 staggered it, so half of players got it about 11 hours later. Rockstar has published no patch notes and has not called it the day-one patch. See [[release/gta-6-day-one-patch|day-one patch]].
+- [ ] Confirm update 1.002.000 shows as installed. It began rolling out Nov 13: about 1.07 GB on PS5 and 2.18-2.2 GB on Xbox <span class="tag-reported">reported</span>. The PS5 rollout was staggered: half of players got it about 11 hours after the first wave. Rockstar has posted no patch notes and hasn't called it the day-one patch; see [[release/gta-6-day-one-patch|day-one patch]].
 
-## 5. Know your exact unlock time
+## 5. Know your unlock time
 
-Rockstar's rule is "midnight local time on November 19, 2026, in all regions". In practice, "local" means your **store region's** midnight, not your own clock. That is why the whole US store opens at midnight Eastern.
+Rockstar's wording is "midnight local time on November 19, 2026, in all regions". Local means your store region's midnight. The whole US store opens at midnight Eastern, so Central starts at 11 PM, Mountain at 10 PM and Pacific at 9 PM on Nov 18 <span class="tag-reported">reported</span>. New Zealand goes first at 11:00 UTC on Nov 18, the UK at 00:00 UTC on Nov 19. Every region, plus the Perth and Hawaii disputes, is on [[release/gta-6-release-time-by-country|release time by country]].
 
-| Region | Unlocks (local) | UTC |
-| --- | --- | --- |
-| New Zealand | 12:00 AM Nov 19 | 11:00 Nov 18 |
-| Australia (Sydney) | 12:00 AM Nov 19 | 13:00 Nov 18 |
-| Japan / Korea | 12:00 AM Nov 19 | 15:00 Nov 18 |
-| India | 12:00 AM Nov 19 | 18:30 Nov 18 |
-| Germany / France | 12:00 AM Nov 19 | 23:00 Nov 18 |
-| UK / Ireland | 12:00 AM Nov 19 | 00:00 Nov 19 |
-| Brazil / Argentina | 12:00 AM Nov 19 | 03:00 Nov 19 |
-| US East | 12:00 AM Nov 19 | 05:00 Nov 19 |
-| US Central / Mountain / Pacific | 11 PM / 10 PM / 9 PM Nov 18 | 05:00 Nov 19 |
+- [ ] On launch night, trust the countdown on your own console's store page over any website, this one included.
+- [ ] On Xbox Cloud Gaming, expect 1 AM ET on Nov 19, an hour after the native US unlock, per Xbox Wire. It also runs on Xbox One; see [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud gaming]].
+- [ ] Skip the VPN and clock tricks. On PS5, early access reportedly needs a New Zealand account and payment method, and region switching may breach store terms <span class="tag-reported">reported</span>.
 
-The per-country times come from store data compiled by fan sites <span class="tag-reported">reported</span>. Two wrinkles: Perth follows the Sydney timestamp, so it opens at 9 PM Nov 18 per KeenGamer, and Hawaii is disputed (7 PM Nov 18 or midnight HST) <span class="tag-reported">reported</span>. The full table, with Canada, Mexico and more, lives on [[release/gta-6-release-time-by-country|release time by country]].
+## 6. Know what you're getting
 
-- [ ] On launch night, trust the countdown on your own console's store page over any website, ours included.
-- [ ] **Xbox Cloud Gaming** starts at **1 AM ET on Nov 19**, an hour after the native US unlock, per Xbox Wire. It also works on Xbox One. See [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud gaming]].
-- [ ] Don't bother with a VPN or a changed console clock. On PS5, early access reportedly needs a New Zealand account and payment method, and region tricks may break store terms <span class="tag-reported">reported</span>.
+The game runs at 30 fps on every console, PS5 Pro included, with no performance mode at launch; Pro adds PSSR and ray-traced shadows ([[release/gta-6-ps5-pro-performance|PS5 Pro performance]]). There is no online mode: Rockstar calls GTA VI "a single player experience", and GTA Online on GTA V keeps running ([[release/gta-6-gta-online-status|GTA Online status]]). There is no PC version, and any "GTA 6 PC download" is fake or malware; a Q1 2027 PC date is a GamesBeat report <span class="tag-reported">reported</span> ([[release/gta-6-pc-release-date|PC release date]]). The box has no paper map; a free printable one is reportedly due on rockstargames.com on Nov 19 <span class="tag-reported">reported</span> ([[guides/gta-6-printable-map|printable map]]).
 
-## 6. Set your expectations
+## 7. Dodge spoilers on Nov 18
 
-A few things that will save you a confused first hour:
+- [ ] Mute GTA keywords from 11:00 UTC Wednesday. New Zealand unlocks about 18 hours before the US East Coast (11:00 UTC Nov 18 against 05:00 UTC Nov 19), so story clips will circulate all day.
+- [ ] Expect reviews Wednesday, Nov 18, per NateTheHate and Insider Gaming <span class="tag-reported">reported</span>. Rockstar hasn't confirmed it; see [[release/gta-6-reviews-and-review-embargo|reviews and embargo]].
+- [ ] Avoid CyberLeek clips, which contain major story spoilers <span class="tag-reported">reported</span>. Our [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek explainer]] covers what leaked without the plot.
 
-- **30 fps on every console**, including PS5 Pro. There is no performance mode at launch. Pro adds PSSR and ray-traced shadows. See [[release/gta-6-ps5-pro-performance|PS5 Pro performance]].
-- **No online mode.** GTA VI is "a single player experience" at launch. GTA Online on GTA V keeps running. See [[release/gta-6-gta-online-status|GTA Online status]].
-- **No PC version.** Any "GTA 6 PC download" is fake or malware. A Q1 2027 PC date is only a report <span class="tag-reported">reported</span>. See [[release/gta-6-pc-release-date|PC release date]].
-- **No paper map in the box.** A free printable map goes up on rockstargames.com on Nov 19 <span class="tag-reported">reported</span>. See [[guides/gta-6-printable-map|printable map]].
+## 8. Before your first mission
 
-## 7. Protect yourself from spoilers
+Read [[guides/gta-6-tips-before-you-start|tips before you start]]: police need a witness, pocket cash is lost when you die, and you carry two long guns at most. Keep the [[guides/gta-6-faq|GTA 6 FAQ]] open for quick answers and the [[guides/index|guides hub]] for the rest.
 
-- [ ] New Zealand unlocks about **18 hours** before the US East Coast (11:00 UTC Nov 18 vs 05:00 UTC Nov 19). Expect story clips on social media through Wednesday.
-- [ ] Reviews are reportedly embargoed until **Wednesday, Nov 18** <span class="tag-reported">reported</span>. Rockstar has not confirmed the date. See [[release/gta-6-reviews-and-review-embargo|reviews and embargo]].
-- [ ] The CyberLeek footage from earlier this year contains major story spoilers <span class="tag-reported">reported</span>. Our [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek explainer]] covers what leaked without spoiling it.
-
-## 8. First session prep
-
-Once you are in, read our [[guides/gta-6-tips-before-you-start|tips before you start]]: police only respond to witnessed crimes, cash is lost when you die, and you carry only two long guns. Bookmark the [[guides/gta-6-faq|GTA 6 FAQ]] for quick answers, and the [[guides/index|guides hub]] for the rest.
-
-## What we're watching
-
-Rockstar has still not published patch notes for 1.002, confirmed the review embargo, or explained the 230 GB German box figure. We will update this checklist the moment any of that changes, and log fixes on our [[about/corrections|corrections page]].
+Still unresolved as of Nov 15: patch notes for 1.002, a confirmed review embargo, and an explanation of the German box's 230 GB. Changes get logged on the [[about/corrections|corrections page]].

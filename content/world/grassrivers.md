@@ -2,14 +2,14 @@
 title: "Grassrivers in GTA 6: Leonida's Everglades, gators and mangroves"
 seoTitle: "Grassrivers in GTA 6: Leonida's Everglades Explained"
 shortTitle: "Grassrivers"
-description: "Grassrivers is GTA 6's Everglades: a wetland of gators, mangroves and 'far deadlier predators'. Its real-world match, named places and what Rockstar has shown."
+description: "Grassrivers is GTA 6's Everglades: gators, mangroves and 'far deadlier predators'. The real match, Pelican Valley, Mariana County and what Rockstar showed."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 7
 tags: ["grassrivers", "world", "wildlife", "real-life-locations"]
-tldr: "**Grassrivers is GTA 6's take on the Everglades**, one of Leonida's six official regions. Rockstar pitches it as gator country with \"far deadlier predators and weirder discoveries among the mangroves.\" No main character is officially tied to it yet."
+tldr: "**Grassrivers is GTA 6's Everglades**, a wetland region Rockstar bills as gator country with \"far deadlier predators and weirder discoveries among the mangroves.\" No official character bio is set there, and its only named sub-location so far, Pelican Valley, comes from the leaked Collector's Box poster."
 facts:
   - k: "Based on"
     v: "Everglades (press analysis)"
@@ -23,13 +23,13 @@ facts:
     v: "Mariana (rumour)"
 faq:
   - q: "What is Grassrivers in GTA 6?"
-    a: "One of the six official regions of Leonida, a primordial wetland Rockstar describes as gator country with 'far deadlier predators and weirder discoveries among the mangroves.'"
+    a: "One of Leonida's six official regions: a 'primordial expanse' of mangrove wetland that Rockstar says hides 'far deadlier predators' than its famous alligators."
   - q: "Is Grassrivers the Everglades?"
-    a: "Yes, according to press analysis. The name plays on the Everglades nickname 'River of Grass.' Rockstar has not stated the match itself."
+    a: "Yes, per GTA BOOM and GTABase. The name plays on the Everglades' nickname, 'River of Grass.' Rockstar has not stated the match itself."
   - q: "Are there alligators in GTA 6?"
-    a: "Yes. Alligators are among the native species Rockstar named to Game Informer, and Trailer 1 shows one inside a convenience store. Grassrivers is billed as their most famous home."
-  - q: "What county is Grassrivers in?"
-    a: "Rockstar has named no counties. The leaked map shows a Mariana County covering the south and the wetlands, which would likely include Grassrivers, but that is unconfirmed."
+    a: "Yes. Rockstar named alligators among the native species it listed to Game Informer, and Trailer 1 recreates a real Florida clip of a gator wandering into a convenience store."
+  - q: "Can you drive an airboat in GTA 6?"
+    a: "Unconfirmed. The only official mention is Rockstar's blurb for Back Country Radio, 'airboat-ready renegade country.' No airboat appears on Rockstar's vehicle or edition pages."
 sources:
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
@@ -65,52 +65,39 @@ sources:
     url: "https://thegamepost.com/gta-6-full-map-leaks-online-counties-islands-huge-unseen-areas/"
     publisher: "The Game Post"
     date: "Aug 19, 2026"
+  - title: "GTA 6 Collector's Edition Revealed"
+    url: "https://www.vice.com/en/article/gta-6-collectors-edition-price-items-pre-order/"
+    publisher: "VICE"
+    date: "Sep 24, 2026"
 related: ["world/gta-6-wildlife-and-animals", "characters/macca-the-gator", "world/leonida-regions"]
 ---
 
-**Grassrivers is GTA 6's Everglades**: a sprawling wetland of mangroves and alligators. Rockstar's official pitch is short and ominous: "You never know what lies beneath the surface of this primordial expanse."
+Grassrivers is GTA 6's Everglades, and Rockstar's pitch for it reads like a creature-feature tagline: "You never know what lies beneath the surface of this primordial expanse. The gators may be the most famous attraction, but there are far deadlier predators and weirder discoveries among the mangroves" <span class="tag-confirmed">confirmed</span>.
 
-It's one of the [[world/leonida-regions|six official regions]], and the one most built around wildlife rather than people.
-
-## What does Rockstar say about Grassrivers?
-
-The full official line continues: "The gators may be the most famous attraction, but there are far deadlier predators and weirder discoveries among the mangroves" <span class="tag-confirmed">confirmed</span>.
-
-Two things stand out. Rockstar is promising something more dangerous than alligators, and it's promising "weirder discoveries", which reads like a hint at oddities or secrets in the swamp <span class="tag-speculation">speculation</span>. Rockstar hasn't said what either refers to.
+Rockstar has not said what the deadlier predators or the weirder discoveries are. It is one of the [[world/leonida-regions|six official regions]] and the one built around wildlife.
 
 ## Is Grassrivers based on the Everglades?
 
-Yes, per GTA BOOM and GTABase <span class="tag-reported">reported</span>. The name plays on the Everglades' best-known nickname, "River of Grass". As with every region, outlets say Rockstar blends and compresses real places, so expect a condensed version rather than a map-accurate one. See [[world/gta-6-real-life-locations|GTA 6 real-life locations]] for the other matches.
+Yes, per GTA BOOM and GTABase <span class="tag-reported">reported</span>. The name is a play on "River of Grass," the Everglades' best-known nickname. Both outlets say Rockstar compresses real geography, so expect a condensed swamp rather than a survey-accurate one. The other regions' matches are on [[world/gta-6-real-life-locations|GTA 6 real-life locations]].
+
+On the CyberLeek leaked map, the south of the state and its wetlands fall in Mariana County <span class="tag-rumour">rumour</span>. The one sub-location name so far, Pelican Valley, was read off photos of the official Collector's Box poster taken at a Selfridges display in Manchester and placed in Grassrivers <span class="tag-reported">reported</span>. Rockstar has not commented on either. Both are graded on [[world/gta-6-leaked-map-and-counties|the leaked map and counties]].
 
 ## What animals live in Grassrivers?
 
-Rockstar told Game Informer that GTA 6 has **over 170 animal species** "across land, air, and sea" <span class="tag-reported">reported</span>. The named natives include **alligators, flamingos, pelicans and manatees**, and the named invasives include **green iguanas, cane toads, feral cats and rhesus macaques**. Rockstar didn't assign them to regions, but a wetland is the obvious home for gators and wading birds.
+Rockstar told Game Informer the game has over 170 species "across land, air, and sea," some never seen in a Rockstar game <span class="tag-reported">reported</span>. The named natives are alligators, flamingos, pelicans and manatees. The named invasives are green iguanas, cane toads, feral cats and rhesus macaques. Rockstar did not assign any of them to a region.
 
-Animals are tiered as Rare, Discoverable and Legendary and can be tracked. Hunting and fishing are both in. Everything we know is on [[world/gta-6-wildlife-and-animals|GTA 6 wildlife and animals]].
+Animals are tiered Rare, Discoverable and Legendary and can be tracked, and examined animals go into a checklist like RDR2's compendium. Hunting and fishing are both in. The details are on [[world/gta-6-wildlife-and-animals|GTA 6 wildlife and animals]] and [[gameplay/gta-6-activities-and-side-content|activities and side content]].
 
-In-universe, Leonida's gator obsession runs as far as TV: the animated show *Macca the Gator* is part of the game's pop culture <span class="tag-confirmed">confirmed</span>. Meet him at [[characters/macca-the-gator|Macca the Gator]].
+Leonida's gator obsession reaches its TV schedule. The animated show *Macca the Gator* is official in-game pop culture <span class="tag-confirmed">confirmed</span>, and VICE reports a Macca figure ships in the Collector's Box <span class="tag-reported">reported</span>. See [[characters/macca-the-gator|Macca the Gator]].
 
-## What places are in Grassrivers?
+## What has Rockstar shown of Grassrivers?
 
-Rockstar has named none beyond the region itself. Two leak-sourced names are relevant:
+Rockstar named the region with Trailer 2's site update on May 6, 2025 <span class="tag-confirmed">confirmed</span>. The August 2026 Extended Look includes bayous and forests, per Engadget, but doesn't label which region they belong to <span class="tag-reported">reported</span>.
 
-| Place | Source | Grade |
-| --- | --- | --- |
-| Pelican Valley | Read from Collector's Box poster photos, placed in Grassrivers | <span class="tag-reported">reported</span> |
-| Mariana County (south and the wetlands) | CyberLeek leaked map | <span class="tag-rumour">rumour</span> |
-
-Details on both leaks are at [[world/gta-6-leaked-map-and-counties|the leaked map and counties]].
-
-## What has been shown of Grassrivers?
-
-- **Trailer 2 (May 2025)** introduced Grassrivers by name on Rockstar's site alongside the other five destinations <span class="tag-confirmed">confirmed</span>.
-- **The Extended Look (Aug 2026)** includes bayous and forests, per Engadget <span class="tag-reported">reported</span>. Which region those shots belong to isn't labeled.
-- Rockstar's **Back Country Radio** is billed as "airboat-ready renegade country", hosted by MW and Delta Dawne <span class="tag-confirmed">confirmed</span>. Press identify the hosts as Morgan Wallen and Lana Del Rey <span class="tag-reported">reported</span>. More on [[music/gta-6-radio-stations|GTA 6 radio stations]].
+The soundtrack points here too. Back Country Radio is billed as "airboat-ready renegade country from MW and Delta Dawne," with David Allan Coe and Loretta Lynn on its preview list <span class="tag-confirmed">confirmed</span>. Press identify the hosts as Morgan Wallen and Lana Del Rey, plus reporter Mud Dog Mike as Jeremy Dufrene <span class="tag-reported">reported</span>. More on [[music/gta-6-radio-stations|GTA 6 radio stations]].
 
 ## Which characters are tied to Grassrivers?
 
-None of Rockstar's eight official bios name Grassrivers. Jason and Lucia's story stretches "across the state of Leonida", so the swamp may feature in missions, but nothing official says how <span class="tag-speculation">speculation</span>. See [[characters/index|all characters]].
+None of Rockstar's official bios mentions it. [[characters/jason-duval|Jason]] and Lucia's story, per the launch trailer, pulls them into a conspiracy across Leonida, but nothing official places a mission here.
 
-## What we're watching
-
-What the "far deadlier predators" turn out to be, whether airboats are drivable (only the radio blurb mentions them), and whether storms flood the wetlands. Hurricanes are confirmed for the game; see [[world/gta-6-weather-and-hurricanes|weather and hurricanes]]. Back to the [[world/index|world hub]].
+Rockstar has also not said whether airboats are drivable or whether its confirmed seasonal hurricanes flood the wetlands; see [[world/gta-6-weather-and-hurricanes|weather and hurricanes]]. The rest of the map is on the [[world/index|world hub]].

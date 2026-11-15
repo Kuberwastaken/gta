@@ -2,7 +2,7 @@
 title: "GTA 6 Trailer 1: release, what it revealed and the records it broke"
 seoTitle: "GTA 6 Trailer 1: Release, Reveals, Song and Records"
 shortTitle: "Trailer 1"
-description: "GTA 6 Trailer 1 dropped Dec 4, 2023, 15 hours early after a leak. It revealed Lucia, Jason, Vice City and a 2025 window, and set a 24-hour YouTube record."
+description: "GTA 6 Trailer 1 went up Dec 4, 2023, 15 hours early after a leak. It showed Lucia, Jason, Vice City and a 2025 date, and drew 90.4M YouTube views in 24 hours."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
@@ -31,7 +31,7 @@ faq:
   - q: "What song is in the first GTA 6 trailer?"
     a: "Tom Petty's 'Love Is a Long Road', from his 1989 album Full Moon Fever."
   - q: "How many views did GTA 6 Trailer 1 get?"
-    a: "Guinness World Records counted 90,421,491 YouTube views and 8.9 million likes in 24 hours, both records for a video game trailer. YouTube said 93 million-plus. Wikipedia cites 268 million by November 2025."
+    a: "Guinness counted 90,421,491 YouTube views and 8.9 million likes in 24 hours, both records for a game trailer. Wikipedia tracks 168 million by January 2024 and 268 million by November 2025."
   - q: "Did GTA 6 Trailer 1 say 2025?"
     a: "Yes. The end card said 2025. The game was later delayed twice and now launches November 19, 2026."
 sources:
@@ -68,13 +68,13 @@ sources:
 related: ["media/gta-6-trailer-2", "music/gta-6-trailer-songs", "media/gta-6-easter-eggs-in-trailers"]
 ---
 
-**GTA 6 Trailer 1** went live on **December 4, 2023**, a 1:31 video that ended a decade of waiting. It was meant to premiere at 9am ET on December 5, but a leaked copy forced Rockstar to post it about 15 hours early. It revealed the title *Grand Theft Auto VI*, a return to [[world/vice-city|Vice City]] in the state of Leonida, two leads, a **2025** release window, and PS5 and Xbox Series X|S as the only platforms.
+Rockstar posted GTA 6 Trailer 1 on the evening of December 4, 2023 (US time), about 15 hours before its 9am ET slot on December 5, because a leaked copy was already on X. The 1:31 video named the game *Grand Theft Auto VI*, put it in [[world/vice-city|Vice City]] in the state of Leonida, introduced Lucia and Jason, and ended on "2025" with PS5 and Xbox Series X|S as the only platforms.
 
-## When did GTA 6 Trailer 1 come out?
+## Why did Trailer 1 come out early?
 
-On November 8, 2023, Sam Houser's "A Message from Rockstar Games" promised the first trailer for the next GTA in early December, tied to Rockstar's 25th anniversary <span class="tag-confirmed">confirmed</span>. Rockstar later set the slot for 9am ET on Tuesday, December 5.
+Sam Houser's "A Message from Rockstar Games" on November 8, 2023 promised the first trailer in early December, tied to Rockstar's 25th anniversary <span class="tag-confirmed">confirmed</span>. Rockstar then booked 9am ET on Tuesday, December 5. On the evening of December 4 a low-quality copy with a crypto watermark spread on X, and Rockstar put the real trailer up about 30 minutes later, per Gamepressure <span class="tag-confirmed">confirmed</span>. Rockstar's video page dates it December 4.
 
-It did not hold. On the evening of December 4 (US time), a low-quality copy with a crypto watermark spread on X. About 30 minutes later Rockstar posted the official trailer, roughly 15 hours ahead of schedule, per Gamepressure <span class="tag-confirmed">confirmed</span>. Rockstar's own video page dates the trailer December 4, 2023.
+It was the first footage Rockstar released on its own terms. The company had only confirmed the game existed on February 4, 2022, with a Newswire line saying development was "well underway", and the [[timeline/gta-6-2022-leak|September 2022 hack]] had already put 90-plus early clips online.
 
 ## What did GTA 6 Trailer 1 reveal?
 
@@ -87,55 +87,27 @@ It did not hold. On the evening of December 4 (US time), a low-quality copy with
 | Platforms | PS5 and Xbox Series X\|S, no PC |
 | Song | Tom Petty, "Love Is a Long Road" |
 
-The trailer opens on [[characters/lucia-caminos|Lucia]] in prison. The first voice heard is reportedly her prison social worker, whom fans call "Stefanie" <span class="tag-reported">reported</span>. It then cuts to a montage of Leonida life styled after real Florida viral clips, and introduces [[characters/jason-duval|Jason]] as her partner. That couple-on-the-run setup matched what Bloomberg's Jason Schreier had reported in July 2022: a Latina female lead in a criminal duo, in a fictional Miami.
+It opens on [[characters/lucia-caminos|Lucia]] in prison. The first voice is reportedly her prison social worker, whom fans call "Stefanie" <span class="tag-reported">reported</span>. A montage of Leonida modeled on real Florida viral clips follows, then [[characters/jason-duval|Jason]] as her partner. Bloomberg's Jason Schreier had reported that setup in July 2022: a Latina female lead in a Bonnie and Clyde-style duo in a fictional Miami. Lucia is the first female protagonist of a 3D-era mainline GTA; the exact wording is explained on our [[characters/gta-6-first-female-protagonist|first female protagonist]] page.
 
-Lucia's reveal made her the first female protagonist of a 3D-era mainline GTA. Our [[characters/gta-6-first-female-protagonist|first female protagonist]] page explains the careful wording.
-
-## What song is in GTA 6 Trailer 1?
-
-Tom Petty's **"Love Is a Long Road"**, from *Full Moon Fever* (1989). A "Petty Forever" sticker is visible on a door near the end. Every trailer's music is on our [[music/gta-6-trailer-songs|trailer songs]] page.
+The song is Tom Petty's "Love Is a Long Road", from *Full Moon Fever* (1989). A "Petty Forever" sticker is visible on a door near the end. Every video's music is on [[music/gta-6-trailer-songs|GTA 6 trailer songs]].
 
 ## How many views did Trailer 1 get?
 
 | Measure | Figure | Source |
 | --- | --- | --- |
 | YouTube views, first 24 hours | 93M+ | YouTube Official Blog |
-| YouTube views, first 24 hours (record count) | 90,421,491 | Guinness World Records |
+| YouTube views, first 24 hours (certified) | 90,421,491 | Guinness World Records |
 | Likes, first 24 hours | 8.9M | Guinness World Records |
 | About two days | 101M | Wikipedia |
 | January 2024 | 168M | Wikipedia |
 | November 2025 | 268M | Wikipedia |
 
-The two 24-hour figures are separate counts; the Guinness number is the certified one. Guinness certified it as the most viewed video game trailer on YouTube in 24 hours and the most liked. YouTube said it was a record 24-hour debut for a non-music video, beating MrBeast's 59.4M mark <span class="tag-confirmed">confirmed</span>.
+The two 24-hour figures are separate counts; Guinness's is the certified one. It made Trailer 1 the most viewed and most liked game trailer on YouTube in 24 hours. YouTube called it a record 24-hour debut for any non-music video, beating MrBeast's 59.4M <span class="tag-confirmed">confirmed</span>. [[media/gta-6-trailer-2|Trailer 2]] later claimed 475M views across all platforms, but its YouTube-only count never passed this record.
 
-[[media/gta-6-trailer-2|Trailer 2]] later claimed 475M views across all platforms in 24 hours, but its YouTube-only count stayed below Trailer 1's record.
+## What easter eggs are in Trailer 1?
 
-## What easter eggs are in GTA 6 Trailer 1?
-
-Den of Geek's frame-by-frame pass found plenty <span class="tag-reported">reported</span>:
-
-- The **Ocean View Hotel**, where Tommy Vercetti stayed in GTA Vice City.
-- A small three-windowed building beside the Atlantic Hotel, modeled on the *Scarface* chainsaw scene location.
-- Recreations of real Florida viral clips: the "Florida Joker", a man watering his lawn in a thong, an alligator wandering into a store, and a woman twerking on a car.
-- A seaplane banner for **Nine1Nine**, a riff on Miami's E11EVEN club.
-- The **Seven Mile Bridge** and the Keys, the area our [[world/leonida-keys|Leonida Keys]] page covers.
-- A shark and dolphins in an early ocean shot, and a caption about a town called Hamlet.
-- Returning vehicle names including the Cheetah, Banshee, Comet, Stanier and Sea Sparrow.
-
-The full list, across every trailer, is on [[media/gta-6-easter-eggs-in-trailers|GTA 6 trailer easter eggs]].
-
-## Did Trailer 1 confirm a PC version?
-
-No. The platforms shown were PS5 and Xbox Series X|S, and that has not changed in three years. Every later trailer, the June 2026 pre-order launch and the November 2026 pre-load kept to the same two consoles. GamesBeat reported in October 2026, citing four anonymous sources, that a PC version is targeted for Q1 2027; Rockstar did not respond <span class="tag-reported">reported</span>. Take-Two's Strauss Zelnick has said PC can now be "40% or 50%" of multiplatform sales, without announcing anything. See [[release/gta-6-pc-release-date|GTA 6 PC release date]].
-
-## Why was Trailer 1 such a big deal?
-
-Context explains the numbers. Rockstar did not confirm a new GTA at all until February 4, 2022, when a Newswire post said development was "well underway". The [[timeline/gta-6-2022-leak|September 2022 hack]] then put early footage online without Rockstar's consent. Trailer 1 was the first time Rockstar showed the game on its own terms, with its own title card. The full run-up is on the [[timeline/index|GTA 6 timeline]].
+Den of Geek's frame-by-frame pass found the Ocean View Hotel, where Tommy Vercetti stayed in GTA Vice City, and a three-windowed building beside the Atlantic Hotel modeled on the *Scarface* chainsaw scene <span class="tag-reported">reported</span>. It also logged recreations of the "Florida Joker", a man watering his lawn in a thong, an alligator in a store and a woman twerking on a car, plus a seaplane banner for Nine1Nine, a riff on Miami's E11EVEN club. The Seven Mile Bridge places the [[world/leonida-keys|Leonida Keys]] on screen, and returning vehicle names include the Cheetah, Banshee, Comet, Stanier and Sea Sparrow. The full list is on [[media/gta-6-easter-eggs-in-trailers|GTA 6 trailer easter eggs]].
 
 ## What did Trailer 1 get wrong?
 
-Only the date. "2025" became May 26, 2026, then November 19, 2026, after two delays. The full record is on [[timeline/gta-6-delays|GTA 6 delays]]. Everything else the trailer showed, from Vice City to the two leads, held up.
-
-## What came next
-
-No new trailer came for 17 months. Trailer 2 arrived without warning on May 6, 2025, four days after the first delay. The whole run of videos is in the [[media/index|media hub]].
+The date. "2025" became May 26, 2026, then November 19, 2026, after two delays logged on [[timeline/gta-6-delays|GTA 6 delays]]. The platform list held: no PC at launch, and the only PC date in circulation is GamesBeat's anonymously sourced Q1 2027 report <span class="tag-reported">reported</span>, tracked on [[release/gta-6-pc-release-date|GTA 6 PC release date]]. No new trailer followed for 17 months, until Trailer 2 on May 6, 2025. The full run of videos is in the [[media/index|media hub]], with the wider context on the [[timeline/index|GTA 6 timeline]].

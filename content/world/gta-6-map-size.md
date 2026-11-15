@@ -2,7 +2,7 @@
 title: "GTA 6 map size: how big is Leonida compared to GTA 5 and RDR2?"
 seoTitle: "GTA 6 Map Size: How Big Is Leonida vs GTA 5 and RDR2?"
 shortTitle: "Map size"
-description: "Rockstar says GTA 6's map is about 2x GTA 5 and 3x RDR2 but has given no km² figure. Every official ratio and fan estimate, and why the numbers disagree."
+description: "Rockstar staff put GTA 6's map at about 2x GTA 5 and 3x RDR2, with no km² figure. Every ratio and fan estimate (83 to 125 km²), and why they disagree."
 status: "mixed"
 published: 2026-11-15
 popular: true
@@ -10,7 +10,7 @@ updated: 2026-11-15
 verified: 2026-11-15
 weight: 1
 tags: ["map", "world", "leaks"]
-tldr: "Rockstar developers put Leonida at **roughly 2x GTA 5 and 3x Red Dead Redemption 2**, and Edge says its landmass is nearly GTA 4, GTA 5 and RDR2 combined. **Rockstar has published no square-km or square-mile figure.** Fan estimates range from about 83 km² to 125 km² of land."
+tldr: "Rockstar developers put Leonida at **roughly 2x GTA 5 and 3x Red Dead Redemption 2**, and Edge says its landmass is nearly GTA 4, GTA 5 and RDR2 combined. Rockstar has published no square-km or square-mile figure. Fan estimates run from about 83 km² to 125 km² of land."
 facts:
   - k: "vs GTA 5"
     v: "About 2x (Rob Nelson, Aaron Garbut via press)"
@@ -26,13 +26,13 @@ facts:
     v: "Gradually, as you explore (reported)"
 faq:
   - q: "How big is the GTA 6 map compared to GTA 5?"
-    a: "Rockstar North's Rob Nelson and Aaron Garbut have both described it as about twice the size of GTA 5, per press coverage of the August 2026 preview and Game Informer's September cover story. No official area figure exists."
+    a: "About twice. Rob Nelson gave TGG that figure at the August 2026 Rockstar North preview and Aaron Garbut repeated it to Game Informer in September. On GTA 5's 49.3 km² of land, that is roughly 99 km²."
   - q: "How big is the GTA 6 map in square miles or km²?"
     a: "Rockstar has not said. Community estimates run from about 83 km² (32 sq mi) of land, measured from the leaked map, to about 125 km² (48 sq mi) from the GTA 6 Mapping Project. Both are unverified."
   - q: "Is the GTA 6 map bigger than Red Dead Redemption 2?"
-    a: "Yes. Rockstar told The New York Times the playable area is about three times RDR2's. Edge reports the total landmass is nearly as large as GTA 4, GTA 5 and RDR2 combined."
+    a: "Yes, by about three times the playable area, per Rockstar to The New York Times. Edge goes further and says Leonida's landmass nearly matches GTA 4, GTA 5 and RDR2 combined."
   - q: "Is Vice City bigger than Los Santos?"
-    a: "Rob Nelson reportedly told YouTuber TGG that Vice City is about twice the size of Los Santos. That figure comes through a single creator and is graded rumour until launch."
+    a: "Reportedly about twice as big, per Rob Nelson via YouTuber TGG. An '11x Los Santos' figure for Vice City plus suburbs also circulates; GTA Intel calls it the least corroborated claim."
   - q: "Does the GTA 6 map size include water?"
     a: "Rockstar has not said whether its ratios count water. That is the main reason the official ratios and fan land-area estimates do not line up."
 sources:
@@ -75,13 +75,11 @@ sources:
 related: ["world/leonida-regions", "world/gta-6-leaked-map-and-counties", "guides/gta-6-printable-map"]
 ---
 
-Rockstar's developers describe Leonida as **about twice the size of GTA 5's map and about three times Red Dead Redemption 2's playable area**. Edge goes further and says the total landmass is nearly as large as GTA 4, GTA 5 and RDR2 combined. What Rockstar has never given is a hard number: there is no official square-kilometer or square-mile figure.
-
-Every other number you have seen comes from fans measuring leaked or promotional maps. Those estimates disagree with each other and with Rockstar's ratios. Here is every figure in one place, graded, with the reasons they don't match.
+Rockstar's developers describe Leonida as about twice GTA 5's map and about three times Red Dead Redemption 2's playable area. Edge says the landmass is nearly as large as GTA 4, GTA 5 and RDR2 combined. Rockstar has never given an area in square kilometers or miles <span class="tag-confirmed">confirmed</span>, so every hard number in circulation is a fan measurement.
 
 ## How big is the GTA 6 map? Every figure, graded
 
-The table below lists each claim, where it came from, and what it would mean in area. The "implied area" column is our own arithmetic <span class="tag-speculation">speculation</span>, using the land figures VICE quoted for GTA 5 (49.3 km²) and RDR2 (35.9 km²).
+The "implied land area" column is our arithmetic <span class="tag-speculation">speculation</span>, using the land figures VICE quoted for GTA 5 (49.3 km²) and RDR2 (35.9 km²).
 
 | Claim | Who said it | Implied land area | Grade |
 | --- | --- | --- | --- |
@@ -95,60 +93,30 @@ The table below lists each claim, where it came from, and what it would mean in 
 | About 1.7x GTA 5 | GTABase map hub | About 84 km² (32 sq mi) | <span class="tag-rumour">rumour</span> |
 | No official km² or sq mi figure | Rockstar | n/a | <span class="tag-confirmed">confirmed</span> |
 
-IGN's Aug 27 piece quotes Rockstar calling it the studio's most complex world and a "very big" map, per VICE's roundup. That is as close to an official size statement as Rockstar has put out under its own name.
+The nearest thing to an on-record size statement under Rockstar's name is IGN's Aug 27 report, relayed by VICE, of Rockstar calling Leonida its most complex world and a "very big" map.
 
 ## Is GTA 6 twice the size of GTA 5?
 
-That is the most consistent figure from Rockstar staff. Rob Nelson, co-studio head at Rockstar North, gave TGG the "2x GTA 5" figure during the August 2026 Rockstar North preview, and Kotaku, IGN and PC Gamer relayed it <span class="tag-reported">reported</span>. Aaron Garbut repeated it in Game Informer's September 2026 cover story, according to GTA Intel and TimeSaver.
+That is the figure Rockstar staff repeat most. Rob Nelson, co-studio head at Rockstar North, gave TGG "2x GTA 5" at the August 2026 preview, and Kotaku, IGN and PC Gamer relayed it <span class="tag-reported">reported</span>. Aaron Garbut said the same in Game Informer's September cover story, per GTA Intel and TimeSaver. We grade it reported because it reaches us through creators and press, not a Rockstar post.
 
-We grade it reported, not confirmed, because it reaches us through press and creator coverage rather than a Rockstar post. It is still the best single answer to "how big is the map".
+## How does it compare to Red Dead Redemption 2?
 
-## How does GTA 6 compare to Red Dead Redemption 2?
+Rockstar told The New York Times the playable area is about three times RDR2's. Edge's line is that the landmass, "including Vice City and the surrounding areas," nearly equals GTA 4, GTA 5 and RDR2 put together, a claim GameSpot also ran with <span class="tag-reported">reported</span>. Neither comes with a number.
 
-Rockstar told The New York Times the playable area is about three times RDR2's <span class="tag-reported">reported</span>. The Edge feature then said the landmass, "including Vice City and the surrounding areas", is nearly as large as the playable maps of GTA 4, GTA 5 and RDR2 put together <span class="tag-reported">reported</span>.
+## Why don't the numbers agree?
 
-Those two framings are both from Rockstar, and both say "much bigger than RDR2". Neither gives a number.
+Water is the first problem. Rockstar has not said whether its ratios count ocean, lakes and the Grassrivers wetlands, and the Reddit 83.2 km² figure excludes water on purpose. A map with as much coastline and swamp as [[world/leonida-regions|Leonida]] can look twice GTA 5's size on screen while having well under twice the dry land.
 
-## Why don't the GTA 6 map size numbers agree?
+RDR2 has two sizes. TimeSaver points out that "3x RDR2" and "2x GTA 5" only agree if RDR2 is measured at about 36 km² of land. Using the 75 km² figure some sites quote, 3x RDR2 becomes about 225 km², which no other estimate comes near <span class="tag-reported">reported</span>.
 
-The figures conflict for five concrete reasons.
+The fan measurements lean on an old map. Both the Reddit figure and the Mapping Project's outline draw on the CyberLeek map from August 2026, and GTABase suggests that build may date from 2023 <span class="tag-rumour">rumour</span>. The Mapping Project's own ratio (2.55 to 2.6x) is also a bit above a straight 125 / 49.3 division (about 2.54x), which implies a smaller GTA 5 baseline <span class="tag-speculation">speculation</span>. GTA Wiki promised a "final version" in November. What the leaked map shows is on [[world/gta-6-leaked-map-and-counties|the leaked map and counties]].
 
-### 1. Nobody knows whether water counts
-
-Rockstar has not said whether its ratios include ocean, lakes and the Grassrivers wetlands. The Reddit 83.2 km² figure deliberately excludes water. A map with as much coastline and swamp as [[world/leonida-regions|Leonida]] can look twice as big as GTA 5 on screen while having far less than twice the dry land.
-
-### 2. RDR2 has two very different sizes
-
-TimeSaver points out that "3x RDR2" and "2x GTA 5" only agree if RDR2 is measured small, at about 36 km² of land. With the higher RDR2 figure of about 75 km² that some sites use, 3x RDR2 would be roughly 225 km², which no other estimate comes near <span class="tag-reported">reported</span>.
-
-### 3. The leaked map may be old
-
-The fan measurements lean on the full Leonida map leaked by CyberLeek in August 2026. GTABase suggested the leaked build may date from 2023 and that the map may be work in progress <span class="tag-rumour">rumour</span>. If so, any area measured from it is a snapshot of an unfinished game. See [[world/gta-6-leaked-map-and-counties|the leaked map and counties]] for what it shows.
-
-### 4. Community projects use different outlines
-
-The GTA 6 Mapping Project, now run with GTA Wiki, reached about 125 km² of land. Critics note that its outline also leans on the unverified leaked map. GTA Wiki said a "final version" would come out in November, before launch <span class="tag-rumour">rumour</span>. Its own ratio (2.55 to 2.6x GTA 5) is also slightly higher than a straight 125 / 49.3 division gives (about 2.54x), which suggests it uses a slightly smaller GTA 5 baseline <span class="tag-speculation">speculation</span>.
-
-### 5. The Vice City figures are worded differently everywhere
-
-"Vice City is 2x Los Santos" and "Vice City plus suburbs is 11x Los Santos and surroundings" both trace back to TGG. GTA Intel calls the 11x figure the least corroborated. A VICE roundup instead says "populated space nearly 11 times GTA 5's", which is a different claim <span class="tag-rumour">rumour</span>. Until launch, treat any "11x" headline with caution.
-
-## Is Vice City bigger than Los Santos?
-
-Probably, but the only specific number is "about 2x", from Nelson via TGG <span class="tag-rumour">rumour</span>. Rockstar's official copy describes [[world/vice-city|Vice City]] as "the glamour, hustle, and greed of America captured in a single city" and lists neighborhoods from Ocean Beach to the VC Port, but says nothing about its size.
+The Vice City figures are worded differently everywhere. "2x Los Santos" and "11x Los Santos and surroundings" both trace to TGG, GTA Intel calls the 11x figure the least corroborated, and VICE's roundup says "populated space nearly 11 times GTA 5's," which is a different claim again <span class="tag-rumour">rumour</span>. Rockstar's copy for [[world/vice-city|Vice City]] lists neighborhoods from Ocean Beach to the VC Port and says nothing about size.
 
 ## Does a bigger map mean more to do?
 
-Rockstar's message is density as much as size. Aaron Garbut told Edge the game has "an order of magnitude more interiors" than its predecessors <span class="tag-reported">reported</span>. Roads were narrowed compared with GTA 5, and many buildings have multiple exits for escapes <span class="tag-reported">reported</span>. Our [[world/gta-6-interiors|interiors guide]] covers what you can enter.
+Rockstar has pitched density as much as area. Aaron Garbut told Edge there are "an order of magnitude more interiors" than in previous games, roads were narrowed compared with GTA 5, and day/night cycles are longer, with extended sunsets <span class="tag-reported">reported</span>. Red Bull adds that many buildings have multiple exits for escapes, which matters once the [[gameplay/gta-6-wanted-system-and-heat|six-star wanted system]] is chasing you. What you can enter is on [[world/gta-6-interiors|GTA 6 interiors]].
 
-Rob Nelson also said the map unlocks gradually as you explore, and that a full playthrough with optional content runs about 80 hours, per Red Bull <span class="tag-reported">reported</span>. Other outlets disagree on whether that 80 hours includes side content; see [[guides/gta-6-how-long-to-beat|how long GTA 6 is]].
+The map unlocks gradually as you explore, and Rob Nelson put a full playthrough with optional content at about 80 hours, per Red Bull <span class="tag-reported">reported</span>. Outlets disagree on whether that 80 includes side content; see [[guides/gta-6-how-long-to-beat|how long GTA 6 is]].
 
-## Is the map one state, or more?
-
-Leonida is a single fictional state with six official destinations: Vice City, the [[world/leonida-keys|Leonida Keys]], [[world/grassrivers|Grassrivers]], [[world/port-gellhorn|Port Gellhorn]], [[world/ambrosia|Ambrosia]] and [[world/mount-kalaga|Mount Kalaga]] <span class="tag-confirmed">confirmed</span>. Mount Kalaga sits "up against the state's northern border", and Trailer 2 shows license plates from Glorianna, a Georgia-style neighbor, and Liberty City. Nothing official says either is playable.
-
-## What we're watching
-
-- Whether Rockstar's in-game map or a [[guides/gta-6-printable-map|printable map]] lets the community take a clean measurement after Nov 19.
-- The Mapping Project's promised "final version".
-- Whether the leaked layout matches the shipping game. Our [[world/index|Leonida world hub]] will be updated once players have walked the coastline.
+Rockstar has not said whether water counts, how big any single region is, or whether the in-game map will show a scale. The first clean measurement will come after Nov 19, from the in-game map or an official [[guides/gta-6-printable-map|printable map]] if one appears. The rest of Leonida is on the [[world/index|world hub]].

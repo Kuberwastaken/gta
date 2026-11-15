@@ -467,40 +467,40 @@ export const ViceFooter: QuartzComponent = ({ fileData }: QuartzComponentProps) 
   const to = (s: string) => resolveRelative(slug, s as FullSlug)
   return (
     <footer class="vfooter">
-      <div class="vf-main">
+      <div class="vf-brand">
+        <a class="vf-word" href={to("index")} aria-label={`${site.name} home`}>
+          <span class="w1">GTA VI</span>
+          <span class="w2">Wire</span>
+        </a>
         <p class="vf-line">
           Sourced, graded GTA 6 coverage from Vice City to the Keys. Orchestrated by{" "}
           <a href="https://kuber.studio/">Kuber Mehta</a>.
         </p>
-        <div class="vf-cols">
-          <nav aria-label="Read">
-            <h2>Read</h2>
-            <a href={to("release/index")}>Release and buying</a>
-            <a href={to("characters/index")}>Characters</a>
-            <a href={to("world/index")}>World and map</a>
-            <a href={to("leaks/index")}>Leaks ledger</a>
-            <a href={to("news/index")}>News</a>
-          </nav>
-          <nav aria-label="About">
-            <h2>About</h2>
-            <a href={to("about/index")}>About the site</a>
-            <a href={to("about/how-we-grade")}>How we grade</a>
-            <a href={to("about/corrections")}>Corrections</a>
-            <a href={to("graph")}>Topic graph</a>
-          </nav>
-          <nav aria-label="Follow">
-            <h2>Follow</h2>
-            <a href="/index.xml">RSS</a>
-            <a href="/news.xml">News RSS</a>
-            <a href="https://x.com/Kuberwastaken">X</a>
-            <a href="https://github.com/Kuberwastaken">GitHub</a>
-          </nav>
-        </div>
       </div>
-      <a class="vf-word" href={to("index")} aria-label={`${site.name} home`}>
-        <span class="w1">GTA VI</span>
-        <span class="w2">Wire</span>
-      </a>
+      <div class="vf-cols">
+        <nav aria-label="Read">
+          <h2>Read</h2>
+          <a href={to("release/index")}>Release and buying</a>
+          <a href={to("characters/index")}>Characters</a>
+          <a href={to("world/index")}>World and map</a>
+          <a href={to("leaks/index")}>Leaks ledger</a>
+          <a href={to("news/index")}>News</a>
+        </nav>
+        <nav aria-label="About">
+          <h2>About</h2>
+          <a href={to("about/index")}>About the site</a>
+          <a href={to("about/how-we-grade")}>How we grade</a>
+          <a href={to("about/corrections")}>Corrections</a>
+          <a href={to("graph")}>Topic graph</a>
+        </nav>
+        <nav aria-label="Follow">
+          <h2>Follow</h2>
+          <a href="/index.xml">RSS</a>
+          <a href="/news.xml">News RSS</a>
+          <a href="https://x.com/Kuberwastaken">X</a>
+          <a href="https://github.com/Kuberwastaken">GitHub</a>
+        </nav>
+      </div>
     </footer>
   )
 }

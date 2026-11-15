@@ -2,14 +2,14 @@
 title: "GTA 6 landmarks and neighborhoods: every named place in Leonida"
 seoTitle: "GTA 6 Landmarks and Neighborhoods: Every Named Place"
 shortTitle: "Landmarks and neighborhoods"
-description: "Every named place in GTA 6 so far, from Ocean Beach and Little Cuba to Key Lento and the Allied Crystal refinery, with where each name came from."
+description: "Every named place in GTA 6 so far, from Ocean Beach and Little Cuba to Key Lento and the Allied Crystal refinery, graded by source, with real Miami matches."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 14
 tags: ["world", "map", "vice-city", "real-life-locations"]
-tldr: "Rockstar has officially named **Ocean Beach, Little Cuba, the Tisha-Wocka flea market, VC Port, Shore Drive, Washington Beach, Stockyard, Lake Leonida, Leonida Penitentiary** and more. Promotional and leaked maps add dozens of other names, graded below."
+tldr: "Rockstar's own pages name about 20 places, including **Ocean Beach, Little Cuba, the Tisha-Wocka flea market, VC Port, Stockyard and Lake Leonida**. Insider Gaming's promo list, the trailers and two leaked maps add dozens more, graded below."
 facts:
   - k: "Official regions"
     v: "6"
@@ -19,15 +19,19 @@ facts:
     v: "26 (Insider Gaming)"
   - k: "Leak-only names"
     v: "Catalan Bay, Dalton Island, others"
+  - k: "Murals"
+    v: "50+ street artists (reported)"
 faq:
   - q: "What neighborhoods are in GTA 6's Vice City?"
-    a: "Rockstar names Ocean Beach, Little Cuba, the Tisha-Wocka flea market, the VC Port and Southside Vice City, plus Shore Drive and Washington Beach. Insider Gaming's promo list adds Downtown, SW 9th Ave and VCI Airport."
+    a: "Rockstar names Ocean Beach, Little Cuba, the Tisha-Wocka flea market, VC Port and Southside Vice City. Insider Gaming's promo list adds Downtown, SW 9th Ave and VCI Airport."
   - q: "Is Starfish Island in GTA 6?"
-    a: "The name appears in Insider Gaming's list of locations compiled from promotional material. Rockstar hasn't described it on its own pages."
+    a: "It's on Insider Gaming's Nov 10, 2026 list of 26 places compiled from promotional material. Rockstar hasn't described it on its own pages, and it isn't on the official region profiles."
   - q: "Is the Ocean View Hotel in GTA 6?"
-    a: "Yes. Trailer 1 shows the Ocean View Hotel, Tommy Vercetti's hotel in the 2002 Vice City, and Rockstar names it on its edition pages."
+    a: "Yes. It's in Trailer 1 and on Rockstar's edition pages. It was Tommy Vercetti's hotel in 2002's Vice City."
   - q: "What is Effluvia in GTA 6?"
-    a: "A rooftop bar in downtown Vice City shown in the August 2026 Extended Look, per Engadget."
+    a: "A rooftop bar in downtown Vice City, seen in the August 2026 Extended Look per Engadget."
+  - q: "What is Nine1Nine in GTA 6?"
+    a: "A parody of Miami's E11EVEN club, first seen on a seaplane banner in Trailer 1. The real club rebranded itself Nine1Nine on Nov 6, 2026 as a marketing tie-in."
 sources:
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
@@ -63,73 +67,69 @@ sources:
     url: "https://www.gtabase.com/articles/gta-6/how-gta-6-s-leonida-compares-to-real-life-florida-locations"
     publisher: "GTABase"
     date: "Oct 3, 2026"
+  - title: "Grand Theft Auto VI"
+    url: "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+    publisher: "Wikipedia"
+    date: "Read Nov 15, 2026"
+  - title: "GTA 6 Map Spotted in the Wild"
+    url: "https://gamerant.com/gta-6-map-leonida-map-leak/"
+    publisher: "GameRant"
+    date: "Nov 12, 2026"
 related: ["world/vice-city", "world/gta-6-real-life-locations", "world/gta-6-interiors"]
 ---
 
-Rockstar has named more than 20 places in GTA 6 on its own pages, starting with the six regions and Vice City neighborhoods like **Ocean Beach** and **Little Cuba**. Promotional material, trailers and two map leaks add dozens more. This page lists every name we've found and grades where it came from, so you can tell an official neighborhood from a fan transcription.
+Rockstar has named roughly 20 places in GTA 6 on its own pages, on top of the six official regions. Insider Gaming's list from promotional material, the trailers and two map leaks push the total past 50. The tables below grade each name by where it came from, and give the real Miami or Florida match where outlets have made one.
+
+Wikipedia, citing Dazed, reports that Rockstar's field team started researching Miami in 2015 and that more than 50 street artists painted murals for Vice City's neighborhoods <span class="tag-reported">reported</span>.
 
 ## Which places has Rockstar officially named?
 
-From Rockstar's "Only in Leonida" page, edition and pre-order pages <span class="tag-confirmed">confirmed</span>:
+All from Rockstar's "Only in Leonida", edition and pre-order pages <span class="tag-confirmed">confirmed</span>. The real-world column is outlet analysis (GTABase and others), not Rockstar's <span class="tag-reported">reported</span>.
 
-| Place | What Rockstar says it is | Region (if stated) |
-| --- | --- | --- |
-| Ocean Beach | "Pastel art deco hotels and bright white sands" | Vice City |
-| Little Cuba | "Bustling panaderías" | Vice City |
-| Tisha-Wocka flea market | "Bootleg brands" | Vice City |
-| VC Port | "The cruise ship capital of the world" | Vice City |
-| Southside Vice City | PTT Youngin$ gang compound | Vice City |
-| Shore Drive | Named in edition copy | Not stated |
-| Shore Court garage | "A stone's throw from... Ocean Beach" | Near Ocean Beach |
-| Washington Beach | Where the Shitzu Squalo boat docks | Not stated |
-| Ocean View Hotel | Tommy Vercetti's hotel from 2002's Vice City | Not stated |
-| Gambit Bay | Fishing spot | Not stated |
-| Watson Bay | Paradise Garage | Not stated |
-| Stockyard | Stock 305 streetwear, Electric Fang Tattoo | Not stated |
-| Lake Leonida | One-Eyed Willie's off-road mod shop | Not stated (press: Ambrosia) |
-| Allied Crystal sugar refinery | Ambrosia's main employer | Ambrosia |
-| Leonida Penitentiary | Where Lucia served time | Not stated |
-| Rideout Customs | Donk and hi-riser shop | Not stated |
-| Sara's Unisex Salon | Salon | Not stated |
-| Vercetti Estate | Source of the Hawk & Little Morgan revolvers | Not stated |
-| Mount Kalaga National Park | Hunting, fishing, off-road trails | Mount Kalaga |
+| Place | What Rockstar says it is | Region (if stated) | Real-world match (press) |
+| --- | --- | --- | --- |
+| Ocean Beach | "Pastel art deco hotels and bright white sands" | Vice City | South Beach |
+| Little Cuba | "Bustling panaderías" | Vice City | Little Havana |
+| Tisha-Wocka flea market | "Bootleg brands" | Vice City | None given |
+| VC Port | "The cruise ship capital of the world" | Vice City | PortMiami |
+| Southside Vice City | PTT Youngin$ gang compound | Vice City | None given |
+| Shore Drive | Named in edition copy | Not stated | None given |
+| Shore Court garage | "A stone's throw from... Ocean Beach" | Near Ocean Beach | None given |
+| Washington Beach | Where the Shitzu Squalo boat docks | Not stated | None given |
+| Ocean View Hotel | Tommy Vercetti's hotel from 2002's Vice City | Not stated | None given |
+| Gambit Bay | Fishing spot | Not stated | None given |
+| Watson Bay | Paradise Garage | Not stated | None given |
+| Stockyard | Stock 305 streetwear, Electric Fang Tattoo | Not stated | None given |
+| Lake Leonida | One-Eyed Willie's off-road mod shop | Not stated (press: Ambrosia) | Lake Okeechobee |
+| Allied Crystal sugar refinery | "Provides the jobs" in Ambrosia | Ambrosia | Clewiston sugar country |
+| Leonida Penitentiary | Named in character bios | Not stated | None given |
+| Rideout Customs | Donk and hi-riser shop | Not stated | None given |
+| Sara's Unisex Salon | Salon | Not stated | None given |
+| Vercetti Estate | Source of the Hawk & Little Morgan revolvers | Not stated | None given |
+| Mount Kalaga National Park | Hunting, fishing, off-road trails | Mount Kalaga | Southern Appalachia, not Florida |
 
-Region pages: [[world/vice-city|Vice City]], [[world/leonida-keys|Leonida Keys]], [[world/grassrivers|Grassrivers]], [[world/port-gellhorn|Port Gellhorn]], [[world/ambrosia|Ambrosia]], [[world/mount-kalaga|Mount Kalaga]].
+Region guides: [[world/vice-city|Vice City]], [[world/leonida-keys|Leonida Keys]], [[world/grassrivers|Grassrivers]], [[world/port-gellhorn|Port Gellhorn]], [[world/ambrosia|Ambrosia]], [[world/mount-kalaga|Mount Kalaga]].
 
 ## What landmarks appear in the trailers?
 
-From Den of Geek's [[media/gta-6-trailer-1|Trailer 1]] breakdown <span class="tag-confirmed">confirmed</span>:
+Den of Geek's frame-by-frame of [[media/gta-6-trailer-1|Trailer 1]] (Dec 2023) picked out these <span class="tag-confirmed">confirmed</span>:
 
-- The **Ocean View Hotel**.
-- A **Boardwalk Hotel** standing in for Miami's Avalon.
-- The **Atlantic Hotel**, next to the three-round-window "Scarface building".
-- A **Seven Mile Bridge** analogue in the Keys.
-- A **"Nine1Nine"** seaplane banner, parodying Miami's E11EVEN club.
-- A **"Vice Vinyl"** sticker shop.
-- **Hamlet**, named in a Rockstar social caption.
+| Landmark in Trailer 1 | What it references |
+| --- | --- |
+| Ocean View Hotel | Tommy Vercetti's hotel in 2002's Vice City |
+| Boardwalk Hotel | Miami's Avalon hotel |
+| Atlantic Hotel | Sits next to the three-round-window "Scarface building" |
+| Seven Mile Bridge analogue | The Keys' Overseas Highway (US-1) |
+| "Nine1Nine" seaplane banner | Miami's E11EVEN club |
+| "Vice Vinyl" sticker shop | None given |
 
-From the [[media/gta-6-extended-look|Extended Look]], per Engadget <span class="tag-reported">reported</span>: **Effluvia**, a rooftop bar in downtown Vice City, and a seedy stock market that may be BAWSAQ. Story scenes also feature the opening of **Megamundo's** first US headquarters; GTABase matches the Megamundo tower to Miami's One Biscayne Tower <span class="tag-reported">reported</span>.
+A Rockstar social caption from the same period names Hamlet. The joke ran both ways: on Nov 6, 2026 the real E11EVEN rebranded itself Nine1Nine as part of Rockstar's Miami marketing push, per Wikipedia <span class="tag-reported">reported</span>.
+
+The [[media/gta-6-extended-look|Extended Look]] (Aug 27, 2026) added Effluvia, a rooftop bar in downtown Vice City, and a seedy stock market that may be BAWSAQ, per Engadget <span class="tag-reported">reported</span>. One story job is security at the opening of Megamundo's first US headquarters; GTABase matches the Megamundo tower to Miami's One Biscayne Tower <span class="tag-reported">reported</span>.
 
 ## What other names come from promotional material?
 
-Insider Gaming compiled 26 names from Rockstar's promotional material on Nov 10, 2026 <span class="tag-reported">reported</span>. Those not already in the official table above:
-
-- Vice Beach
-- Starfish Island
-- Rialto Islands
-- Draper Island
-- Tequesta Retreat
-- Waning Sands
-- Capri
-- Hamlet
-- Peacock Bay
-- Port Vice City
-- Key Lento
-- Downtown
-- SW 9th Ave
-- VCI Airport
-
-Rockstar hasn't described most of these on its own pages, which is why we grade them reported rather than confirmed.
+Insider Gaming compiled 26 names from Rockstar's promotional material on Nov 10, 2026 <span class="tag-reported">reported</span>. The ones not in the official table: Vice Beach, Starfish Island, Rialto Islands, Draper Island, Tequesta Retreat, Waning Sands, Capri, Hamlet, Peacock Bay, Port Vice City, Key Lento, Downtown, SW 9th Ave and VCI Airport. GTABase matches Downtown VC to Downtown Miami <span class="tag-reported">reported</span>. Rockstar hasn't described any of the 14 on its own pages.
 
 ## What names only appear on leaked maps?
 
@@ -138,19 +138,15 @@ Rockstar hasn't described most of these on its own pages, which is why we grade 
 | Lummox, Kelly, Leonard, Vice-Dale, Mariana (counties) | CyberLeek map, Aug 2026 | <span class="tag-rumour">rumour</span> |
 | Catalan Bay, Catalan Key | CyberLeek map | <span class="tag-rumour">rumour</span> |
 | Dalton Island | CyberLeek map | <span class="tag-rumour">rumour</span> |
-| Gloriana Key (industrial) | CyberLeek map | <span class="tag-rumour">rumour</span> |
+| Gloriana Key (industrial; possibly Virginia Key) | CyberLeek map | <span class="tag-rumour">rumour</span> |
 | Goose Key, Southwind | Collector's Box poster photos, Nov 2026 | <span class="tag-reported">reported</span> |
 | Pelican Valley (Grassrivers) | Collector's Box poster photos | <span class="tag-reported">reported</span> |
 | Manzana, Moreau | Collector's Box poster photos, possibly misread | <span class="tag-rumour">rumour</span> |
 
-Full analysis: [[world/gta-6-leaked-map-and-counties|the leaked map and counties]].
+The poster was photographed at a Selfridges display in Manchester around Nov 12-14; GameRant warns the fold may have garbled Manzana and Moreau. Full analysis on [[world/gta-6-leaked-map-and-counties|the leaked map and counties]].
 
-## Which places are named but outside Leonida?
+## Which places are named outside Leonida?
 
-- **Liberty City**: where Lucia's family came from, per her bio; plates seen in Trailer 2 <span class="tag-confirmed">confirmed</span>.
-- **Glorianna**: a Georgia-style neighboring state, from Trailer 2 license plates <span class="tag-confirmed">confirmed</span>.
-- **Blaine County and Los Santos**: referenced in the Extended Look, per Engadget <span class="tag-reported">reported</span>.
+Liberty City is where Lucia's family came from, per her bio, and its plates show up in Trailer 2 <span class="tag-confirmed">confirmed</span>. Trailer 2 also has plates from Glorianna, a Georgia-style neighboring state <span class="tag-confirmed">confirmed</span>. Engadget heard Blaine County and Los Santos referenced in the Extended Look <span class="tag-reported">reported</span>.
 
-## What isn't named
-
-No "Little Haiti"-style district has been named, and there is no official place or business called "Kelly's". For the real-world matches behind these names, see [[world/gta-6-real-life-locations|GTA 6 real-life locations]]. For what you can walk into, see [[world/gta-6-interiors|interiors]]. Back to the [[world/index|world hub]].
+No "Little Haiti"-style district is named, and no official business called "Kelly's" exists; the closest match is the leaked Kelly County. Real-world matches region by region are on [[world/gta-6-real-life-locations|GTA 6 real-life locations]], enterable buildings on [[world/gta-6-interiors|interiors]], and the rest of the state on the [[world/index|world hub]].

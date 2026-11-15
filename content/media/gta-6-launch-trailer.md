@@ -27,9 +27,9 @@ faq:
   - q: "When did the GTA 6 launch trailer come out?"
     a: "Thursday, October 15, 2026, five weeks before the November 19 launch."
   - q: "Is the GTA 6 launch trailer Trailer 3?"
-    a: "Rockstar titles it 'Grand Theft Auto VI Launch Trailer'. Game Rant and other outlets call it Trailer 3 because it is the third numbered-style cinematic trailer after Trailers 1 and 2. The Extended Look came between them."
+    a: "Rockstar titles it 'Grand Theft Auto VI Launch Trailer'. Game Rant and others call it Trailer 3 because it is the third short cinematic trailer; the 26:48 Extended Look came between it and Trailer 2."
   - q: "What song is in the GTA 6 launch trailer?"
-    a: "'Flower in a Hurricane' by Justice featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard. It is an original song on both GTA VI: The Album and Justice's Original Score."
+    a: "'Flower in a Hurricane' by Justice featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard. It is an original song, released as a single the same day, and Rockstar lists it on both The Album and Justice's score."
   - q: "How long is the GTA 6 launch trailer?"
     a: "1 minute 29 seconds, per Rockstar's video list. Coverage at the time described it as about 90 seconds."
   - q: "How many views does the GTA 6 launch trailer have?"
@@ -80,52 +80,38 @@ sources:
 related: ["music/gta-6-justice-score", "media/gta-6-extended-look", "music/gta-6-trailer-songs"]
 ---
 
-The **GTA 6 Launch Trailer** came out on **Thursday, October 15, 2026**, five weeks before release. It runs **1:29** on Rockstar's video list and was captured on PS5 <span class="tag-confirmed">confirmed</span>. It turned the spotlight on [[characters/jason-duval|Jason]]'s past in the Army and on his relationship with [[characters/lucia-caminos|Lucia]], and it premiered **"Flower in a Hurricane"** by Justice featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard.
-
-## When did the GTA 6 launch trailer come out?
-
-October 15, 2026. It ended months of "Trailer 3" speculation. Forbes ran repeated "when will Trailer 3 drop?" pieces from late June through July 2026, expecting a summer cinematic trailer <span class="tag-rumour">rumour</span>. Instead Rockstar released the 26:48 [[media/gta-6-extended-look|Extended Look]] on August 27, then this shorter launch piece in October. The "summer Trailer 3" prediction was partly right on intent and wrong on format and timing.
+Rockstar released the GTA 6 Launch Trailer on Thursday, October 15, 2026, five weeks before release. It runs 1:29 on Rockstar's video list (coverage said "about 90 seconds") and was captured on PS5 <span class="tag-confirmed">confirmed</span>. It is built around [[characters/jason-duval|Jason]]'s army past and his relationship with [[characters/lucia-caminos|Lucia]], and it debuted "Flower in a Hurricane" by Justice featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard.
 
 ## Is the launch trailer Trailer 3?
 
-Rockstar titles it "Grand Theft Auto VI Launch Trailer" on its site, not "Trailer 3". Game Rant's headline was "GTA 6 Finally Releases Trailer 3", and the label stuck in search. Both names refer to the same 1:29 video. Coverage at the time described the runtime as about 90 seconds; GTAVice.net and Rockstar's own page give 1:29.
+Same video, two names. Rockstar's site calls it "Grand Theft Auto VI Launch Trailer". Game Rant's headline was "GTA 6 Finally Releases Trailer 3", and search picked that up. Forbes had run "when will Trailer 3 drop?" pieces from late June through July 2026, expecting a summer cinematic <span class="tag-rumour">rumour</span>. Rockstar shipped the 26:48 [[media/gta-6-extended-look|Extended Look]] on August 27 instead, then this in October. The prediction got the intent right and the format and timing wrong.
 
-## What does the GTA 6 launch trailer reveal?
+## What does the launch trailer reveal about the story?
 
-The trailer is mostly story. Rockstar's official synopsis frames it: "when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida" <span class="tag-confirmed">confirmed</span>.
-
-What the press took from it:
+Rockstar's synopsis: "when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida" <span class="tag-confirmed">confirmed</span>.
 
 | Beat | What was shown | Grade |
 | --- | --- | --- |
 | Jason's Army past | GTAVice.net says it "shows parts of Jason's back story" | <span class="tag-reported">reported</span> |
 | Jason's key line | "I got in some trouble in the army, didn't leave on the best of terms," per timesaver.gg | <span class="tag-reported">reported</span> |
-| The romance | Game Rant and Ynetnews describe a focus on the Jason and Lucia romance | <span class="tag-reported">reported</span> |
-| Lucia's call | Lucia calls Jason from jail, and the pair reconnect, per VICE | <span class="tag-reported">reported</span> |
 | Jason's situation | VICE: he "didn't leave on the best of terms and now struggles to get work" | <span class="tag-reported">reported</span> |
+| Lucia's call | Lucia calls Jason from jail and the pair reconnect, per VICE | <span class="tag-reported">reported</span> |
+| The romance | Game Rant and Ynetnews describe a focus on the Jason and Lucia romance | <span class="tag-reported">reported</span> |
 | New named characters | None reported | <span class="tag-reported">reported</span> |
 
-Jason's official Rockstar bio already said he did "a stint in the Army trying to shake off his troubled teens" before ending up in the Keys working for drug runners. The trailer puts a face and a regret to that line. How the romance develops in play is covered on [[characters/jason-and-lucia-relationship|Jason and Lucia's relationship]]: Rob Nelson told Edge it is "yours to keep or yours to lose".
+Jason's Rockstar bio already said he did "a stint in the Army trying to shake off his troubled teens" before working for drug runners in the Keys. The trailer adds the regret. VICE also noted it reveals The Keys. How the romance plays out is on [[characters/jason-and-lucia-relationship|Jason and Lucia's relationship]]: Rob Nelson told Edge it is "yours to keep or yours to lose".
 
 ## What song is in the GTA 6 launch trailer?
 
-**"Flower in a Hurricane"** by **Justice**, featuring **Tame Impala, SZA and King Gizzard & The Lizard Wizard**. It is an original song, released as a single the same day. Rockstar's music page lists it on both [[music/gta-6-soundtrack-album|GTA VI: The Album]] and the [[music/gta-6-justice-score|Original Score by Justice]] <span class="tag-confirmed">confirmed</span>.
+"Flower in a Hurricane" by Justice, with Tame Impala, SZA and King Gizzard & The Lizard Wizard. It is an original song, out as a single the same day, and Rockstar's music page lists it on both [[music/gta-6-soundtrack-album|GTA VI: The Album]] and the [[music/gta-6-justice-score|Original Score by Justice]] <span class="tag-confirmed">confirmed</span>. The trailer doubled as the announcement that Justice, the French duo of Gaspard Augé and Xavier de Rosnay, wrote the score; NME covered it that day. Rockstar spells it "Flower", singular, as does Ynetnews. Game Rant wrote "Flowers in a Hurricane".
 
-The trailer doubled as the reveal that Justice, the French duo of Gaspard Augé and Xavier de Rosnay, composed the game's score. NME covered that the same day.
-
-Spelling note: Rockstar writes "Flower", singular. Game Rant wrote "Flowers in a Hurricane". Ynetnews used the singular.
+It is the first GTA 6 trailer built on an original song instead of a licensed one, which ties it to the wider [[music/index|music]] rollout: The Album was announced September 17, and the 30-track score album, out December 11, was announced about two weeks after this trailer.
 
 ## How many views does the launch trailer have?
 
-There is no verified figure. A French fan site, retrogems.fr, claimed about 47 million YouTube views in three days and said it beat a GTA V record. That rests on a single unverified source <span class="tag-rumour">rumour</span>. Rockstar has not published a number for this trailer as it did for [[media/gta-6-trailer-2|Trailer 2]].
+No verified figure. A French fan site, retrogems.fr, claimed about 47M YouTube views in three days and said that beat a GTA V record. That is one unverified source <span class="tag-rumour">rumour</span>. Rockstar published no number, unlike its 475M claim for [[media/gta-6-trailer-2|Trailer 2]].
 
-## What did the launch trailer not show?
-
-- No PC version was announced alongside it. A [[release/gta-6-pc-release-date|PC release]] remains unannounced.
-- No online mode. Rockstar describes GTA VI as "a single-player experience" at launch; see [[release/gta-6-gta-online-status|GTA Online status]].
-- No new named characters, per the coverage we found. Rockstar's official bios page still lists the same eight entries it launched with Trailer 2.
-
-## How does the launch trailer compare with the others?
+## How does it compare with the other videos?
 
 | | Trailer 1 | Trailer 2 | Extended Look | Launch Trailer |
 | --- | --- | --- | --- | --- |
@@ -135,12 +121,6 @@ There is no verified figure. A French fan site, retrogems.fr, claimed about 47 m
 | Capture | Not stated | PS5, "entirely in-game" | PS5 | PS5 |
 | Focus | Setting and leads | Cast and regions | Story setup and systems | Jason's past, the romance |
 
-Runtimes and dates come from Rockstar's own video list. Two things stand out. It is the shortest of the four, and it is the first to use an original song rather than a licensed one, which ties it to the [[music/index|music]] campaign: The Album was announced in September, and the score album was announced two weeks after this trailer.
+It is the shortest of the four. It announced nothing on platforms or modes: no [[release/gta-6-pc-release-date|PC version]], and no online mode, since Rockstar still describes the game as "a single-player experience" (see [[release/gta-6-gta-online-status|GTA Online status]]). Rockstar's bios page still has the same eight entries it launched with Trailer 2.
 
-## Where can you watch the launch trailer?
-
-On Rockstar's GTA VI site, where it sits at the top of the video list at rockstargames.com/VI/launch-trailer, alongside every earlier trailer.
-
-## What came next
-
-After the Launch Trailer, Rockstar's remaining pre-launch media was smaller: the 39-image [[news/2026-11-05-gta-6-launch-gallery|Launch Gallery]] on November 5, a *Macca & Friends* in-show teaser, and the 0:30 "Pre-Load Now" spot on November 10. All are tracked in the [[media/index|media hub]].
+After it came smaller pieces: the 39-image [[news/2026-11-05-gta-6-launch-gallery|Launch Gallery]] on November 5, a *Macca & Friends* teaser and the 0:30 "Pre-Load Now" spot on November 10. The trailer sits at the top of Rockstar's video list at rockstargames.com/VI/launch-trailer. Everything else is in the [[media/index|media hub]].

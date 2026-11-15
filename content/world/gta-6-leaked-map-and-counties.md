@@ -2,14 +2,14 @@
 title: "GTA 6 leaked map and counties: what the leaks show, graded"
 seoTitle: "GTA 6 Leaked Map and Counties: What the Leaks Show, Graded"
 shortTitle: "Leaked map and counties"
-description: "Two GTA 6 map leaks name five counties (Lummox, Kelly, Leonard, Vice-Dale, Mariana) and places like Goose Key. What each shows and how reliable it is."
+description: "The CyberLeek map names five GTA 6 counties: Lummox, Kelly, Leonard, Vice-Dale and Mariana. The Collector's Box poster adds Goose Key. Both leaks, graded."
 status: "rumour"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 5
 tags: ["leaks", "map", "rumours", "world"]
-tldr: "Two leaks show the full Leonida map: **CyberLeek's in-game map (Aug 2026)**, which names **five counties: Lummox, Kelly, Leonard, Vice-Dale and Mariana**, and **photos of the Collector's Box poster (Nov 2026)**. Rockstar has confirmed neither map's details, and the in-game one may come from a 2023 build."
+tldr: "Two leaks show the full Leonida map: CyberLeek's in-game map (Aug 2026), which names **five counties: Lummox, Kelly, Leonard, Vice-Dale and Mariana**, and photos of the Collector's Box poster (Nov 2026). Rockstar has confirmed neither map's details, and the in-game one may come from a 2023 build."
 facts:
   - k: "Leak 1"
     v: "CyberLeek in-game map, Aug 2026"
@@ -25,9 +25,9 @@ faq:
   - q: "Is the leaked GTA 6 map real?"
     a: "The August 2026 CyberLeek leak was real enough for Rockstar to call it 'heartbreaking' and for Take-Two to file subpoenas, but Rockstar has not verified the map itself. GTABase suggests it may come from a 2023, work-in-progress build."
   - q: "What are the counties in GTA 6?"
-    a: "The leaked map shows five: Lummox (north), Kelly (west), Leonard (east), Vice-Dale (around Vice City) and Mariana (south and the wetlands). Rockstar has not confirmed any county names."
+    a: "Officially, none are named. The leaked map shows five: Lummox (north), Kelly (west), Leonard (east), Vice-Dale (around Vice City) and Mariana (south and the wetlands). Lummox also appears on the Collector's Box poster."
   - q: "Is the Collector's Box map the real GTA 6 map?"
-    a: "It is an official Rockstar poster, but it is a stylized illustration, not the in-game map. Names read from photos of it, like Goose Key and Pelican Valley, are fan transcriptions, and some may be misread."
+    a: "It is official Rockstar merchandise, but a stylized illustration, not the in-game map. Names like Goose Key and Pelican Valley were read off photos of a folded poster at Selfridges Manchester, so some may be wrong."
   - q: "Is Ambrosia a county in GTA 6?"
     a: "Unclear. Earlier coverage referred to an 'Ambrosia County', but the leaked county list has no Ambrosia County. Rockstar has only called Ambrosia a destination."
   - q: "Will Rockstar release a printable GTA 6 map?"
@@ -73,21 +73,17 @@ sources:
 related: ["leaks/gta-6-cyberleek-2026-leaks", "news/2026-11-14-collectors-box-map-leak", "world/gta-6-map-size"]
 ---
 
-Two leaks have shown the whole of Leonida before launch, and neither is confirmed by Rockstar in detail. The **August 2026 CyberLeek map** appears to be an in-game map and names **five counties: Lummox, Kelly, Leonard, Vice-Dale and Mariana** <span class="tag-rumour">rumour</span>. The **November 2026 Collector's Box poster** is an official Rockstar product, but the place names fans have read off photos of it are unverified <span class="tag-reported">reported</span>.
-
-Everything on this page is graded inline. The short version: the leaks happened, the map details are plausible, and the official destinations are still only the [[world/leonida-regions|six Rockstar regions]].
+Two leaks have shown all of Leonida before launch. The August 2026 CyberLeek map looks like the in-game map and names five counties <span class="tag-rumour">rumour</span>. The November 2026 Collector's Box poster is a real Rockstar product, but the place names fans read off photos of it are unverified <span class="tag-reported">reported</span>. The only official geography is still the [[world/leonida-regions|six Rockstar regions]].
 
 ## What was the CyberLeek map leak?
 
-In August 2026 an account called "CyberLeek" posted gameplay clips and an image of a full in-game map of Leonida. At least 16 videos came out over about nine days, according to Wikipedia and GTABase <span class="tag-reported">reported</span>.
+From Aug 18, 2026, an account called "CyberLeek" posted gameplay clips and an image of the full Leonida map, with at least 16 videos over about nine days, per Wikipedia and GTABase <span class="tag-reported">reported</span>. Its "manifesto" objected to the disc-less physical release. Outlets tied the leaker to a "$CYBERLEEK" meme-coin scheme, and Take-Two filed subpoenas against Discord, Microsoft and X Corp in the Southern District of New York.
 
-Rockstar acknowledged the leaks on Aug 26, 2026, calling the leaked gameplay "heartbreaking for our team" and asking fans to "wait a bit longer" <span class="tag-confirmed">confirmed</span>. Take-Two filed subpoenas against Discord, Microsoft and X Corp in the Southern District of New York, and outlets tied the leaker to a "$CYBERLEEK" meme-coin scheme <span class="tag-reported">reported</span>. Rockstar's statement did not verify any specific clip or the map.
-
-The full story of the account is on [[leaks/gta-6-cyberleek-2026-leaks|the CyberLeek leaks]].
+Rockstar responded on Aug 26 that the leaked gameplay "has been heartbreaking for our team" and asked fans to "wait a bit longer" until Nov 19 <span class="tag-confirmed">confirmed</span>. The statement did not verify any clip or the map. The account's full history is on [[leaks/gta-6-cyberleek-2026-leaks|the CyberLeek leaks]].
 
 ## What counties are on the leaked GTA 6 map?
 
-The Game Post and GTABase list five <span class="tag-rumour">rumour</span>:
+The Game Post and GTABase list five <span class="tag-rumour">rumour</span>. The right-hand column is our inference from compass position <span class="tag-speculation">speculation</span>; the leak does not tie counties to Rockstar's regions.
 
 | Leaked county | Position | Likely covers (our reading) |
 | --- | --- | --- |
@@ -97,34 +93,15 @@ The Game Post and GTABase list five <span class="tag-rumour">rumour</span>:
 | Vice-Dale | Around Vice City | Vice City and suburbs |
 | Mariana | South and the wetlands | Grassrivers and possibly the Keys |
 
-The "likely covers" column is our own inference from the compass positions <span class="tag-speculation">speculation</span>. The leak itself doesn't tie counties to Rockstar's six regions.
-
-## What other places does the leaked map show?
-
-The same sources list <span class="tag-rumour">rumour</span>:
-
-- **Catalan Bay** and **Catalan Key**
-- **Dalton Island**
-- **Gloriana Key**, an industrial island, possibly a Virginia Key analogue
-- **Tequesta Retreat** (also on Insider Gaming's list of names from promotional material)
-- A large airport southwest of Vice City
-- An island airfield
+The same map shows Catalan Bay, Catalan Key, Dalton Island, Gloriana Key (an industrial island possibly modeled on Virginia Key) and Tequesta Retreat, which is also on Insider Gaming's list of names from promotional material. It also has a large airport southwest of Vice City and a separate island airfield <span class="tag-rumour">rumour</span>.
 
 ## How reliable is the leaked map?
 
-Treat it as an early snapshot. GTABase suggests the leaked build may date from 2023 and the map may be work in progress <span class="tag-rumour">rumour</span>. If that is right, roads, coastlines and even county names could have changed.
-
-The leak has also shaped most fan size estimates. A Reddit measurement put explorable land at about 83.2 km², and critics say the GTA 6 Mapping Project's 125 km² outline also leans on it <span class="tag-rumour">rumour</span>. That is why we keep those numbers separate from Rockstar's on [[world/gta-6-map-size|GTA 6 map size]].
-
-## What is the Collector's Box map?
-
-Rockstar's own product copy for "The Goodtime State - Vice City Collection" collector's box lists "an illustrated Vice City Leonida poster... with a full view of the Leonida map featured on the back" <span class="tag-confirmed">confirmed</span>. So an official full map exists, printed on a poster.
-
-Photos of it surfaced from a Selfridges display in Manchester, UK, around Nov 12-14, 2026 <span class="tag-reported">reported</span>. Rockstar has not commented. Our news write-up is [[news/2026-11-14-collectors-box-map-leak|the Collector's Box map leak]], and the box itself is covered at [[release/gta-6-collectors-box|GTA 6 Collector's Box]].
+Treat it as an early snapshot. GTABase suggests the build may date from 2023 and the map may be work in progress <span class="tag-rumour">rumour</span>, so coastlines, roads and county names could all have changed. That matters beyond this page: the Reddit measurement of 83.2 km² of land that VICE reported comes from this map, and critics say the GTA 6 Mapping Project's 125 km² outline leans on it too. Both sit apart from Rockstar's "2x GTA 5" on [[world/gta-6-map-size|GTA 6 map size]].
 
 ## What names are on the Collector's Box poster?
 
-Shattered.io, tbreak and GameRant transcribed these from the photos <span class="tag-reported">reported</span>:
+Rockstar's copy for the Collector's Box ("The Goodtime State - Vice City Collection") promises "an illustrated Vice City Leonida poster... with a full view of the Leonida map featured on the back" <span class="tag-confirmed">confirmed</span>. Photos of it surfaced from a Selfridges display in Manchester, UK, around Nov 12-14, 2026, and Rockstar has not commented <span class="tag-reported">reported</span>. Shattered.io, tbreak and GameRant transcribed these names:
 
 | Name | Notes | Grade |
 | --- | --- | --- |
@@ -139,25 +116,16 @@ Shattered.io, tbreak and GameRant transcribed these from the photos <span class=
 | Manzana | GameRant warns it may be misread | <span class="tag-rumour">rumour</span> |
 | Moreau | GameRant warns it may be misread | <span class="tag-rumour">rumour</span> |
 
-The "confirmed" rows are confirmed as place names, not as readings of the photo. GameRant notes the poster is folded in the display, which is why Moreau and Manzana are shaky. The poster is a stylized illustration, not the in-game map.
-
-Beebom, as relayed by tbreak, counts 5 major counties, 11 islands or keys, 13 towns or cities and 9 other named locations on it <span class="tag-rumour">rumour</span>.
+The confirmed rows are confirmed as place names, not as readings of the photo. The poster was folded on display, which is why GameRant flags Moreau and Manzana. Beebom, relayed by tbreak, counts 5 major counties, 11 islands or keys, 13 towns or cities and 9 other named locations on it <span class="tag-rumour">rumour</span>. News coverage is at [[news/2026-11-14-collectors-box-map-leak|the Collector's Box map leak]], and the box itself at [[release/gta-6-collectors-box|GTA 6 Collector's Box]].
 
 ## Do the two leaks agree?
 
-Partly. **Lummox County** shows up on both, which is the strongest sign that at least one county name survived from the older build <span class="tag-speculation">speculation</span>. The poster's other names (Goose Key, Pelican Valley, Southwind) don't appear in the CyberLeek coverage we checked.
+Partly. Lummox County is on both, the best sign that at least one county name survived from the older build <span class="tag-speculation">speculation</span>. Goose Key, Pelican Valley and Southwind do not appear in the CyberLeek coverage we checked.
 
-The clearest contradiction is **Ambrosia**. Earlier coverage referred to an "Ambrosia County", but the CyberLeek county list has no such county. Rockstar's own copy only calls [[world/ambrosia|Ambrosia]] a destination "in the heart of Leonida".
+Ambrosia is the clearest conflict. Earlier coverage referred to an "Ambrosia County," but the CyberLeek list has none, and Rockstar's copy only calls [[world/ambrosia|Ambrosia]] a destination "in the heart of Leonida."
 
-## Is there a UFO or sequel tease on the map?
+## Will Rockstar release an official map?
 
-- A "UFO easter egg" on the Collector's Box map was teased in a GamesRadar+ headline on Nov 14; we could not read the article body <span class="tag-rumour">rumour</span>.
-- Claims of a "non-US sequel tease" tied to the poster leak have no verifiable on-record quote, per Shattered.io <span class="tag-rumour">rumour</span>.
+The poster is one. A claim that Rockstar will post a free printable Leonida map on Nov 19 traces to a single unverified source <span class="tag-rumour">rumour</span>; [[guides/gta-6-printable-map|the printable map guide]] will carry it if it happens. Two other poster claims are also unverified: a GamesRadar+ headline on Nov 14 teased a "UFO easter egg" (we could not read the article body), and Shattered.io found no on-record quote behind talk of a "non-US sequel tease" <span class="tag-rumour">rumour</span>.
 
-## Will Rockstar release an official GTA 6 map?
-
-The Collector's Box poster is one. A claim that Rockstar will also post a free printable Leonida map on Nov 19 comes from a single unverified source <span class="tag-rumour">rumour</span>. We'll update [[guides/gta-6-printable-map|the printable map guide]] the moment there is an official file.
-
-## How this fits with the 2022 leak
-
-The 2022 leak was early development footage, not a full map. It is covered separately at [[timeline/gta-6-2022-leak|the 2022 GTA 6 leak]]. For the official geography, start at the [[world/index|world hub]].
+The 2022 leak was early development footage, not a map; it is covered at [[timeline/gta-6-2022-leak|the 2022 GTA 6 leak]]. Official geography starts at the [[world/index|world hub]].

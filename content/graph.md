@@ -7,9 +7,9 @@ published: 2026-11-15
 updated: 2026-11-15
 ---
 
-Each dot is a page and each line is a link between two pages. The pink dot is where you are. Hubs like [[characters/index|characters]], [[world/index|world and map]] and the [[leaks/index|leaks ledger]] are the larger nodes; tags are the hollow ones.
+Each dot is a page and each line is a link between two pages. The pink dot is the page you're on. Hubs such as [[characters/index|characters]], [[world/index|world and map]] and the [[leaks/index|leaks ledger]] are the larger nodes; tags are the hollow ones.
 
-Some useful paths to follow:
+Three paths through it:
 
 - From [[characters/lucia-caminos|Lucia]] to the [[world/leonida-keys|Leonida Keys]] to the [[gameplay/gta-6-vehicles|vehicles]] seen there.
 - From the [[media/gta-6-trailer-1|first trailer]] through the [[music/gta-6-trailer-songs|songs it used]] to the [[music/gta-6-radio-stations|radio stations]] announced since.

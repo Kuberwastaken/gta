@@ -2,7 +2,7 @@
 title: "The CyberLeek GTA 6 leaks of 2026: what happened, graded"
 seoTitle: "CyberLeek GTA 6 Leaks 2026: What Happened, Graded"
 shortTitle: "CyberLeek leaks"
-description: "CyberLeek leaked GTA 6 clips and a full map image in August 2026 and a 24-minute video in October. Rockstar called it heartbreaking. No full build ever appeared."
+description: "CyberLeek posted 16+ GTA 6 clips and a full map image Aug 18-26, 2026, then a 24-minute video Oct 8. Rockstar called it heartbreaking. The full build never came."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
@@ -31,7 +31,7 @@ faq:
   - q: "Did CyberLeek leak the full game?"
     a: "No. CyberLeek told Kotaku on Oct 14, 2026 that it would not release the full build or more footage, and none had appeared by Nov 15."
   - q: "Is the leaked GTA 6 map accurate?"
-    a: "Unknown. GTABase suggested it may come from a 2023 build and be work in progress. The in-game map at launch on Nov 19 will settle it."
+    a: "Unknown. GTABase thinks it may come from a 2023 build, and the November Collector's Box poster agrees on Lummox County but differs elsewhere. The in-game map on Nov 19 settles it."
 sources:
   - title: "Rockstar Games issues GTA 6 leaks statement and game update after Cyberleek shares footage"
     url: "https://www.ladbible.com/entertainment/gaming/rockstar-gta-leaks-grand-theft-auto-155567-20260826"
@@ -68,11 +68,11 @@ sources:
 related: ["world/gta-6-leaked-map-and-counties", "timeline/gta-6-2022-leak", "leaks/index"]
 ---
 
-CyberLeek is the anonymous account behind the biggest GTA 6 leaks of 2026. It posted **at least 16 gameplay videos and an image of the full Leonida map between Aug 18 and 26, 2026**, then a roughly **24-minute video on Oct 8**. Rockstar acknowledged the leaks but has never verified any specific clip. The threatened full-build release <span class="tag-debunked">never happened</span>.
+CyberLeek is the anonymous account behind the biggest GTA 6 leaks of 2026: at least 16 gameplay videos and an image of the full Leonida map between August 18 and 26, then a roughly 24-minute video on October 8. That it leaked real material is <span class="tag-reported">reported</span>, since Rockstar acknowledged the leaks but never verified a specific clip. Its threat to release the full build is <span class="tag-debunked">debunked</span>.
 
-This page describes what was reported. We do not link to or host leaked footage, and we will not say where to find it.
+We describe what was reported. We do not link to or host leaked footage.
 
-## What did CyberLeek leak, and when?
+## Timeline
 
 | Date | What happened | Grade |
 | --- | --- | --- |
@@ -82,41 +82,27 @@ This page describes what was reported. We do not link to or host leaked footage,
 | Oct 8, 2026 | "An Extended Leek", about 24 minutes, including nudity and a debug menu | <span class="tag-reported">reported</span> |
 | Oct 14, 2026 | CyberLeek tells Kotaku it will not release the full build or more footage | <span class="tag-reported">reported</span> |
 
-### Why did CyberLeek say it was leaking?
+## Motive and money
 
-Its "manifesto" objected to the physical edition shipping with a download code instead of a disc, [LADbible](https://www.ladbible.com/entertainment/gaming/rockstar-gta-leaks-grand-theft-auto-155567-20260826) reported. That complaint turned out to be accurate: the box contains a code, not a disc. See [[release/gta-6-physical-copy-no-disc|no disc in the box]].
+CyberLeek's "manifesto" objected to the physical edition shipping as a download code instead of a disc, [LADbible](https://www.ladbible.com/entertainment/gaming/rockstar-gta-leaks-grand-theft-auto-155567-20260826) reported. That complaint was accurate: the box Rockstar put in stores on November 12 holds a download code (see [[release/gta-6-physical-copy-no-disc|no disc in the box]]). Outlets also tied the account to a "$CYBERLEEK" meme coin, with about $270,000 in crypto activity tracked, per [Yahoo News](https://www.yahoo.com/news/politics/articles/gta-6-leaker-returns-24-162811544.html). <span class="tag-reported">reported</span>
 
-Outlets also tied the account to a "$CYBERLEEK" meme-coin scheme, and about $270,000 in crypto activity was tracked, per [Yahoo News](https://www.yahoo.com/news/politics/articles/gta-6-leaker-returns-24-162811544.html). <span class="tag-reported">reported</span>
+## What Rockstar and Take-Two did
 
-## What did Rockstar say?
+On August 26 Rockstar said the leaked gameplay "has been heartbreaking for our team" and asked fans to "wait a bit longer to experience the game for themselves on November 19", per LADbible. <span class="tag-confirmed">confirmed</span> That confirms leaks happened. It does not confirm any clip, the map, or the build date. The next day Rockstar's own 26-27 minute [[media/gta-6-extended-look|Extended Look]] premiered on schedule and drew 31.1 million Netflix views in four days.
 
-On Aug 26, 2026 Rockstar said the leaked gameplay "has been heartbreaking for our team" and that it hoped "everyone will wait a bit longer to experience the game for themselves on November 19", per LADbible. <span class="tag-confirmed">confirmed</span>
+Take-Two filed subpoenas against Discord, Microsoft and X Corp to identify the leaker, per Wikipedia and Yahoo News. <span class="tag-reported">reported</span> The two disagree on timing: Wikipedia places the filings in the August wave in the Southern District of New York, while Yahoo News reports DMCA subpoenas alongside the October video. Both can be true if there were several filings. Rockstar's lawyers have also been pulling clips, [Engadget](https://www.engadget.com/2281188/careful-out-there-latest-gta-6-leak-has-major-story-spoilers/) reported, citing Kotaku. No identity has been made public.
 
-That statement confirms leaks happened. It does not confirm that any particular clip, the map, or the build date is accurate. The next day Rockstar released its own 26-27 minute [[media/gta-6-extended-look|Extended Look]], which went ahead as scheduled.
+## Is the footage from the final game?
 
-## What legal action followed?
+Probably not all of it. Engadget called the October video "possibly from an older build" and spoiler-heavy, and [GTABase](https://www.gtabase.com/articles/gta-6/gta-6-leak-reveals-two-gameplay-clips-and-full-leonida-map) suggested the August material may date from 2023, with a work-in-progress map. Runtimes differ too: Yahoo News says about 24 minutes, Engadget 25. We use 24, the headline figure.
 
-Take-Two filed subpoenas against Discord, Microsoft and X Corp to identify the leaker, according to Wikipedia and Yahoo News. <span class="tag-reported">reported</span>
+## What the leaked map showed
 
-**Contradiction:** our sources date this differently. Wikipedia places the subpoenas in the August wave and describes them as filed in the Southern District of New York; Yahoo News reports DMCA subpoenas alongside the Oct 8 video. Both may be true if there were several filings. No identity has been made public.
+The image named five counties: Lummox (north), Kelly (west), Leonard (east), Vice-Dale (around Vice City) and Mariana (south and wetlands), per [The Game Post](https://thegamepost.com/gta-6-full-map-leaks-online-counties-islands-huge-unseen-areas/). <span class="tag-rumour">rumour</span> A Reddit measurement put the land at about 83.2 km², roughly 1.69 times GTA V's land area, [VICE](https://www.vice.com/en/article/gta-6-map-leak-size-comparison-rdr2-gta-5/) reported. That excludes water and may reflect an old build. <span class="tag-rumour">rumour</span> Rockstar's own comparison, given to Edge in October, is "nearly as large as" GTA IV, GTA V and RDR2 combined ([[world/gta-6-map-size|map size]]).
 
-Rockstar's legal team has been removing clips, [Engadget](https://www.engadget.com/2281188/careful-out-there-latest-gta-6-leak-has-major-story-spoilers/) reported, citing Kotaku.
+The official Collector's Box poster that leaked November 12-14 also shows "Lummox County", but other names differ. Both maps are compared on [[world/gta-6-leaked-map-and-counties|leaked map and counties]].
 
-## Is the leaked footage from the final game?
-
-Probably not entirely. Engadget said the October footage was "possibly from an older build", and [GTABase](https://www.gtabase.com/articles/gta-6/gta-6-leak-reveals-two-gameplay-clips-and-full-leonida-map) suggested the August material may date from 2023, with a map that could be work in progress.
-
-**Contradiction:** Yahoo News puts the October video at about 24 minutes and Engadget at 25 minutes. We use 24, the figure in the headline report.
-
-## What did the leaked map show?
-
-The map image named five counties: Lummox (north), Kelly (west), Leonard (east), Vice-Dale (around Vice City) and Mariana (south and wetlands), per [The Game Post](https://thegamepost.com/gta-6-full-map-leaks-online-counties-islands-huge-unseen-areas/). <span class="tag-rumour">rumour</span>
-
-A Reddit measurement put the land at about 83.2 km², roughly 1.69 times GTA V's land, [VICE](https://www.vice.com/en/article/gta-6-map-leak-size-comparison-rdr2-gta-5/) reported. That excludes water and may reflect an old build. <span class="tag-rumour">rumour</span>
-
-In November a separate leak, the official Collector's Box poster, also showed "Lummox County", but other names differ. Both are compared on [[world/gta-6-leaked-map-and-counties|leaked map and counties]], and Rockstar's own size comparison is on [[world/gta-6-map-size|map size]].
-
-## Our verdict
+## Verdict
 
 | Claim | Grade |
 | --- | --- |
@@ -126,14 +112,8 @@ In November a separate leak, the official Collector's Box poster, also showed "L
 | CyberLeek will release the full build | <span class="tag-debunked">debunked</span> |
 | CyberLeek's no-disc complaint | <span class="tag-confirmed">confirmed</span> (code in box) |
 
-## What would change this grade?
+## What would flip it
 
-The in-game map and the game itself on Nov 19. If the counties, places and scenes match, the leak moves to <span class="tag-confirmed">confirmed</span> in hindsight. A court filing naming the leaker would add to the legal record, as happened with the [[timeline/gta-6-2022-leak|2022 hack]].
+The game on November 19. If the counties, places and scenes match, the leak becomes confirmed in hindsight. A court filing naming the leaker would add a legal record, as the [[timeline/gta-6-2022-leak|2022 hack]] eventually did with Arion Kurtaj.
 
-## How do I avoid GTA 6 spoilers?
-
-Mute "GTA 6 leak" keywords for launch week. New Zealand unlocks about 18 hours before the US East Coast, so spoilers will also spread from real players. Unlock times are on [[release/gta-6-release-time-by-country|release time by country]].
-
-## Changelog
-
-- **2026-11-15:** Page published. Leak graded reported; full-build release graded debunked; county names graded rumour. Back to the [[leaks/index|leaks ledger]].
+To dodge spoilers, mute "GTA 6 leak" for launch week and remember New Zealand unlocks about 18 hours before the US East Coast ([[release/gta-6-release-time-by-country|release time by country]]). The other leak waves are graded in the [[leaks/index|leaks ledger]].

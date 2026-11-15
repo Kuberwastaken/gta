@@ -1,15 +1,15 @@
 ---
-title: "GTA 6 voice actors and cast: who is confirmed, who is rumored"
+title: "GTA 6 voice actors and cast: one actor on record, the rest unconfirmed"
 seoTitle: "GTA 6 Voice Actors and Cast: Confirmed vs Rumored (2026)"
 shortTitle: "Voice actors and cast"
-description: "Rockstar has confirmed no GTA 6 cast. Stephen Root says he is in it; Manni L. Perez and Dylan Rourke are fan IDs. Every actor claim, graded and sourced."
+description: "Rockstar has credited no GTA 6 actors. Stephen Root says he is in it; Manni L. Perez and Dylan Rourke are fan IDs; Troy Baker denied it. Every claim, graded."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 4
 tags: ["cast", "characters", "rumours", "debunked"]
-tldr: "**Rockstar has not published a GTA 6 cast list**, and it normally credits actors at launch. **Stephen Root** is the only actor on record saying he is in the game, and even he did not name his character. Manni L. Perez (Lucia) and Dylan Rourke (Jason) are **fan identifications**; the post saying Perez 'confirmed' it came from an **impersonator account**."
+tldr: "**Rockstar has published no GTA 6 cast list** and normally credits actors at launch. **Stephen Root** is the only actor on record saying he is in the game, and even he did not name his character. Manni L. Perez (Lucia) and Dylan Rourke (Jason) are **fan identifications**; the post saying Perez 'confirmed' it came from an **impersonator account**."
 facts:
   - k: "Official cast list"
     v: "None as of Nov 15, 2026"
@@ -91,9 +91,7 @@ sources:
 related: ["leaks/gta-6-actor-identifications", "characters/lucia-caminos", "characters/brian-heder"]
 ---
 
-**Rockstar has not confirmed a single GTA 6 actor.** There is no official cast list on its site, and Rockstar's usual practice is to credit its cast in the end credits at launch. Until November 19, every name attached to a character is either an actor speaking for themselves or a fan identification.
-
-One actor is on record: **Stephen Root** says he is in the game. Everyone else, including the widely shared names for [[characters/lucia-caminos|Lucia]] and [[characters/jason-duval|Jason]], is unconfirmed.
+Rockstar has not confirmed a single GTA 6 actor. There is no cast list on its site, and its usual practice is to credit performers in the end credits. Until the game unlocks on November 19, every name attached to a character is either an actor speaking for themselves or a fan identification. Only one actor, Stephen Root, is on record saying he is in it.
 
 ## GTA 6 cast: the graded list
 
@@ -108,68 +106,50 @@ One actor is on record: **Stephen Root** says he is in the game. Everyone else, 
 | Jason (claimed) | Troy Baker | <span class="tag-debunked">debunked</span> | He denied it. |
 | Jason (claimed) | Roger Craig Smith | <span class="tag-debunked">debunked</span> | He denied it. |
 
-How we use these labels is explained in [[about/how-we-grade|how we grade]]. The broader rumour file is [[leaks/gta-6-actor-identifications|GTA 6 actor identifications]].
+The labels are explained in [[about/how-we-grade|how we grade]]. The wider rumour file is [[leaks/gta-6-actor-identifications|GTA 6 actor identifications]].
 
-## Who voices Lucia in GTA 6?
+## Who voices Lucia?
 
-Rockstar has not said. The overwhelming fan pick is **Manni L. Perez**, based on her voice, her resemblance to Lucia, and a role she had in GTA Online years earlier. SVG and inkl both report the identification, and both note that Rockstar has not confirmed it. <span class="tag-rumour">rumour</span>
+Rockstar has not said. The fan pick for [[characters/lucia-caminos|Lucia]] is Manni L. Perez, based on her voice, her resemblance to the character and a GTA Online role she had years earlier. SVG and inkl both report the identification and both note Rockstar has not confirmed it. <span class="tag-rumour">rumour</span>
 
-A rumour this strong is not the same as a confirmation. Here is the record:
-
-- **July 2025:** Perez disabled comments and then removed her Instagram entirely, according to AllThingsHow.
-- **By late August 2026:** an Instagram account using the handle `mannil.perez` had more than 50,000 followers. AllThingsHow states plainly: "The account mannil.perez is not Manni L. Perez." It calls the account an impostor.
-- **Early September 2026:** Perez returned for her first Instagram Live and, per LADbible, ignored questions about GTA.
+The paper trail runs the other way. In July 2025 Perez disabled comments and then removed her Instagram, according to AllThingsHow. By late August 2026 an account using the handle `mannil.perez` had more than 50,000 followers; AllThingsHow's verdict: "The account mannil.perez is not Manni L. Perez." When Perez returned for her first Instagram Live in early September 2026, she ignored GTA questions, per LADbible.
 
 ### Did Manni Perez confirm she is Lucia?
 
-**No.** EGW News published a story headlined "Manni L. Perez Confirms She's Voicing Lucia Caminos," saying she confirmed it on social media. Other coverage ties that claim to the impersonator account. We count the "Perez confirmed it" claim as <span class="tag-debunked">debunked</span>.
+No. EGW News ran the headline "Manni L. Perez Confirms She's Voicing Lucia Caminos," citing social media. Other coverage ties that claim to the impersonator account, so we grade it <span class="tag-debunked">debunked</span>.
 
-One aggregator summary also claimed Perez confirmed the role on Instagram on August 28, 2026. We found no primary post to back it up. That date falls in the same week the impostor account was being flagged, which would explain the confusion. <span class="tag-speculation">speculation</span>
+One aggregator summary dated a Perez Instagram confirmation to August 28, 2026. We found no primary post. That date falls in the week the impostor account was being flagged, which would explain the mix-up. <span class="tag-speculation">speculation</span>
 
-If Perez or Rockstar confirms the role, this page will change. Until then, treat any "she confirmed it" screenshot as suspect unless it comes from a verified account.
+## Who plays Jason?
 
-## Who plays Jason Duval?
+Unconfirmed. Fans identify Dylan Rourke as [[characters/jason-duval|Jason]], as reported by SVG and listed on GTABase. An IMDb listing exists, but anyone can submit IMDb credits. Neither Rockstar nor Rourke has confirmed it. <span class="tag-rumour">rumour</span>
 
-Unconfirmed. Fans identify **Dylan Rourke**, as reported by SVG and listed on GTABase. An IMDb listing exists, but IMDb is user-edited and is not confirmation. Neither Rockstar nor Rourke has confirmed it. <span class="tag-rumour">rumour</span>
+Two older theories are dead. Troy Baker and Roger Craig Smith both denied voicing Jason. <span class="tag-debunked">debunked</span> Both denials come via Rockstar Report; we did not see the original posts.
 
-Two earlier theories are dead:
-
-- **Troy Baker** voices Jason: <span class="tag-debunked">debunked</span>. He denied it.
-- **Roger Craig Smith** voices Jason: <span class="tag-debunked">debunked</span>. He denied it.
-
-Both denials are relayed by Rockstar Report. We did not see the original posts.
-
-Whoever it is, the performance has been noticed. PC Gamer's Christopher Livingston called Jason "dull" in the [[media/gta-6-extended-look|Extended Look]] but praised his voice acting. <span class="tag-reported">reported</span>
+PC Gamer's Christopher Livingston called Jason "dull" in the [[media/gta-6-extended-look|Extended Look]] but praised the voice acting. <span class="tag-reported">reported</span>
 
 ## Is Stephen Root in GTA 6?
 
-Yes, by his own account. Root told the Associated Press: "Yeah, you're gonna see me in there." Collider covered the interview on September 20, 2026, and fans had already recognized his voice in [[media/gta-6-trailer-2|Trailer 2]]. <span class="tag-reported">reported</span>
+Yes, by his own account. Root told the Associated Press: "Yeah, you're gonna see me in there." Collider covered the interview on September 20, 2026; fans had already recognized his voice in [[media/gta-6-trailer-2|Trailer 2]]. <span class="tag-reported">reported</span>
 
-**The caveat:** in the quotes we have seen, Root does not say "Brian Heder." Headlines and Wikipedia make that link, and Rockstar has not credited him. Root is the closest thing GTA 6 has to a confirmed actor, but his role is a press inference. See [[characters/brian-heder|Brian Heder]].
+In the quotes we have seen, Root never says "Brian Heder." Headlines and Wikipedia make that link, and Rockstar has not credited him. He is the closest thing GTA 6 has to a confirmed actor, but the role is a press inference. See [[characters/brian-heder|Brian Heder]].
 
-## What about the rest of the supporting cast?
+## What about the supporting cast?
 
-- **Cal Hampton:** fans name **Bobby Moynihan**. <span class="tag-rumour">rumour</span> (SVG). See [[characters/cal-hampton|Cal Hampton]].
-- **Raul Bautista:** timesaver.gg names **Manny Perez**. <span class="tag-rumour">rumour</span> Do not confuse this with Manni L. Perez, the actor linked to Lucia. The names are close and easy to mix up in search results. See [[characters/raul-bautista|Raul Bautista]].
-- **Jim Santangeli**, who played Simon Pearson in Red Dead Redemption 2, says he did a "little small bit" in GTA VI. <span class="tag-reported">reported</span> (Rockstar Report, timesaver.gg). His character is unknown.
+Fans name Bobby Moynihan as [[characters/cal-hampton|Cal Hampton]] (SVG). <span class="tag-rumour">rumour</span> timesaver.gg names Manny Perez as [[characters/raul-bautista|Raul Bautista]]. <span class="tag-rumour">rumour</span> That is a different person from Manni L. Perez, the actor linked to Lucia, and the two names get mixed up in search results.
 
-No actor claims have been reported for [[characters/boobie-ike|Boobie Ike]], [[characters/dre-quan-priest|Dre'Quan Priest]] or [[characters/real-dimez|Real Dimez]] in our sources.
+Jim Santangeli, who played Simon Pearson in Red Dead Redemption 2, says he did a "little small bit" in GTA VI. <span class="tag-reported">reported</span> (Rockstar Report, timesaver.gg) His character is unknown.
+
+Our sources report no actor claims for [[characters/boobie-ike|Boobie Ike]], [[characters/dre-quan-priest|Dre'Quan Priest]] or [[characters/real-dimez|Real Dimez]].
 
 ## What about the radio hosts?
 
-Rockstar's radio announcement on October 8, 2026 credited persona hosts, and press have matched them to real artists. El Martillo is reported as Bad Bunny and Delta Dawne as Lana Del Rey, for example. <span class="tag-reported">reported</span> (Man of Many) Those are radio personalities, not story characters, and they are covered in [[music/gta-6-radio-stations|GTA 6 radio stations]].
+Rockstar's October 8, 2026 radio announcement credited persona hosts, and press have matched some to real artists: El Martillo is reported as Bad Bunny and Delta Dawne as Lana Del Rey. <span class="tag-reported">reported</span> (Man of Many) They are radio personalities, not story characters; see [[music/gta-6-radio-stations|GTA 6 radio stations]].
 
-## When will Rockstar reveal the full cast?
+## When will the full cast be known?
 
-Rockstar has not announced a cast reveal. Its standard practice is to list performers in the end credits at launch. Expect the full list to surface after the game unlocks on November 19. Check our [[release/gta-6-release-time-by-country|unlock times]] for your region.
+Rockstar has announced no cast reveal. The end credits should settle every row in the table once the game unlocks on November 19 (see [[release/gta-6-release-time-by-country|unlock times]]).
 
-## How to spot a fake cast confirmation
+Until then, the Perez episode is the template for a fake: a lookalike handle with a big follower count, and a story that cites "social media" rather than a verified account or Rockstar. Root's case shows the other trap: "you're gonna see me in there" confirms an actor, not a role.
 
-- **Check the account.** The Perez story started with a lookalike handle. Verified accounts and agency pages matter; follower counts do not.
-- **Check the wording.** "You're gonna see me in there" confirms an actor is in the game. It does not confirm a role.
-- **Check for Rockstar.** Until Rockstar or the end credits name someone, every role link is at best reported.
-- **IMDb is not a source.** Anyone can submit credits.
-
-## What we're watching
-
-The launch credits will settle every row in the table above. We will update this page once the credits can be verified on launch day, and log any changes on our [[about/corrections|corrections page]]. For the characters themselves, see [[characters/index|all GTA 6 characters]].
+We will update this page from the launch credits and log changes on the [[about/corrections|corrections page]]. Characters are on [[characters/index|all GTA 6 characters]].

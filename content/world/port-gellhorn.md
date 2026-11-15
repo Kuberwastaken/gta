@@ -1,15 +1,15 @@
 ---
-title: "Port Gellhorn in GTA 6: Leonida's faded Gulf Coast resort town"
+title: "Port Gellhorn in GTA 6: Leonida's burned-out Gulf Coast resort"
 seoTitle: "Port Gellhorn in GTA 6: Real Location and What We Know"
 shortTitle: "Port Gellhorn"
-description: "Port Gellhorn is GTA 6's run-down Gulf Coast beach town of cheap motels, dirt bikes and a raceway. Its likely real match (Panama City) and what Rockstar says."
+description: "Port Gellhorn is GTA 6's faded Gulf Coast resort of cheap motels, dirt bikes and a raceway. Its likely real match, Panama City, and all Rockstar has said."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 8
 tags: ["port-gellhorn", "world", "real-life-locations"]
-tldr: "**Port Gellhorn is a fading beach-resort town** in GTA 6, one of Leonida's six official regions. Rockstar describes cheap motels and empty strip malls fueled by \"malt liquor, painkillers, and truck stop energy drinks\". Outlets match it to **Panama City and Panama City Beach** on Florida's Panhandle."
+tldr: "**Port Gellhorn is GTA 6's washed-up beach town**, where Rockstar says the economy now runs on \"malt liquor, painkillers, and truck stop energy drinks.\" GTABase matches it to Panama City and Panama City Beach on Florida's Panhandle; Rockstar has named no streets or businesses there."
 facts:
   - k: "Type"
     v: "Faded vacation town"
@@ -23,11 +23,11 @@ facts:
     v: "None tied yet"
 faq:
   - q: "What is Port Gellhorn in GTA 6?"
-    a: "One of the six official regions of Leonida: a once-popular vacation spot of cheap motels, shut-down attractions and empty strip malls, now running on what Rockstar calls 'a new economy'."
+    a: "One of Leonida's six official regions: a once-popular vacation spot of cheap motels, shut-down attractions and empty strip malls that Rockstar says now runs on 'a new economy'."
   - q: "What real place is Port Gellhorn based on?"
-    a: "GTABase matches it to Panama City and Panama City Beach on the Panhandle Gulf Coast. GTA BOOM calls it a Gulf Coast composite. Rockstar has not said."
+    a: "GTABase matches it to Panama City and Panama City Beach on the Panhandle. GTA BOOM calls it a Gulf Coast composite. Rockstar has not named a real counterpart."
   - q: "Is there racing in Port Gellhorn?"
-    a: "Outlets compare a raceway in the area to Sebring, and circuit racing is reported as new to the series in GTA 6. Rockstar has not detailed where races take place."
+    a: "Possibly. Outlets compare a raceway in the area to Florida's Sebring, and Red Bull reports circuit racing is new to the series. Rockstar has not said where races are held."
 sources:
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
@@ -58,39 +58,37 @@ sources:
 related: ["world/leonida-regions", "world/gta-6-real-life-locations", "gameplay/gta-6-vehicles"]
 ---
 
-**Port Gellhorn** is the down-at-heel beach town of GTA 6's Leonida, a once-popular vacation spot whose tourists never came back. Outlets match it to **Panama City and Panama City Beach** on Florida's Panhandle Gulf Coast, and it's one of the [[world/leonida-regions|six official regions]] Rockstar profiles.
+Port Gellhorn is the hangover of GTA 6's Leonida, a beach town whose tourists left and didn't come back. Rockstar's description is the bleakest of its six region blurbs: "Cheap motels, shut-down attractions, and empty strip malls won't bring the tourists back, but there's a new economy in this once-popular vacation spot. It's fueled by malt liquor, painkillers, and truck stop energy drinks. Jump on a dirt bike and hold onto your wallet" <span class="tag-confirmed">confirmed</span>.
 
-Rockstar's description is one of its sharpest: "Cheap motels, shut-down attractions, and empty strip malls won't bring the tourists back, but there's a new economy in this once-popular vacation spot. It's fueled by malt liquor, painkillers, and truck stop energy drinks" <span class="tag-confirmed">confirmed</span>.
+Where Vice City gets "glamour, hustle, and greed," Port Gellhorn gets painkillers. It is one of the [[world/leonida-regions|six official regions]] Rockstar profiled with Trailer 2 in May 2025.
 
-## What is Port Gellhorn based on?
+## What real place is Port Gellhorn based on?
 
-The two outlets that have studied it disagree slightly <span class="tag-reported">reported</span>:
+The two outlets that have mapped Leonida's regions to Florida split slightly <span class="tag-reported">reported</span>:
 
 | Source | Match |
 | --- | --- |
-| GTABase (Oct 3, 2026) | Panama City / Panama City Beach, Panhandle Gulf Coast |
+| GTABase (Oct 3, 2026) | Panama City and Panama City Beach, Panhandle Gulf Coast |
 | GTA BOOM (Sep 18, 2026) | A Gulf Coast composite rather than one town |
 
-Both agree it's Gulf-side rather than Atlantic-side, and its raceway has been compared to Sebring. Neither reading is Rockstar's. The full region-by-region table is on [[world/gta-6-real-life-locations|GTA 6 real-life locations]].
+Both put it on the Gulf side rather than the Atlantic, and its raceway has been compared to Sebring. Neither reading is Rockstar's. The full region table is on [[world/gta-6-real-life-locations|GTA 6 real-life locations]].
 
-## What is there to do in Port Gellhorn?
+## What can you do in Port Gellhorn?
 
-Rockstar's own copy ends with an instruction: "Jump on a dirt bike and hold onto your wallet" <span class="tag-confirmed">confirmed</span>. So expect off-road bikes and petty crime.
+Rockstar's blurb ends on an instruction, "Jump on a dirt bike," and its edition pages name one off-road-capable motorcycle, the Dinka Enduro <span class="tag-confirmed">confirmed</span>. Rockstar hasn't said the Enduro is the bike it has in mind. The named vehicle list is on [[gameplay/gta-6-vehicles|GTA 6 vehicles]].
 
-Related systems from the previews <span class="tag-reported">reported</span>:
+The raceway lines up with a system the previews describe as new to the series: circuit racing, per Red Bull <span class="tag-reported">reported</span>. Rockstar has not placed GTA 6's circuits on the map.
 
-- **Circuit racing** is new to the series, per Red Bull, and the area's raceway is the obvious venue, though Rockstar hasn't placed races on the map.
-- **Almost any shop can be robbed**, which fits the "hold onto your wallet" tone. See [[gameplay/gta-6-money-banks-and-fences|money, banks and fences]].
-- Motorcycles are confirmed: Rockstar names the **Dinka Enduro** on its edition pages <span class="tag-confirmed">confirmed</span>. Whether it's the dirt bike in question isn't stated. All named vehicles are on [[gameplay/gta-6-vehicles|GTA 6 vehicles]].
+"Hold onto your wallet" fits the robbery rules from the same previews. Almost any shop can be held up, armored vans included, and loot has to be fenced before it becomes spendable cash <span class="tag-reported">reported</span>. See [[gameplay/gta-6-money-banks-and-fences|money, banks and fences]].
 
-## What places are in Port Gellhorn?
+## Where is Port Gellhorn on the map?
 
-Rockstar hasn't named any sub-locations. "Port Gellhorn" does appear on photos of the official Collector's Box map poster <span class="tag-reported">reported</span>. On the CyberLeek leaked map, the west of the state falls in **Kelly County**, which may take in Port Gellhorn if it sits on the Gulf side <span class="tag-speculation">speculation</span>. See [[world/gta-6-leaked-map-and-counties|the leaked map and counties]].
+"Port Gellhorn" is one of the names read off photos of the official Collector's Box map poster, which surfaced from a Selfridges display in Manchester around November 12 to 14 <span class="tag-reported">reported</span>. The poster is a stylized illustration, not the in-game map.
+
+On the CyberLeek leaked map from August 2026, the west of the state is Kelly County <span class="tag-rumour">rumour</span>. If Port Gellhorn sits on the Gulf side, as both outlets say, Kelly County is the likeliest fit <span class="tag-speculation">speculation</span>. Both leaks are graded on [[world/gta-6-leaked-map-and-counties|the leaked map and counties]].
 
 ## Who lives in Port Gellhorn?
 
-No official character bio names Port Gellhorn. Rockstar's satire here is aimed at the town itself: the painkillers and energy-drink economy is a clear swipe at small-town America in decline <span class="tag-speculation">speculation</span>. The cast is on [[characters/index|the characters hub]].
+No official character bio names it. The cast that has bios is anchored in Vice City and the Keys; see [[characters/index|the characters hub]].
 
-## What hasn't been shown
-
-There is no confirmed footage labeled as Port Gellhorn beyond Rockstar's region artwork, no named motels or attractions, and no size figure. We'll add specifics after launch on Nov 19; meanwhile the [[world/index|world hub]] has the rest of Leonida.
+Rockstar has not named a single motel, attraction or business in Port Gellhorn, shown footage labeled as the town, or given a size. The rest of Leonida is on the [[world/index|world hub]].

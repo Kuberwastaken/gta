@@ -2,14 +2,14 @@
 title: "GTA 6 timeline: every key date from 2022 to the November 19, 2026 launch"
 seoTitle: "GTA 6 Timeline: Every Key Date From 2022 to Launch Day"
 shortTitle: "Timeline"
-description: "The complete GTA 6 timeline, Feb 2022 to Nov 19, 2026: confirmation, the 2022 leak, every trailer, both delays, pricing and launch week. Every row graded."
+description: "GTA 6 timeline, Feb 4, 2022 to Nov 19, 2026: the 'well underway' post, the 2022 hack, four trailers, two delays, the $79.99 price and launch week, each graded."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 1
 tags: ["timeline", "trailers", "release"]
-tldr: "GTA 6 went from Rockstar's **'well underway' confirmation on February 4, 2022** to a **November 19, 2026 launch**, by way of a 2022 hack, a record-breaking first trailer, **two delays** (Fall 2025 to May 26, 2026, then to Nov 19, 2026), a Netflix premiere and a 2026 leak campaign. Every dated event is below, graded, with a link to the full story. Start with [[timeline/gta-6-delays|the delays]]."
+tldr: "Rockstar confirmed GTA 6 was **'well underway' on February 4, 2022**. It launches **November 19, 2026** after **two delays**: Fall 2025 to May 26, 2026 (announced May 2, 2025), then to Nov 19 (announced Nov 6, 2025). The full dated record is below; the reasons are on [[timeline/gta-6-delays|the delays page]]."
 facts:
   - k: "Development confirmed"
     v: "February 4, 2022"
@@ -85,20 +85,36 @@ sources:
     url: "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
     publisher: "Wikipedia"
     date: "Accessed Nov 15, 2026"
+  - title: "Grand Theft Auto VI trailer launch sets new 24-hour record on YouTube"
+    url: "https://blog.youtube/culture-and-trends/grand-theft-auto-breaks-record/"
+    publisher: "YouTube Official Blog"
+    date: "Dec 5, 2023"
+  - title: "Grand Theft Auto VI first look becomes most viewed videogame trailer in 24 hours"
+    url: "https://www.guinnessworldrecords.com/news/2023/12/grand-theft-auto-vi-first-look-becomes-most-viewed-videogame-trailer-in-24-hours-762030"
+    publisher: "Guinness World Records"
+    date: "Dec 6, 2023"
+  - title: "Rockstar says GTA 6's second trailer is now the biggest video launch of all time, whatever that means"
+    url: "https://pcgamer.com/games/grand-theft-auto/rockstar-says-gta-6s-second-trailer-is-now-the-biggest-video-launch-of-all-time-whatever-that-means"
+    publisher: "PC Gamer"
+    date: "May 2025"
+  - title: "Justice are behind the 'Grand Theft Auto 6' soundtrack"
+    url: "https://www.nme.com/news/gaming-news/grand-theft-auto-6-soundtrack-justice-album-gta-rockstar-tame-impala-3973238"
+    publisher: "NME"
+    date: "Oct 15, 2026"
 ---
 
-GTA 6 was confirmed on **February 4, 2022** and launches on **November 19, 2026** on PS5 and Xbox Series X|S. In between: a 2022 hack that leaked early footage, a first trailer that broke YouTube records, **two delays**, a Netflix premiere, a summer of leaks and record pre-orders on both the PlayStation and Microsoft stores. The table below is the full record, one row per event, each graded and linked to the page that covers it in depth.
+Rockstar first confirmed GTA 6 on **February 4, 2022**, in the closing line of a Newswire post about the next-gen GTA V and GTA Online. The game launches **November 19, 2026** on PS5 and Xbox Series X|S, roughly a year after the "Fall 2025" window Take-Two set in May 2024. One row per event below, graded per [[about/how-we-grade|how we grade]] and linked to the page with the detail. Rows resting on press reports, analyst estimates or Rockstar's own unaudited view counts say so.
 
-Grades follow [[about/how-we-grade|how we grade]]. Most rows are first-party Rockstar, Take-Two, Sony or Microsoft statements, or court records. Where a row rests on press reporting or an estimate, it says so.
+## Before 2022
 
-## Before 2022: how GTA 6 started
+All four rows come from Wikipedia's article, which cites IGN and Bloomberg. Rockstar has never published its own development history.
 
-- **2014-2015.** Preliminary work after GTA V; pre-production on "Project Americas" and Miami research trips begin in 2015 <span class="tag-reported">reported</span>.
-- **Late 2018.** Early development starts after Red Dead Redemption 2 <span class="tag-reported">reported</span>.
-- **2020.** Principal production begins. Take-Two later said development began "in earnest" in 2020 <span class="tag-reported">reported</span>.
-- **March 11, 2020.** Co-founder and lead writer Dan Houser leaves Rockstar <span class="tag-confirmed">confirmed</span>.
+- 2014-2015: preliminary work after GTA V; "Project Americas" pre-production and Miami research trips from 2015 <span class="tag-reported">reported</span>.
+- Late 2018: early development starts once Red Dead Redemption 2 ships <span class="tag-reported">reported</span>.
+- 2020: principal production. Take-Two later said work began "in earnest" that year <span class="tag-reported">reported</span>.
+- March 11, 2020: co-founder and lead writer Dan Houser leaves Rockstar <span class="tag-confirmed">confirmed</span>.
 
-The long version is on [[timeline/gta-6-development-history|GTA 6 development history]].
+Studios, leads and budget are on [[timeline/gta-6-development-history|development history]].
 
 ## The complete GTA 6 timeline, 2022 to launch
 
@@ -211,16 +227,19 @@ The long version is on [[timeline/gta-6-development-history|GTA 6 development hi
 | Nov 26, 2026 | The union recognition ballot closes. [[timeline/rockstar-uk-firings-and-union|Firings and union]] | <span class="tag-reported">reported</span> |
 | Dec 11, 2026 | Justice's *Original Score* album releases. [[music/gta-6-justice-score|Justice score]] | <span class="tag-confirmed">confirmed</span> |
 
-## Where the dates disagree
+## Where the dates and numbers disagree
 
-- **The first delay.** Every source we checked dates it to May 2, 2025, except Gfinity, which said July 2025. May is right.
-- **The firings.** Most outlets date them to October 30, 2025; some say November 2. Wikipedia counts 34 staff, against 31 in most reporting.
-- **The Album tracklist.** The 34 songs are confirmed as a count; the full list comes from leaked vinyl packaging.
+- First delay: every source we checked dates it to May 2, 2025, except Gfinity, which said July 2025. May is right.
+- Firings: most outlets say October 30, 2025, some November 2. Wikipedia counts 34 staff (31 at Rockstar North plus 3 in Toronto); most reporting says 31.
+- Trailer 1 views: YouTube's blog said 93M+ in 24 hours; Guinness certified 90,421,491. Both are official figures for the same 24 hours.
+- Trailer 2 views: Rockstar's 475M figure covers "all platforms" and its method was never disclosed. YouTube alone was about 65-85M by May 8, 2025, below Trailer 1's 24-hour YouTube mark.
+- Launch Trailer song: Rockstar's site and NME say "Flower in a Hurricane"; Game Rant and others write "Flowers".
+- The Album: 34 songs is confirmed as a count; the full tracklist comes from leaked vinyl packaging.
 
 ## Start here
 
-- [[timeline/gta-6-delays|Every GTA 6 delay]], with Rockstar's own wording.
-- [[timeline/gta-6-development-history|Development history]], from Project Americas to finished game.
-- [[timeline/gta-6-2022-leak|The 2022 leak]] and the Arion Kurtaj case.
-- [[timeline/rockstar-uk-firings-and-union|The UK firings and union vote]].
-- For the videos themselves, see the [[media/index|media hub]].
+- [[timeline/gta-6-delays|Every GTA 6 delay]]: Rockstar's exact apology wording both times, and why the 2027 slip claims are debunked.
+- [[timeline/gta-6-development-history|Development history]]: Project Americas, the studios, Dan Houser's exit, the sub-$1.5B budget denial.
+- [[timeline/gta-6-2022-leak|The 2022 leak]]: the 90-clip hack, Arion Kurtaj's hospital order and his November 2026 retrial.
+- [[timeline/rockstar-uk-firings-and-union|UK firings and union vote]]: 31 staff fired, a Glasgow tribunal and a 1,600-person ballot closing Nov 26.
+- The videos themselves are on the [[media/index|media hub]]; unconfirmed claims are on the [[leaks/index|leaks ledger]].

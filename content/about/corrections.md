@@ -2,7 +2,7 @@
 title: "GTA VI Wire corrections policy and log"
 seoTitle: "GTA VI Wire Corrections Policy and Corrections Log"
 shortTitle: "Corrections"
-description: "How GTA VI Wire fixes mistakes, how to report one, and the full corrections log. As of November 15, 2026 no corrections have been issued."
+description: "How GTA VI Wire fixes mistakes, how to report one, and the full corrections log. As of November 15, 2026, no corrections have been issued on any page."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
@@ -35,10 +35,14 @@ sources:
     publisher: "Take-Two Interactive via SEC EDGAR"
     date: "Nov 9, 2026"
     tier: "primary"
+  - title: "Exclusive: Grand Theft Auto VI Features Tropical Storms And Hurricanes"
+    url: "https://gameinformer.com/exclusive/2026/09/29/exclusive-grand-theft-auto-vi-features-tropical-storms-and-hurricanes"
+    publisher: "Game Informer"
+    date: "Sep 29, 2026"
 related: ["about/how-we-grade", "about/index", "leaks/index"]
 ---
 
-If GTA VI Wire gets something wrong, we fix it, say what changed and log it on this page. **As of November 15, 2026, no corrections have been issued.**
+When GTA VI Wire gets something wrong, we fix it, say what changed and log it here. **As of November 15, 2026, no corrections have been issued.**
 
 ## How do I report a mistake?
 
@@ -52,11 +56,11 @@ Send it to [@Kuberwastaken on X](https://x.com/Kuberwastaken) or open an issue a
 
 A correction is when we stated something that was wrong at the time we published it. Examples: a misquoted price, a wrong unlock time on [[release/gta-6-release-time-by-country|the unlock times page]], a misattributed quote, a broken source, or a claim graded higher than its evidence supported.
 
-Those get fixed in place, with a dated note on the page and a line in the log below.
+Each is fixed in place, with a dated note on the page and a line in the log below.
 
 ## Is a grade change a correction?
 
-No. Grades move when new evidence arrives. When Rockstar confirmed hurricanes in September 2026, a long-running rumour became confirmed; that was news, not an error. Those moves are dated in each page's changelog and on the [[leaks/index|leaks ledger]]. The method is explained on [[about/how-we-grade|how we grade]].
+No. Grades move when new evidence arrives. When Rockstar told Game Informer on September 29, 2026 that the game has tropical storms and hurricanes, a long-running rumour became confirmed. That was news, not an error. Those moves are dated in each page's changelog and on the [[leaks/index|leaks ledger]]. The method is explained on [[about/how-we-grade|how we grade]].
 
 If we had graded something as confirmed when it was only <span class="tag-reported">reported</span>, that would be a correction.
 
@@ -74,3 +78,5 @@ We do not silently delete mistakes.
 | Date | Page | What changed |
 | --- | --- | --- |
 | None | None | No corrections issued as of November 15, 2026 |
+
+Back to [[about/index|About GTA VI Wire]].

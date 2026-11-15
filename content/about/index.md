@@ -42,23 +42,21 @@ sources:
 related: ["about/how-we-grade", "about/corrections", "leaks/index"]
 ---
 
-GTA VI Wire is an independent reference for Grand Theft Auto VI, built to answer one question well: **what do we actually know, and how sure are we?** Every factual claim on the site carries a grade and a source. The site is run by one person, and it has no connection to the studio that makes the game.
+GTA VI Wire is an independent reference for Grand Theft Auto VI. Every factual claim carries a grade and a source, so a reader can tell a Take-Two SEC filing from a 4chan post at a glance. One person runs it, and it has no connection to Rockstar Games or Take-Two Interactive.
 
 ## Who runs GTA VI Wire?
 
-The site is written and built by **Kuber Mehta**, a developer and writer. You can see his other work at [kuber.studio](https://kuber.studio/). He handles the research, the writing, the grading and the code behind the site.
-
-There is no newsroom and no ad-sales team shaping coverage. When a page says something is <span class="tag-reported">reported</span> rather than confirmed, that is a judgment about the evidence, not about clicks.
+**Kuber Mehta**, a developer and writer, does the research, writing, grading and code. His other work is at [kuber.studio](https://kuber.studio/). There is no ad-sales team. When a page grades something <span class="tag-reported">reported</span> rather than confirmed, that is a call about the evidence.
 
 ## Is this an official Rockstar site?
 
-No. **GTA VI Wire is not affiliated with, endorsed by or sponsored by Rockstar Games, Take-Two Interactive, Sony or Microsoft.** Grand Theft Auto, GTA VI and related names are trademarks of their owners. We do not embed Rockstar artwork or screenshots; we describe trailers and link to [Rockstar's official GTA VI site](https://www.rockstargames.com/VI) instead.
+No. **GTA VI Wire is not affiliated with, endorsed by or sponsored by Rockstar Games, Take-Two Interactive, Sony or Microsoft.** Grand Theft Auto, GTA VI and related names are trademarks of their owners. We do not embed Rockstar artwork or screenshots; we describe trailers and link to [Rockstar's official GTA VI site](https://www.rockstargames.com/VI).
 
-We have no early access, no review code and no inside line. Our edge is method: we read the primary sources (Rockstar's site and Newswire, [Take-Two's SEC filings](https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm), Sony and Microsoft posts, ratings boards) and we label everything else for what it is.
+We have no early access, no review code and no inside line. What we do is read the primary sources (Rockstar's site and Newswire, [Take-Two's SEC filings](https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm), Sony and Microsoft posts, ratings boards) and label everything else for what it is.
 
 ## What does the site cover?
 
-The launch is set for November 19, 2026 on PS5 and Xbox Series X|S. Coverage is split into sections:
+The launch is November 19, 2026 on PS5 and Xbox Series X|S. Sections:
 
 - [[release/index|Release]]: dates, [[release/gta-6-release-time-by-country|unlock times by country]], prices, editions, pre-load and performance.
 - [[guides/index|Guides]]: practical help such as the [[guides/gta-6-day-one-checklist|day-one checklist]].
@@ -68,16 +66,16 @@ The launch is set for November 19, 2026 on PS5 and Xbox Series X|S. Coverage is 
 - [[music/index|Music]]: radio, trailer songs and the album.
 - [[media/index|Media]]: trailers, the Extended Look and galleries.
 - [[timeline/index|Timeline]]: development history, delays and the 2022 leak.
-- [[leaks/index|Leaks]]: the graded ledger of every notable rumour from 2022 to 2026.
+- [[leaks/index|Leaks]]: the graded ledger of notable rumours from 2022 to 2026.
 - [[news/index|News]]: dated reports, starting with the [[news/2026-11-15-gta-6-launch-week-briefing|launch week briefing]].
 
 ## How do you handle leaks?
 
-We cover leaks because people search for them, and because unlabeled rumours are how bad information spreads. Each leak page states the claim, where it started, the evidence for and against, and our verdict. **We never link to leaked material or explain how to find it.** The full method is on [[about/how-we-grade|how we grade]].
+People search for leaks, and an unlabeled rumour spreads faster than a correction. Each leak page states the claim, where it started, the evidence for and against, and a verdict. **We never link to leaked material or explain how to find it.** The method is on [[about/how-we-grade|how we grade]].
 
 ## How do I contact GTA VI Wire?
 
 - On X: [@Kuberwastaken](https://x.com/Kuberwastaken)
 - On GitHub: [github.com/Kuberwastaken](https://github.com/Kuberwastaken)
 
-Spotted an error or a better source? Send it. Accepted fixes are logged on the [[about/corrections|corrections page]] with the date and what changed.
+Send errors and better sources. Accepted fixes are logged on the [[about/corrections|corrections page]] with the date and what changed.

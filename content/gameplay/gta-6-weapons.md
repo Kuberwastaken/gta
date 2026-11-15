@@ -1,15 +1,15 @@
 ---
-title: "GTA 6 weapons: every named gun, the new loadout and no weapon wheel"
+title: "GTA 6 weapons: every named gun and the four-gun loadout"
 seoTitle: "GTA 6 Weapons: Every Named Gun and the New Loadout System"
 shortTitle: "Weapons"
-description: "GTA 6 weapons so far: Jason's Girardi ES9, Lucia's Klose K17, the Hawk & Little Morgan revolvers and Duke 556, plus the loadout that replaces the wheel."
+description: "GTA 6 guns named so far: Girardi ES9, Klose K17, Hawk & Little Morgan revolvers, Duke 556. No weapon wheel: you carry two handguns and two long guns."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 2
 tags: ["weapons", "gameplay", "editions"]
-tldr: "Rockstar has named **Jason's Girardi ES9, Lucia's Klose K17 and the Hawk & Little Morgan revolvers**, and the Extended Look showed a **Duke 556** rifle. Previews say the weapon wheel is replaced by a **loadout of two handguns and two long guns**, with the rest stored in your vehicle."
+tldr: "Rockstar names **Jason's Girardi ES9, Lucia's Klose K17 and the Hawk & Little Morgan revolvers**; the Extended Look adds a Duke 556 rifle. Previews say the weapon wheel is replaced by two handguns and two long guns on you, with the rest stored in your vehicle."
 facts:
   - k: "Jason's pistol"
     v: "Girardi ES9 (confirmed)"
@@ -25,15 +25,15 @@ facts:
     v: "Off by default (reported)"
 faq:
   - q: "Does GTA 6 have a weapon wheel?"
-    a: "Not in the old sense, per previews. You carry two handguns and two long guns, with only one long gun on your back, and store the rest in your vehicle, similar to RDR2's horse storage."
+    a: "Not GTA V's. Previews describe two handgun and two long-gun slots, with one long gun on your back and spares kept in the vehicle, as RDR2 did with the horse."
   - q: "What guns are confirmed in GTA 6?"
-    a: "Rockstar names Jason's Girardi ES9 pistol, Lucia's Klose K17 pistol and the Hawk & Little Morgan revolvers on its edition pages. A Duke 556 assault rifle appears in the Extended Look, per Engadget."
+    a: "Rockstar's edition pages name the Girardi ES9 (Jason), Klose K17 (Lucia) and Hawk & Little Morgan revolvers. Engadget spotted a Duke 556 assault rifle in the Extended Look."
   - q: "Is auto-aim on in GTA 6?"
-    a: "Previews report auto-aim is off by default. Rockstar hasn't detailed the full set of aim-assist options."
-  - q: "Is there slow motion aiming in GTA 6?"
-    a: "Yes, reportedly. A 'Focus' slow-motion mode highlights enemy weak points. It was shown with Jason; whether Lucia has it too is unclear."
+    a: "Previews say auto-aim starts switched off. Rockstar hasn't listed which aim-assist options you can turn on instead."
+  - q: "Does carrying a gun give you a wanted level?"
+    a: "Not by itself, per previews. Civilians react to a visible weapon, but police only come for a witness report, an alarm or a car tracker."
   - q: "Is Ammu-Nation in GTA 6?"
-    a: "An Ammu-Nation ad appears in Trailer 2, featuring a Phil Cassidy lookalike, per Den of Geek. Rockstar hasn't confirmed who he is."
+    a: "As a brand, yes. Trailer 2 shows an Ammu-Nation ad fronted by a Phil Cassidy lookalike, per Den of Geek. Rockstar hasn't said who he is."
 sources:
   - title: "Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI"
@@ -72,11 +72,11 @@ sources:
 related: ["guides/gta-6-controls-and-weapon-slots", "gameplay/gta-6-wanted-system-and-heat", "release/gta-6-pre-order-bonuses"]
 ---
 
-Rockstar has officially named only a few GTA 6 weapons, all on its edition and pre-order pages: **Jason's Girardi ES9 pistol, Lucia's Klose K17 pistol, and the Hawk & Little Morgan revolvers** <span class="tag-confirmed">confirmed</span>. The [[media/gta-6-extended-look|Extended Look]] added a **Duke 556** assault rifle <span class="tag-reported">reported</span>.
+Rockstar has put four weapon names on the record, all on its edition and pre-order pages: Jason's Girardi ES9 pistol, Lucia's Klose K17 pistol, and the Hawk & Little Morgan revolvers, "sourced from the Vercetti Estate" <span class="tag-confirmed">confirmed</span>. A fifth, the Duke 556 assault rifle, is visible in the [[media/gta-6-extended-look|Extended Look]], per Engadget <span class="tag-reported">reported</span>. There is no official weapon list and no count.
 
-The bigger change is how you carry them. Previews say the classic weapon wheel is gone, replaced by a **limited loadout of two handguns and two long guns**, with everything else stored in your vehicle <span class="tag-reported">reported</span>.
+The weapon wheel that GTA V used to hold your entire arsenal is gone. Previews describe a carry limit of two handguns and two long guns, with everything else left in your vehicle <span class="tag-reported">reported</span>.
 
-## What weapons are confirmed in GTA 6?
+## What guns are confirmed in GTA 6?
 
 | Weapon | Type | Who / where | Source | Grade |
 | --- | --- | --- | --- | --- |
@@ -85,75 +85,50 @@ The bigger change is how you carry them. Previews say the classic weapon wheel i
 | Hawk & Little Morgan | Revolvers | "Sourced from the Vercetti Estate" | Rockstar edition pages | <span class="tag-confirmed">confirmed</span> |
 | Duke 556 | Assault rifle | Shown in the Extended Look | Engadget | <span class="tag-reported">reported</span> |
 
-Rockstar also offers a **tropical weapon pattern** "inspired by Tommy Vercetti's iconic palm tree button-up" <span class="tag-confirmed">confirmed</span>. That and the Vercetti Estate revolvers are nods to 2002's Vice City; neither means Tommy appears. Which edition or pre-order pack includes each item is covered on [[release/gta-6-pre-order-bonuses|pre-order bonuses]] and [[release/gta-6-price-and-editions|price and editions]].
+Rockstar also sells a tropical weapon pattern "inspired by Tommy Vercetti's iconic palm tree button-up" <span class="tag-confirmed">confirmed</span>. The pattern and the Vercetti Estate revolvers are callbacks to 2002's Vice City; neither puts Tommy in the game. Which pack carries which item is on [[release/gta-6-pre-order-bonuses|pre-order bonuses]] and [[release/gta-6-price-and-editions|price and editions]].
 
-Rockstar hasn't published a full weapon list, and there's no official count.
+Every other GTA 6 gun name circulating now comes from fan IDs of trailer stills or [[leaks/index|leak footage]]. We found no Rockstar name or press identification for any of them, so we don't list them <span class="tag-rumour">rumour</span>.
 
 ## Does GTA 6 have a weapon wheel?
 
-Not as before. Per Red Bull, Engadget and Edge <span class="tag-reported">reported</span>:
+No. Red Bull, Engadget and Edge describe the same rules <span class="tag-reported">reported</span>:
 
-- You carry **two handguns and two long guns**.
-- Only **one long gun is visible on your back** at a time.
-- The rest of your arsenal lives **in your vehicle**, much like RDR2's horse storage.
-- Car **trunks** store weapons, outfits and even people.
+- On foot you carry two handguns and two long guns.
+- Only one long gun sits visibly on your back.
+- The rest of the arsenal stays in your vehicle, the way RDR2 kept spare guns on your horse.
+- Trunks hold weapons, outfits and, per the previews, people.
 
-So planning matters: if you leave your car behind, you leave most of your guns with it. Button layouts and slot details are on [[guides/gta-6-controls-and-weapon-slots|controls and weapon slots]].
+The practical cost: walk away from your car and most of your guns stay with it. This is our reading, not Rockstar advice, but it means parking close on any job where you expect to resupply <span class="tag-speculation">speculation</span>. Button layouts are on [[guides/gta-6-controls-and-weapon-slots|controls and weapon slots]].
 
-## Do police react to you carrying a gun?
+## Do police react if you carry a gun openly?
 
-Civilians do; police don't automatically. Previews say a visibly carried weapon changes how NPCs react, but doesn't on its own bring the cops <span class="tag-reported">reported</span>. Police respond to witnesses, alarms and trackers. See [[gameplay/gta-6-wanted-system-and-heat|the wanted system]].
+Civilians react; police don't come automatically. A visible weapon changes NPC behaviour, but GTA 6 only dispatches police on a witness report, an alarm or a stolen-car tracker <span class="tag-reported">reported</span>. Police cars can also be looted for gear. The full rules are on [[gameplay/gta-6-wanted-system-and-heat|the wanted system and heat]].
 
-## How does aiming and combat work in GTA 6?
+## How does aiming work in GTA 6?
 
-The reported changes from the previews <span class="tag-reported">reported</span>:
-
-| Feature | What it does |
+| Feature | What previews describe |
 | --- | --- |
-| Auto-aim off by default | Free aim is the starting setting |
-| Focus mode | Slow motion that highlights enemy weak points |
-| Vitals targeting | Allows non-lethal disarms |
-| Heavier recoil and weight | Guns kick harder and feel heavier |
-| Killcam | Engadget compares it to Max Payne 3 |
-| Lootable police cars | You can take gear from cop cars |
+| Auto-aim | Off by default |
+| Focus | Slow motion that highlights enemy weak points; Engadget likens it to Michael's slow-mo in GTA V |
+| Vitals targeting | Aimed shots allow non-lethal disarms |
+| Recoil and weight | Heavier than before |
+| Killcam | Engadget compares it to Max Payne 3's |
 
-**Focus** was shown with [[characters/jason-duval|Jason]], and Engadget likens it to Michael's slow-motion ability in GTA 5. It's unclear whether [[characters/lucia-caminos|Lucia]] shares it <span class="tag-reported">reported</span>. PC Gamer's Christopher Livingston wrote that Extended Look viewers favored Lucia for her "creative takedowns", and her official bio says her father "taught her to fight as soon as she could walk" <span class="tag-confirmed">confirmed</span>.
+All rows are <span class="tag-reported">reported</span>, from Red Bull, Engadget, Edge (via GTAVice.net) and Wikipedia. Focus was shown with [[characters/jason-duval|Jason]]; nobody has said whether [[characters/lucia-caminos|Lucia]] gets it. Lucia's official bio says her father "taught her to fight as soon as she could walk" <span class="tag-confirmed">confirmed</span>, and PC Gamer's Christopher Livingston wrote that Extended Look audiences favoured her for her "creative takedowns" <span class="tag-reported">reported</span>.
+
+Vitals targeting is the only reported route to playing non-lethally. Whether sparing people moves your [[gameplay/gta-6-criminal-profile|Criminal Profile]], which runs from Professional to Irredeemable, hasn't been confirmed.
 
 ## Where do you buy guns in GTA 6?
 
-**Ammu-Nation** is back, at least as a brand: Trailer 2 shows an Ammu-Nation ad featuring a Phil Cassidy lookalike, possibly his son, per Den of Geek <span class="tag-reported">reported</span>. Fan claims that this is Phil Cassidy himself are unsourced to Rockstar <span class="tag-rumour">rumour</span>. See [[characters/returning-characters-and-cameos|returning characters]].
+Ammu-Nation survives as a brand: Trailer 2 shows an Ammu-Nation ad starring a Phil Cassidy lookalike, possibly his son, per Den of Geek <span class="tag-reported">reported</span>. Claims that it is Phil Cassidy himself have no Rockstar source <span class="tag-rumour">rumour</span>; see [[characters/returning-characters-and-cameos|returning characters]]. Shooting ranges are on the reported activity list. Rockstar has given no weapon prices and said nothing about attachments or customization.
 
-Shooting ranges are listed among activities <span class="tag-reported">reported</span>. Rockstar hasn't explained weapon prices or customization.
-
-## Can you play non-lethally?
-
-Partly. Vitals targeting allows non-lethal disarms <span class="tag-reported">reported</span>, and your **Criminal Profile**, which runs from Professional to Irredeemable, affects the story <span class="tag-reported">reported</span>. Whether sparing people moves that meter hasn't been confirmed. See [[gameplay/gta-6-criminal-profile|Criminal Profile]].
-
-## What combat has Rockstar shown so far?
+## What gunfights has Rockstar shown?
 
 | Footage | What it shows | Grade |
 | --- | --- | --- |
-| Trailer 2 (May 2025) | An Ammu-Nation ad with a Phil Cassidy lookalike | <span class="tag-reported">reported</span> |
-| Trailer 2 | A bank robbery at a "City National Bank"-style branch, per fan wikis | <span class="tag-rumour">rumour</span> |
-| Extended Look (Aug 2026) | The Duke 556 rifle, Focus slow motion, a Max Payne 3-style killcam | <span class="tag-reported">reported</span> |
-| Extended Look | Jason and Lucia driving the getaway for Raul's robbery | <span class="tag-reported">reported</span> |
+| Trailer 2 (May 2025) | A bank robbery at a "City National Bank"-style branch, per fan wikis | <span class="tag-rumour">rumour</span> |
+| Extended Look (Aug 2026) | Duke 556, Focus slow motion, a Max Payne 3-style killcam | <span class="tag-reported">reported</span> |
+| Extended Look | Jason and Lucia driving the getaway on [[characters/raul-bautista|Raul Bautista]]'s robbery | <span class="tag-reported">reported</span> |
 | Extended Look | A security job at Megamundo's first US headquarters that ends in an armed robbery | <span class="tag-reported">reported</span> |
 
-Shot-by-shot detail is on [[media/gta-6-trailer-2|Trailer 2]]. Story context for those jobs is on [[characters/raul-bautista|Raul Bautista]] and [[characters/extended-look-characters|Extended Look characters]].
-
-## How should you plan your loadout?
-
-Rockstar hasn't published advice, so this is our reading of the reported rules <span class="tag-speculation">speculation</span>:
-
-- **Pick your long guns before you leave the car.** Only two long guns travel with you, and only one sits on your back.
-- **Park close on big jobs.** Your spare arsenal is in the vehicle, so a car left blocks away is a resupply you can't reach.
-- **Mind the trunk.** It also holds outfits, which matter for losing a police description.
-- **Try free aim early.** Auto-aim starts off, so check the settings before your first firefight.
-
-## What weapons are rumoured?
-
-Any other weapon name you see attached to GTA 6 right now comes from fan IDs of trailer stills or leak footage. None beyond the four above has a Rockstar name or a press identification we could verify, so we don't list them <span class="tag-rumour">rumour</span>. Older leak material is covered under [[leaks/index|leaks]].
-
-## What we're watching
-
-The full arsenal, whether melee and throwables keep their own slots, and how vehicle storage works when your car is destroyed. Our [[gameplay/gta-6-gameplay-features-confirmed|confirmed features list]] tracks every system in one table; the [[gameplay/index|gameplay hub]] links the rest.
+Rockstar has not said whether melee weapons and throwables get their own slots, or what happens to the guns stored in a car that gets destroyed. Every other system is tracked on [[gameplay/gta-6-gameplay-features-confirmed|confirmed features]] and the [[gameplay/index|gameplay hub]].

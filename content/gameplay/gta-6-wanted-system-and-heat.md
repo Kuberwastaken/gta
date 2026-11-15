@@ -2,14 +2,14 @@
 title: "GTA 6 wanted system: six stars, heat, witnesses and how to lose the cops"
 seoTitle: "GTA 6 Wanted System: Six Stars, Heat and How to Lose Cops"
 shortTitle: "Wanted system and heat"
-description: "GTA 6 has six wanted stars and a heat system that tracks what police know: witnesses, CCTV, your clothes and car. How it works and how to shake a description."
+description: "GTA 6 has six wanted stars and a heat system: police need a witness, alarm or car tracker, then hunt your clothes, car and face. Star styles and every escape."
 status: "reported"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 1
 tags: ["wanted-system", "gameplay"]
-tldr: "GTA 6 has **six wanted stars** (up from five) and a **heat system**: police only respond if there's a **witness, an alarm or a stolen-car tracker**, and they track your clothes, car and face. Change outfits, split up Jason and Lucia, get a haircut or torch the car to lose them."
+tldr: "GTA 6 has **six wanted stars** (GTA 5 had five), and police only respond to a witness, an alarm or a stolen-car tracker. They hunt a description, so you lose them by changing clothes, splitting up Jason and Lucia, getting a haircut or torching the car."
 facts:
   - k: "Max stars"
     v: "6 (GTA 5 had 5)"
@@ -25,15 +25,15 @@ facts:
     v: "Reported (previews)"
 faq:
   - q: "How many wanted stars are in GTA 6?"
-    a: "Six. The Extended Look shows a six-star wanted meter, up from five in GTA 5, per Engadget and VICE."
+    a: "Six, shown on the HUD in the Extended Look per Engadget and VICE. GTA 5 had five. Rockstar has not said what the sixth star sends after you."
   - q: "How do you lose the cops in GTA 6?"
-    a: "Break the description police have. Previews describe changing clothes, getting a haircut, wearing a mask against CCTV, splitting up Jason and Lucia, swapping or torching your car, or using a Pay 'n' Spray."
+    a: "Make their description wrong: new clothes, a barber haircut, a mask for CCTV, split Jason and Lucia, or swap or torch the car. A Pay 'n' Spray clears the level outright."
   - q: "Does GTA 6 still have wanted stars?"
-    a: "Yes. A claim that GTA 6 'eliminates the wanted star system' is false; official Extended Look footage shows the stars."
+    a: "Yes. A fan-site claim that GTA 6 'eliminates the wanted star system' is false. The Extended Look HUD shows six of them."
   - q: "Do police come every time you commit a crime in GTA 6?"
-    a: "No. Per previews, crimes only draw police when there is a witness, an alarm or a stolen-car tracker."
+    a: "No. Previews say police need a witness, an alarm or a stolen-car tracker. Carrying a gun openly alarms civilians but does not bring police by itself."
   - q: "Can police search buses in GTA 6?"
-    a: "Rockstar's Phil Hooker says police won't search a bus unless they saw you board it."
+    a: "Only if they saw you get on. Rockstar's Phil Hooker gave that rule in previews, which makes a bus a cheap way out of a search zone."
 sources:
   - title: "GTA 6 gameplay: Key details that you might have missed"
     url: "https://www.redbull.com/us-en/gta-6-gameplay-details"
@@ -63,35 +63,33 @@ sources:
 related: ["gameplay/gta-6-criminal-profile", "gameplay/gta-6-vehicles", "gameplay/gta-6-character-switching"]
 ---
 
-GTA 6's police system has **six wanted stars**, one more than GTA 5, and sits on top of a new **heat system** that tracks what the police actually know about you <span class="tag-reported">reported</span>. Crimes only draw a response when there's a **witness, an alarm or a stolen-car tracker**, and once they're after you, cops are hunting a description: your clothes, your car, how many of you there are.
+GTA 6 has six wanted stars, one more than GTA 5, and police respond only when something reports you: a witness, an alarm, or the tracker on a stolen car <span class="tag-reported">reported</span>. Once they are looking, they hunt a description built from CCTV, your clothes, your car, your weapons and how many of you there are. You escape by making that description wrong.
 
-That changes how you escape. Instead of just outrunning a circle on the minimap, you break the description.
-
-Everything below comes from Rockstar's August 2026 preview events, the [[media/gta-6-extended-look|Extended Look]] and Edge's October cover feature, as reported by Red Bull, Engadget, VICE and GTAVice.net. We grade it "reported" because it reaches us through press, even where a Rockstar developer is the source.
+These rules come from Rockstar staff at the August 2026 preview events, the [[media/gta-6-extended-look|Extended Look]] and Edge's October 29 cover feature, as written up by Red Bull, Engadget, VICE and GTAVice.net. Press is the route, so the grade is reported.
 
 ## How many wanted stars are in GTA 6?
 
-**Six**, shown in the Extended Look, per Engadget and VICE <span class="tag-reported">reported</span>. GTA 5 topped out at five. Rockstar hasn't said what triggers the sixth star or what responds at that level. NOOSE, the tactical unit from GTA 4, is referenced <span class="tag-reported">reported</span>.
+Six, visible on the HUD in the Extended Look, per Engadget and VICE <span class="tag-reported">reported</span>. GTA 5 stopped at five. Rockstar has not said what earns the sixth star or what arrives at that level. NOOSE, the tactical unit from GTA 4, is referenced.
 
-A claim from a fan site that GTA 6 "eliminates the wanted star system" is false: the official footage shows the stars <span class="tag-debunked">debunked</span>.
+The fan site leonidaexplorer claimed GTA 6 "eliminates the wanted star system". The official footage shows stars <span class="tag-debunked">debunked</span>.
 
-## How does the GTA 6 heat system work?
+## What makes police come after you?
 
-Per Red Bull and Edge, police build a picture of the suspect from <span class="tag-reported">reported</span>:
+Three triggers, per Red Bull and Edge: a witness, an alarm, or a stolen-car tracker <span class="tag-reported">reported</span>. A crime with none of the three can go unreported. A visible weapon changes how civilians react but does not summon police on its own.
+
+Once you are reported, police build a profile:
 
 | What police track | How it's gathered |
 | --- | --- |
-| Your face and appearance | Witnesses, CCTV |
+| Face and appearance | Witnesses, CCTV |
 | Clothing | Witnesses, CCTV |
 | Number of suspects | Witnesses |
 | Weapons | What was seen |
-| Vehicle | Sightings and stolen-car trackers |
+| Vehicle | Sightings, stolen-car trackers |
 
-**What triggers police at all:** a witness, an alarm, or a tracker on a stolen car <span class="tag-reported">reported</span>. A crime with none of those may go unreported. Carrying a visible weapon changes how civilians react but doesn't automatically bring the police.
+## What do the star styles mean?
 
-## What do the different star styles mean?
-
-Rockstar uses the look of the stars to tell you what the police know <span class="tag-reported">reported</span>:
+The stars change look to show what police know <span class="tag-reported">reported</span>:
 
 | Star style | Meaning |
 | --- | --- |
@@ -102,55 +100,33 @@ Rockstar uses the look of the stars to tell you what the police know <span class
 
 ## How do you lose the cops in GTA 6?
 
-Every reported method is about breaking the description <span class="tag-reported">reported</span>:
+Each reported method attacks one line of the profile <span class="tag-reported">reported</span>:
 
-- **Split up.** Separate [[characters/jason-duval|Jason]] and [[characters/lucia-caminos|Lucia]] so police aren't looking for a pair. See [[gameplay/gta-6-character-switching|character switching]].
-- **Change clothes.** Swap your outfit. Previews note car trunks can store outfits.
-- **Get a haircut** at a barber.
-- **Wear a mask** to beat CCTV.
-- **Swap or torch the car.** If police have your vehicle, ditch it or burn it.
-- **Pay 'n' Spray.** Repairs the car and clears your wanted level.
-- **Take a bus.** Rockstar's Phil Hooker says police won't search a bus unless they saw you board it.
-- **Use buildings.** Many have multiple exits for escapes. See [[world/gta-6-interiors|interiors]].
+| Method | What it breaks |
+| --- | --- |
+| Split up Jason and Lucia | "Two suspects" |
+| Change clothes (trunks can store outfits) | Clothing |
+| Barber haircut | Appearance |
+| Mask | CCTV identification |
+| Swap or torch the car | Vehicle |
+| Pay 'n' Spray | Repairs the car and clears the wanted level |
+| Ride a bus | Police won't search it unless they saw you board, per Rockstar's Phil Hooker |
+| Leave through another exit | Line of sight; Red Bull says many buildings have several |
 
-## What do the police do differently?
+Splitting up works because you control both [[characters/jason-duval|Jason]] and [[characters/lucia-caminos|Lucia]]; see [[gameplay/gta-6-character-switching|character switching]]. Enterable buildings are covered on [[world/gta-6-interiors|interiors]].
 
-- **Perimeters.** Police may hold a perimeter around a shop you've robbed <span class="tag-reported">reported</span>.
-- **Helicopters** sweep with searchlights <span class="tag-reported">reported</span>.
-- **Police dogs** appear <span class="tag-reported">reported</span>.
-- **Trackers.** A stolen car's tracker can alert police, and the Waink app scans a car's security and tracker before you take it <span class="tag-reported">reported</span>. More on [[gameplay/gta-6-vehicles|vehicles]].
-- **Looting.** Police cars can be looted <span class="tag-reported">reported</span>.
+## What do the police do once they're on you?
 
-## How do you avoid a wanted level in the first place?
+They hold ground. Police may keep a perimeter around a shop you robbed, sweep with helicopter searchlights and bring dogs <span class="tag-reported">reported</span>. Police cars can be looted. A stolen car's tracker can call them in, which is why the Waink app shows a car's security tier and tracker before you touch it; see [[gameplay/gta-6-vehicles|vehicles]].
 
-If police only come for witnesses, alarms and trackers, the best escape is never being reported. Putting the reported mechanics together, a careful approach looks like this <span class="tag-speculation">speculation</span>:
+Not every cop is clean. The Extended Look's drug-house raid is led by Méndez, a dirty VCPD officer, while Jason and Lucia are there for a pickup <span class="tag-reported">reported</span>. Rockstar has not said whether bribes or corrupt cops are a mechanic or only story; Méndez is on [[characters/extended-look-characters|Extended Look characters]]. Fan wikis also place a [[media/gta-6-trailer-2|Trailer 2]] robbery at a "City National Bank"-style branch <span class="tag-rumour">rumour</span>.
 
-1. **Check the car before you take it.** The Waink app shows a car's security tier and whether it has a tracker <span class="tag-reported">reported</span>.
-2. **Pick a quiet theft method.** Smashing a window triggers the alarm; hot-wiring, key cloners and lock picks are the alternatives <span class="tag-reported">reported</span>.
-3. **Mask up near cameras.** CCTV feeds the heat system, and a mask counters it <span class="tag-reported">reported</span>.
-4. **Keep guns holstered in public.** A visible weapon changes how civilians react, even if it doesn't summon police by itself <span class="tag-reported">reported</span>.
-5. **Bank your cash first.** Being Busted costs you the cash you carry <span class="tag-reported">reported</span>.
+## How do you avoid a wanted level at all?
 
-## What has been shown of the police in the trailers?
+Stack the reported rules and the safest crime is one nobody reports <span class="tag-speculation">speculation</span>. Check a car in Waink before stealing it. Hot-wire it, clone the key or pick the lock, because smashing a window sets off the alarm. Mask up near cameras. Bank cash first: being Wasted or Busted costs whatever you carry, per Red Bull. See [[gameplay/gta-6-money-banks-and-fences|money, banks and fences]].
 
-- **Six stars on the HUD** in the [[media/gta-6-extended-look|Extended Look]], per Engadget and VICE <span class="tag-reported">reported</span>.
-- **A drug-house raid** led by Méndez, a dirty VCPD cop, while Jason and Lucia are there for a pickup <span class="tag-reported">reported</span>. Méndez's place in the story is covered under [[characters/extended-look-characters|Extended Look characters]].
-- **A bank robbery** in [[media/gta-6-trailer-2|Trailer 2]] at a "City National Bank"-style branch, according to fan wikis <span class="tag-rumour">rumour</span>.
+## Does your record follow you?
 
-The police force in Vice City is the VCPD, and the [[world/vice-city|city page]] covers where it operates.
+Separately from the stars, each character has a [[gameplay/gta-6-criminal-profile|Criminal Profile]] running from Professional to Irredeemable that affects the story <span class="tag-reported">reported</span>. Rockstar has not said whether wanted levels feed it.
 
-## Does getting busted or wasted cost you money?
-
-Yes. Cash on hand is lost when you're Wasted or Busted, so previews advise banking it at ATMs <span class="tag-reported">reported</span>. Details on [[gameplay/gta-6-money-banks-and-fences|money, banks and fences]].
-
-## Does your crime record follow you?
-
-Separately from the wanted level, each character has a **Criminal Profile** that runs from Professional to Irredeemable, with angel and devil icons, and it affects the story <span class="tag-reported">reported</span>. See [[gameplay/gta-6-criminal-profile|the Criminal Profile]].
-
-## How is this different from GTA 5?
-
-The two headline changes are the **sixth star** and a response that depends on **who saw what**. Of the two, heat looks like the bigger shift, because it changes how you escape rather than how hard the chase gets <span class="tag-speculation">speculation</span>.
-
-## What isn't known yet
-
-Rockstar hasn't said how long a description sticks, whether heat carries between Jason and Lucia, what the sixth star brings, or how bribes or corrupt cops (the Extended Look's Méndez is a dirty VCPD officer) fit in. Real play after Nov 19 will settle it. For every other system, see the [[gameplay/gta-6-gameplay-features-confirmed|confirmed features list]] or the [[gameplay/index|gameplay hub]]. New players should also read [[guides/gta-6-tips-before-you-start|tips before you start]].
+Also unknown: how long a description sticks, whether heat on Jason carries over to Lucia, and what the sixth star sends. Every other system is graded on the [[gameplay/gta-6-gameplay-features-confirmed|confirmed features list]] and the [[gameplay/index|gameplay hub]]; first-timers should read [[guides/gta-6-tips-before-you-start|tips before you start]].

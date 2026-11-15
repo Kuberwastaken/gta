@@ -92,10 +92,14 @@ sources:
     publisher: "Take-Two Interactive"
     date: "Aug 7, 2026"
     tier: "primary"
+  - title: "We guessed late 2027 for GTA 6 on PC. A report says Q1 2027"
+    url: "https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html"
+    publisher: "PCWorld"
+    date: "Oct 14, 2026"
 related: ["release/gta-6-release-date", "leaks/gta-6-another-delay-rumour", "timeline/gta-6-development-history"]
 ---
 
-GTA 6 has been **delayed twice**. On **May 2, 2025**, Rockstar moved it from Fall 2025 to **Tuesday, May 26, 2026**. On **November 6, 2025**, it moved again to **Thursday, November 19, 2026**. Both times Rockstar apologized and cited quality. There has been no third delay, and Take-Two reaffirmed [[release/gta-6-release-date|November 19]] as recently as November 9, 2026 <span class="tag-confirmed">confirmed</span>.
+GTA 6 has been **delayed twice**. On **May 2, 2025**, Rockstar moved it from Fall 2025 to **Tuesday, May 26, 2026**. On **November 6, 2025**, it moved again to **Thursday, November 19, 2026**. Both statements apologized and cited quality. There has been no third delay: Take-Two's November 9, 2026 earnings release put the launch "ten days away" <span class="tag-confirmed">confirmed</span>, and [[release/gta-6-preload-and-file-size|pre-load]] opened on November 10.
 
 ## Every GTA 6 release date change
 
@@ -107,19 +111,17 @@ GTA 6 has been **delayed twice**. On **May 2, 2025**, Rockstar moved it from Fal
 | **Nov 6, 2025** | **May 26, 2026 to Nov 19, 2026** | Rockstar, on X and Newswire | <span class="tag-confirmed">confirmed</span> |
 | 2026 (various) | Claimed slip to February 2027 or later | 4chan posts, parody accounts | <span class="tag-debunked">debunked</span> |
 
-The May 2024 change was a narrowing, not a delay: "Fall 2025" sat inside the original "2025". Counting from the first trailer's window, the game launches roughly a year later than first promised.
+The May 2024 change was a narrowing, not a delay: "Fall 2025" sat inside the original "2025". At that earnings release Take-Two said further details "will come from Rockstar". Measured from the Fall 2025 window, the game ships about a year late.
 
 ## Delay 1: Fall 2025 to May 26, 2026
 
-On **May 2, 2025**, Rockstar announced the game would release on Tuesday, May 26, 2026. Its statement, as reported by Business Today:
+On **May 2, 2025**, Rockstar set a Tuesday, May 26, 2026 release. Its statement, as reported by Business Today:
 
 > "We are very sorry that this is later than you expected… We hope you understand that we need this extra time to deliver at the level of quality you expect and deserve."
 
-Four days later, on May 6, Rockstar dropped [[media/gta-6-trailer-2|Trailer 2]] without warning. Rockstar did not link the two; the timing read to many fans like an apology in video form <span class="tag-speculation">speculation</span>.
+Four days later, on May 6, Rockstar released [[media/gta-6-trailer-2|Trailer 2]] without warning, along with 70 screenshots and the first official character bios. Rockstar never linked the trailer to the delay.
 
-### The July 2025 contradiction
-
-Gfinity dated the first delay to July 2025. Every other source we checked, including same-day coverage, says May 2, 2025. That date is correct, and the Gfinity date is wrong <span class="tag-debunked">debunked</span>.
+Gfinity dated this delay to July 2025. Every other source we checked, including same-day coverage, says May 2, 2025. The July date is wrong <span class="tag-debunked">debunked</span>.
 
 ## Delay 2: May 26 to November 19, 2026
 
@@ -127,29 +129,23 @@ On **November 6, 2025**, Rockstar posted on X and Newswire that the game "will n
 
 > "We are sorry for adding additional time to what we realize has been a long wait, but these extra months will allow us to finish the game with the level of polish you have come to expect and deserve."
 
-Rockstar added that it was "incredibly excited for players to experience the sprawling state of Leonida and a return to modern day Vice City". We could not open Rockstar's own post, which renders with JavaScript, so this wording comes from outlets that quoted it. Notebookcheck, Tom's Hardware and Hitmarker carry matching extracts.
+The post also said Rockstar was "incredibly excited for players to experience the sprawling state of Leonida and a return to modern day Vice City". Rockstar's own post renders with JavaScript and we could not open it, so the wording comes from outlets that quoted it; Notebookcheck, Tom's Hardware and Hitmarker carry matching extracts.
 
-### What Take-Two said the same day
-
-The delay landed alongside Take-Two's FY26 Q2 earnings. Strauss Zelnick said: "we remain both excited and confident they will deliver an unrivalled blockbuster entertainment experience" <span class="tag-confirmed">confirmed</span>.
+The delay landed the same day as Take-Two's FY26 Q2 earnings. Strauss Zelnick: "we remain both excited and confident they will deliver an unrivalled blockbuster entertainment experience" <span class="tag-confirmed">confirmed</span>.
 
 ### Was the second delay about the firings?
 
-A week earlier, on October 30, 2025, Rockstar fired 31 UK staff. The IWGB union called it union-busting; Rockstar cited gross misconduct and leaks. Take-Two said the firings were unrelated to the delay <span class="tag-confirmed">confirmed</span> as the company's position. No reporting we found contradicts that with evidence. The full story is on [[timeline/rockstar-uk-firings-and-union|the firings and union fight]].
+Take-Two says no. Rockstar fired 31 UK staff on October 30, 2025, a week before the delay, citing gross misconduct and leaks; the IWGB union called it union-busting. Take-Two said the firings and the delay were unrelated <span class="tag-confirmed">confirmed</span> as the company's position. We found no reporting that contradicts it with evidence. Full story: [[timeline/rockstar-uk-firings-and-union|the firings and union fight]].
 
 ## Why was GTA 6 delayed?
 
-Rockstar's only public reason, both times, was quality: "the level of quality you expect and deserve" in May 2025, and "the level of polish you have come to expect and deserve" in November 2025. Rockstar has not discussed specific causes such as scope, staffing or platform work.
+Rockstar's only public reason, both times, was quality: "the level of quality you expect and deserve" in May 2025, "the level of polish you have come to expect and deserve" in November 2025. It has not discussed scope, staffing or platform work.
 
-What did **not** cause it, on the record:
-
-- **The 2022 hack.** In September 2022 Rockstar said it did not "anticipate any long-term effect on our development timelines". The later delays cited polish, with no stated link. See [[timeline/gta-6-2022-leak|the 2022 leak]].
-- **The firings.** Take-Two says unrelated.
-- **Generative AI or monetization work.** Zelnick said in August 2026 that generative AI has "zero part" in the game, and Rob Nelson said there is no monetization at launch.
+Two candidate causes are ruled out on the record. The [[timeline/gta-6-2022-leak|2022 hack]]: in September 2022 Rockstar said it did not "anticipate any long-term effect on our development timelines", and neither delay statement mentions it. The firings: Take-Two says unrelated.
 
 ## Will GTA 6 be delayed again?
 
-No sign of it, and the claims that it would be are debunked <span class="tag-debunked">debunked</span>.
+No. Every Take-Two statement in 2026 held the date, and the 2027 claims are <span class="tag-debunked">debunked</span>.
 
 | Date | What Take-Two said | Grade |
 | --- | --- | --- |
@@ -158,14 +154,12 @@ No sign of it, and the claims that it would be are debunked <span class="tag-deb
 | Aug 7, 2026 | Nov 19 reaffirmed in the Q1 FY27 release | <span class="tag-confirmed">confirmed</span> |
 | Nov 9, 2026 | "The launch of Grand Theft Auto VI is ten days away" | <span class="tag-confirmed">confirmed</span> |
 
-On the November 9 call, executives said Rockstar had finished development and the marketing campaign was set, per GamesBeat <span class="tag-reported">reported</span>. Pre-load opened November 10, and boxed code-in-box copies hit shelves November 12. At this point a delay would mean pulling a game that is already on players' consoles <span class="tag-speculation">speculation</span>.
+On the November 9 call, executives said Rockstar had finished development and the marketing campaign was set, per GamesBeat <span class="tag-reported">reported</span>. Pre-load opened November 10 and code-in-box copies went on sale November 12. A delay now would mean pulling a game already sitting on players' consoles <span class="tag-speculation">speculation</span>.
 
-The 2027 rumors came from 4chan posts and parody accounts during 2026. IBTimes UK and Destructoid both covered them as unconfirmed, and Zelnick told IGN on November 9 the game is not being delayed again. Our [[leaks/gta-6-another-delay-rumour|another delay rumor]] page tracks every version.
+The 2027 claims came from 4chan posts and parody accounts during 2026. IBTimes UK and Destructoid covered them as unconfirmed, and Zelnick told IGN on November 9 that the game is not being delayed again. Each version is tracked on [[leaks/gta-6-another-delay-rumour|the another-delay rumor page]].
 
 ## What about PC?
 
-PC was never part of any announced date, so it has not been "delayed". GamesBeat reported in October 2026 that a PC version is targeted for Q1 2027, which Rockstar has not confirmed <span class="tag-reported">reported</span>. See [[release/gta-6-pc-release-date|GTA 6 PC release date]].
+PC was never part of an announced date, so it has not been delayed. GamesBeat reported on October 13, 2026, citing four anonymous sources, that a PC version is targeted for Q1 2027; Rockstar did not respond <span class="tag-reported">reported</span>. See [[release/gta-6-pc-release-date|GTA 6 PC release date]]. The [[release/gta-6-release-date|release date]] is fixed; the US store unlocks at 9pm PT on November 18 <span class="tag-reported">reported</span>, and other regions are on [[release/gta-6-release-time-by-country|unlock times by country]].
 
-## Bottom line
-
-Two delays, both for polish, about a year in total from the first "2025" window. The game is set for November 19, 2026, pre-load is live, and the [[release/gta-6-release-time-by-country|unlock times]] are fixed.
+Every dated event, from preliminary work in 2014-15 to launch week, is on the [[timeline/index|GTA 6 timeline]].

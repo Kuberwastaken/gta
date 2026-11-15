@@ -2,17 +2,17 @@
 title: "GTA 6 age rating: ESRB M, PEGI 18 and every rating board"
 seoTitle: "GTA 6 Age Rating: ESRB M, PEGI 18 and Every Board"
 shortTitle: "Age rating"
-description: "GTA 6 is rated ESRB M (Mature 17+) and PEGI 18, and 18+ or higher almost everywhere. Every board's rating, the content descriptors, and why there is no online label."
+description: "GTA 6 is rated ESRB M (Mature 17+), PEGI 18, CERO Z, R18+ in Australia, 19+ in Korea and 21+ in Saudi Arabia and the UAE. Descriptors and the deleted PEGI text."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 13
 tags: ["release", "rating"]
-tldr: "GTA 6 is rated **ESRB M (Mature 17+)** in North America and **PEGI 18** in Europe, with 18+ ratings in Germany, Japan, Australia, Brazil and elsewhere and **21+ in Saudi Arabia and the UAE**. The ESRB listing carries an In-Game Purchases notice but **no \"Users Interact\" label**, consistent with no online mode at launch."
+tldr: "GTA 6 is rated **ESRB M (Mature 17+)** in North America and **PEGI 18** in Europe, 18+ in Germany, Japan, Australia and Brazil, 19+ in South Korea and 21+ in Saudi Arabia and the UAE. The ESRB listing has an In-Game Purchases notice but no \"Users Interact\" label, which fits a game with no online mode at launch."
 facts:
   - k: "ESRB (US/Canada)"
-    v: "M (Mature 17+)"
+    v: "M (Mature 17+), live Oct 1, 2026"
   - k: "PEGI (Europe)"
     v: "18"
   - k: "USK (Germany)"
@@ -25,13 +25,13 @@ facts:
     v: "19+ (adults only)"
 faq:
   - q: "What is GTA 6 rated?"
-    a: "ESRB M (Mature 17+) in North America and PEGI 18 in Europe. Most other boards rate it 18+, South Korea 19+, and Saudi Arabia and the UAE 21+."
+    a: "ESRB M (Mature 17+) in the US and Canada and PEGI 18 in Europe. South Korea's GCRB rated it 19+ on Oct 16, and Saudi Arabia and the UAE rate it 21+."
   - q: "Why is GTA 6 rated M?"
-    a: "The ESRB lists Blood and Gore, Intense Violence, Mature Humor, Nudity, Strong Language, Strong Sexual Content, and Use of Drugs and Alcohol."
+    a: "The ESRB lists seven descriptors: Blood and Gore, Intense Violence, Mature Humor, Nudity, Strong Language, Strong Sexual Content, and Use of Drugs and Alcohol."
   - q: "Why was the GTA 6 PEGI listing deleted?"
-    a: "PEGI's long content description went up around Oct 1-2, 2026 and was then removed. It mentioned decapitation, frequent drug use and cocaine the player can carry and take. The PEGI 18 rating itself is widely reported."
+    a: "Nobody has said. PEGI's long description went up around Oct 1-2, 2026, mentioned decapitation and cocaine the player can carry and take, and was then removed. gHacks and PC Gamer captured it first."
   - q: "Does GTA 6 have microtransactions? Why does the rating say In-Game Purchases?"
-    a: "Rockstar North's Rob Nelson said single-player has no real-money purchases. The In-Game Purchases notice most likely reflects the Ultimate Edition upgrade and GTA+."
+    a: "Rob Nelson of Rockstar North told Kinda Funny in late August 2026 that single-player has no real-money purchases. The notice most likely covers the $20 Ultimate upgrade and GTA+."
 sources:
   - title: "Grand Theft Auto VI (ESRB rating)"
     url: "https://www.esrb.org/ratings/41627/grand-theft-auto-vi/"
@@ -71,17 +71,17 @@ sources:
 related: ["release/gta-6-gta-online-status", "release/gta-6-price-and-editions", "gameplay/gta-6-gameplay-features-confirmed"]
 ---
 
-**GTA 6 is rated M (Mature 17+) by the ESRB** in the US and Canada, and **PEGI 18** in Europe. Every other major board rates it 18 or higher, with **19+ in South Korea** and **21+ in Saudi Arabia and the UAE**. <span class="tag-confirmed">confirmed</span> The ESRB rating went live on **Oct 1, 2026** and is also shown on rockstargames.com/VI.
+GTA 6 is rated M (Mature 17+) by the ESRB in the US and Canada and PEGI 18 in Europe. Every other board on record rates it 18 or higher, with 19+ in South Korea and **21+ in Saudi Arabia and the UAE**. <span class="tag-confirmed">confirmed</span> The ESRB rating went live on Oct 1, 2026, and rockstargames.com/VI shows it.
 
 ## GTA 6 ratings by country
 
-Vice Atlas compiled the board listings and links each database. <span class="tag-confirmed">confirmed</span> (per Vice Atlas) / <span class="tag-reported">reported</span>
+Vice Atlas compiled these listings and links each board's database. <span class="tag-confirmed">confirmed</span> (per Vice Atlas) / <span class="tag-reported">reported</span>
 
 | Board / region | Rating | Descriptors | Date |
 | --- | --- | --- | --- |
-| ESRB (US, Canada) | M (Mature 17+) | See below | Oct 1, 2026 |
+| ESRB (US, Canada) | M (Mature 17+) | Seven descriptors, below | Oct 1, 2026 |
 | PEGI (Europe, UK) | 18 | Drugs, sex, violence; In-Game Purchases | ~Oct 1–2, 2026 |
-| USK (Germany) | 18 | Explicit violence, drugs, criminal role models | Xbox Sep 13, PS5 Oct 13 (dates inconsistent) |
+| USK (Germany) | 18 | Explicit violence, drugs, criminal role models | Xbox Sep 13, PS5 Oct 13 |
 | CERO (Japan) | Z (18+) | Crime, violence | By Oct 18 |
 | Australia | R18+ | Drug use, high-impact violence, sex scenes | — |
 | New Zealand | R18 | — | — |
@@ -91,53 +91,28 @@ Vice Atlas compiled the board listings and links each database. <span class="tag
 | Taiwan | 18+ (Restricted) | — | — |
 | Hong Kong | 18+ | — | — |
 
-The USK listing gives different dates for Xbox (Sep 13) and PS5 (Oct 13). Vice Atlas flags this as internally inconsistent, and we cannot resolve it.
+The USK gives Sep 13 for Xbox and Oct 13 for PS5, a month apart. Vice Atlas flags the dates as internally inconsistent, and nothing in the record resolves them. Brazil's rating is published in the federal gazette, the Diário Oficial da União, as ordinance 2.095 of Oct 8. Inven Global reports Korea's 19+ came after a private board review.
 
 ## Why is GTA 6 rated M?
 
-The ESRB content descriptors are: <span class="tag-confirmed">confirmed</span>
+The ESRB lists Blood and Gore, Intense Violence, Mature Humor, Nudity, Strong Language, Strong Sexual Content, and Use of Drugs and Alcohol, plus the interactive element In-Game Purchases. <span class="tag-confirmed">confirmed</span> Australia and New Zealand go further and name sex scenes.
 
-- Blood and Gore
-- Intense Violence
-- Mature Humor
-- Nudity
-- Strong Language
-- Strong Sexual Content
-- Use of Drugs and Alcohol
-
-The interactive element is **In-Game Purchases**. That is the full list.
-
-## Why does the ESRB listing have no "Users Interact" label?
-
-The ESRB applies "Users Interact" to games where players can communicate or share content online. GTA 6's listing does **not** carry it. Tech Times read that as confirmation of **no online mode at launch**. <span class="tag-reported">reported</span> It matches what Rockstar has said: GTA VI is "a single player experience" at launch. See [[release/gta-6-gta-online-status|GTA Online status]].
+The listing does not carry "Users Interact", the ESRB label for games where players can talk to each other or share content online. Tech Times read that on Oct 2 as confirmation of no online mode at launch. <span class="tag-reported">reported</span> It matches Rockstar's own description of GTA VI as "a single player experience"; see [[release/gta-6-gta-online-status|GTA Online status]].
 
 ## Does GTA 6 have microtransactions?
 
-**Not in single-player**, per Rockstar North co-head **Rob Nelson**, who told Kinda Funny in late August 2026 that single-player has no real-money purchases. <span class="tag-reported">reported</span>
-
-So why the "In-Game Purchases" notice? Most likely it covers the **Ultimate Edition Upgrade** ($20 on Xbox) and **GTA+**, not purchases inside the story. <span class="tag-speculation">speculation</span> See [[release/gta-6-price-and-editions|price and editions]] and [[guides/gta-6-gta-plus-explained|GTA+ explained]].
+Not in single-player, according to Rockstar North co-head Rob Nelson, who told Kinda Funny in late August 2026 that it has no real-money purchases. <span class="tag-reported">reported</span> The In-Game Purchases notice most likely covers the Ultimate Edition Upgrade ($20, £20 or €20 on Xbox) and GTA+ (reportedly about $8 a month once the free month ends), not anything sold inside the story. <span class="tag-speculation">speculation</span> See [[release/gta-6-price-and-editions|price and editions]] and [[guides/gta-6-gta-plus-explained|GTA+ explained]].
 
 ## What did the deleted PEGI listing say?
 
-PEGI's long-form content description went up around **Oct 1–2** and was then **deleted**. Before it vanished, gHacks and PC Gamer captured that it mentioned: <span class="tag-reported">reported</span>
+PEGI's long-form content description went up around Oct 1 to 2 and was then deleted. Before it disappeared, gHacks (Oct 5) and PC Gamer recorded that it described detailed decapitation, frequent and prominent drug use, and cocaine the player can carry and take. <span class="tag-reported">reported</span> Neither PEGI nor Rockstar has explained the removal.
 
-- **Detailed decapitation**
-- **Frequent and prominent drug use**
-- **Cocaine that the player can carry and take**
-
-Neither PEGI nor Rockstar has explained the removal.
-
-### Is GTA 6 still PEGI 18?
-
-Yes, as far as anyone can tell. One fan site reports that a pegi.info search returned "No results found" on Nov 12, which may just reflect the listing being pulled. The PEGI 18 rating is widely reported. <span class="tag-reported">reported</span>
+One fan site reports a pegi.info search returning "No results found" on Nov 12, which may just reflect the pulled listing. The PEGI 18 rating itself, with its In-Game Purchases notice, is widely reported. <span class="tag-reported">reported</span>
 
 ## Is GTA 6 OK for kids?
 
-Every board says no: the lowest rating anywhere is 17+ (ESRB), and most are 18+. The content descriptors include strong sexual content, nudity and drug use. GTA 6's world satirizes social-media culture heavily, which you can read about on [[gameplay/gta-6-phone-and-social-media|phone and social media]]. On Xbox, the free GTA+ month is not available to restricted child accounts. <span class="tag-confirmed">confirmed</span>
+No board thinks so. The lowest rating anywhere is the ESRB's 17+, and most boards set 18. Xbox also bars restricted child accounts from the free GTA+ month that comes with digital pre-orders. <span class="tag-confirmed">confirmed</span> For what the content actually involves, from drug-running in [[world/leonida-keys|the Keys]] to the [[gameplay/gta-6-phone-and-social-media|social-media satire]], see [[gameplay/gta-6-gameplay-features-confirmed|confirmed gameplay features]].
 
 ## What we're watching
 
-- Whether PEGI restores its full listing.
-- Any regional cuts. A censored cut of the Extended Look trailer appeared in China, but no Chinese rating for the game has been reported.
-
-Back to the [[release/index|release hub]]. For what is actually in the game, see [[gameplay/gta-6-gameplay-features-confirmed|confirmed gameplay features]].
+Whether PEGI republishes its full listing, and whether any region requires cuts. A censored cut of the Extended Look appeared in China on Aug 31, 2026, but no Chinese rating for the game has been reported. Back to the [[release/index|release hub]].

@@ -2,14 +2,14 @@
 title: "GTA 6 gameplay features: the master list of what's confirmed, graded"
 seoTitle: "GTA 6 Gameplay Features: Every Confirmed Feature, Graded"
 shortTitle: "Confirmed features list"
-description: "Every GTA 6 gameplay feature in one graded table: six wanted stars, heat, loadouts, fuel, hurricanes, 170+ animals, character switching, fences, apps and more."
+description: "Every GTA 6 gameplay feature in graded tables: six wanted stars, heat, a 2+2 gun loadout, fuel, hurricanes, 170+ animals, story-gated switching, fences and apps."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 1
 tags: ["gameplay", "wanted-system", "weapons", "vehicles", "money"]
-tldr: "The headline GTA 6 features: **two playable leads (Jason and Lucia) with story-gated switching**, **six wanted stars and a heat system**, a **two-handgun, two-long-gun loadout**, **fuel and car security tiers**, **bank vs cash vs loot**, **170+ animal species** and **hurricanes**. Most details come from Rockstar via press previews, graded reported."
+tldr: "Rockstar itself confirms **two playable leads with story-gated switching**, an optional romance and radio on foot. Six wanted stars, a two-handgun, two-long-gun loadout, fuel, bank vs cash vs loot, 170+ animal species and hurricanes come from Rockstar staff via press, graded reported."
 facts:
   - k: "Playable leads"
     v: "Jason and Lucia (confirmed)"
@@ -25,13 +25,13 @@ facts:
     v: "About 2x GTA 5 (reported)"
 faq:
   - q: "What gameplay features are confirmed for GTA 6?"
-    a: "Rockstar has confirmed two playable leads with character switching, an optional romance, and radio on foot through the phone. Previews add six wanted stars, a heat system, a limited weapon loadout, fuel, money split into bank, cash and loot, 170+ animals and hurricanes."
+    a: "First-party: Jason and Lucia as playable leads, story-gated switching, an optional romance, diet and exercise changing bodies, and radio and podcasts on foot. Nearly everything else is reported via previews."
   - q: "Why are most GTA 6 features graded 'reported' and not 'confirmed'?"
-    a: "Because they reached the public through press previews (Edge, Game Informer, Red Bull, VICE) rather than a Rockstar post. Rockstar developers were the source, but we grade by how the claim reached us."
+    a: "They reached the public through Edge, Game Informer, Red Bull and VICE, not a Rockstar post. Preview builds change, so we grade by route, not by who was quoted."
   - q: "Does GTA 6 have a weapon wheel?"
-    a: "Previews say no: you carry two handguns and two long guns, with the rest stored in your vehicle."
+    a: "Previews say no. You carry two handguns and two long guns, only one long gun on your back, and the rest rides in your vehicle the way RDR2 used the horse."
   - q: "Is GTA 6 multiplayer at launch?"
-    a: "Rockstar describes GTA 6 as 'a single-player experience'. GTA Online's status is covered separately."
+    a: "No. Rockstar's June 2026 pricing announcement called GTA 6 'a single-player experience', and no GTA 6 online mode has been announced."
 sources:
   - title: "Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI"
@@ -95,9 +95,7 @@ sources:
 related: ["gameplay/gta-6-wanted-system-and-heat", "gameplay/gta-6-weapons", "gameplay/gta-6-vehicles", "world/gta-6-map-size"]
 ---
 
-This is every GTA 6 gameplay feature we can source, in one place, each with a grade. The short version: Rockstar itself has confirmed **two playable leads with switching**, an **optional romance**, **radio on foot via the phone** and a handful of named guns, cars and places. Almost everything else, from **six wanted stars** to **fuel** to **hurricanes**, comes from Rockstar developers speaking to the press, so we grade it **reported**.
-
-Why not call those confirmed? Our rule is to grade by how a claim reached us. A Rockstar developer quoted in Edge or Game Informer is very likely right, but it's still a press write-up, and preview builds change. See [[about/how-we-grade|how we grade]].
+Rockstar's own pages confirm two playable leads with switching, an optional romance, radio and podcasts on foot through the phone, and a short list of named guns, cars and places. Almost everything else on this page, from the six wanted stars to the 10-second refuel, came from Rockstar staff (Rob Nelson, Aaron Garbut, Phil Hooker) talking to Edge, Game Informer, Famitsu, IGN, Red Bull and VICE. We grade by how a claim reached us, so those are reported; see [[about/how-we-grade|how we grade]]. Each table links to the page with the full rules.
 
 ## Characters and story systems
 
@@ -114,7 +112,8 @@ Why not call those confirmed? Our rule is to grade by how a claim reached us. A 
 | Criminal Profile | Per character, Professional to Irredeemable | <span class="tag-reported">reported</span> |
 | Four protagonists | Considered and rejected (Nelson, Famitsu) | <span class="tag-confirmed">confirmed</span> |
 | Body changes | Diet, exercise and sleep change physique (Dazed) | <span class="tag-confirmed">confirmed</span> |
-| Fridge restocking | Cut as too realistic | <span class="tag-reported">reported</span> |
+| Fridge restocking | Cut as too realistic (Eurogamer, GamesRadar+) | <span class="tag-reported">reported</span> |
+| Story length | About 80 hours with optional content (Nelson) | <span class="tag-reported">reported</span> |
 
 Details: [[gameplay/gta-6-character-switching|character switching]], [[gameplay/gta-6-criminal-profile|Criminal Profile]], [[characters/jason-and-lucia-relationship|the relationship]].
 
@@ -140,7 +139,8 @@ Details: [[gameplay/gta-6-wanted-system-and-heat|wanted system and heat]].
 | --- | --- | --- |
 | Girardi ES9, Klose K17, Hawk & Little Morgan | Named on edition pages | <span class="tag-confirmed">confirmed</span> |
 | Duke 556 rifle | Seen in the Extended Look | <span class="tag-reported">reported</span> |
-| Loadout replaces the wheel | Two handguns + two long guns; rest in vehicle | <span class="tag-reported">reported</span> |
+| Loadout replaces the wheel | Two handguns + two long guns, one long gun on the back, rest in the vehicle (like RDR2's horse) | <span class="tag-reported">reported</span> |
+| Open carry | A visible gun changes NPC reactions but doesn't call police | <span class="tag-reported">reported</span> |
 | Auto-aim off by default | | <span class="tag-reported">reported</span> |
 | Focus slow motion | Highlights weak points | <span class="tag-reported">reported</span> |
 | Non-lethal disarms | Vitals targeting | <span class="tag-reported">reported</span> |
@@ -159,6 +159,7 @@ Details: [[gameplay/gta-6-weapons|weapons]].
 | Trunk storage | Weapons, outfits, people | <span class="tag-reported">reported</span> |
 | Multiple cars and garages | Per character | <span class="tag-reported">reported</span> |
 | Circuit racing | New to the series | <span class="tag-reported">reported</span> |
+| Handling | GTA 4's weight with GTA 5's accessibility (Rockstar) | <span class="tag-reported">reported</span> |
 | E-scooters, Scooter Bros delivery | | <span class="tag-reported">reported</span> |
 | Official vehicle count | None given | <span class="tag-confirmed">confirmed</span> |
 
@@ -185,13 +186,14 @@ Details: [[gameplay/gta-6-money-banks-and-fences|money and fences]], [[gameplay/
 | Feature | Detail | Grade |
 | --- | --- | --- |
 | Six official regions | Vice City, Keys, Grassrivers, Port Gellhorn, Ambrosia, Mount Kalaga | <span class="tag-confirmed">confirmed</span> |
-| Map about 2x GTA 5, 3x RDR2 | Rockstar devs via press | <span class="tag-reported">reported</span> |
+| Map about 2x GTA 5, 3x RDR2 | Nelson to TGG; Garbut to Game Informer; Rockstar to the NYT | <span class="tag-reported">reported</span> |
+| Landmass "nearly as large as" GTA 4, GTA 5 and RDR2 combined | Edge, Oct 29 | <span class="tag-reported">reported</span> |
 | No official km² figure | | <span class="tag-confirmed">confirmed</span> |
 | Map unlocks gradually | Nelson, via Red Bull | <span class="tag-reported">reported</span> |
 | "Order of magnitude more interiors" | Garbut, Edge | <span class="tag-reported">reported</span> |
 | 170+ animal species, three tiers | Game Informer | <span class="tag-reported">reported</span> |
 | Tropical storms and hurricanes | Game Informer | <span class="tag-reported">reported</span> |
-| Longer day-night cycle | Garbut, Edge | <span class="tag-reported">reported</span> |
+| Longer day-night cycle, narrower roads than GTA 5 | Garbut, Edge | <span class="tag-reported">reported</span> |
 | Scuba diving | Shown in the Extended Look | <span class="tag-reported">reported</span> |
 | Floods, surfing physics | Unconfirmed | <span class="tag-rumour">rumour</span> |
 
@@ -206,15 +208,9 @@ Details: [[world/gta-6-map-size|map size]], [[world/gta-6-interiors|interiors]],
 | Basketball, mini-golf, pool, backyard wrestling, shooting ranges | <span class="tag-reported">reported</span> |
 | Gyms, barbers, salons, tattoo parlors, zoo | <span class="tag-reported">reported</span> |
 | Pet (or scold) dogs | <span class="tag-reported">reported</span> |
-| About 80 hours with optional content | <span class="tag-reported">reported</span> |
 
 Details: [[gameplay/gta-6-activities-and-side-content|activities and side content]].
 
 ## What Rockstar hasn't confirmed
 
-- **GTA Online at launch.** Rockstar calls GTA 6 "a single-player experience"; see [[release/gta-6-gta-online-status|GTA Online status]].
-- **Property buying.** Garages are reported; buying homes or businesses isn't.
-- **Hurricane effects.** Frequency and gameplay impact weren't disclosed.
-- **The full weapon and vehicle lists.**
-
-We'll re-grade this table after launch on Nov 19. For first-day planning, see [[guides/gta-6-tips-before-you-start|tips before you start]]. The section hub is [[gameplay/index|gameplay]].
+GTA Online at launch: Rockstar calls GTA 6 "a single-player experience"; see [[release/gta-6-gta-online-status|GTA Online status]]. Property: garages are reported, buying homes or businesses is not. Hurricanes: frequency and gameplay effects were not disclosed. Full weapon and vehicle lists: none published, and fan databases disagree (one lists 176 vehicles). We re-grade these tables after the Nov 19 launch; for day one, read [[guides/gta-6-tips-before-you-start|tips before you start]] or go back to the [[gameplay/index|gameplay hub]].

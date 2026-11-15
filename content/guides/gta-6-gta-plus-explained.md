@@ -2,21 +2,21 @@
 title: "GTA+ explained: the free month with GTA 6, what it does and how to cancel"
 seoTitle: "GTA+ Explained: The Free GTA 6 Month and How It Works"
 shortTitle: "GTA+ explained"
-description: "Digital GTA 6 pre-orders include a free month of GTA+. What GTA+ gives you, how to claim it on PS5 and Xbox, the auto-renew catch and what it means for GTA 6."
+description: "Digital GTA 6 pre-orders include a month of GTA+. It does nothing in GTA 6 itself, renews at about $8, and must be redeemed within 180 days on Xbox."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 7
 tags: ["guides", "gta-plus", "gta-online", "editions"]
-tldr: "**Digital** GTA VI pre-orders on PS5 and Xbox include **one free month of GTA+**, Rockstar's GTA Online membership. It does **nothing inside GTA VI's story mode** today. On Xbox, redeem it within **180 days** under Offers & credits; it reportedly **auto-renews at about $8/month**, so set a reminder to cancel."
+tldr: "Digital GTA VI pre-orders on PS5 and Xbox include **one free month of GTA+**, Rockstar's GTA Online membership. It does nothing in GTA VI's single-player game. Redeem it on Xbox within 180 days (PS5 reportedly until Mar 31, 2027), and cancel before it **auto-renews at about $8 a month**."
 facts:
   - k: "Who gets it"
     v: "Digital pre-orders, PS5 and Xbox"
   - k: "Box copy"
     v: "Not included"
   - k: "Xbox redeem window"
-    v: "180 days"
+    v: "180 days, once per account"
   - k: "PS5 claim deadline"
     v: "Mar 31, 2027 (reported)"
   - k: "Renewal"
@@ -25,13 +25,15 @@ facts:
     v: "None announced"
 faq:
   - q: "What is GTA+?"
-    a: "GTA+ is Rockstar's paid GTA Online membership on PS5, Xbox Series X|S and PC. It gives a monthly GTA$ deposit, bonus GTA$ on Shark Cards and a back catalogue of Rockstar games."
+    a: "Rockstar's paid GTA Online membership on PS5, Xbox Series X|S and PC. Reported perks: a monthly GTA$500,000 deposit, 15% extra GTA$ on Shark Cards, and a catalogue of older Rockstar games."
   - q: "How do I claim the free GTA+ month from GTA 6?"
-    a: "On Xbox, go to Store, open your profile and choose Offers & credits; redeem within 180 days. On PS5, Sony reportedly lets you claim it until March 31, 2027."
+    a: "On Xbox: Store, then your profile, then Offers & credits, within 180 days. On PS5, Sony reportedly keeps the offer open until March 31, 2027."
   - q: "Does the GTA+ free month auto-renew?"
-    a: "Reportedly yes, at about $8 a month unless you cancel. Cancel before the month ends if you don't want to pay."
+    a: "Reportedly yes, at about $8 a month, per games.gg. Cancel before the free month ends if you do not want to pay."
   - q: "Does GTA+ do anything in GTA 6?"
-    a: "Not that Rockstar has announced. GTA VI is single-player at launch, and Rockstar hasn't said whether GTA+ will carry over to a future GTA VI online mode."
+    a: "No. GTA VI launches single-player only, and Rockstar has not said whether GTA+ will connect to a future GTA VI online mode."
+  - q: "Do boxed copies get the free GTA+ month?"
+    a: "No. Xbox Wire and Rockstar Support, as quoted, limit it to digital pre-orders. Sony reportedly also counts PS Store digital purchases made through Nov 19."
 sources:
   - title: "Grand Theft Auto VI Comes to Xbox One and Xbox Series X|S Through Xbox Cloud Gaming on November 19"
     url: "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
@@ -55,25 +57,32 @@ sources:
   - title: "Digital Grand Theft Auto 6 pre-orders come with free GTA+, a bonus you can instantly use to play free GTA games"
     url: "https://www.techradar.com/gaming/digital-grand-theft-auto-6-pre-orders-come-with-this-bonus-that-you-can-instantly-use-to-play-free-gta-games"
     publisher: "TechRadar"
+  - title: "Take-Two Q2 FY27 earnings release (8-K)"
+    url: "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm"
+    publisher: "Take-Two Interactive / SEC"
+    date: "Nov 9, 2026"
+    tier: "primary"
 related: ["release/gta-6-gta-online-status", "release/gta-6-pre-order-bonuses", "guides/gta-6-which-edition-should-you-buy"]
 ---
 
-**GTA+ is Rockstar's membership for GTA Online, and a month of it comes free with digital GTA VI pre-orders on PS5 and Xbox.** It is not a GTA VI feature: GTA VI launches as a single-player game, and Rockstar has not said whether GTA+ will connect to any future GTA VI online mode. If you take the free month, set a reminder, because it reportedly renews at about $8 a month.
+GTA+ is Rockstar's paid membership for GTA Online, and digital GTA VI pre-orders on PS5 and Xbox come with one month of it free. It does nothing in GTA VI, which launches as a single-player game. It reportedly renews at about $8 a month, so put a cancel date in your calendar when you redeem it. Other buying guides are in the [[guides/index|guides hub]].
 
-More buying help is in the [[guides/index|guides hub]]. For the online question in full, see [[release/gta-6-gta-online-status|GTA Online status]].
+## What GTA+ gives you
 
-## What is GTA+?
+Rockstar's GTA+ page lists the membership on PS5, Xbox Series X|S and PC. <span class="tag-confirmed">confirmed</span> The perks, as reported: <span class="tag-reported">reported</span>
 
-Rockstar's GTA+ page describes a paid membership on **PS5, Xbox Series X|S and PC** <span class="tag-confirmed">confirmed</span>. The benefits, as reported <span class="tag-reported">reported</span>:
+| Perk | Detail |
+| --- | --- |
+| Monthly GTA$ deposit | Reportedly GTA$500,000 into GTA Online |
+| Shark Card bonus | +15% GTA$ on Shark Card purchases |
+| Game catalogue | Older Rockstar games, playable while subscribed |
+| GTA Online access | Recently added on consoles |
 
-- A monthly **GTA$ deposit** in GTA Online, reportedly GTA$500,000
-- **+15% GTA$** on Shark Card purchases
-- A **back catalogue of Rockstar games** to play while subscribed
-- **GTA Online access** on consoles, added recently
+Every perk applies to GTA Online on GTA V or to the back catalogue. TechRadar's angle is that the free month lets you start playing older GTA games right away, before GTA VI unlocks.
 
-### Is GTA Online included on PC?
+### Does it include GTA Online on PC?
 
-Sources disagree. GameSpot says GTA Online access through GTA+ is console-only. Rockstar's own GTA+ page lists PC benefits. The likely reading is that PC members get the perks but not the online-access part, though we could not confirm that wording on Rockstar's page <span class="tag-speculation">speculation</span>. It doesn't matter for GTA VI, which has no PC version.
+Sources disagree. GameSpot says GTA Online access through GTA+ is console-only, while Rockstar's page lists PC benefits. PC members may get the perks without the online-access part, but we could not confirm that wording on Rockstar's page. <span class="tag-speculation">speculation</span> GTA VI has no PC version, so this matters only for GTA V players.
 
 ## Who gets the free month?
 
@@ -85,44 +94,24 @@ Sources disagree. GameSpot says GTA Online access through GTA+ is console-only. 
 | Boxed copy (code in box) | No |
 | Ultimate Edition upgrade | Not stated |
 
-Xbox Wire and Rockstar Support, as quoted, confirm the digital pre-order offer and its exclusion from box copies. Sony reportedly also counts PS Store digital purchases made through Nov 19.
+Xbox Wire and Rockstar Support, as quoted, confirm the digital offer and the box-copy exclusion. The [[guides/gta-6-which-edition-should-you-buy|edition guide]] factors this into the Standard-versus-box decision.
 
 ## How do you claim it?
 
-### On Xbox
+On Xbox, open the Store, open your profile, choose Offers & credits and redeem the GTA+ offer. You have 180 days, it works once per platform account, and restricted child accounts can't use it. <span class="tag-confirmed">confirmed</span> (Xbox Wire)
 
-Xbox Wire's terms <span class="tag-confirmed">confirmed</span>:
-
-1. Open the **Store**.
-2. Open your profile and choose **Offers & credits**.
-3. Redeem the GTA+ offer.
-
-You have **180 days** to redeem. It works once per platform account, and restricted child accounts can't use it.
-
-### On PS5
-
-The offer reportedly stays claimable until **March 31, 2027** <span class="tag-reported">reported</span>. Sony has not published step-by-step instructions that we have seen.
+On PS5, the offer reportedly stays claimable until March 31, 2027. <span class="tag-reported">reported</span> Sony has not published step-by-step instructions that we have found.
 
 ## Does it auto-renew?
 
-Reportedly yes. games.gg says the month rolls into a paid subscription at about **$8 a month** unless you cancel <span class="tag-reported">reported</span>. The 180-day Xbox redemption window suggests the month starts when you redeem, not when you buy, so you can wait until you actually want to use it <span class="tag-speculation">speculation</span>.
+Reportedly yes: games.gg says the free month rolls into a paid subscription at about $8 a month unless cancelled. <span class="tag-reported">reported</span> Because Xbox gives you 180 days to redeem, the month likely starts at redemption rather than purchase, so you can hold it until you want to play GTA Online. <span class="tag-speculation">speculation</span>
 
-## Is GTA+ worth it for GTA 6 players?
+## Will GTA+ matter for GTA VI later?
 
-Today, only if you also play **GTA Online on GTA V** or want the Rockstar back catalogue. Inside GTA VI, it does nothing that Rockstar has announced.
+Nobody knows yet. Rockstar's pre-order post and the store listings call GTA VI "a single player experience", and no GTA VI online mode, name or date exists. Rockstar has not said whether GTA+ will carry over to it, or whether GTA$ or GTA Online characters will transfer. A 2027 online date is <span class="tag-rumour">rumour</span>; see the [[leaks/gta-6-online-at-launch-rumour|online-at-launch rumour]] and [[release/gta-6-gta-online-status|GTA Online status]].
 
-Things that are **not known yet**:
+GTA Online on GTA V is not winding down. Take-Two shipped the Kortz Center Heist Summer Update on July 14, 2026, and says it will keep supporting GTA Online after GTA VI launches. <span class="tag-confirmed">confirmed</span>
 
-- Whether GTA+ will carry over to a GTA VI online mode
-- Whether GTA$ or GTA Online characters will transfer (nothing announced)
-- When a GTA VI online mode arrives. A 2027 date is <span class="tag-rumour">rumour</span>; see the [[leaks/gta-6-online-at-launch-rumour|online-at-launch rumour]]
+## Why does the ESRB rating say "In-Game Purchases"?
 
-Take-Two says it will keep supporting GTA Online after GTA VI launches, so GTA+ isn't going anywhere soon.
-
-## Why does the ESRB say "In-Game Purchases"?
-
-The ESRB rating carries an In-Game Purchases notice. Rockstar North's Rob Nelson says GTA VI single-player has no real-money purchases <span class="tag-reported">reported</span>. The label most likely covers the Ultimate upgrade and GTA+ <span class="tag-speculation">speculation</span>. See [[release/gta-6-age-rating|age rating]].
-
-## Bottom line
-
-Take the month if you got it, redeem it when you want to play GTA Online or the classics, and cancel before it renews. For which edition includes it, see [[guides/gta-6-which-edition-should-you-buy|which edition should you buy]] and [[release/gta-6-pre-order-bonuses|pre-order bonuses]].
+GTA VI's ESRB M rating carries an In-Game Purchases notice but no "Users Interact" label. Rob Nelson, co-head of Rockstar North, told Kinda Funny that the single-player game has no real-money purchases. <span class="tag-reported">reported</span> The label most likely covers the Ultimate upgrade and GTA+. <span class="tag-speculation">speculation</span> Full rating details: [[release/gta-6-age-rating|age rating]]. The pre-order pack that comes alongside the GTA+ month is on [[release/gta-6-pre-order-bonuses|pre-order bonuses]].

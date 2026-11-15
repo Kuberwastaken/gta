@@ -2,7 +2,7 @@
 title: "The GTA 6 leaks ledger: every rumour and leak, graded"
 seoTitle: "GTA 6 Leaks Ledger: Every Rumour Graded, 2022-2026"
 shortTitle: "Leaks ledger"
-description: "Every notable GTA 6 leak and rumour from 2022 to launch week, graded confirmed, reported, rumour or debunked, with where each claim started and when it was settled."
+description: "Over 50 GTA 6 leaks and rumours from 2022 to launch week, each graded confirmed, reported, rumour or debunked, with who started it and the date it was settled."
 status: "mixed"
 published: 2026-11-15
 popular: true
@@ -10,7 +10,7 @@ updated: 2026-11-15
 verified: 2026-11-15
 weight: 1
 tags: ["leaks", "rumours", "debunked", "timeline"]
-tldr: "Of the big GTA 6 rumours, the 2022 Bloomberg report (female lead, Miami, Bonnie and Clyde duo) came true, while **$100 base price, PC at launch, online at launch, 60fps and a 2027 delay are all debunked**. PC in Q1 2027 is a credible open report. See the [[leaks/index|full ledger]] below."
+tldr: "The best GTA 6 call came from a reporter: Bloomberg's July 2022 story on a Latina co-lead in a fictional Miami. **$100 base price, PC at launch, online at launch, 60fps and a 2027 delay are all debunked.** The credible open item is a **Q1 2027 PC version** ([[leaks/gta-6-pc-at-launch-rumour|PC rumour]])."
 facts:
   - k: "Claims graded"
     v: "50+"
@@ -26,7 +26,7 @@ facts:
     v: "Nov 15, 2026"
 faq:
   - q: "Which GTA 6 leaks turned out to be true?"
-    a: "The 2022 Bloomberg report of a Latina female co-lead, a Bonnie and Clyde-style duo and a fictional Miami was confirmed by Trailer 1. The September 2022 leaked footage was confirmed genuine by Rockstar, and the 'huge map' claims were backed by Rockstar's own comparison in Edge."
+    a: "Bloomberg's July 2022 report of a Latina co-lead in a Bonnie and Clyde-style duo in a fictional Miami, confirmed by Trailer 1. Rockstar confirmed the September 2022 footage was genuine, and its Edge comparison backed the huge-map claims."
   - q: "Was the $100 GTA 6 price rumour true?"
     a: "No. The Standard Edition is $79.99 in the US. Only the Ultimate Edition reaches $99.99."
   - q: "Is GTA 6 coming to PC?"
@@ -114,9 +114,9 @@ sources:
 related: ["leaks/gta-6-cyberleek-2026-leaks", "leaks/gta-6-pc-at-launch-rumour", "timeline/gta-6-2022-leak", "about/how-we-grade"]
 ---
 
-GTA 6 has been the most leaked game in history, and most of what you have heard since 2022 was either right early or flat wrong. This ledger grades every notable claim against what Rockstar, Take-Two, Sony, Microsoft and the ratings boards have actually said. Each row links to the page where we show our work.
+This ledger grades every notable GTA 6 claim since 2022 against what Rockstar, Take-Two, Sony, Microsoft and the ratings boards have said on the record. Each row names who started the claim, the date it was settled (or "open"), and the page where we show the evidence.
 
-Grades follow our [[about/how-we-grade|grading system]]: <span class="tag-confirmed">confirmed</span> means first-party, <span class="tag-reported">reported</span> means credible press, <span class="tag-rumour">rumour</span> means unproven, and <span class="tag-debunked">debunked</span> means shown false. "Verdict date" is when the claim was settled, or "open" if it still is.
+Grades follow our [[about/how-we-grade|grading system]]: <span class="tag-confirmed">confirmed</span> is first-party, <span class="tag-reported">reported</span> is credible press, <span class="tag-rumour">rumour</span> is unproven, and <span class="tag-debunked">debunked</span> is shown false.
 
 ## The ledger
 
@@ -209,60 +209,42 @@ Grades follow our [[about/how-we-grade|grading system]]: <span class="tag-confir
 | Fired UK staff leaked secrets on Discord | Rockstar and Take-Two, Oct 2025 | <span class="tag-reported">reported</span> | disputed by the IWGB; tribunal pending | [[timeline/rockstar-uk-firings-and-union|Firings]] |
 | The firings caused the Nov 2025 delay | Fan speculation | <span class="tag-debunked">debunked</span> | Nov 6, 2025 (Take-Two: unrelated) | [[timeline/rockstar-uk-firings-and-union|Firings]] |
 
-## What did the leakers get right?
+## What the leakers got right, and what they missed
 
-The single best call in GTA 6 history came from a reporter, not a leaker. Jason Schreier's July 2022 Bloomberg story described a Latina female lead, a Bonnie and Clyde-style partnership and a fictional Miami, per [GamesRadar+](https://www.gamesradar.com/gta-6-to-feature-series-first-female-protagonist-as-rockstar-overhauls-workplace-culture). Trailer 1 confirmed all three in December 2023 with [[characters/lucia-caminos|Lucia]], [[characters/jason-duval|Jason]] and [[world/vice-city|Vice City]].
+The best call came from a reporter. Jason Schreier's Bloomberg story on July 27, 2022 described a Latina female lead, a Bonnie and Clyde-style partnership and a fictional Miami, per [GamesRadar+](https://www.gamesradar.com/gta-6-to-feature-series-first-female-protagonist-as-rockstar-overhauls-workplace-culture). Trailer 1 confirmed all three in December 2023 with [[characters/lucia-caminos|Lucia]], [[characters/jason-duval|Jason]] and [[world/vice-city|Vice City]]. The September 2022 hack was also real: Rockstar said an "unauthorized third party illegally accessed and downloaded confidential information from our systems, including early development footage", [The Record](https://therecord.media/rockstar-confirms-cyberattack-leak-of-confidential-data-including-gta-6-footage) reported. The huge-map crowd was right in spirit. Rockstar told Edge the landmass is "nearly as large as" GTA IV, GTA V and RDR2 combined, though it gave no square-kilometre figure ([[world/gta-6-map-size|map size]]).
 
-The September 2022 hack was real. Rockstar said an "unauthorized third party illegally accessed and downloaded confidential information from our systems, including early development footage", [The Record](https://therecord.media/rockstar-confirms-cyberattack-leak-of-confidential-data-including-gta-6-footage) reported. The full story of that case is on our [[timeline/gta-6-2022-leak|2022 leak page]].
+The misses were price, platforms and online. Analysts called a $100 base game; it is $79.99, with Ultimate at $99.99 ([[leaks/gta-6-100-dollar-price-rumour|$100 rumour]]). Launch is PS5 and Xbox Series X|S only, and Xbox Cloud will not stream to PC ([[leaks/gta-6-pc-at-launch-rumour|PC at launch]]). Rockstar calls the game "a single player experience" and the ESRB lists no "Users Interact" label ([[leaks/gta-6-online-at-launch-rumour|online at launch]]). Rockstar's November 10 pre-load post set a 30fps target on every console, PS5 Pro included, [VGC](https://www.videogameschronicle.com/news/rockstar-confirms-gta-6-targets-30-fps-with-ps5-pro-exclusive-ray-tracing/) reported. Four protagonists were considered and dropped ([[leaks/gta-6-four-protagonists-rumour|four protagonists]]).
 
-The "massive map" crowd was also right in spirit. Rockstar told Edge the landmass is "nearly as large as the playable maps of GTA 4, GTA 5, and RDR2 combined". Rockstar gave no square-kilometre figure, so every precise number is still a guess. See [[world/gta-6-map-size|map size]].
+## Still open four days before launch
 
-## What did they get wrong?
+The PC date is the most credible open item. GamesBeat's Q1 2027 report is <span class="tag-reported">reported</span>, and [PCWorld](https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html) noted Rockstar did not respond. Rockstar has published no cast list and usually leaves that to the end credits ([[leaks/gta-6-actor-identifications|actor ID tracker]]). The November 18 review embargo is widely reported but unconfirmed by Rockstar. The CyberLeek map and the Collector's Box poster disagree on county names, and neither replaces the in-game map ([[world/gta-6-leaked-map-and-counties|leaked map and counties]]). No GTA 6 online mode has been announced, so any date is a <span class="tag-rumour">rumour</span>.
 
-Price, platforms and online were the big misses.
+## Five leak waves
 
-- **$100.** Analysts said the base game would cost $100. It is $79.99, with the Ultimate Edition at $99.99. Full breakdown: [[leaks/gta-6-100-dollar-price-rumour|the $100 price rumour]].
-- **PC on day one.** Launch is PS5 and Xbox Series X|S only, and Xbox Cloud Gaming will not stream to PC. See [[leaks/gta-6-pc-at-launch-rumour|PC at launch]].
-- **Online at launch.** Rockstar calls GTA 6 "a single player experience", and the ESRB rating has no "Users Interact" label. See [[leaks/gta-6-online-at-launch-rumour|online at launch]].
-- **60fps.** Rockstar's Nov 10 pre-load post set a 30fps target on every console, PS5 Pro included, [VGC](https://www.videogameschronicle.com/news/rockstar-confirms-gta-6-targets-30-fps-with-ps5-pro-exclusive-ray-tracing/) reported.
-- **Four protagonists.** Rockstar considered four leads and rejected the idea. See [[leaks/gta-6-four-protagonists-rumour|four protagonists]].
+| When | What leaked | Outcome |
+| --- | --- | --- |
+| Sep 18, 2022 | 90+ clips (about 50 min) of early footage on GTAForums | Rockstar confirmed the intrusion next day; Arion Kurtaj got an indefinite hospital order in Dec 2023; retrial listed for Nov 9, 2026, no outcome reported by Nov 15 |
+| Dec 4, 2023 | Trailer 1, as a low-quality copy on X | Rockstar posted the real one about 15 hours early ([Gamepressure](https://www.gamepressure.com/newsroom/gta-6-trailer-now-available-leak-forced-rockstar-games-to-release/z36508)) |
+| Jan 2025 | Photos of a PS5 dev kit running the game, reportedly taken at Rockstar San Diego in 2021 | No Rockstar comment |
+| Aug 18 to Oct 8, 2026 | CyberLeek: 16+ clips, a map image, a 24-minute video | Rockstar: "heartbreaking for our team"; no full build ([[leaks/gta-6-cyberleek-2026-leaks|CyberLeek]]) |
+| Nov 12-14, 2026 | Collector's Box map poster, after a box was reportedly sold early in Manchester | New place names, reported |
 
-## What is still open going into launch?
+The Kurtaj case is covered on the [[timeline/gta-6-2022-leak|2022 leak page]]. We describe leaks; we do not link to leaked footage or files, and any "GTA 6 PC download" is malware.
 
-Four days out, these remain live:
+## After November 19
 
-1. **The PC date.** GamesBeat's Q1 2027 report is <span class="tag-reported">reported</span>, not confirmed. [PCWorld](https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html) noted that Rockstar did not respond.
-2. **The cast.** Rockstar has published no cast list. Its usual practice is end credits at launch. Our [[leaks/gta-6-actor-identifications|actor ID tracker]] will update on Nov 19.
-3. **The review embargo.** Nov 18 is widely <span class="tag-reported">reported</span> but Rockstar has not confirmed it.
-4. **The leaked county names.** The CyberLeek map and the Collector's Box poster disagree in places, and neither replaces the in-game map. See [[world/gta-6-leaked-map-and-counties|leaked map and counties]].
-5. **A GTA 6 online mode.** Nothing is announced. Any date is a <span class="tag-rumour">rumour</span>.
-
-## How did GTA 6 leak so much?
-
-There were five distinct waves, each covered in depth elsewhere:
-
-- **Sep 2022.** The network intrusion and 90+ clips (about 50 minutes) of early footage. The hacker, Arion Kurtaj, was given an indefinite hospital order in Dec 2023; a retrial was listed for Nov 9, 2026, with no outcome reported by Nov 15.
-- **Dec 2023.** Trailer 1 leaked on X as a low-quality copy, and Rockstar posted the real one about 15 hours early, per [Gamepressure](https://www.gamepressure.com/newsroom/gta-6-trailer-now-available-leak-forced-rockstar-games-to-release/z36508).
-- **Jan 2025.** Photos of a PS5 dev kit running the game, reportedly taken at Rockstar San Diego in 2021.
-- **Aug-Oct 2026.** The CyberLeek campaign: gameplay clips, a map image and, on Oct 8, a 24-minute video. Rockstar called the leaks "heartbreaking for our team". Full page: [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek leaks]].
-- **Nov 12-14, 2026.** The Collector's Box map poster, photographed after the box was reportedly sold early in Manchester.
-
-We describe leaks; we do not link to leaked footage or files. Fake "GTA 6 PC download" links are malware.
-
-## What happens to this ledger after Nov 19?
-
-Launch settles a lot. The credits will confirm or kill every actor ID, the in-game map will settle the county names, and reviews will land. We will regrade each row with a dated changelog note, and log any mistakes on our [[about/corrections|corrections page]].
+The credits will confirm or kill every actor ID, the in-game map will settle the county names, and reviews will land. Each row gets regraded with a dated note, and mistakes go on the [[about/corrections|corrections page]].
 
 ## Start here
 
-- [[leaks/gta-6-cyberleek-2026-leaks|The CyberLeek leaks]]: what the 2026 leaker posted, what Rockstar said, and what never came.
-- [[leaks/gta-6-pc-at-launch-rumour|PC at launch]]: why there is no PC version yet and what the Q1 2027 report says.
-- [[leaks/gta-6-100-dollar-price-rumour|The $100 price rumour]]: where it came from and how close it got.
-- [[leaks/gta-6-online-at-launch-rumour|Online at launch]]: single-player only, and the open questions about a VI online mode.
-- [[leaks/gta-6-four-protagonists-rumour|Four protagonists]]: the idea Rockstar tried and dropped.
-- [[leaks/gta-6-actor-identifications|Actor identifications]]: who fans think plays Jason, Lucia and the rest.
-- [[leaks/tommy-vercetti-return-rumour|Tommy Vercetti]]: real references, no confirmed return.
+- [[leaks/gta-6-cyberleek-2026-leaks|The CyberLeek leaks]]: what the 2026 leaker posted, what Rockstar said, and the build that never came.
+- [[leaks/gta-6-pc-at-launch-rumour|PC at launch]]: consoles only on Nov 19, and the GamesBeat Q1 2027 report.
+- [[leaks/gta-6-100-dollar-price-rumour|The $100 price rumour]]: $20 high on Standard, right on Ultimate.
+- [[leaks/gta-6-online-at-launch-rumour|Online at launch]]: single-player only, plus the 2027 and 32-player claims.
+- [[leaks/gta-6-four-protagonists-rumour|Four protagonists]]: the design Rockstar tried and dropped.
+- [[leaks/gta-6-actor-identifications|Actor identifications]]: seven cast claims, none credited by Rockstar.
+- [[leaks/tommy-vercetti-return-rumour|Tommy Vercetti]]: Vercetti Estate references, no confirmed return.
 - [[leaks/gta-6-another-delay-rumour|Another delay]]: why the 2027 slip claims are dead.
-- [[leaks/gta-6-budget-rumours|Budget rumours]]: $2B myths versus Rockstar's denial.
+- [[leaks/gta-6-budget-rumours|Budget rumours]]: $2B myths against Kolbe's $1.5B ceiling.
 
-Everything else that was confirmed lives in the main sections: [[release/index|release]], [[characters/index|characters]], [[world/index|world]] and [[timeline/index|timeline]].
+Confirmed facts live in the main sections: [[release/index|release]], [[characters/index|characters]], [[world/index|world]] and [[timeline/index|timeline]].

@@ -1,15 +1,15 @@
 ---
-title: "GTA 6 activities and side content: everything you can do besides missions"
+title: "GTA 6 activities: fishing, hunting, diving, gyms and every side activity"
 seoTitle: "GTA 6 Activities: Fishing, Hunting, Diving, Gyms and More"
 shortTitle: "Activities and side content"
-description: "GTA 6 side activities so far: fishing, hunting, scuba diving, skydiving, jet skis, basketball, mini-golf, pool, gyms, barbers, tattoos, circuit racing and more."
+description: "GTA 6's 18 reported side activities, from scuba diving and hunting to gyms, tattoo parlors and circuit racing, plus how dates and workouts change Jason and Lucia."
 status: "reported"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 8
 tags: ["gameplay", "wildlife", "guides"]
-tldr: "Previews list **fishing, hunting, scuba diving, skydiving, base-jumping, jet skis, kayaking, basketball, mini-golf, pool, backyard wrestling, shooting ranges, gyms, zoo visits, barbers, salons, tattoo parlors and circuit racing**. Some double as relationship-building dates for Jason and Lucia."
+tldr: "Previews list 18 activities, including **fishing, hunting, scuba diving, skydiving, jet skis, basketball, mini-golf, pool, gyms, barbers, tattoo parlors and circuit racing**. Partner activities feed Jason and Lucia's relationship, and gyms change physique and stamina."
 facts:
   - k: "Water"
     v: "Scuba, kayak, jet ski, fishing"
@@ -27,11 +27,13 @@ faq:
   - q: "What activities are in GTA 6?"
     a: "Previews list basketball, kayaking, mini-golf, pool, scuba diving, skydiving, base-jumping, jet skis, fishing, hunting, backyard wrestling, shooting ranges, gyms, zoo visits, barbers, salons, tattoo parlors and circuit racing."
   - q: "Can you go to the gym in GTA 6?"
-    a: "Yes. Gyms reportedly change physique, stamina and focus, and diet, exercise and sleep visibly change Jason and Lucia's bodies."
+    a: "Yes. Gyms reportedly change physique, stamina and focus, and diet and sleep also visibly change Jason's and Lucia's bodies."
   - q: "Can you take Lucia on dates in GTA 6?"
-    a: "Partner activities build the relationship, and Edge describes a four-point closeness scale. Specific date lists come from secondary reports."
+    a: "Partner activities build the relationship on what Edge describes as a four-point closeness scale. Named date lists come from an X thread, not Rockstar."
+  - q: "Is there surfing in GTA 6?"
+    a: "Not announced. Surfing is an old rumour; the reported water activities are scuba diving, kayaking, jet skis and fishing."
   - q: "How long is GTA 6 with side content?"
-    a: "Rob Nelson reportedly put a full playthrough with optional content at about 80 hours. Outlets disagree on whether that includes side content."
+    a: "Rob Nelson reportedly put his playthrough at about 80 hours. Outlets disagree on whether that includes side content; some say it pushes past 100."
 sources:
   - title: "GTA 6 gameplay: Key details that you might have missed"
     url: "https://www.redbull.com/us-en/gta-6-gameplay-details"
@@ -69,57 +71,43 @@ sources:
 related: ["world/gta-6-wildlife-and-animals", "characters/jason-and-lucia-relationship", "guides/gta-6-how-long-to-beat"]
 ---
 
-GTA 6 is stacked with side activities. Previews list **fishing, hunting, scuba diving, skydiving and base-jumping, jet skis, kayaking, basketball, mini-golf, pool, backyard wrestling, shooting ranges, gyms, zoo visits, barbers, salons, tattoo parlors and circuit racing** <span class="tag-reported">reported</span>. Several double as partner activities that build Jason and Lucia's relationship.
-
-These lists come from Rockstar's August 2026 previews and Edge's October feature, as reported by Red Bull, VICE and GTAVice.net, so we grade them reported.
+The reported activity list for GTA 6 runs to 18 entries: fishing, hunting, scuba diving, skydiving, base-jumping, jet skis, kayaking, basketball, mini-golf, pool, backyard wrestling, shooting ranges, gyms, zoo visits, barbers, salons, tattoo parlors and circuit racing <span class="tag-reported">reported</span>. The list comes from Rockstar's August 2026 previews and Edge's October cover feature, as written up by Red Bull, VICE and GTAVice.net. Rockstar has not published its own list.
 
 ## What activities are in GTA 6?
 
 | Category | Activities | Grade |
 | --- | --- | --- |
-| On the water | Scuba diving, kayaking, jet skis, fishing | <span class="tag-reported">reported</span> |
+| Water | Scuba diving, kayaking, jet skis, fishing | <span class="tag-reported">reported</span> |
 | Outdoors | Hunting, skydiving and parachuting, base-jumping | <span class="tag-reported">reported</span> |
-| Games and sport | Basketball, mini-golf, pool and billiards, backyard wrestling, shooting ranges | <span class="tag-reported">reported</span> |
+| Games and sport | Basketball, mini-golf, pool, backyard wrestling, shooting ranges | <span class="tag-reported">reported</span> |
 | Body and look | Gyms, barbers, salons, tattoo parlors | <span class="tag-reported">reported</span> |
 | Days out | Zoo visits | <span class="tag-reported">reported</span> |
-| Driving | Circuit racing (new to the series) | <span class="tag-reported">reported</span> |
+| Driving | Circuit racing, new to the series | <span class="tag-reported">reported</span> |
 
-The Extended Look also showed a bench-press minigame that Engadget compares to San Andreas, and GTA 4-style stranger encounters, like a man dangling from a bridge <span class="tag-reported">reported</span>.
+The [[media/gta-6-extended-look|Extended Look]] adds two older-series echoes, per Engadget: a bench-press minigame like San Andreas's, and GTA IV-style stranger encounters such as a man dangling from a bridge <span class="tag-reported">reported</span>.
 
-## Can you fish, hunt and dive?
+## Can you fish, hunt and scuba dive?
 
-Yes to all three, per previews <span class="tag-reported">reported</span>. Rockstar told Game Informer the game has over 170 animal species, tiered Rare, Discoverable and Legendary, which can be tracked and logged. Rockstar names **Gambit Bay** as a fishing spot and pitches [[world/mount-kalaga|Mount Kalaga]] as "prime hunting" country <span class="tag-confirmed">confirmed</span>. Scuba diving is shown in the [[media/gta-6-extended-look|Extended Look]]; how oxygen or underwater loot works is unconfirmed. Full details: [[world/gta-6-wildlife-and-animals|wildlife and animals]] and [[world/leonida-keys|Leonida Keys]].
+Yes, all three. Rockstar told Game Informer there are over 170 animal species, tiered Rare, Discoverable and Legendary, which you can track and log in a checklist like RDR2's compendium <span class="tag-reported">reported</span>. Rockstar's own copy names Gambit Bay as a fishing spot and sells [[world/mount-kalaga|Mount Kalaga]] on "prime hunting, fishing, and off-road trails" <span class="tag-confirmed">confirmed</span>. Diving appears in the Extended Look, and Rockstar's Keys artwork shows divers on reefs; oxygen limits and underwater loot are unconfirmed. Species detail is on [[world/gta-6-wildlife-and-animals|wildlife and animals]], reef country on [[world/leonida-keys|Leonida Keys]].
 
 ## Do gyms and food change your character?
 
-Yes. Gyms reportedly change **physique, stamina and focus** <span class="tag-reported">reported</span>. Dazed confirms diet, exercise and sleep visibly change both bodies <span class="tag-confirmed">confirmed</span>. A fridge-restocking system was **cut** for being too realistic, per Wikipedia citing Eurogamer and GamesRadar+ <span class="tag-reported">reported</span>.
+Gyms change physique, stamina and focus <span class="tag-reported">reported</span>, and Dazed reports that diet, exercise and sleep visibly change Jason's and Lucia's bodies <span class="tag-confirmed">confirmed</span>. One system went further and was cut: a fridge you had to restock, dropped as too realistic, per Wikipedia citing Eurogamer and GamesRadar+ <span class="tag-reported">reported</span>.
 
 ## Where can you change your look?
 
-Rockstar names some of the shops on its edition pages <span class="tag-confirmed">confirmed</span>:
-
-- **Electric Fang Tattoo** in Stockyard, with tattoos by the artist collective FAILE.
-- **Stock 305** streetwear, also in Stockyard.
-- **Sara's Unisex Salon**.
-
-Changing clothes or getting a haircut is also one of the reported ways to lose a police description; see [[gameplay/gta-6-wanted-system-and-heat|the wanted system]].
+Rockstar's edition pages name three shops <span class="tag-confirmed">confirmed</span>: Electric Fang Tattoo in Stockyard, with designs by the artist collective FAILE; Stock 305 streetwear, also in Stockyard; and Sara's Unisex Salon. Appearance is also a stealth tool. A haircut or a change of clothes is one of the reported ways to shake a police description; see [[gameplay/gta-6-wanted-system-and-heat|the wanted system and heat]].
 
 ## Do activities affect Jason and Lucia's relationship?
 
-Yes. Partner activities build the relationship, and Edge describes a **four-point closeness scale** <span class="tag-reported">reported</span>. A separate claim of specific "dates" such as pool, mini-golf and kayaking comes from an X thread and secondary reports <span class="tag-rumour">rumour</span>. Rockstar's Rob Nelson says the romance is "yours to keep or yours to lose." See [[characters/jason-and-lucia-relationship|Jason and Lucia's relationship]].
+Yes. Edge describes partner activities feeding a four-point closeness scale <span class="tag-reported">reported</span>. Rob Nelson told Edge the couple start out "wanting to be together... but as the game progresses, it's yours to keep or yours to lose" <span class="tag-confirmed">confirmed</span>. Specific date lists (pool, mini-golf, kayaking) trace back to an X thread <span class="tag-rumour">rumour</span>. More on [[characters/jason-and-lucia-relationship|Jason and Lucia's relationship]].
 
-## Can you work jobs or drive for money?
+## Are there side jobs?
 
-The **RydeMe** app, an Uber parody, has you driving passengers who chat along the way <span class="tag-reported">reported</span>. Robbery is the other income stream: almost any shop can be hit. See [[gameplay/gta-6-phone-and-social-media|phone apps]] and [[gameplay/gta-6-money-banks-and-fences|money and fences]].
+RydeMe, an Uber parody in which passengers chat, is the one job-style app previews mention <span class="tag-reported">reported</span>; Rockstar hasn't said how it pays. Robbery is the other income: almost any shop can be hit. See [[gameplay/gta-6-phone-and-social-media|phone apps]] and [[gameplay/gta-6-money-banks-and-fences|money and fences]]. Dogs can be petted or scolded, per VICE, and owners can refuse you, per Red Bull <span class="tag-reported">reported</span>.
 
-## Can you pet dogs?
+## How long is GTA 6 with side content?
 
-Yes, and scold them, per VICE. Owners can refuse, per Red Bull <span class="tag-reported">reported</span>.
+Rob Nelson reportedly said his own playthrough took about 80 hours; Red Bull frames that as a full run with optional content <span class="tag-reported">reported</span>. Other outlets read 80 hours as the story alone, with side content pushing past 100. Rockstar has given no official runtime, and the map opens gradually as you explore. See [[guides/gta-6-how-long-to-beat|how long to beat GTA 6]].
 
-## How long does GTA 6 take with side content?
-
-Rob Nelson reportedly put a full playthrough with optional content at about **80 hours**, per Red Bull <span class="tag-reported">reported</span>. Other outlets say his 80 hours was the story alone, with side content pushing past 100. See [[guides/gta-6-how-long-to-beat|how long to beat GTA 6]].
-
-## What isn't confirmed
-
-Surfing (an old rumour), property businesses and anything not in the table above haven't been announced <span class="tag-rumour">rumour</span>. Treat longer lists as guesswork until launch. Every graded system is on the [[gameplay/gta-6-gameplay-features-confirmed|confirmed features list]], and the section starts at the [[gameplay/index|gameplay hub]].
+Surfing, an old rumour, and any business-ownership system remain unannounced <span class="tag-rumour">rumour</span>. Every graded system sits on the [[gameplay/gta-6-gameplay-features-confirmed|confirmed features list]] and the [[gameplay/index|gameplay hub]].

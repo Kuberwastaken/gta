@@ -2,14 +2,14 @@
 title: "GTA 6 interiors: how many buildings can you enter?"
 seoTitle: "GTA 6 Interiors: How Many Buildings Can You Enter?"
 shortTitle: "Interiors"
-description: "Rockstar says GTA 6 has 'an order of magnitude more interiors' than past games. Every enterable shop, bar, gym and salon named so far, plus underwater diving."
+description: "Aaron Garbut says GTA 6 has 'an order of magnitude more interiors' than past Rockstar games. No count yet. Every named shop, gym, bar and garage, plus diving."
 status: "reported"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 13
 tags: ["world", "map", "gameplay"]
-tldr: "Aaron Garbut told Edge GTA 6 has **\"an order of magnitude more interiors\"** than Rockstar's previous games, furnished to reflect who lives or works there. **No exact count exists.** Shops, gyms, barbers, salons, tattoo parlors and bars are all reported as enterable."
+tldr: "Aaron Garbut told Edge GTA 6 has **\"an order of magnitude more interiors\"** than Rockstar's previous games, each furnished to match its occupant. Rockstar has given no count. Previews say almost any shop can be robbed and many buildings have more than one exit."
 facts:
   - k: "Interior count"
     v: "Not given"
@@ -21,15 +21,17 @@ facts:
     v: "Many buildings (reported)"
   - k: "Underwater"
     v: "Scuba diving shown"
+  - k: "Buyable property"
+    v: "Not announced"
 faq:
   - q: "How many interiors does GTA 6 have?"
-    a: "Rockstar hasn't given a number. Aaron Garbut told Edge there are 'an order of magnitude more interiors' than in its previous games, which implies roughly ten times as many."
+    a: "No number exists. Garbut's 'an order of magnitude more' reads as roughly ten times Rockstar's earlier games, but that multiplier is our reading of the phrase, not a Rockstar figure."
   - q: "Can you go inside buildings in GTA 6?"
-    a: "Many of them. Previews describe enterable shops (almost any can be robbed), gyms, barbers, salons, tattoo parlors and bars, and many buildings have multiple exits for escapes."
+    a: "Many. Red Bull reports almost any shop can be robbed, and gyms, barbers, salons and tattoo parlors are listed as activities, so those have working interiors."
   - q: "Can you go underwater in GTA 6?"
-    a: "Yes. Scuba diving is shown in the Extended Look and Rockstar's Keys artwork shows divers on reefs. How diving works in detail is unconfirmed."
+    a: "Yes, with scuba gear. Divers appear in the Extended Look and in Rockstar's Keys art. Oxygen limits, depth and underwater loot are unconfirmed."
   - q: "Can you buy houses in GTA 6?"
-    a: "Rockstar hasn't said. Previews confirm garages and multiple personal cars per character, and Rockstar's edition copy names the Shore Court garage near Ocean Beach, but property buying is unannounced."
+    a: "Not announced. The only owned space Rockstar names is the Shore Court garage near Ocean Beach, from its edition copy. Jason starts out living rent-free in a property owned by Brian Heder."
 sources:
   - title: "GTA VI Edge Preview Reveals Huge New Details"
     url: "https://www.gtavice.net/news/gta-vi-edge-preview-reveals-huge-new-details-on-gameplay-police-relationships-and-more"
@@ -64,13 +66,11 @@ sources:
 related: ["world/gta-6-map-size", "world/gta-6-landmarks-and-neighborhoods", "gameplay/gta-6-money-banks-and-fences"]
 ---
 
-GTA 6 has **"an order of magnitude more interiors"** than Rockstar's earlier games, Rockstar North's Aaron Garbut told Edge in its October 2026 cover feature <span class="tag-reported">reported</span>. Read literally, that is around ten times as many. Rockstar hasn't given an actual count, and Garbut added that interiors are furnished to reflect their occupants.
+Rockstar North's Aaron Garbut told Edge (cover feature, Oct 29, 2026) that GTA 6 has "an order of magnitude more interiors" than the studio's previous games, each furnished to reflect whoever lives or works there <span class="tag-reported">reported</span>. Rockstar has published no count, and no preview has put a number on it.
 
-So the honest answer to "how many buildings can you enter?" is: a lot more than GTA 5, number unknown.
+## Which GTA 6 interiors are named so far?
 
-## What interiors can you enter in GTA 6?
-
-Here's every enterable or interior-based location reported so far:
+A business named on Rockstar's pages is not proof you can walk inside it. The grade below covers the name; the interior itself is our inference unless a trailer or preview showed it <span class="tag-speculation">speculation</span>.
 
 | Type | Named examples | Grade |
 | --- | --- | --- |
@@ -85,28 +85,26 @@ Here's every enterable or interior-based location reported so far:
 | Stock market | Possibly BAWSAQ | <span class="tag-reported">reported</span> |
 | Prison | Leonida Penitentiary | <span class="tag-confirmed">confirmed</span> (named by Rockstar) |
 
-A named business isn't proof you can walk inside it, so the "confirmed" grade above covers the name, not the interior <span class="tag-speculation">speculation</span>. Rockstar's character bios also mention Boobie Ike's strip club and recording studio, which are likely story interiors <span class="tag-speculation">speculation</span>.
+Rockstar's character bios add two likely story interiors: Boobie Ike's strip club and recording studio, which fund each other ("The club money pay for the studio, and the drug money pay for it all") <span class="tag-confirmed">confirmed</span>. Engadget spotted Effluvia and the stock market in the [[media/gta-6-extended-look|Extended Look]] and noted the HUD map now draws buildings in 3D <span class="tag-reported">reported</span>. Street-level places are catalogued on [[world/gta-6-landmarks-and-neighborhoods|landmarks and neighborhoods]].
 
-## Can you rob shops and banks in GTA 6?
+## What can you do inside a shop?
 
-Almost any shop can be robbed, armored vans included, per Red Bull's preview roundup <span class="tag-reported">reported</span>. Safes can be cracked with codes you find or buy, or blown open, which is faster but may damage what's inside. Police may keep a perimeter at a shop you've robbed. See [[gameplay/gta-6-money-banks-and-fences|money, banks and fences]] and [[gameplay/gta-6-wanted-system-and-heat|the wanted system]].
+Rob it. Red Bull's preview roundup says almost any shop can be held up, armored vans included <span class="tag-reported">reported</span>. Safe codes can be found or bought; blowing the safe is faster but may damage what's inside. Afterward police may hold a perimeter around the shop, so walking out the front door is not a given. Loot and fences are covered on [[gameplay/gta-6-money-banks-and-fences|money, banks and fences]].
 
-## Do buildings have multiple exits?
-
-Many do, per Red Bull, which matters for escapes <span class="tag-reported">reported</span>. Combined with the new heat system, where changing clothes or splitting up can shake a description, interiors are part of how you lose the police.
+Red Bull also reports that many buildings have multiple exits <span class="tag-reported">reported</span>. That matters because of the heat system: police work from a description, and changing clothes, getting a haircut or splitting Jason and Lucia up makes it stale. Full rules on [[gameplay/gta-6-wanted-system-and-heat|the wanted system]].
 
 ## Can you go underwater in GTA 6?
 
-Yes. **Scuba diving** is shown in the [[media/gta-6-extended-look|Extended Look]], and Rockstar's artwork for the [[world/leonida-keys|Leonida Keys]] shows divers on reefs <span class="tag-reported">reported</span>. Kayaking and jet skiing are also listed. How diving works (oxygen, loot, depth) is unconfirmed.
+Yes. Scuba diving appears in the Extended Look, and Rockstar's art for the [[world/leonida-keys|Leonida Keys]] shows divers on reefs <span class="tag-reported">reported</span>. Kayaking and jet skis are listed alongside it. Rockstar hasn't said whether diving has oxygen limits, depth limits or loot.
 
 ## Can you buy property in GTA 6?
 
-Rockstar hasn't said. Previews confirm **multiple personal cars per character and garages** <span class="tag-reported">reported</span>, and Rockstar's edition copy names the **Shore Court garage**, "a stone's throw from... Ocean Beach" <span class="tag-confirmed">confirmed</span>. In the story, [[characters/jason-duval|Jason]] lives rent-free at one of Brian Heder's properties. A property-buying system is not announced.
+Not announced. Previews confirm garages and several personal cars per character <span class="tag-reported">reported</span>, and the edition copy names the Shore Court garage, "a stone's throw from... Ocean Beach" <span class="tag-confirmed">confirmed</span>. In the story, [[characters/jason-duval|Jason]] lives rent-free at one of Brian Heder's properties "so long as he helps with local shakedowns" <span class="tag-confirmed">confirmed</span>.
 
-## Did Rockstar cut any home features?
+## What did Rockstar cut?
 
-Yes, one. A fridge-restocking system was cut as too realistic, according to Wikipedia citing Eurogamer and GamesRadar+ <span class="tag-reported">reported</span>. Diet, exercise and sleep still change your character's weight and appearance.
+A fridge-restocking system, judged too realistic, per Wikipedia citing Eurogamer and GamesRadar+ <span class="tag-reported">reported</span>. Diet, exercise and sleep still change body weight and appearance, and gyms affect physique, stamina and focus, per Red Bull and VICE <span class="tag-reported">reported</span>.
 
-## How dense is the map?
+## Is the map denser than GTA 5?
 
-Garbut also told Edge that roads were narrowed compared with GTA 5 <span class="tag-reported">reported</span>. The Extended Look's HUD map shows new 3D buildings, per Engadget. Together with the interiors claim, Rockstar is pitching density over raw size; the size numbers are on [[world/gta-6-map-size|GTA 6 map size]]. Named places are listed on [[world/gta-6-landmarks-and-neighborhoods|landmarks and neighborhoods]], and the rest of the state on the [[world/index|world hub]].
+Garbut told Edge that roads were narrowed compared with GTA 5 <span class="tag-reported">reported</span>. Combined with the interiors claim, Rockstar is selling density per block as much as raw area. The size figures (about 2x GTA 5, 3x RDR2) are on [[world/gta-6-map-size|GTA 6 map size]]; the rest of the state is on the [[world/index|world hub]].

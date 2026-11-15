@@ -1,8 +1,8 @@
 ---
-title: "GTA 6 Extended Look: scene-by-scene breakdown of everything it revealed"
+title: "GTA 6 Extended Look: the story, the systems and the Netflix numbers"
 seoTitle: "GTA 6 Extended Look: Scene-by-Scene Breakdown and Reveals"
 shortTitle: "An Extended Look"
-description: "GTA 6: An Extended Look is a 26:48 PS5-captured special that premiered on Netflix Aug 27, 2026. Every scene, every system it showed, the songs and the numbers."
+description: "GTA 6: An Extended Look is a 26:48 PS5-captured special that premiered on Netflix Aug 27, 2026 and drew 31.1M views in four days. Its story, systems and songs."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
@@ -31,7 +31,7 @@ faq:
   - q: "Is the GTA 6 Extended Look on YouTube?"
     a: "Yes. It premiered exclusively on Netflix at 3pm ET on August 27, 2026, then went up on Rockstar's YouTube channel and website at 9pm ET the same day."
   - q: "Is the GTA 6 Extended Look real gameplay?"
-    a: "It was captured on PS5 and mixes gameplay with longer cutscenes. Rockstar presents it as in-game footage. Wikipedia describes it as a mix of trailer-style compilation and cutscenes."
+    a: "It is PS5-captured in-game footage cut like a film: trailer-style montage plus long cutscenes, per Wikipedia. You see systems in use, not long stretches of uninterrupted play."
   - q: "What songs are in the GTA 6 Extended Look?"
     a: "Depeche Mode's 'People Are People', Prefab Sprout's 'Cars and Girls', Cliff Richard's 'Devil Woman', Chimbala and Omega's 'Se Me Nota (Agárrame)', Def Leppard's 'Love Bites' and Phil Collins' 'Against All Odds'."
   - q: "Can you switch between Jason and Lucia any time?"
@@ -92,13 +92,9 @@ sources:
 related: ["characters/extended-look-characters", "gameplay/gta-6-gameplay-features-confirmed", "media/gta-6-launch-trailer", "music/gta-6-trailer-songs"]
 ---
 
-***Grand Theft Auto VI: An Extended Look*** is Rockstar's **26:48** gameplay-and-story special, captured on PS5. It premiered **exclusively on Netflix at 3pm ET on August 27, 2026**, then went up on YouTube and Rockstar's site at 9pm ET <span class="tag-confirmed">confirmed</span>. It is the longest official look at GTA 6 before launch: three story threads, a dozen new systems, six licensed songs and a run of series callbacks.
+*Grand Theft Auto VI: An Extended Look* is a 26:48 special of PS5-captured gameplay and cutscenes. It premiered exclusively on Netflix at 3pm ET on August 27, 2026, and went up on YouTube and Rockstar's site at 9pm ET <span class="tag-confirmed">confirmed</span>. Rockstar announced it on August 6. Rupert Humphries, Rockstar's SVP of narrative, wrote it with Michael Wiafe, and Rob Nelson, co-head of Rockstar North, produced it, per Wikipedia <span class="tag-reported">reported</span>.
 
-Rockstar announced it on August 6. It was written by Rupert Humphries, Rockstar's SVP of narrative, with Michael Wiafe, and produced by Rob Nelson, co-head of Rockstar North, per Wikipedia <span class="tag-reported">reported</span>.
-
-## How long is the GTA 6 Extended Look?
-
-Rockstar's video list gives **26:48**. Wikipedia rounds to 27 minutes, and press coverage said 26 to 27. A Vice report quoted Netflix support saying 20 minutes. That figure does not match Rockstar's listing, and we treat it as an error <span class="tag-debunked">debunked</span>.
+Rockstar's video list gives 26:48, and Wikipedia rounds to 27 minutes. A Vice report quoted Netflix support saying 20 minutes; that contradicts Rockstar's own listing and we treat it as wrong <span class="tag-debunked">debunked</span>.
 
 ## Where can you watch the Extended Look?
 
@@ -109,45 +105,39 @@ Rockstar's video list gives **26:48**. Wikipedia rounds to 27 minutes, and press
 | Rockstar website | Aug 27, 2026, 9pm ET | Later offered as a 14.2GB direct download |
 | China | Aug 31, 2026 | Censored cut, with dancing, drug and sex content removed |
 
-Netflix and Twitch both had outages under launch demand, per Engadget and Wikipedia <span class="tag-reported">reported</span>. Netflix did not disclose what it paid for the window. Take-Two's Strauss Zelnick called the tie-up a "first-of-its-kind partnership" on the August 7 earnings call <span class="tag-confirmed">confirmed</span>.
+Netflix and Twitch both went down under launch demand, per Engadget and Wikipedia <span class="tag-reported">reported</span>. Netflix did not say what it paid. Strauss Zelnick called the deal a "first-of-its-kind partnership" on Take-Two's August 7 earnings call <span class="tag-confirmed">confirmed</span>.
 
-## GTA 6 Extended Look scene by scene
+## How many people watched it?
 
-The special mixes trailer-style montage with long cutscenes. Wikipedia breaks the story into three threads. The order and plot beats below follow its summary, with names from Insider Gaming and Rockstar Report <span class="tag-reported">reported</span>.
+| Measure | Figure | Grade |
+| --- | --- | --- |
+| Netflix views, first four days | 31.1M | <span class="tag-confirmed">confirmed</span> (Netflix data) |
+| Netflix chart position | No. 1 in 87 of 93 markets | <span class="tag-confirmed">confirmed</span> |
+| New US Netflix sign-ups | About 100,000 | <span class="tag-reported">reported</span> |
+| YouTube views after six days | About 17M | <span class="tag-reported">reported</span> |
+| Peak live-reaction viewers | 3.9M across about 9,000 streamers | <span class="tag-reported">reported</span> |
 
-### 1. The pickup in Vice City
+Netflix counts a view as hours watched divided by runtime; YouTube counts plays. The two numbers do not compare directly.
 
-[[characters/jason-duval|Jason]] and [[characters/lucia-caminos|Lucia]] go to a drug house run by Raymond and Ernesto ("Nesto") to collect product for their client, [[characters/boobie-ike|Boobie Ike]]. The pickup is going smoothly until police raid the place. The raid is led by **Méndez**, a dirty VCPD cop. The pair escape the compound with the drugs.
+## What happens in the Extended Look?
 
-### 2. Dinner with Brian Heder
+Wikipedia splits the story into threads; names below come from Insider Gaming and Rockstar Report <span class="tag-reported">reported</span>.
 
-[[characters/brian-heder|Brian Heder]], the old Keys smuggler from the official bios, offers the pair a job over dinner and warns Jason not to sink deeper into the underworld. Engadget noted that Lucia leaves Jason alone with Brian's offer here, a hint that some missions lock you to one lead.
+[[characters/jason-duval|Jason]] and [[characters/lucia-caminos|Lucia]] collect product for [[characters/boobie-ike|Boobie Ike]] from a drug house run by Raymond and Ernesto ("Nesto"). Police raid it mid-pickup, led by Méndez, a dirty VCPD cop, and the pair escape with the drugs. Over dinner, [[characters/brian-heder|Brian Heder]] offers them a job and warns Jason against going deeper. Lucia leaves Jason alone with the offer, which Engadget read as a hint that some missions lock you to one lead.
 
-Around this, the film cuts to montage: street races, robberies, clubs and life across Leonida, building the duo's reputation.
+They then drive getaway for a robbery by [[characters/raul-bautista|Raul Bautista]], who invites them into his crew. The last thread is a security job at the party opening Megamundo's first US headquarters (Megamundo is a Spanish-language TV network), tied to characters named Val, Andrés de León and Petra Navarro. It turns into an armed robbery with Lucia in danger. The film closes on [[characters/cal-hampton|Cal Hampton]]'s voice telling them to make the most of being young. Montage of street races, robberies and clubs fills the gaps.
 
-### 3. Raul Bautista's crew
+None of the seven newly named characters has a Rockstar bio. They are profiled on [[characters/extended-look-characters|Extended Look characters]].
 
-The pair drive the getaway for a robbery by [[characters/raul-bautista|Raul Bautista]], the bank robber from the bios, and he invites them into his crew.
+## What gameplay systems did it show?
 
-### 4. The Megamundo job
-
-Next comes a security job at a party opening Megamundo's first US headquarters. Megamundo is a Spanish-language TV network. Characters named Val, Andrés de León and Petra Navarro are tied to this job. It turns into an armed robbery, with Lucia in danger, and the pair fight off armed men.
-
-### 5. The close
-
-The special ends on [[characters/cal-hampton|Cal Hampton]]'s voice, urging the two to make the most of being young.
-
-Every character the special named, including Stefanie, Raymond, Nesto, Méndez and Val, is profiled on [[characters/extended-look-characters|Extended Look characters]]. None has an official Rockstar bio yet.
-
-## What gameplay did the Extended Look reveal?
-
-This is where most of the news was. Engadget's "20+ things" breakdown and Red Bull's recap list the systems on screen <span class="tag-reported">reported</span>:
+From Engadget's "20+ things" breakdown and Red Bull's recap <span class="tag-reported">reported</span>:
 
 | System | What was shown |
 | --- | --- |
-| Wanted level | A six-star wanted meter, up from GTA V's five |
-| Criminal Profile | A persistent reputation system, compared to RDR2's Honor; firing back is judged less harshly than an unprovoked spree |
-| De-escalation | On-screen prompts to taunt or talk down a confrontation |
+| Wanted level | A six-star meter, up from GTA V's five |
+| Criminal Profile | A persistent reputation, compared to RDR2's Honor; firing back is judged less harshly than an unprovoked spree |
+| De-escalation | Prompts to taunt or talk down a confrontation |
 | Character switching | Mid-drive swap from Jason to Lucia |
 | Weapons | Quick swap between two guns without the wheel; one-handed firing while carrying a bag; picking up an enemy's rifle |
 | Aiming | Red markers for lethal hits, yellow joint markers for non-lethal disarms |
@@ -159,56 +149,24 @@ This is where most of the news was. Engadget's "20+ things" breakdown and Red Bu
 | Status icons | Health, wardrobe and vehicle condition, RDR2-style |
 | Binoculars | Used to spy through a window |
 
-Red Bull added that police judge your clothing, appearance and vehicle, so you may need to ditch a car or change clothes. Wanted details are on [[gameplay/gta-6-wanted-system-and-heat|the wanted system]], and the Profile on [[gameplay/gta-6-criminal-profile|Criminal Profile]].
+Red Bull added that police judge your clothes, appearance and vehicle, so ditching a car or changing outfits matters. See [[gameplay/gta-6-wanted-system-and-heat|the wanted system]] and [[gameplay/gta-6-criminal-profile|Criminal Profile]].
 
-### Side activities shown
+Side activities on screen: basketball, kayaking, scuba diving, dirt-bike and stock car racing, target practice, backyard wrestling with finishing moves, a bench press, fishing, sunbathing and playing with dogs. A TV ad with boars and deer points to hunting. The full list is on [[gameplay/gta-6-activities-and-side-content|activities and side content]].
 
-Basketball, kayaking, scuba diving, dirt-bike racing, stock car racing, target practice, backyard wrestling with finishing moves, a bench press, a fishing scene, sunbathing, scrolling social feeds, and playing with dogs. A TV ad featuring boars and deer hints at hunting. The full list is on [[gameplay/gta-6-activities-and-side-content|activities and side content]].
+Red Bull wrote that you can switch characters "at any time". Rob Nelson told Famitsu: "There are times when it's restricted depending on the progression of the story". Nelson is the first-party source, so we go with story-gated switching; more on [[gameplay/gta-6-character-switching|character switching]].
 
-### Character switching: a contradiction
-
-Red Bull wrote that you can switch "at any time". Rob Nelson told Famitsu: "There are times when it's restricted depending on the progression of the story". Nelson is the first-party source, so we go with story-gated switching. Details on [[gameplay/gta-6-character-switching|character switching]].
-
-## What songs are in the Extended Look?
+## Songs and callbacks
 
 Six licensed tracks, per Wikipedia: Depeche Mode's "People Are People", Prefab Sprout's "Cars and Girls", Cliff Richard's "Devil Woman", Chimbala and Omega's "Se Me Nota (Agárrame)", Def Leppard's "Love Bites" and Phil Collins' "Against All Odds (Take a Look at Me Now)". All trailer music is on [[music/gta-6-trailer-songs|GTA 6 trailer songs]].
 
-## What easter eggs are in the Extended Look?
+Engadget's callbacks include a man dangling from a bridge in the style of GTA IV's stranger encounters, Lucia's San Andreas-style bench press, Pißwasser beer and GTA V's Lifeinvader <span class="tag-reported">reported</span>. More on [[media/gta-6-easter-eggs-in-trailers|trailer easter eggs]].
 
-Engadget counted plenty of callbacks <span class="tag-reported">reported</span>:
+## How did critics react?
 
-- A man dangling from a bridge, in the style of GTA IV's stranger encounters.
-- Lucia on a bench press, a nod to San Andreas' workouts.
-- Pißwasser, the series' long-running beer brand, in a bar scene.
-- Lifeinvader, the GTA V social network, as a livestream feed.
+Mostly as a long advert that looked very good, per Wikipedia's reception summary <span class="tag-reported">reported</span>. Keith Stuart (*The Guardian*) called it "a very long teaser trailer". Morgan Park (*PC Gamer*) said the "human touches" make it look "so good it's almost overwhelming" but found the script derivative. His colleague Christopher Livingston called Jason "dull" while praising his voice acting; audiences broadly preferred Lucia. Jennifer Maas (*Variety*) said the Netflix debut made the game "a major entertainment tentpole", a framing Zelnick called "a pretty brilliant way to look at it."
 
-More on [[media/gta-6-easter-eggs-in-trailers|trailer easter eggs]].
+## The leaks around it
 
-## How many views did the Extended Look get?
+It landed in the middle of the [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek leaks]]. Between August 18 and 26 an anonymous account posted at least 16 clips and a full map image. On August 26 Rockstar said the leaks had "been heartbreaking for our team" and asked fans to "wait a bit longer" <span class="tag-confirmed">confirmed</span>. In October CyberLeek posted a 24-minute video it titled "An Extended Leek" <span class="tag-reported">reported</span>.
 
-| Measure | Figure | Grade |
-| --- | --- | --- |
-| Netflix views, first four days | 31.1M | <span class="tag-confirmed">confirmed</span> (Netflix data) |
-| Netflix chart position | No. 1 in 87 of 93 markets | <span class="tag-confirmed">confirmed</span> |
-| New US Netflix sign-ups | About 100,000 | <span class="tag-reported">reported</span> |
-| YouTube views after six days | About 17M | <span class="tag-reported">reported</span> |
-| Peak live-reaction viewers | 3.9M across about 9,000 streamers | <span class="tag-reported">reported</span> |
-
-Netflix counts a "view" as hours watched divided by runtime. YouTube counts plays. The two numbers are not directly comparable.
-
-## How was the Extended Look received?
-
-Critics broadly treated it as a long advert and praised how it looked. From Wikipedia's reception summary <span class="tag-reported">reported</span>:
-
-- Keith Stuart, *The Guardian*: "a very long teaser trailer."
-- Morgan Park, *PC Gamer*: the "human touches" make it look "so good it's almost overwhelming", though he found the script derivative.
-- Christopher Livingston, *PC Gamer*: called Jason "dull" but praised his voice acting. Audiences broadly favored Lucia.
-- Jennifer Maas, *Variety*: the Netflix debut showed the game is "a major entertainment tentpole". Zelnick called that "a pretty brilliant way to look at it."
-
-## The leak backdrop
-
-The special arrived in the middle of the [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek leaks]]. From August 18 to 26, an anonymous account posted at least 16 clips and a full map image. On August 26, the day before the premiere, Rockstar said the leaks had "been heartbreaking for our team" and asked fans to "wait a bit longer" <span class="tag-confirmed">confirmed</span>. In October, CyberLeek posted a 24-minute video it titled "An Extended Leek" <span class="tag-reported">reported</span>.
-
-## What came next
-
-Rob Nelson told Kinda Funny on August 29 that there is no monetization at launch, and Zelnick said generative AI has "zero part" in the game <span class="tag-confirmed">confirmed</span>. The [[media/gta-6-launch-trailer|Launch Trailer]] followed on October 15. The full media run is in the [[media/index|media hub]].
+Two days after the premiere, on August 29, Nelson told Kinda Funny there is no monetization at launch, and Zelnick said generative AI has "zero part" in the game <span class="tag-confirmed">confirmed</span>. The [[media/gta-6-launch-trailer|Launch Trailer]] followed on October 15. The full run is in the [[media/index|media hub]].

@@ -1,8 +1,8 @@
 ---
-title: "GTA 6 price and editions: Standard vs Ultimate, and what it costs in your country"
+title: "GTA 6 price and editions: $79.99 Standard, $99.99 Ultimate, and regional prices"
 seoTitle: "GTA 6 Price and Editions: $79.99, Ultimate and Regional"
 shortTitle: "Price and editions"
-description: "GTA 6 costs $79.99 Standard or $99.99 Ultimate in the US. Full regional price table (UK, EU, India, Canada, Australia, Japan), what Ultimate adds, and upgrades."
+description: "GTA 6 is $79.99 Standard or $99.99 Ultimate in the US, £69.99/£89.99 in the UK. Prices in 10 regions, the 16 Ultimate items and the $20 upgrade."
 status: "mixed"
 published: 2026-11-15
 popular: true
@@ -10,7 +10,7 @@ updated: 2026-11-15
 verified: 2026-11-15
 weight: 3
 tags: ["release", "price", "editions"]
-tldr: "GTA 6 costs **$79.99 (Standard)** or **$99.99 (Ultimate)** in the US, £69.99/£89.99 in the UK and €79.99/€99.99 in the eurozone. There are only two game editions, Ultimate is **digital only**, and you can upgrade from Standard later for the difference ($20 / £20 / €20 on Xbox)."
+tldr: "GTA 6 costs **$79.99 Standard or $99.99 Ultimate** in the US (£69.99/£89.99 UK, €79.99/€99.99 eurozone). Ultimate is **digital only** and adds 16 items; Standard owners can upgrade later for the difference, $20/£20/€20 on Xbox."
 facts:
   - k: "Standard (US)"
     v: "$79.99"
@@ -22,19 +22,21 @@ facts:
     v: "€79.99 / €99.99"
   - k: "India"
     v: "₹5,999 / ₹7,499"
+  - k: "Upgrade (Xbox)"
+    v: "$20 / £20 / €20"
   - k: "Physical Ultimate"
     v: "None (digital only)"
 faq:
   - q: "How much is GTA 6?"
-    a: "$79.99 for the Standard Edition and $99.99 for the Ultimate Edition in the US, on PS5 and Xbox Series X|S. Microsoft's store listing confirms both prices."
+    a: "$79.99 Standard and $99.99 Ultimate in the US on PS5 and Xbox Series X|S. Microsoft's store listing, cited by Xbox Wire on Nov 10, 2026, shows both prices."
   - q: "Is GTA 6 $100?"
-    a: "Only the Ultimate Edition, at $99.99. The long-running rumour of a $100 base price was wrong: the Standard Edition is $79.99."
+    a: "Only the Ultimate Edition, at $99.99. The $100 base-price prediction from Michael Pachter and Matthew Ball was wrong; Bank of America's $80 call was right."
   - q: "How much is GTA 6 in the UK?"
-    a: "£69.99 for Standard and £89.99 for Ultimate on the PlayStation Store, per an Oct 23 store-listing read. The Xbox upgrade from Standard to Ultimate is £20."
+    a: "£69.99 Standard and £89.99 Ultimate on the PlayStation Store as of Oct 23, 2026. The Xbox Standard-to-Ultimate upgrade is £20."
   - q: "How much is GTA 6 in India?"
-    a: "₹5,999 for Standard and ₹7,499 for Ultimate on the PlayStation Store. Some sites still call these 'estimated', but the store listings are live."
+    a: "₹5,999 Standard and ₹7,499 Ultimate on the PlayStation Store; the Xbox upgrade is ₹1,500. gamecryst.com still calls these 'estimated', but the listings are live."
   - q: "Can I upgrade GTA 6 Standard to Ultimate later?"
-    a: "Yes. The Ultimate Edition Upgrade costs the difference between editions: $20, £20 or €20 on Xbox. PlayStation only shows the upgrade price once you own the game."
+    a: "Yes. On Xbox the upgrade costs $20, £20 or €20. PlayStation hides the upgrade price until the game is in your library."
 sources:
   - title: "Grand Theft Auto VI Comes to Xbox One and Xbox Series X|S Through Xbox Cloud Gaming on November 19"
     url: "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
@@ -71,13 +73,13 @@ sources:
 related: ["guides/gta-6-which-edition-should-you-buy", "release/gta-6-pre-order-bonuses", "release/gta-6-collectors-box", "leaks/gta-6-100-dollar-price-rumour"]
 ---
 
-**GTA 6 costs $79.99 for the Standard Edition and $99.99 for the Ultimate Edition** in the US, on PS5 and Xbox Series X|S. The Microsoft Store listing confirmed both prices via Xbox Wire on Nov 10, 2026, and they have not changed since pre-orders opened on June 25. <span class="tag-confirmed">confirmed</span>
+GTA 6 costs $79.99 for the Standard Edition and $99.99 for the Ultimate Edition in the US, on PS5 and Xbox Series X|S. Xbox Wire cited both Microsoft Store prices on Nov 10, 2026, and neither has moved since pre-orders opened on June 25. <span class="tag-confirmed">confirmed</span>
 
-There are only **two game editions**. The $399.99 [[release/gta-6-collectors-box|Collector's Box]] is merchandise and does not include the game. If you are deciding between the two, our [[guides/gta-6-which-edition-should-you-buy|which edition should you buy]] guide does the maths.
+Those are the only two game editions. The $399.99 [[release/gta-6-collectors-box|Collector's Box]] is merchandise with no game inside. For a recommendation rather than a spec sheet, see [[guides/gta-6-which-edition-should-you-buy|which edition should you buy]].
 
 ## How much is GTA 6 in my country?
 
-These are PlayStation Store prices read on Oct 23, 2026, compiled by Timesaver.gg across 28 stores. The upgrade column is the Xbox Store price for the Ultimate Edition Upgrade. <span class="tag-reported">reported</span> (store-listing scrape)
+Timesaver.gg read these PlayStation Store prices on Oct 23, 2026, across 28 stores. The upgrade column is the Xbox Store price of the Ultimate Edition Upgrade. <span class="tag-reported">reported</span>
 
 | Region | Standard | Ultimate | Ultimate Upgrade (Xbox) |
 | --- | --- | --- | --- |
@@ -92,96 +94,59 @@ These are PlayStation Store prices read on Oct 23, 2026, compiled by Timesaver.g
 | South Korea | ₩89,800 | ₩112,800 | ₩23,000 |
 | Switzerland | CHF 79.90 | CHF 99.90 | not listed |
 
-**Mexico** is the one market where the two console stores disagree: **MX$1,292.24 on PlayStation versus MX$1,499 on Xbox**. Everywhere else in the dataset, PS and Xbox prices matched. <span class="tag-reported">reported</span>
+Mexico is the only market where the two stores disagree: MX$1,292.24 on PlayStation, MX$1,499 on Xbox. gamecryst.com still labels the UK and India prices "estimated"; the store listings are live, so ignore that label. <span class="tag-reported">reported</span>
 
-### "Estimated" UK and India prices? They are live
+Shopping in a cheaper region's store is harder than it looks. PlayStation codes are locked to your PSN account region, while Rockstar says Xbox codes are not region-locked. <span class="tag-reported">reported</span>
 
-Some price pages, including gamecryst.com, still label the UK and India prices as "estimated". The store listings show them live, so treat £69.99 and ₹5,999 as the real prices. <span class="tag-reported">reported</span>
+## What happened to the $100 price rumour?
 
-### Is GTA 6 cheaper in another region?
+Michael Pachter and Matthew Ball spent 2024 and 2025 predicting a $100 base price. Standard came in at $79.99, matching Bank of America analyst Dessouky's $80 call; only Ultimate lands near $100. <span class="tag-debunked">debunked</span> A leaked €89.99 EU price was also wrong; eurozone Standard is €79.99. <span class="tag-rumour">rumour</span> The full history is on the [[leaks/gta-6-100-dollar-price-rumour|$100 price rumour]] page.
 
-Converted at typical late-2026 exchange rates, Japan's ¥9,800 and India's ₹5,999 work out below the US $79.99, while Canada, Australia and New Zealand come out at or above it. Exchange rates move, so check before you compare. <span class="tag-speculation">speculation</span> Buying from another region's store is not straightforward, though. PlayStation codes are region-locked to your PSN account, and using a foreign store typically needs a local payment method and may breach store terms. We would not recommend it. <span class="tag-speculation">speculation</span>
-
-## Is GTA 6 really $80? What about the $100 rumour?
-
-For two years, analysts including Michael Pachter and Matthew Ball floated a **$100 base price**. That turned out wrong for the Standard Edition: it is $79.99. Bank of America's $80 call was the accurate one. The Ultimate Edition does land at about $100. <span class="tag-debunked">debunked</span> (for the base price) The history is on our [[leaks/gta-6-100-dollar-price-rumour|$100 price rumour]] page.
-
-A leaked €89.99 EU price was also wrong; the eurozone Standard is €79.99. <span class="tag-rumour">rumour</span>
-
-## Standard vs Ultimate: what is the difference?
+## Standard vs Ultimate
 
 | | Standard | Ultimate |
 | --- | --- | --- |
 | US price | $79.99 | $99.99 |
-| Base game | Yes | Yes |
-| Vintage Vice City Pack (if bought before Nov 20) | Yes | Yes |
-| Free month of GTA+ (digital pre-orders) | Yes, digital | Yes |
-| 16 extra in-game items, vehicles and businesses | No | Yes |
-| Physical box available | Yes (code in a box) | **No, digital only** |
+| Vintage Vice City Pack (bought before Nov 20) | Yes | Yes |
+| Free GTA+ month | Digital pre-orders only | Digital pre-orders only |
+| 16 extra items, vehicles and businesses | No | Yes |
+| Boxed copy | Yes, a code in a box | No, digital only |
 
-### What is in the Ultimate Edition?
+Rockstar Support says a physical Ultimate "is not available"; it is sold only on PS Store and the Microsoft Store. <span class="tag-confirmed">confirmed</span> The boxed Standard holds a download code, not a disc ([[release/gta-6-physical-copy-no-disc|details]]).
 
-gtasix.org lists 16 items from Rockstar Support. <span class="tag-reported">reported</span> (quoting Rockstar Support)
+### The 16 Ultimate Edition items
 
-- '95 Grotti Cheetah
-- Hawk & Little Morgan Revolvers (Rockstar says they are "sourced from the Vercetti Estate")
-- Personalized Weapon Variants
-- Vice City Styles
-- Jason's Safehouse Vehicles
-- Ganado Retro Build
-- Rideout Customs Mod Shop
-- Sara's Unisex Salon
-- Shitzu Squalo (boat)
-- Stock 305 Clothing Store
-- '67 Vapid Dominator Buggy and Garage
-- Electric Fang Tattoo Parlor
-- One-Eyed Willie's Mod Shop
-- Goodtime Gear
-- PTT Youngin$ Compound
-- Classic Car Collection
+gtasix.org transcribed this list from Rockstar Support. <span class="tag-reported">reported</span>
 
-Two details that change the value maths:
+| Vehicles | Weapons and looks | Businesses and properties |
+| --- | --- | --- |
+| '95 Grotti Cheetah | Hawk & Little Morgan Revolvers ("sourced from the Vercetti Estate") | Rideout Customs Mod Shop |
+| Jason's Safehouse Vehicles | Personalized Weapon Variants | Sara's Unisex Salon |
+| Ganado Retro Build | Vice City Styles | Stock 305 Clothing Store |
+| Shitzu Squalo (boat) | Goodtime Gear | Electric Fang Tattoo Parlor |
+| '67 Vapid Dominator Buggy and Garage | | One-Eyed Willie's Mod Shop |
+| Classic Car Collection | | PTT Youngin$ Compound |
 
-- **Five of these businesses are "only open for business with the Ultimate Edition"**, so Standard owners will see them but cannot use them.
-- **The items unlock across the story's chapters**, not all on day one.
+Two caveats affect the value. Five of the businesses are "only open for business with the Ultimate Edition", so Standard players will see them shut. And the items unlock across the story's chapters, not on day one. The cars and guns are covered on [[gameplay/gta-6-vehicles|vehicles]] and [[gameplay/gta-6-weapons|weapons]].
 
-The vehicles and weapons tie into our [[gameplay/gta-6-vehicles|vehicles]] and [[gameplay/gta-6-weapons|weapons]] pages.
+VICE's June 24 list does not match. It adds Girardi and Klose pistols, a Dinka Enduro and a Crest Kayak, and calls the Stanier and weapon skins Standard pre-order bonuses. Use the Rockstar Support list. <span class="tag-debunked">debunked</span>
 
-### Ignore the VICE list from June
+## How does the upgrade work?
 
-VICE's June 24 list of Ultimate contents does not match Rockstar Support. It adds Girardi and Klose pistols, a Dinka Enduro and a Crest Kayak, and says the Stanier and the weapon skins are Standard pre-order bonuses. We think it is garbled. Prefer the 16-item Rockstar Support list above. <span class="tag-debunked">debunked</span>
+Standard owners can buy the Ultimate Edition Upgrade at any time for the gap between editions: $20, £20 or €20 on Xbox, with other regions in the table above. PlayStation does not show its upgrade price until you own the game. <span class="tag-reported">reported</span>
 
-## Can I upgrade from Standard to Ultimate later?
+The upgrade, along with GTA+, is the likely reason the ESRB listing carries an "In-Game Purchases" notice. Rockstar North co-head Rob Nelson told Kinda Funny that single-player has no real-money purchases. <span class="tag-reported">reported</span> See the [[release/gta-6-age-rating|age rating]] page.
 
-Yes. Standard owners can buy the **Ultimate Edition Upgrade**, which costs the gap between editions: **$20, £20 or €20 on Xbox**. <span class="tag-reported">reported</span> PlayStation does not show the upgrade price until you own the game. <span class="tag-reported">reported</span>
+## What comes with every edition?
 
-That is why the ESRB's "In-Game Purchases" label is on the box. It most likely reflects the upgrade and GTA+, not microtransactions inside the story. Rockstar North's Rob Nelson has said single-player has no real-money purchases. <span class="tag-reported">reported</span> More on the [[release/gta-6-age-rating|age rating]] page.
+Every copy bought before Nov 20 gets the Vintage Vice City Pack, and digital pre-orders add a free GTA+ month that reportedly auto-renews at about $8. Contents and claim steps are on [[release/gta-6-pre-order-bonuses|pre-order bonuses]].
 
-## Is there a physical Ultimate Edition?
+## Bundles, controllers and cloud
 
-No. Rockstar Support says a physical Ultimate "is not available". Ultimate is sold only on PS Store and the Microsoft Store. <span class="tag-confirmed">confirmed</span>
+No GTA VI console bundle exists from Sony, Microsoft, Rockstar or Take-Two. <span class="tag-confirmed">confirmed</span> Sony's Japan-only Midnight Black PS5 launches Nov 19 with no game and no GTA branding. The two Limited Edition DualSense controllers cost $84.99 / £74.99 / €84.99 / ¥12,480; Black is a PlayStation Direct exclusive, White is also at retail, and there is no Xbox equivalent. <span class="tag-confirmed">confirmed</span>
 
-The physical Standard Edition is itself a download code in a box, with no disc. See [[release/gta-6-physical-copy-no-disc|GTA 6 physical copy: no disc]].
+Xbox Cloud Gaming costs the same game purchase. GTA VI is not in Game Pass, and from Nov 11 cloud playtime can be bought without Game Pass in supported markets. <span class="tag-confirmed">confirmed</span> See [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud gaming]].
 
-## What do all editions get?
+## Which edition are people buying?
 
-- **Vintage Vice City Pack** for all pre-orders and purchases before Nov 20 (Xbox Wire's cutoff is 23:59:59 on Nov 19). It includes a two-tone '55 Vapid Stanier, the Shore Court Garage, 1980s Vice City outfits and hairstyles, and a tropical weapon skin. <span class="tag-confirmed">confirmed</span> (cutoff) Full list on [[release/gta-6-pre-order-bonuses|pre-order bonuses]].
-- **A free month of GTA+** for **digital** pre-orders on PS5 and Xbox. Box copies do not include it, and it reportedly auto-renews at about $8 a month unless cancelled. <span class="tag-reported">reported</span> (auto-renew) See [[guides/gta-6-gta-plus-explained|GTA+ explained]].
-
-## Are there GTA 6 console bundles or controllers?
-
-- **No GTA VI console bundle** has been announced by Sony, Microsoft, Rockstar or Take-Two. <span class="tag-confirmed">confirmed</span> (absence)
-- Sony's Japan-only **Midnight Black PS5** launches the same day, but it has no game and no GTA branding. <span class="tag-confirmed">confirmed</span>
-- **GTA VI Limited Edition DualSense** controllers (Black and White) cost **$84.99 / £74.99 / €84.99 / ¥12,480** and launch Nov 19. Black is a PlayStation Direct exclusive; White is also at retailers. There is no Xbox GTA controller. <span class="tag-confirmed">confirmed</span>
-
-## How much does GTA 6 cost on Xbox Cloud Gaming?
-
-The same as on console. GTA VI is **not in Game Pass**; you must buy it to stream it on Xbox One or Series X|S via the cloud. From Nov 11, cloud playtime can be bought without Game Pass in supported markets. <span class="tag-confirmed">confirmed</span> See [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud gaming]].
-
-## What we're watching
-
-- Whether PlayStation's upgrade price matches Xbox's $20 once owners can see it.
-- Launch-week discounts at retailers on the boxed code, which are common for big releases but unannounced.
-- Prices for a [[release/gta-6-pc-release-date|PC version]], which has not been announced at all.
-
-Sensor Tower estimates that **89% of pre-orders were the Ultimate Edition**, so most buyers have already decided the extra $20 is worth it. <span class="tag-reported">reported</span> (estimate) Pre-order numbers are on [[release/gta-6-sales-and-pre-orders|sales and pre-orders]], and the rest of launch week is on the [[release/index|release hub]].
+Sensor Tower estimates 89% of pre-orders are Ultimate. <span class="tag-reported">reported</span> (estimate) Its full numbers are on [[release/gta-6-sales-and-pre-orders|sales and pre-orders]]. Still unknown: PlayStation's upgrade price, and any [[release/gta-6-pc-release-date|PC pricing]], since no PC version is announced. More launch logistics are on the [[release/index|release hub]].

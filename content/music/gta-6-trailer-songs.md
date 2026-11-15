@@ -23,7 +23,7 @@ facts:
     v: "Not confirmed for Trailers 1-2"
 faq:
   - q: "What is the song in the first GTA 6 trailer?"
-    a: "Tom Petty's 'Love Is a Long Road', from his 1989 solo album Full Moon Fever. A 'Petty Forever' sticker also appears in the trailer."
+    a: "Tom Petty's 'Love Is a Long Road', from his 1989 solo album Full Moon Fever. A rainbow 'Petty Forever' sticker is visible near the end."
   - q: "What song is in GTA 6 Trailer 2?"
     a: "The main track is 'Hot Together' by the Pointer Sisters (1986). Wang Chung's 'Everybody Have Fun Tonight', Zenglen's 'Child Support' and Tammy Wynette's 'Talkin' to Myself Again' are also heard."
   - q: "What song is in the GTA 6 launch trailer?"
@@ -71,10 +71,14 @@ sources:
     url: "https://www.gamepressure.com/newsroom/gta-6-trailer-now-available-leak-forced-rockstar-games-to-release/z36508"
     publisher: "Gamepressure"
     date: "Dec 4, 2023"
+  - title: "Grand Theft Auto VI trailer launch sets new 24-hour record on YouTube"
+    url: "https://blog.youtube/culture-and-trends/grand-theft-auto-breaks-record/"
+    publisher: "YouTube Official Blog"
+    date: "Dec 5, 2023"
 related: ["music/gta-6-radio-stations", "music/gta-6-soundtrack-album", "media/gta-6-launch-trailer"]
 ---
 
-Four official GTA 6 videos carry licensed or original music. **Trailer 1** runs on Tom Petty's "Love Is a Long Road". **Trailer 2** is built around the Pointer Sisters' "Hot Together". **An Extended Look** uses six licensed songs. The **Launch Trailer** premieres Justice's original "Flower in a Hurricane". Trailer 1 and 2 songs come from press identification that nobody has disputed. The Launch Trailer song is credited on Rockstar's own music page.
+Four official GTA 6 videos have identifiable music. Trailer 1 runs on Tom Petty's "Love Is a Long Road". Trailer 2 is built on the Pointer Sisters' "Hot Together". An Extended Look uses six licensed songs, and the Launch Trailer premiered Justice's original "Flower in a Hurricane". Only the last is credited on a Rockstar page; the rest are press identifications nobody has disputed.
 
 ## All GTA 6 trailer songs at a glance
 
@@ -94,51 +98,30 @@ Four official GTA 6 videos carry licensed or original music. **Trailer 1** runs 
 | An Extended Look | Aug 27, 2026 | Against All Odds (Take a Look at Me Now) | Phil Collins | <span class="tag-reported">reported</span> |
 | [[media/gta-6-launch-trailer|Launch Trailer]] | Oct 15, 2026 | Flower in a Hurricane | Justice ft. Tame Impala, SZA and King Gizzard & The Lizard Wizard | <span class="tag-confirmed">confirmed</span> |
 
-"Confirmed" here means the identification is universal across outlets or, for the Launch Trailer, credited by Rockstar. Rockstar does not publish cue sheets for its trailers, so the Extended Look list comes from Wikipedia's article on the special, which we cross-checked against the press coverage in our research.
+"Confirmed" in this table means every outlet agrees on the song or, for the Launch Trailer, Rockstar credits it. Rockstar doesn't publish cue sheets for trailers. The Extended Look list comes from Wikipedia's article on the special.
 
 ## What song is in GTA 6 Trailer 1?
 
-**"Love Is a Long Road" by Tom Petty**, from his 1989 solo album *Full Moon Fever*. [[media/gta-6-trailer-1|Trailer 1]] dropped on the evening of December 4, 2023, about 15 hours early, after a low-quality copy leaked on X.
+"Love Is a Long Road", from Tom Petty's 1989 solo album *Full Moon Fever*. [[media/gta-6-trailer-1|Trailer 1]] went up on the evening of December 4, 2023, about 15 hours ahead of schedule, after a low-quality copy with a crypto watermark leaked on X. The trailer passed 93 million YouTube views in its first 24 hours, per YouTube.
 
-Den of Geek pointed out two neat touches. A rainbow "Petty Forever" sticker is visible on a door near the end of the trailer. And Petty's account has said he was once set to contribute "Running Down a Dream" to San Andreas, which never happened <span class="tag-reported">reported</span>. Den of Geek also read the lyric as a nod to [[characters/lucia-caminos|Lucia]] and to the decade-long wait for the trailer, which is commentary, not a Rockstar statement.
+Den of Geek spotted a rainbow "Petty Forever" sticker on a door near the end. It also noted that Petty's account has said he was once lined up to give "Running Down a Dream" to San Andreas, which never happened <span class="tag-reported">reported</span>. Den of Geek's reading of the lyric as a nod to [[characters/lucia-caminos|Lucia]] and to the decade-long wait is commentary, not anything Rockstar said.
 
 ## What song is in GTA 6 Trailer 2?
 
-**"Hot Together" by the Pointer Sisters** (1986) carries most of [[media/gta-6-trailer-2|Trailer 2]]. NME and Den of Geek both list three more songs heard in shorter stretches, mostly as in-car radio:
+"Hot Together" by the Pointer Sisters (1986) carries most of [[media/gta-6-trailer-2|Trailer 2]], which dropped without warning on May 6, 2025, four days after the game slipped to May 2026. NME and Den of Geek both hear three more songs in shorter stretches, mostly as car radio: Wang Chung's "Everybody Have Fun Tonight", Zenglen's "Child Support" (some lists credit Zenglen & 5 Etwal) and Tammy Wynette's "Talkin' to Myself Again".
 
-- Wang Chung, "Everybody Have Fun Tonight"
-- Zenglen, "Child Support" (some lists credit Zenglen & 5 Etwal)
-- Tammy Wynette, "Talkin' to Myself Again"
-
-Den of Geek read the Wynette track as an early hint at a country station. That turned out right: Back Country Radio is one of the six confirmed [[music/gta-6-radio-stations|GTA 6 radio stations]]. Some fan lists also add Jay Ferguson's "Thunder Island". We have not seen that confirmed by a credible outlet <span class="tag-rumour">rumour</span>.
+Den of Geek took the Wynette track as an early sign of a country station. Seventeen months later Rockstar revealed Back Country Radio among the six confirmed [[music/gta-6-radio-stations|GTA 6 radio stations]]. Jay Ferguson's "Thunder Island" appears on some fan lists, but no credible outlet has confirmed it <span class="tag-rumour">rumour</span>.
 
 ## What songs are in the GTA 6 Extended Look?
 
-The 26:48 Netflix and YouTube [[media/gta-6-extended-look|Extended Look]] used six licensed tracks, per Wikipedia's article on *An Extended Look*:
-
-1. Depeche Mode, "People Are People"
-2. Prefab Sprout, "Cars and Girls"
-3. Cliff Richard, "Devil Woman"
-4. Chimbala and Omega, "Se Me Nota (Agárrame)"
-5. Def Leppard, "Love Bites"
-6. Phil Collins, "Against All Odds (Take a Look at Me Now)"
-
-We list these in the order Wikipedia gives, which is not guaranteed to be the running order in the video. None has been placed on a specific in-game station yet.
+The 26:48 [[media/gta-6-extended-look|Extended Look]] premiered on Netflix on August 27, 2026, and Wikipedia lists six licensed tracks: Depeche Mode "People Are People", Prefab Sprout "Cars and Girls", Cliff Richard "Devil Woman", Chimbala and Omega "Se Me Nota (Agárrame)", Def Leppard "Love Bites" and Phil Collins "Against All Odds (Take a Look at Me Now)". That is Wikipedia's order, which may not match the running order. None has been tied to a specific station.
 
 ## What song is in the GTA 6 launch trailer?
 
-**"Flower in a Hurricane" by Justice, featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard.** It is an original song, not a licensed one, and it arrived on October 15, 2026, with the 1:29 [[media/gta-6-launch-trailer|Launch Trailer]].
+"Flower in a Hurricane" by Justice, featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard. It is an original song written for the game, and it debuted on October 15, 2026, with the roughly 90-second [[media/gta-6-launch-trailer|Launch Trailer]]. The same day Rockstar revealed that the French duo had composed the game's score. Rockstar's music page lists the track as a single from both [[music/gta-6-soundtrack-album|GTA VI: The Album]] and the [[music/gta-6-justice-score|Original Score by Justice]] <span class="tag-confirmed">confirmed</span>.
 
-The same day, Rockstar revealed that French duo Justice composed the game's original score. Rockstar's music page lists "Flower in a Hurricane" as a single from both [[music/gta-6-soundtrack-album|GTA VI: The Album]] and the [[music/gta-6-justice-score|Original Score by Justice]] <span class="tag-confirmed">confirmed</span>.
-
-### Flower or Flowers?
-
-Rockstar's pages spell it **"Flower in a Hurricane"**, singular. Game Rant's launch-day article and some other outlets wrote "Flowers in a Hurricane". Ynetnews used the singular. We follow Rockstar.
+Rockstar spells it "Flower", singular. Game Rant's launch-day article and a few other outlets wrote "Flowers"; Ynetnews used the singular. We follow Rockstar.
 
 ## Are the trailer songs in the game?
 
-Rockstar has not said whether "Love Is a Long Road", "Hot Together" or the Extended Look tracks play on in-game radio. Expect the answer when the game unlocks. "Flower in a Hurricane" is the only one tied to official GTA VI releases.
-
-## Other official videos
-
-Rockstar's video list also includes a 0:30 "Pre-Load Now" spot (Nov 10, 2026) and the 33-second cover-art teaser from June 18, 2026. Neither has a credited song that we could verify. The full video run is on our [[timeline/index|GTA 6 timeline]].
+Rockstar hasn't said whether "Love Is a Long Road", "Hot Together" or any Extended Look track plays on in-game radio. "Flower in a Hurricane" is the only trailer song tied to an official GTA VI release. The other official videos, a 0:30 "Pre-Load Now" spot from November 10, 2026 and the 33-second cover-art teaser from June 18, 2026, have no credited song we could verify. The full run of videos is on the [[timeline/index|GTA 6 timeline]] and the [[media/index|media hub]]; radio, the Album and the score are on the [[music/index|music hub]].

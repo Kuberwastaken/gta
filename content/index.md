@@ -21,17 +21,15 @@ quick:
     to: "music/gta-6-radio-stations"
 ---
 
-## What this site is
+GTA VI Wire is an independent reference for Grand Theft Auto VI, which unlocks at midnight local store time on November 19, 2026 on PS5 and Xbox Series X|S, at $79.99 Standard or $99.99 Ultimate. There is no PC version, no disc in the box and no online mode at launch.
 
-GTA VI Wire is an independent reference for Grand Theft Auto VI, which launches on **November 19, 2026** for PS5 and Xbox Series X|S. Every page that states something about the game carries a grade: <span class="tag-confirmed">confirmed</span> when it comes from Rockstar, Take-Two, Sony, Microsoft or a ratings board, <span class="tag-reported">reported</span> when credible press says it, <span class="tag-rumour">rumour</span> when nobody can prove it yet, and <span class="tag-debunked">debunked</span> when it turned out false. Sources sit at the bottom of every page with the date we last checked them.
+Every claim on the site carries a grade: <span class="tag-confirmed">confirmed</span> for Rockstar, Take-Two, Sony, Microsoft or a ratings board, <span class="tag-reported">reported</span> for credible press, <span class="tag-rumour">rumour</span> for anything unproven and <span class="tag-debunked">debunked</span> for claims shown false. Sources and the date we last checked them sit at the bottom of each page. [[about/how-we-grade|How we grade]] explains the rules, and grade changes are logged in [[about/corrections|corrections]].
 
 ## Where to start this week
 
-- **When can you play?** The [[release/gta-6-release-time-by-country|unlock time in your country]], the [[release/gta-6-preload-and-file-size|212 GB pre-load]] and the [[guides/gta-6-day-one-checklist|day-one checklist]].
-- **What to buy.** [[release/gta-6-price-and-editions|Standard vs Ultimate]], why the [[release/gta-6-physical-copy-no-disc|boxed copy has no disc]], and the [[guides/gta-6-which-edition-should-you-buy|edition we'd pick]].
-- **What you're getting into.** [[characters/jason-duval|Jason]], [[characters/lucia-caminos|Lucia]], the [[world/leonida-regions|six regions of Leonida]] and the [[gameplay/gta-6-gameplay-features-confirmed|full list of confirmed systems]].
-- **What's real.** The [[leaks/index|leaks ledger]] grades every rumour from the 2022 leak to this week, and the [[timeline/index|timeline]] dates everything Rockstar has said.
+- The [[release/gta-6-release-time-by-country|unlock time in your country]], the [[release/gta-6-preload-and-file-size|212 GB pre-load]] and the [[guides/gta-6-day-one-checklist|day-one checklist]].
+- [[release/gta-6-price-and-editions|Standard vs Ultimate]], why the [[release/gta-6-physical-copy-no-disc|boxed copy is a download code]], and the [[guides/gta-6-which-edition-should-you-buy|edition we'd pick]].
+- [[characters/jason-duval|Jason]], [[characters/lucia-caminos|Lucia]], the [[world/leonida-regions|six regions of Leonida]] and the [[gameplay/gta-6-gameplay-features-confirmed|confirmed gameplay systems]].
+- The [[leaks/index|leaks ledger]], which grades every rumour from Bloomberg's 2022 report to the CyberLeek footage, and the [[timeline/index|timeline]] of everything Rockstar has said since 2022.
 
-## How it fits together
-
-Pages link wherever the facts connect, so the site works as a graph. A character links to the region they live in, the region to the vehicles seen there, the vehicle to the trailer it appeared in. The [[graph|topic graph]] draws all of it. When a claim changes grade we update the page, note it in [[about/corrections|corrections]] and keep the old claim on the ledger instead of deleting it. How the grades work is explained in [[about/how-we-grade|how we grade]].
+Pages link wherever the facts connect: a character to the region they live in, the region to the vehicles seen there, the vehicle to the trailer it appeared in. The [[graph|topic graph]] draws the whole thing.

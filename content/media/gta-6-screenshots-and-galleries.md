@@ -2,7 +2,7 @@
 title: "GTA 6 screenshots: every official gallery and where to find them"
 seoTitle: "GTA 6 Screenshots: Every Official Gallery and Image Drop"
 shortTitle: "Screenshots and galleries"
-description: "Every official GTA 6 screenshot drop, dated: 70 with Trailer 2, about 12 in October 2026 and the 39-image Launch Gallery on Nov 5, plus where to see them."
+description: "Every official GTA 6 screenshot drop, dated: 70 with Trailer 2, about 12 in October 2026 and 39 in the Nov 5 Launch Gallery, plus which leaked images to skip."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
@@ -53,10 +53,14 @@ sources:
     url: "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
     publisher: "Wikipedia"
     date: "Accessed Nov 15, 2026"
+  - title: "GTA 6 PS5 File Size Confirmed to Be 212GB, Physical Map Available But Not in Boxed Copies"
+    url: "https://www.pushsquare.com/news/2026/11/gta-6-ps5-file-size-confirmed-to-be-212gb-physical-map-available-but-not-in-boxed-copies"
+    publisher: "Push Square"
+    date: "Nov 2026"
 related: ["news/2026-11-05-gta-6-launch-gallery", "media/gta-6-trailer-2", "media/gta-6-easter-eggs-in-trailers"]
 ---
 
-Rockstar has released official GTA 6 screenshots in **three main drops**: **70** alongside [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025, **about 12** in mid-October 2026, and the **39-image Launch Gallery** on November 5, 2026. All of them live on Rockstar's GTA VI site. We do not reproduce Rockstar artwork here. This page tells you what each set is, when it came out and where to find it.
+Rockstar has released official GTA 6 screenshots in three main drops: 70 alongside [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025, about 12 in mid-October 2026, and the 39-image Launch Gallery on November 5, 2026. All of them are on Rockstar's GTA VI site. We do not reproduce Rockstar artwork; this page dates each set and says where to find it.
 
 ## Every official GTA 6 screenshot drop
 
@@ -67,38 +71,24 @@ Rockstar has released official GTA 6 screenshots in **three main drops**: **70**
 | About mid-Oct 2026 | Screenshots with gameplay details | About 12 | <span class="tag-reported">reported</span> |
 | Nov 5, 2026 | Launch Gallery | 39 | <span class="tag-confirmed">confirmed</span> |
 
-The 70-image count comes from Wikipedia, citing IGN and VGC. The October and November counts come from Gamereactor, which reported "nearly 40" new screenshots on November 6. Rockstar's own Newswire post for the Launch Gallery rendered empty when we fetched it, so the count of 39 is Gamereactor's.
+The 70 count is from Wikipedia, citing IGN and VGC. The October and November counts are Gamereactor's: it reported "nearly 40" new images on November 6, and about 12 others roughly three weeks earlier. Rockstar's Newswire post for the Launch Gallery rendered empty when we fetched it, so 39 rests on Gamereactor.
 
 ## How many GTA 6 screenshots are there in total?
 
-The dated drops add up to about **121**. One aggregator, timesaver.gg, puts the total official pack at **138** <span class="tag-rumour">rumour</span>. The gap could be the edition and pre-order images from June 2026, which nobody we found has counted <span class="tag-speculation">speculation</span>. Until Rockstar publishes a full gallery index, treat any exact total as approximate.
+The dated drops add up to about 121. The aggregator timesaver.gg puts the full official pack at 138 <span class="tag-rumour">rumour</span>. The 17-image gap may be the June edition and pre-order art, which nobody we found has counted <span class="tag-speculation">speculation</span>. Until Rockstar publishes a gallery index, treat any exact total as approximate.
 
-## The Trailer 2 screenshots (May 2025)
+## What do the Trailer 2 screenshots cover?
 
-This was the big one. On the day Trailer 2 dropped, Rockstar rebuilt its GTA VI site around the "Only in Leonida" page. It added profiles for eight character entries (Jason, Lucia, Cal, Boobie, Dre'Quan, Real Dimez, Raul and Brian) and six destinations (Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga), each with its own screenshots <span class="tag-confirmed">confirmed</span>.
+They came with Rockstar's rebuilt "Only in Leonida" page: profiles for eight character entries (Jason, Lucia, Cal, Boobie, Dre'Quan, Real Dimez, Raul and Brian) and six destinations (Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga), each with its own images <span class="tag-confirmed">confirmed</span>. The location shots are still the best official reference for the regions, and our [[world/index|world hub]] quotes Rockstar's text from the same page. The character sets back up the bios on the [[characters/index|characters hub]].
 
-The location shots are the best official reference for the map's regions; our [[world/index|world hub]] uses Rockstar's text descriptions from the same page. The character sets back up the bios on the [[characters/index|characters hub]].
+## The June, October and November sets
 
-## The cover art and edition images (June 2026)
+On June 18, 2026, Rockstar revealed the cover art in a 33-second video and set pre-orders for June 25, per Dexerto <span class="tag-confirmed">confirmed</span>. Ultimate Edition and Vintage Vice City Pack images followed around the June 24 price reveal ($79.99 Standard, $99.99 Ultimate); edition contents are on [[release/gta-6-price-and-editions|price and editions]].
 
-On June 18, 2026, Rockstar revealed the cover art in a 33-second video and confirmed pre-orders for June 25, per Dexerto <span class="tag-confirmed">confirmed</span>. Images of the Ultimate Edition and the Vintage Vice City Pack followed around the June 24 price reveal. What is in each edition is on [[release/gta-6-price-and-editions|price and editions]].
+The roughly 12 October images, with gameplay details, landed in the same stretch as the October 15 [[media/gta-6-launch-trailer|Launch Trailer]] <span class="tag-reported">reported</span>. The Launch Gallery went up on Newswire on November 5, two weeks before release, as "Explore the Grand Theft Auto VI Launch Gallery". Our [[news/2026-11-05-gta-6-launch-gallery|Launch Gallery story]] has the details.
 
-## The October 2026 screenshots
+## Which GTA 6 images are not official?
 
-About 12 screenshots carrying gameplay details came out roughly three weeks before the Launch Gallery, per Gamereactor <span class="tag-reported">reported</span>. They arrived in the same stretch as the October 15 [[media/gta-6-launch-trailer|Launch Trailer]].
+Three sets circulate that Rockstar did not release. CyberLeek posted clips and a full Leonida map image between August and October 2026; Rockstar acknowledged the leaks as "heartbreaking" but verified nothing specific ([[leaks/gta-6-cyberleek-2026-leaks|CyberLeek leaks]]). A photo of the Collector's Box map leaked around November 12-14, 2026, reportedly from a box sold early at Selfridges Manchester ([[news/2026-11-14-collectors-box-map-leak|the map leak story]]). And stills from the September 2022 hack show early-development footage; we do not link to them, but the background is on [[timeline/gta-6-2022-leak|the 2022 leak]].
 
-## The Launch Gallery (November 5, 2026)
-
-On November 5, two weeks before release, Rockstar posted "Explore the Grand Theft Auto VI Launch Gallery" on Newswire, with 39 new images. Gamereactor covered it the next day. Our [[news/2026-11-05-gta-6-launch-gallery|Launch Gallery news story]] has the details.
-
-## Unofficial images to be careful with
-
-Not every GTA 6 image online is official:
-
-- **CyberLeek images and clips** (August to October 2026), including a full Leonida map. Rockstar acknowledged the leaks but did not verify specifics. See [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek leaks]].
-- **The Collector's Box map photo**, which leaked from a box sold early at Selfridges Manchester around November 12-14, 2026. See [[news/2026-11-14-collectors-box-map-leak|the map leak story]].
-- **2022 leak stills**, from the September 2022 hack. These are early-development footage. We do not link to them; the background is on [[timeline/gta-6-2022-leak|the 2022 leak]].
-
-## What is not known yet
-
-Rockstar has not said whether it will release a full-resolution press kit at launch, or an official high-resolution map. We will add any new image drops after November 19 to the [[media/index|media hub]] as they come.
+Rockstar has said its trailers were captured in-game on PS5, but it has published no capture notes for screenshot sets. It also has not said whether it will put out a press kit or a high-resolution map image at launch, beyond the free printable Leonida map that Push Square reports is due on rockstargames.com on November 19. New drops after launch will be logged in the [[media/index|media hub]].

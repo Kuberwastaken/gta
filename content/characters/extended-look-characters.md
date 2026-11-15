@@ -1,20 +1,20 @@
 ---
-title: "GTA 6 Extended Look characters: Méndez, Val, Raymond and more"
+title: "GTA 6 Extended Look characters: Méndez, Val, Raymond and every new name"
 seoTitle: "GTA 6 Extended Look Characters: Every New Name Explained"
 shortTitle: "Extended Look characters"
-description: "The GTA 6 Extended Look named Stefanie, Raymond, Nesto, Méndez, Val, Andrés de León and Petra Navarro. Who they are, what's confirmed, and what's fan theory."
+description: "The GTA 6 Extended Look named Stefanie, Raymond, Nesto, Méndez, Val, Andrés de León and Petra Navarro. Who each one is, the source, and what is fan theory."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 7
 tags: ["characters", "trailers", "story", "rumours"]
-tldr: "The 26-minute **Extended Look** (Aug 27, 2026) introduced seven new names: **Stefanie, Raymond, Ernesto ('Nesto'), Méndez, Val, Andrés de León and Petra Navarro**. None has an official Rockstar bio. Méndez is a dirty VCPD cop; **'Méndez is the main villain' and 'Val is Valentina' are fan theories**."
+tldr: "The 26-minute **Extended Look** (Aug 27, 2026) introduced seven names: **Stefanie, Raymond, Ernesto ('Nesto'), Méndez, Val, Andrés de León and Petra Navarro**. None got an official Rockstar bio. Méndez is a dirty VCPD cop; **'Méndez is the main villain' and 'Val is Valentina' are fan theories**."
 facts:
   - k: "Video"
     v: "Grand Theft Auto VI: An Extended Look"
   - k: "Premiere"
-    v: "Aug 27, 2026 (Netflix, then YouTube)"
+    v: "Aug 27, 2026 (Netflix 3pm ET, YouTube 9pm ET)"
   - k: "Runtime"
     v: "About 26 minutes, PS5 capture"
   - k: "New names"
@@ -25,15 +25,15 @@ facts:
     v: "Rupert Humphries, Michael Wiafe (reported)"
 faq:
   - q: "Who is Méndez in GTA 6?"
-    a: "Méndez is reported to be a dirty Vice City police officer who leads a raid on Raymond's drug house while Jason and Lucia are there for a pickup. The idea that he is the main antagonist is fan theory."
+    a: "A dirty Vice City police officer who leads a raid on Raymond's drug house while Jason and Lucia are there for a pickup, per press summaries. That he is the main antagonist is fan theory."
   - q: "Is Val in GTA 6 Valentina from GTA Online?"
-    a: "That is a fan identification, not a Rockstar statement. GTA Intel lists it as a fan ID; one guide calling it 'confirmed' overstates it."
+    a: "That's a fan identification. GTA Intel lists it as one; timesaver.gg calls it 'confirmed', which overstates the evidence."
   - q: "Did Rockstar add new character bios after the Extended Look?"
-    a: "No. As of November 15, 2026, Rockstar's Only in Leonida page still lists only the eight profiles published with Trailer 2 in May 2025."
+    a: "No. On November 15, 2026, the Only in Leonida page still lists only the eight profiles published with Trailer 2 in May 2025."
   - q: "What is the Megamundo job in GTA 6?"
-    a: "In the Extended Look, Jason and Lucia work security at the opening of Megamundo's first US headquarters, a Spanish-language network. It ends in an armed robbery with Lucia in danger."
+    a: "Jason and Lucia work security at the opening of the first US headquarters of Megamundo, a Spanish-language network. It ends in an armed robbery with Lucia in danger."
   - q: "Who is the villain in GTA 6?"
-    a: "Rockstar has not named a main antagonist. Méndez is a popular fan pick, but nothing official confirms it."
+    a: "Rockstar hasn't named a main antagonist. Méndez is the popular fan pick, with nothing official behind it."
 sources:
   - title: "Grand Theft Auto VI: An Extended Look"
     url: "https://www.rockstargames.com/VI/an-extended-look"
@@ -92,15 +92,9 @@ sources:
 related: ["media/gta-6-extended-look", "characters/raul-bautista", "characters/brian-heder"]
 ---
 
-**Grand Theft Auto VI: An Extended Look** introduced seven new character names: **Stefanie, Raymond, Ernesto ("Nesto"), Méndez, Val, Andrés de León and Petra Navarro**. They come from dialogue and on-screen text, not from Rockstar's official bios. Rockstar has added no new profiles since [[media/gta-6-trailer-2|Trailer 2]].
+The [[media/gta-6-extended-look|Extended Look]] introduced seven new names: Stefanie, Raymond, Ernesto ("Nesto"), Méndez, Val, Andrés de León and Petra Navarro. They come from dialogue and on-screen text. Rockstar has not given any of them a bio, and its Only in Leonida page still holds the same eight profiles it posted with [[media/gta-6-trailer-2|Trailer 2]] in May 2025.
 
-The video also gave the first real look at several existing characters at work: [[characters/brian-heder|Brian]], [[characters/boobie-ike|Boobie]], [[characters/raul-bautista|Raul]] and [[characters/cal-hampton|Cal]].
-
-## What was the Extended Look?
-
-Rockstar premiered the [[media/gta-6-extended-look|Extended Look]] on August 27, 2026, exclusively on Netflix at 3pm ET, then on YouTube and Rockstar's site at 9pm ET. It runs about 26 minutes of PS5-captured gameplay and cutscenes. Wikipedia credits Rupert Humphries and Michael Wiafe as writers. <span class="tag-reported">reported</span>
-
-Rockstar's own page confirms the date and format. The character names below come from press and fan coverage of the video, so they are graded <span class="tag-reported">reported</span> unless noted.
+Rockstar premiered the video on August 27, 2026, exclusively on Netflix at 3pm ET, then on YouTube and its own site at 9pm ET. It runs about 26 minutes of PS5-captured gameplay and cutscenes. Netflix reported 31.1 million views in four days and the No. 1 spot in 87 of 93 markets. Wikipedia credits Rupert Humphries and Michael Wiafe as writers. <span class="tag-reported">reported</span> Rockstar's own page confirms only the date and format, so every name below is graded on press and fan coverage.
 
 ## Every new name from the Extended Look
 
@@ -112,75 +106,57 @@ Rockstar's own page confirms the date and format. The character names below come
 | Val | Tied to the Megamundo security job | <span class="tag-reported">reported</span> |
 | Andrés de León | Tied to the Megamundo security job | <span class="tag-reported">reported</span> |
 | Petra Navarro | Tied to the Megamundo security job | <span class="tag-reported">reported</span> |
-| Stefanie | Named in dialogue; linked by fans to Lucia's prison social worker | <span class="tag-reported">reported</span> |
+| Stefanie | Named in dialogue; fans link her to Lucia's prison social worker | <span class="tag-reported">reported</span> |
 | Yago | Ex-addict street racer | <span class="tag-reported">reported</span>, timesaver.gg only |
 
-Rockstar Report is the main source for the seven-name list. Spellings vary: some outlets write "Mendez" without the accent.
+Rockstar Report is the main source for the seven-name list. Spellings vary, and some outlets drop the accent from "Méndez."
 
-## Who is Méndez?
+## The drug-house raid: Méndez, Raymond and Nesto
 
-Méndez is reported as a corrupt Vice City Police Department officer. In the Extended Look he leads a raid on Raymond's drug house while Jason and Lucia are there for a pickup. <span class="tag-reported">reported</span>
+Raymond and Ernesto, nicknamed Nesto, run a drug operation together. Méndez, a corrupt Vice City Police Department officer, leads a raid on Raymond's house while Jason and Lucia are there for a pickup. <span class="tag-reported">reported</span>
+
+Wikipedia's summary separately names [[characters/boobie-ike|Boobie Ike]] as the client for the pair's drug pickup. <span class="tag-reported">reported</span> It doesn't say outright that the raid happens on Boobie's job. That's our inference. <span class="tag-speculation">speculation</span>
 
 ### Is Méndez the main villain?
 
-Rockstar has not named a main antagonist. "Méndez is the big bad" is fan theory. <span class="tag-rumour">rumour</span> So are the related theories that Jason is an undercover cop or that he betrays Lucia (timesaver.gg, Sportskeeda). A dirty cop raiding the leads in a preview does not tell us his place in the full story.
+Rockstar hasn't named a main antagonist, and "Méndez is the big bad" is fan theory. <span class="tag-rumour">rumour</span> So are the related theories that Jason is an undercover cop or that he betrays Lucia, which circulate via timesaver.gg and Sportskeeda. One raid in a preview says nothing about where Méndez sits in the full story.
 
-## Who are Raymond and Nesto?
+## The Megamundo job: Val, Andrés de León and Petra Navarro
 
-Raymond and Ernesto, nicknamed Nesto, are reported to be partners in a drug operation. Raymond's house is the one Méndez raids. <span class="tag-reported">reported</span>
+All three are tied to a security job at the opening of the first US headquarters of Megamundo, a Spanish-language network. The job ends in an armed robbery with Lucia in danger. <span class="tag-reported">reported</span> That comes from Wikipedia and Insider Gaming. GTABase matches the Megamundo tower to Miami's One Biscayne Tower; that's community analysis, not Rockstar's word. See [[world/vice-city|Vice City]] and [[world/gta-6-real-life-locations|real-life locations]].
 
-Wikipedia's summary also says Boobie Ike is the client for the pair's drug pickup. <span class="tag-reported">reported</span> It is likely, though not stated outright in our sources, that this is the same pickup that goes wrong at Raymond's. <span class="tag-speculation">speculation</span>
-
-## What is the Megamundo job?
-
-Val, Andrés de León and Petra Navarro are tied to a security job at the opening of **Megamundo**'s first US headquarters, a Spanish-language network. The job ends in an armed robbery, with Lucia in danger. <span class="tag-reported">reported</span> (Wikipedia, Insider Gaming)
-
-GTABase matches the Megamundo tower to Miami's One Biscayne Tower. That is community analysis, not Rockstar's word. See [[world/vice-city|Vice City]] and [[world/gta-6-real-life-locations|real-life locations]].
-
-### Is Val actually Valentina from GTA Online?
-
-Unproven. Fans claim "Val" is Valentina, returning from GTA Online. GTA Intel lists this as a fan identification, not Rockstar's. timesaver.gg presents it as "confirmed," which overstates the evidence. <span class="tag-rumour">rumour</span> More callbacks are on [[characters/returning-characters-and-cameos|returning characters and cameos]].
+Fans claim "Val" is Valentina from GTA Online. GTA Intel lists that as a fan identification. timesaver.gg calls it "confirmed," which overstates the evidence. <span class="tag-rumour">rumour</span> Other callbacks are tracked on [[characters/returning-characters-and-cameos|returning characters and cameos]].
 
 ## Who is Stefanie?
 
-The first voice in [[media/gta-6-trailer-1|Trailer 1]] belongs to a woman fans and outlets call Stefanie, reported as Lucia's prison social worker (Game Rant, timesaver.gg). A Stefanie is also among the names Rockstar Report lists from the Extended Look. <span class="tag-reported">reported</span> Rockstar has given her no bio or surname. See [[characters/lucia-caminos|Lucia Caminos]].
+The first voice in [[media/gta-6-trailer-1|Trailer 1]] belongs to a woman outlets call Stefanie, reported as [[characters/lucia-caminos|Lucia]]'s prison social worker by Game Rant and timesaver.gg. A Stefanie is also on Rockstar Report's Extended Look list. <span class="tag-reported">reported</span> Rockstar has given her no bio or surname.
 
-## What did the Extended Look show of the official cast?
+## What the video showed of the official cast
 
-The video put several bio characters into actual scenes. All of this comes from Wikipedia's Extended Look summary. <span class="tag-reported">reported</span>
+Four bio characters got their first real scenes. All of it comes from Wikipedia's summary. <span class="tag-reported">reported</span>
 
-- **[[characters/brian-heder|Brian Heder]]** gives the pair a job over dinner and warns Jason not to sink deeper into the underworld.
-- **[[characters/boobie-ike|Boobie Ike]]** is the client for a drug pickup.
-- **[[characters/raul-bautista|Raul Bautista]]**: Jason and Lucia drive the getaway for his robbery, and he then invites them into his crew.
-- **[[characters/cal-hampton|Cal Hampton]]** is heard near the end, urging the pair to make the most of being young.
+- [[characters/brian-heder|Brian Heder]] gives the pair a job over dinner and warns Jason not to sink deeper into the underworld.
+- Boobie Ike is the client for a drug pickup.
+- [[characters/raul-bautista|Raul Bautista]] has Jason and Lucia drive the getaway for his robbery, then invites them into his crew.
+- [[characters/cal-hampton|Cal Hampton]] is heard near the end, urging them to make the most of being young.
 
-The video also showed Effluvia, a rooftop bar in downtown Vice City, per Engadget. <span class="tag-reported">reported</span>
+Engadget also spotted Effluvia, a rooftop bar in downtown Vice City. <span class="tag-reported">reported</span>
 
-## Who is Wyman?
+## Names that came from elsewhere
 
-**Wyman** is described as an eccentric collector and fixer tied to the Classic Car Collection commission in pre-order and edition material from June 2026, per Rockstar Report. <span class="tag-reported">reported</span>
+Wyman, an eccentric collector and fixer, is tied to the Classic Car Collection commission in June 2026 edition material, per Rockstar Report. <span class="tag-reported">reported</span> GTA Intel says no Rockstar source names him. We haven't seen the original copy, so treat Wyman as unconfirmed. Edition details are on [[release/gta-6-price-and-editions|price and editions]].
 
-**Contradiction:** GTA Intel says no Rockstar source names Wyman. The two sources disagree, and we have not seen the original copy. Treat Wyman as unconfirmed. Edition details are on [[release/gta-6-price-and-editions|price and editions]].
+Several names online aren't from Rockstar at all. <span class="tag-rumour">rumour</span>
 
-## Fan nicknames that are not real character names
+- "Phil": an Ammu-Nation owner fans say is Phil Cassidy. GTA Intel flags it as unsourced to Rockstar.
+- "Hammer Lady" and "Leonida Joker": Game Rant's examples of fan nicknames for trailer NPCs.
+- Chester, Dale, Iris and RB Shaw: names from a GTABase datamine list, not official.
+- "Billy and Kai": leaked names linked to the scrapped [[leaks/gta-6-four-protagonists-rumour|four-protagonist idea]].
 
-Some names circulating online are not from Rockstar at all. <span class="tag-rumour">rumour</span>
+The radio hosts revealed on October 8, 2026, such as El Martillo and La Gata or DJ Kerry and DJ Tom, are station personalities, not story characters. See [[music/gta-6-radio-stations|radio stations]]. The October 15 [[media/gta-6-launch-trailer|launch trailer]] focused on Jason's backstory and added no reported new names.
 
-- **"Phil"**: an Ammu-Nation owner fans say is Phil Cassidy. GTA Intel flags this as unsourced to Rockstar.
-- **"Hammer Lady"** and **"Leonida Joker"**: fan nicknames for trailer NPCs (Game Rant).
-- **GTABase datamine names** such as Chester, Dale, Iris and RB Shaw. Not official.
-- **"Billy and Kai"**: leaked names linked to the scrapped four-protagonist idea. Unconfirmed. See [[leaks/gta-6-four-protagonists-rumour|four-protagonists rumour]].
+## How critics read the story
 
-Radio hosts revealed on October 8, 2026, such as El Martillo and La Gata or DJ Kerry and DJ Tom, are radio personalities, not story characters. They live on [[music/gta-6-radio-stations|radio stations]].
+Before reviews, the Extended Look is the only story footage critics have written about. PC Gamer's Morgan Park called the script derivative and more interested in action than narrative. His colleague Christopher Livingston found Jason "dull" but praised the voice acting, and wrote that viewers favored Lucia for her "creative takedowns." The Guardian's Keith Stuart called it "a very long teaser trailer"; the BBC's Tom Richardson noted its "satirical swipes at US culture." <span class="tag-reported">reported</span> All via Wikipedia.
 
-## Did the launch trailer add any characters?
-
-No new named characters were reported from the [[media/gta-6-launch-trailer|launch trailer]] (October 15, 2026). It centered on Jason's backstory. <span class="tag-reported">reported</span>
-
-## How was the Extended Look's story received?
-
-The Extended Look is the closest thing to story criticism before reviews. PC Gamer's Morgan Park called the script derivative and focused on action over narrative. The Guardian's Keith Stuart called it "a very long teaser trailer," and the BBC's Tom Richardson noted "satirical swipes at US culture." <span class="tag-reported">reported</span> (via Wikipedia)
-
-## What we're watching
-
-Expect most of these names to get surnames, roles and voice credits at launch. Méndez and Val are the two to watch: both carry the most fan theory and the least confirmation. Back to [[characters/index|all GTA 6 characters]].
+The launch-day credits should put surnames, roles and actors to most of these names. Méndez and Val carry the most fan theory and the least confirmation. Back to [[characters/index|all GTA 6 characters]].

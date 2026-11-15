@@ -2,21 +2,21 @@
 title: "Which GTA 6 edition should you buy? Standard vs Ultimate vs box copy"
 seoTitle: "Which GTA 6 Edition Should You Buy? Standard vs Ultimate"
 shortTitle: "Which edition to buy"
-description: "Standard is $79.99, Ultimate $99.99 and digital only, and the box is just a code. Which GTA 6 edition fits you, what Ultimate adds, and how to upgrade later."
+description: "Standard is $79.99, Ultimate $99.99 and digital only, and the box is a download code. Upgrading later costs the $20 gap, so Standard digital suits most players."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 4
 tags: ["guides", "editions", "price", "physical"]
-tldr: "For most players **Standard digital ($79.99)** is the right call: it gets the pre-order pack and the free GTA+ month, and you can **upgrade to Ultimate later for the $20 gap**. Buy **Ultimate ($99.99, digital only)** if you want the '95 Cheetah, five extra businesses and safehouse cars from the start. The box copy is a code, not a disc, and skips the GTA+ month."
+tldr: "Buy **Standard digital ($79.99)** unless you already know you want Ultimate's extras: it gets the pre-order pack and the free GTA+ month, and the **Ultimate upgrade later costs the $20 gap**. Ultimate ($99.99) is digital only, and its 16 items unlock across the story anyway. The box copy is a download code and skips the GTA+ month."
 facts:
   - k: "Standard (US)"
     v: "$79.99"
   - k: "Ultimate (US)"
     v: "$99.99, digital only"
   - k: "Upgrade later"
-    v: "Price gap ($20 / £20 / €20 on Xbox)"
+    v: "$20 / £20 / €20 / C$30 / A$30"
   - k: "Box copy"
     v: "Standard, download code, no disc"
   - k: "Pre-order pack"
@@ -25,11 +25,13 @@ facts:
     v: "Digital pre-orders only"
 faq:
   - q: "Is the GTA 6 Ultimate Edition worth it?"
-    a: "Only if you want its 16 extras, such as the '95 Grotti Cheetah and five Ultimate-only businesses. They unlock across the story, and you can upgrade from Standard later for the price difference, so there's no rush."
+    a: "Only if you want its 16 extras, such as the '95 Grotti Cheetah and five Ultimate-only businesses. They unlock chapter by chapter, and upgrading from Standard later costs the same $20 gap, so there is little reason to pay for it up front."
   - q: "Can I upgrade GTA 6 Standard to Ultimate later?"
-    a: "Yes. The Ultimate Edition Upgrade costs the gap between editions: $20, £20 or €20 on Xbox. PlayStation shows the price only once you own the game."
+    a: "Yes. On Xbox the upgrade is $20, £20, €20, C$30, A$30, NZ$35, ₹1,500 or ¥2,480. PlayStation shows its upgrade price only once you own the game."
   - q: "Is there a physical Ultimate Edition?"
-    a: "No. Rockstar Support says a physical Ultimate Edition is not available. Ultimate is sold only on PS Store and Microsoft Store."
+    a: "No. Rockstar Support says a physical Ultimate is not available; it is sold only on PS Store and Microsoft Store."
+  - q: "How many people bought Ultimate?"
+    a: "Sensor Tower estimates 89% of GTA VI pre-orders were the Ultimate Edition. That is a third-party estimate, not a Rockstar figure."
 sources:
   - title: "Grand Theft Auto VI Comes to Xbox One and Xbox Series X|S Through Xbox Cloud Gaming on November 19"
     url: "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
@@ -63,14 +65,20 @@ sources:
   - title: "GTA 6 Preorders Include Auto-Renewing GTA+ Subscription"
     url: "https://games.gg/news/gta-6-preorders-gta-plus-auto/"
     publisher: "games.gg"
+  - title: "Grand Theft Auto VI"
+    url: "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+    publisher: "Wikipedia"
+  - title: "Some GTA 6 Box Copies Reported To Have Download Code Issues With No Disc To Fall Back On"
+    url: "https://kotaku.com/some-gta-6-box-copies-reported-to-have-download-code-issues-2000756883"
+    publisher: "Kotaku"
 related: ["release/gta-6-price-and-editions", "release/gta-6-pre-order-bonuses", "release/gta-6-physical-copy-no-disc", "guides/gta-6-gta-plus-explained"]
 ---
 
-**Most players should buy the Standard edition digitally.** At $79.99 it gets the Vintage Vice City Pack and a free month of GTA+, and if you fall for Leonida you can **upgrade to Ultimate later for the price gap**. Buy Ultimate ($99.99) up front only if you already know you want its cars, businesses and weapons. Buy the box only if you need a retail gift or a store credit deal, because it is a download code, not a disc.
+Most players should buy the Standard edition digitally. At $79.99 it includes the Vintage Vice City Pack and a free month of GTA+, and if Leonida hooks you, the Ultimate upgrade costs the $20 difference. Buy Ultimate ($99.99) up front only if you already want its cars, businesses and weapons. Buy the box only for a gift or a retailer deal: it holds a download code, not a disc.
 
-Prices by country are on [[release/gta-6-price-and-editions|price and editions]]. This page is the decision guide. More buying help in the [[guides/index|guides hub]].
+Full prices by country are on [[release/gta-6-price-and-editions|price and editions]]; more buying help is in the [[guides/index|guides hub]].
 
-## Standard vs Ultimate vs box: what do you get?
+## Standard vs Ultimate vs box
 
 | | Standard digital | Ultimate (digital only) | Standard box |
 | --- | --- | --- | --- |
@@ -79,58 +87,67 @@ Prices by country are on [[release/gta-6-price-and-editions|price and editions]]
 | Vintage Vice City Pack | Yes (before Nov 20) | Yes (before Nov 20) | Yes (before Nov 20) |
 | Free month of GTA+ | Yes (digital pre-order) | Yes (digital pre-order) | No |
 | 16 Ultimate items | No (upgrade available) | Yes | No (upgrade available) |
-| Disc | No | No | **No, download code** |
+| Disc | No | No | No, download code |
 | Resale | No | No | Unredeemed code only |
 
-US prices are confirmed by Microsoft via Xbox Wire. UK and eurozone prices come from store listings read in October <span class="tag-reported">reported</span>.
+US prices are confirmed by Microsoft via Xbox Wire. UK and eurozone prices come from store listings read in October. <span class="tag-reported">reported</span>
 
-## What does the Ultimate Edition add?
+The Vintage Vice City Pack ('55 Vapid Stanier, Shore Court Garage, 1980s outfits and hairstyles, a tropical weapon skin) goes to "all pre-orders and purchases before Nov 20" on every edition. Xbox Wire puts the cutoff at 23:59:59 on Nov 19. Details on [[release/gta-6-pre-order-bonuses|pre-order bonuses]].
 
-Rockstar Support lists 16 items, as compiled by gtasix.org <span class="tag-reported">reported</span>:
+## What does Ultimate add?
 
-- **Vehicles:** '95 Grotti Cheetah, Jason's Safehouse Vehicles, Ganado Retro Build, Shitzu Squalo boat, '67 Vapid Dominator Buggy and Garage, Classic Car Collection
-- **Weapons and style:** Hawk & Little Morgan revolvers, Personalized Weapon Variants, Vice City Styles
-- **Businesses and places:** Rideout Customs Mod Shop, Sara's Unisex Salon, Stock 305 Clothing Store, Electric Fang Tattoo Parlor, One-Eyed Willie's Mod Shop, Goodtime Gear, PTT Youngin$ Compound
+Rockstar Support lists 16 items, as compiled by gtasix.org. <span class="tag-reported">reported</span>
 
-Two catches. Five of the businesses are "only open for business with the Ultimate Edition", and the extras **unlock across the story's chapters**, not all on day one. So paying extra on launch night doesn't give you everything at once.
+| Type | Items |
+| --- | --- |
+| Vehicles | '95 Grotti Cheetah, Jason's Safehouse Vehicles, Ganado Retro Build, Shitzu Squalo boat, '67 Vapid Dominator Buggy and Garage, Classic Car Collection |
+| Weapons and style | Hawk & Little Morgan revolvers, Personalized Weapon Variants, Vice City Styles |
+| Businesses and places | Rideout Customs Mod Shop, Sara's Unisex Salon, Stock 305 Clothing Store, Electric Fang Tattoo Parlor, One-Eyed Willie's Mod Shop, Goodtime Gear, PTT Youngin$ Compound |
 
-### Why do some Ultimate lists look different?
+Five of the businesses are "only open for business with the Ultimate Edition". The extras unlock across the story's chapters, not on day one, so paying $20 more on launch night does not hand you all 16 items at once.
 
-VICE's June 24 list adds Girardi and Klose pistols, a Dinka Enduro and a Crest Kayak, and says the Stanier and weapon skins are Standard bonuses. That list is probably garbled. Rockstar's own pages name Jason's Girardi ES9 and Lucia's Klose K17 as their character pistols, which may explain the mix-up <span class="tag-speculation">speculation</span>. We follow the Rockstar Support list. Cars on the list are covered in [[gameplay/gta-6-vehicles|vehicles]], guns in [[gameplay/gta-6-weapons|weapons]].
+Sensor Tower estimates 89% of pre-orders went to Ultimate anyway. <span class="tag-reported">reported</span> (estimate)
 
-## Can you upgrade later?
+VICE's June 24 list differs: it adds Girardi and Klose pistols, a Dinka Enduro and a Crest Kayak, and calls the Stanier and weapon skins Standard bonuses. That list is probably garbled. Rockstar's pages name the Girardi ES9 and Klose K17 as Jason's and Lucia's own pistols, which may explain the mix-up. <span class="tag-speculation">speculation</span> We follow the Rockstar Support list. The cars are covered in [[gameplay/gta-6-vehicles|vehicles]], the guns in [[gameplay/gta-6-weapons|weapons]].
 
-Yes. The **Ultimate Edition Upgrade** costs the gap between editions: **$20, £20 or €20** on Xbox, with C$30, A$30, NZ$35, ₹1,500 and ¥2,480 elsewhere <span class="tag-reported">reported</span>. PlayStation hides the upgrade price until you own the game <span class="tag-reported">reported</span>.
+## What does upgrading later cost?
 
-That makes "Standard now, upgrade if hooked" the low-risk choice. You lose nothing, since the Ultimate items unlock through the story anyway.
+The Ultimate Edition Upgrade costs the gap between editions. Xbox Store prices: <span class="tag-reported">reported</span>
+
+| Region | Upgrade |
+| --- | --- |
+| US | $20 |
+| UK | £20 |
+| Eurozone | €20 |
+| Canada / Australia | C$30 / A$30 |
+| New Zealand | NZ$35 |
+| India | ₹1,500 |
+| Japan | ¥2,480 |
+| South Korea | ₩23,000 |
+
+PlayStation hides its upgrade price until you own the game. <span class="tag-reported">reported</span> Because the upgrade costs exactly the price difference and the items unlock through the story either way, "Standard now, upgrade if hooked" carries no penalty.
 
 ## Should you buy the box copy?
 
-The boxed Standard edition is a **download code in a box**. There is no disc and no paper map, just a folded poster according to early unboxings <span class="tag-reported">reported</span>. It reached shops on Nov 12. Full story: [[release/gta-6-physical-copy-no-disc|physical copy, no disc]].
+The boxed Standard edition reached shops on Nov 12 and contains a download code, a folded A3 poster and no paper map, per early unboxings. <span class="tag-reported">reported</span> Full story: [[release/gta-6-physical-copy-no-disc|physical copy, no disc]].
 
-Reasons to buy it anyway:
+It makes sense for a gift or for paying with retailer credit. Xbox codes are not region-locked, Rockstar says, while PlayStation codes lock to your PSN region. Against it: no GTA+ month, no disc to resell, and no early play from a broken street date. Some buyers, including Best Buy and Rockstar Store customers, report codes already used or missing. <span class="tag-reported">reported</span> Kotaku's editor-in-chief could not reproduce the problem, and Rockstar has announced no remedy, so keep the receipt.
 
-- You want to give it as a gift, or pay with retailer credit or a store deal.
-- You want an Xbox code, which Rockstar says is not region-locked. PlayStation codes are locked to your PSN region.
+## The $399 Collector's Box is not an edition
 
-Reasons to skip it:
+"The Goodtime State – Vice City Collection" is merchandise; the game is sold separately. It costs $399.99 (£349.99 / €399.99), only on the Rockstar Store, one per account, 18+, and holds 11 items including a Macca the Gator figure, Oakley Frogskins and a double-sided map poster. Details on [[release/gta-6-collectors-box|Collector's Box]] and [[characters/macca-the-gator|Macca the Gator]].
 
-- It does **not** include the free GTA+ month.
-- Some buyers report codes that were already used or missing <span class="tag-reported">reported</span>. Kotaku could not reproduce it and Rockstar has announced no fix.
-- Discs and street-date breaks are impossible, so there is no early-play advantage.
+## The GTA+ month, briefly
 
-## What about the $399 Collector's Box?
-
-"The Goodtime State – Vice City Collection" is **merchandise, not a game edition**. The game is sold separately. It costs $399.99 (£349.99 / €399.99) on the Rockstar Store, one per account, 18+ only, and includes a Macca the Gator figure, Oakley Frogskins and a double-sided map poster. Details on [[release/gta-6-collectors-box|Collector's Box]]. [[characters/macca-the-gator|Macca]] fans, this is your figure.
-
-## Does the GTA+ month matter?
-
-It gives a month of Rockstar's GTA Online membership, with GTA$ deposits and a back catalogue of Rockstar games. It reportedly **auto-renews at about $8 a month** unless you cancel <span class="tag-reported">reported</span>. Nobody has said whether GTA+ will carry into a future GTA VI online mode. See [[guides/gta-6-gta-plus-explained|GTA+ explained]].
+It is a month of Rockstar's GTA Online membership, with no announced use inside GTA VI, and it reportedly auto-renews at about $8 a month. <span class="tag-reported">reported</span> Claim windows and cancelling: [[guides/gta-6-gta-plus-explained|GTA+ explained]].
 
 ## Our pick
 
-- **Most people:** Standard digital, bought before Nov 20.
-- **Collectors of in-game cars and businesses:** Ultimate, or upgrade once you're hooked.
-- **Gift buyers:** the box, but keep the receipt, since a bad code can only be fixed by the retailer or Rockstar.
+| You are | Buy |
+| --- | --- |
+| Most players | Standard digital, before the Nov 20 pack cutoff |
+| Car and business collectors | Ultimate, or upgrade once hooked for the same $20 |
+| Gift buyers | The box, receipt kept |
+| Merch collectors | Collector's Box plus a copy of the game |
 
-Still deciding? The [[guides/gta-6-day-one-checklist|day-one checklist]] covers what to do after you buy.
+After you buy, the [[guides/gta-6-day-one-checklist|day-one checklist]] covers pre-load and launch night.

@@ -1,33 +1,33 @@
 ---
-title: "How long is GTA 6? Story length and how long it takes to beat"
+title: "How long is GTA 6? Story length and time to beat"
 seoTitle: "How Long Is GTA 6? Story Length and Time to Beat"
 shortTitle: "How long to beat"
-description: "Rockstar has not given an official GTA 6 length. A Rockstar North lead's own playthrough reportedly took about 80 hours. What that means and what's unknown."
+description: "Rockstar has given no official GTA 6 length. Rob Nelson's run reportedly took about 80 hours, side content included. Mission counts of 90-110 are fan guesses."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 5
 tags: ["guides", "story", "gameplay"]
-tldr: "Rockstar has published **no official runtime**. Rockstar North's **Rob Nelson reportedly said his playthrough took about 80 hours**, but outlets disagree on whether that includes side content. Main-mission counts of **90-110** are fan estimates. Real completion times arrive after launch on **Nov 19**."
+tldr: "Rockstar has published **no official runtime**. Rockstar North co-head **Rob Nelson's own playthrough reportedly took about 80 hours**, and Red Bull says that figure includes optional content. Main-mission counts of 90-110 are fan estimates, and a 201-mission claim is a rumour."
 facts:
   - k: "Official length"
     v: "Not announced"
   - k: "Rob Nelson playthrough"
     v: "~80 hours (reported)"
   - k: "With side content"
-    v: "Some say 100+ (reported)"
+    v: "100+ in some reports"
   - k: "Mission count"
     v: "90-110 (fan estimate)"
   - k: "201-mission claim"
     v: "Rumour"
 faq:
   - q: "How many hours is GTA 6?"
-    a: "Rockstar hasn't said. Rob Nelson of Rockstar North reportedly told The New York Times his own playthrough took about 80 hours, but it is unclear how much side content that includes."
+    a: "Rockstar hasn't said. Rob Nelson of Rockstar North reportedly told The New York Times his playthrough took about 80 hours; Red Bull reports that includes optional content."
   - q: "How many missions are in GTA 6?"
-    a: "Rockstar has published no mission count. Estimates of 90 to 110 main missions come from fans and press, and a 201-mission figure is a rumour."
+    a: "Rockstar has published no mission count. Fan and press estimates put the main story at 90 to 110 missions; the 201-mission figure Forbes covered on Oct 30 is unverified."
   - q: "Is GTA 6 longer than GTA 5?"
-    a: "Probably, but nobody can say by how much until launch. Rockstar has not given an official runtime for GTA VI."
+    a: "Rockstar has not compared runtimes. It has compared maps: about twice GTA V's size by Rockstar's statements to press, which says nothing reliable about story length."
 sources:
   - title: "GTA 6 playthrough can last roughly 80 hours, says Rockstar dev"
     url: "https://tbreak.com/gta-6-playthrough-80-hours-rockstar-dev/"
@@ -57,55 +57,35 @@ sources:
 related: ["gameplay/gta-6-activities-and-side-content", "world/gta-6-map-size", "characters/jason-and-lucia-relationship"]
 ---
 
-**Rockstar has not said how long GTA VI is.** The only figure close to official is Rockstar North co-head **Rob Nelson's own playthrough, which he reportedly told The New York Times took about 80 hours** <span class="tag-reported">reported</span>. Outlets disagree on what that covers: some read it as story plus a lot of optional content, others say side content takes it past 100 hours. Until players finish it after Nov 19, every other number is an estimate.
+Rockstar has not said how long GTA VI is. The closest thing to an official number is Rockstar North co-head Rob Nelson's own playthrough, which he reportedly told The New York Times took about 80 hours <span class="tag-reported">reported</span>. Red Bull reports that run included optional content, and G2A's headline says the same: 80 hours is "not just the main story". Some outlets put a side-content-heavy run past 100 hours.
 
-This is one of our launch-week [[guides/index|guides]]. We will add real completion times once the game is out.
+We could not open the Times piece, so the figure rests on tbreak, G2A and Red Bull quoting it. It is also a developer's run. Someone who built the game knows where everything is, so a first-time player will probably need longer for the same route <span class="tag-speculation">speculation</span>.
 
-## What do we actually know?
+## What numbers are circulating?
 
 | Claim | Source | Grade |
 | --- | --- | --- |
 | No official runtime | Rockstar has published none | <span class="tag-confirmed">confirmed</span> (absence) |
-| ~80 hours for Nelson's playthrough | NYT via tbreak, G2A | <span class="tag-reported">reported</span> |
-| ~80 hours includes optional content | Red Bull | <span class="tag-reported">reported</span> |
+| ~80 hours, Nelson's playthrough | NYT, via tbreak and G2A | <span class="tag-reported">reported</span> |
+| The 80 hours includes optional content | Red Bull | <span class="tag-reported">reported</span> |
 | 100+ hours with side content | Some outlets | <span class="tag-reported">reported</span> |
 | 90-110 main missions | Fan and press estimates (GTA Intel) | <span class="tag-rumour">rumour</span> |
-| 201 missions | Circulating claim (covered by Forbes) | <span class="tag-rumour">rumour</span> |
+| 201 missions | Circulating claim, covered by Forbes on Oct 30 | <span class="tag-rumour">rumour</span> |
 
-We could not open the New York Times article directly, so the 80-hour figure rests on outlets quoting it. Nelson's playthrough is also a developer's run. Developers know where everything is, so a first-time player will likely take longer on the same route <span class="tag-speculation">speculation</span>.
+Nobody has published a "main story only" figure, and we won't make one up. Expect real completion times within days of the Nov 19 unlock.
 
-## Why is it hard to pin down?
+## What makes the length hard to call?
 
-### The map unlocks as you go
+The map opens up gradually as you explore, per Nelson via Red Bull. Rockstar told Edge the landmass is "nearly as large as" GTA IV, GTA V and RDR2 combined, and press statements put it at about twice GTA V and three times RDR2's playable area <span class="tag-reported">reported</span>. More road means more travel time between missions. Size comparisons are on [[world/gta-6-map-size|map size]].
 
-The map opens gradually as you explore, per Nelson as reported by Red Bull. Rockstar told Edge the landmass is "nearly as large as" GTA IV, GTA V and RDR2 combined. A bigger world means more travel time, and more reasons to wander. See [[world/gta-6-map-size|map size]].
+The cast is smaller than it could have been. Nelson told Famitsu that Rockstar considered four protagonists and dropped the idea because each would get less screen time. The story runs on [[characters/jason-duval|Jason]] and [[characters/lucia-caminos|Lucia]], and switching between them is locked by the story in places.
 
-### Two leads, but not four
+Optional content is where hours pile up. Previews list basketball, kayaking, mini-golf, pool, scuba diving, skydiving, base-jumping, jet skis, fishing, hunting, backyard wrestling, shooting ranges, gyms, zoo visits and circuit racing, plus robbing almost any shop <span class="tag-reported">reported</span>. Game Informer reports over 170 animal species to track and log. The full list is on [[gameplay/gta-6-activities-and-side-content|activities and side content]].
 
-Rockstar considered four protagonists and dropped the idea, Nelson told Famitsu, because more leads would mean less time with each one. The story is built around [[characters/jason-duval|Jason]] and [[characters/lucia-caminos|Lucia]]. Switching between them is gated by the story in places.
-
-### Lots of optional content
-
-The side-content list from previews is long <span class="tag-reported">reported</span>: basketball, kayaking, mini-golf, pool, scuba diving, skydiving, base-jumping, jet skis, fishing, hunting, backyard wrestling, shooting ranges, gyms, zoo visits, circuit racing, plus robbing almost any shop. There are also more than 170 animal species to log. See [[gameplay/gta-6-activities-and-side-content|activities and side content]].
-
-### The relationship is a side path of its own
-
-Partner activities build Jason and Lucia's closeness, and the romance can fade if you neglect it. Edge describes a four-point closeness scale <span class="tag-reported">reported</span>. Whether that changes the ending is unconfirmed. See [[characters/jason-and-lucia-relationship|Jason and Lucia's relationship]].
-
-## How long will it take you?
-
-We won't invent a "main story only" number. Here is the honest framing:
-
-- **Rushing the story:** unknown. Nelson's 80 hours is not a "main story only" figure, and Rockstar has given none.
-- **Story plus a fair amount of side content:** around the reported 80 hours, give or take.
-- **Completionist:** past 100 hours, if the reports that side content pushes it further are right.
-
-Treat all three as rough until launch.
+The relationship adds its own track. Partner activities raise Jason and Lucia's closeness on what Edge describes as a four-point scale, and Nelson says the romance can fade if neglected <span class="tag-reported">reported</span>. Whether that changes the ending is unconfirmed. See [[characters/jason-and-lucia-relationship|Jason and Lucia's relationship]].
 
 ## How does it compare to GTA V and RDR2?
 
-Rockstar has not compared runtimes. It has compared map size: about 2× GTA V and 3× RDR2's playable area, by Rockstar's own statements to press <span class="tag-reported">reported</span>. Map size and story length aren't the same thing, so don't read too much into it.
+Rockstar has compared map size, not runtime. A map twice GTA V's size doesn't mean a story twice as long, and Rockstar has given no mission count to compare against either game.
 
-## What we're watching
-
-Once the game unlocks, we will track completion reports and update this page with tested times. For your first hours, read [[guides/gta-6-tips-before-you-start|tips before you start]], and for everything else, the [[guides/gta-6-faq|GTA 6 FAQ]].
+Before your first session, read [[guides/gta-6-tips-before-you-start|tips before you start]]; quick answers are in the [[guides/gta-6-faq|GTA 6 FAQ]], and the rest of launch prep is in the [[guides/index|guides hub]].

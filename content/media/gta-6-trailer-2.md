@@ -31,7 +31,7 @@ faq:
   - q: "Was GTA 6 Trailer 2 gameplay?"
     a: "Rockstar said it was captured entirely in-game on PS5, and the end card says so."
   - q: "What song is in GTA 6 Trailer 2?"
-    a: "'Hot Together' by the Pointer Sisters (1986) is the main track. Wang Chung, Zenglen and Tammy Wynette are also heard."
+    a: "'Hot Together' by the Pointer Sisters (1986) is the main track. NME and Den of Geek also hear Wang Chung's 'Everybody Have Fun Tonight', Zenglen's 'Child Support' and Tammy Wynette's 'Talkin' to Myself Again' as radio snippets."
   - q: "How many views did GTA 6 Trailer 2 get?"
     a: "Rockstar claimed 475 million views across all platforms in 24 hours and called it the biggest video launch of all time, without explaining how it counted. YouTube alone was about 65 to 85 million by May 8."
 sources:
@@ -80,21 +80,13 @@ sources:
 related: ["media/gta-6-trailer-1", "media/gta-6-extended-look", "music/gta-6-trailer-songs"]
 ---
 
-**GTA 6 Trailer 2** dropped with no warning on **May 6, 2025**, four days after Rockstar [[timeline/gta-6-delays|delayed the game]] to May 26, 2026. It runs **2:47** on Rockstar's video list. Its end card says it was captured on PS5, and Rockstar said "entirely in-game" <span class="tag-confirmed">confirmed</span>. It arrived with a full website update: 70 screenshots, eight character profiles and six profiled regions of Leonida.
+GTA 6 Trailer 2 went up with no warning on Tuesday, May 6, 2025, four days after Rockstar [[timeline/gta-6-delays|delayed the game]] from fall 2025 to May 26, 2026. It runs 2:47 on Rockstar's video list (some sites say 2:46). The end card says it was captured on PS5, and Rockstar said "entirely in-game" <span class="tag-confirmed">confirmed</span>. The GTA VI site was rebuilt the same day with 70 screenshots, eight character profiles and six region profiles.
 
-## When did GTA 6 Trailer 2 come out?
+Many outlets read the timing as a peace offering after the delay. Rockstar never framed it that way <span class="tag-speculation">speculation</span>.
 
-Tuesday, May 6, 2025. There was no countdown or announcement. The timing mattered: on May 2, Rockstar had moved the game from fall 2025 to May 26, 2026, and the trailer landed as a peace offering four days later. That is how many outlets read it; Rockstar never framed it that way <span class="tag-speculation">speculation</span>.
+## Who does Trailer 2 introduce?
 
-Some sites list the runtime as 2:46. Rockstar's own video list says 2:47, and we use that.
-
-## What did GTA 6 Trailer 2 show?
-
-Where [[media/gta-6-trailer-1|Trailer 1]] was a Vice City sizzle reel, Trailer 2 was a character piece. It split time between [[characters/jason-duval|Jason]] and [[characters/lucia-caminos|Lucia]], introduced the people around them, and toured the state.
-
-### The characters
-
-Rockstar's "Only in Leonida" page went live with eight bio entries covering nine people <span class="tag-confirmed">confirmed</span>:
+[[media/gta-6-trailer-1|Trailer 1]] sold the setting. Trailer 2 sells the cast. It splits time between [[characters/jason-duval|Jason]] and [[characters/lucia-caminos|Lucia]], and Rockstar's "Only in Leonida" page launched with eight bio entries covering nine people <span class="tag-confirmed">confirmed</span>:
 
 | Character | Who they are (per Rockstar's bio) |
 | --- | --- |
@@ -107,17 +99,9 @@ Rockstar's "Only in Leonida" page went live with eight bio entries covering nine
 | Raul Bautista | Seasoned bank robber recruiting talent |
 | [[characters/brian-heder|Brian Heder]] | Old-school Keys smuggler who houses Jason |
 
-Profiles for [[characters/cal-hampton|Cal]], [[characters/brian-heder|Brian]] and the rest are on our character pages. No new official bio has been added since, even after the [[media/gta-6-extended-look|Extended Look]] named more characters.
+Rockstar has added no official bio since, even after the [[media/gta-6-extended-look|Extended Look]] named seven more characters. Fans recognized Stephen Root's voice early on and linked it to Brian. Root later told AP he is in the game, but in the quotes we saw he does not name the role <span class="tag-reported">reported</span>. Other voice IDs remain fan work; see [[leaks/gta-6-actor-identifications|actor identifications]].
 
-Fans recognized Stephen Root's voice early in the trailer, widely linked to Brian. Root later told AP he is in the game, though in the quotes we saw he does not name the character <span class="tag-reported">reported</span>. Other voice IDs from this trailer remain fan identifications; see [[leaks/gta-6-actor-identifications|actor identifications]].
-
-### The places
-
-Six destinations got official profiles with Trailer 2: **Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga** <span class="tag-confirmed">confirmed</span>. Rockstar's blurbs range from Vice City's "pastel art deco hotels" to Port Gellhorn's "malt liquor, painkillers, and truck stop energy drinks". The [[world/index|world hub]] covers each region.
-
-### The screenshots
-
-Rockstar posted **70 screenshots** on its site the same day, split across characters and locations, per Wikipedia citing IGN and VGC <span class="tag-confirmed">confirmed</span>. All official image drops are tracked on [[media/gta-6-screenshots-and-galleries|screenshots and galleries]].
+The six regions profiled were Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga <span class="tag-confirmed">confirmed</span>. Rockstar's blurbs run from Vice City's "pastel art deco hotels" to Port Gellhorn's "malt liquor, painkillers, and truck stop energy drinks". The [[world/index|world hub]] covers each. The 70-screenshot count is from Wikipedia, citing IGN and VGC; every image drop is on [[media/gta-6-screenshots-and-galleries|screenshots and galleries]].
 
 ## What songs are in GTA 6 Trailer 2?
 
@@ -128,7 +112,7 @@ Rockstar posted **70 screenshots** on its site the same day, split across charac
 | Child Support | Zenglen | Radio snippet |
 | Talkin' to Myself Again | Tammy Wynette | Radio snippet |
 
-The Pointer Sisters identification is universal <span class="tag-confirmed">confirmed</span>. The three snippets come from NME and Den of Geek <span class="tag-reported">reported</span>. More in [[music/gta-6-trailer-songs|GTA 6 trailer songs]].
+The Pointer Sisters ID is universal <span class="tag-confirmed">confirmed</span>. The three snippets come from NME and Den of Geek <span class="tag-reported">reported</span>. Some lists add Jay Ferguson's "Thunder Island", which nobody has verified. More on [[music/gta-6-trailer-songs|GTA 6 trailer songs]].
 
 ## How many views did GTA 6 Trailer 2 get?
 
@@ -138,24 +122,13 @@ The Pointer Sisters identification is universal <span class="tag-confirmed">conf
 | YouTube only, by May 8 | About 65M-85M | <span class="tag-reported">reported</span> |
 | Beat Trailer 1's 24-hour YouTube record? | No | <span class="tag-reported">reported</span> |
 
-Rockstar called it "the biggest video launch of all time" but did not say how it counted across platforms. PC Gamer's headline added "whatever that means". TweakTown noted the YouTube count stayed below Trailer 1's Guinness record. Both statements are true at once: more total reach, fewer YouTube views.
+Rockstar called it "the biggest video launch of all time" and did not explain how it added up views across platforms. PC Gamer's headline tacked on "whatever that means". TweakTown pointed out the YouTube count stayed below Trailer 1's Guinness figure of 90,421,491. Both can be true: more total reach, fewer YouTube views. Trailer 2 won Best Game Trailer at the 2025 Golden Joystick Awards, per Wikipedia <span class="tag-confirmed">confirmed</span>.
 
-Trailer 2 won Best Game Trailer at the 2025 Golden Joystick Awards, per Wikipedia <span class="tag-confirmed">confirmed</span>.
+## What easter eggs are in Trailer 2?
 
-## What easter eggs are in GTA 6 Trailer 2?
+Den of Geek's breakdown spotted Jason's V-Rock T-shirt (Vice City's rock station), an Ammu-Nation ad with a Phil Cassidy lookalike it suggests is his son, and a $1 bill showing President Hardin from Red Dead Redemption 2 <span class="tag-reported">reported</span>. Cars carry Liberty City and Glorianna plates, the second a Georgia-style neighbor state. Several MP5 variants hint at weapon customization. The full list is on [[media/gta-6-easter-eggs-in-trailers|GTA 6 trailer easter eggs]].
 
-From Den of Geek's breakdown <span class="tag-reported">reported</span>:
-
-- Jason's **V-Rock** T-shirt, a nod to Vice City's rock station.
-- An **Ammu-Nation** ad starring a Phil Cassidy lookalike, possibly his son.
-- A **$1 bill** showing President Hardin, the US president in Red Dead Redemption 2.
-- **Liberty City** and **Glorianna** license plates. Glorianna reads as a Georgia-style neighboring state.
-- Lucia in an MMA-style cage and Jason lifting weights on the beach, possible hints at fighting and fitness systems.
-- Several MP5 variants, hinting at weapon customization.
-
-All trailers' callbacks are collected in [[media/gta-6-easter-eggs-in-trailers|GTA 6 trailer easter eggs]].
-
-## What did Trailer 2 hint at that turned out true?
+## Which Trailer 2 hints turned out true?
 
 | Hint in Trailer 2 | What we know now | Grade |
 | --- | --- | --- |
@@ -165,8 +138,4 @@ All trailers' callbacks are collected in [[media/gta-6-easter-eggs-in-trailers|G
 | V-Rock T-shirt, a possible station revival | Not on Rockstar's station list so far | <span class="tag-rumour">rumour</span> |
 | Phil Cassidy lookalike | Not named by Rockstar | <span class="tag-rumour">rumour</span> |
 
-Den of Geek's read on the country station proved right once Rockstar revealed [[music/gta-6-radio-stations|the radio stations]] in October 2026. The body-change system is detailed on [[gameplay/gta-6-gameplay-features-confirmed|confirmed gameplay features]].
-
-## What came next
-
-After Trailer 2, Rockstar's next big video was not a trailer. *An Extended Look*, a 26:48 gameplay special, premiered on Netflix on August 27, 2026. See the [[media/index|media hub]] for the full run.
+The country-station read held once Rockstar revealed [[music/gta-6-radio-stations|the radio stations]] in October 2026. The body-change system is on [[gameplay/gta-6-gameplay-features-confirmed|confirmed gameplay features]]. Rockstar's next major video was the 26:48 Extended Look on August 27, 2026; the full run is in the [[media/index|media hub]].

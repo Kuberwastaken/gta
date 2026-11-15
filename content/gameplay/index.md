@@ -2,14 +2,14 @@
 title: "GTA 6 gameplay: wanted system, weapons, cars, money and every feature"
 seoTitle: "GTA 6 Gameplay: Wanted System, Weapons, Cars and Features"
 shortTitle: "Gameplay"
-description: "How GTA 6 plays: six wanted stars and heat, a new weapon loadout, car theft and fuel, bank vs cash vs loot, phone apps, character switching and side activities."
+description: "How GTA 6 plays: six wanted stars and witness-based heat, a 2+2 gun loadout, car theft and fuel, bank vs cash vs loot, Snapmatic, story-gated switching and side jobs."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 1
 tags: ["gameplay", "wanted-system", "weapons", "vehicles"]
-tldr: "GTA 6 lets you play **Jason and Lucia** and switch between them (story permitting), with **six wanted stars and a heat system**, a **two-handgun, two-long-gun loadout**, **fuel and car security tiers**, and money split into **bank, cash and loot**."
+tldr: "You play **Jason and Lucia** and switch between them when the story allows. Previews add six wanted stars with witness-based heat, a two-handgun, two-long-gun loadout instead of a weapon wheel, fuel and car security tiers, and money split into bank, cash and loot."
 facts:
   - k: "Playable"
     v: "Jason and Lucia"
@@ -21,9 +21,9 @@ facts:
     v: "Bank, cash, loot (reported)"
 faq:
   - q: "What's new in GTA 6 gameplay?"
-    a: "Per previews: a witness-based heat system with six stars, a limited weapon loadout instead of a wheel, car security tiers and fuel, three kinds of money with fences, and two protagonists you can switch between when the story allows."
+    a: "Per previews: a sixth wanted star, police who need a witness, a carry limit instead of the weapon wheel, fuel gauges, carried cash lost on Wasted or Busted, and loot that must be fenced."
   - q: "Is GTA 6 gameplay confirmed by Rockstar?"
-    a: "Some is: two playable leads, switching, the optional romance and radio on foot. Most system details come from Rockstar developers via press previews, which we grade as reported."
+    a: "Partly. Rockstar's own pages confirm the two leads, switching, the optional romance and radio on foot. System rules come from Rockstar staff via Edge, Game Informer and others, graded reported."
 sources:
   - title: "GTA 6 gameplay: Key details that you might have missed"
     url: "https://www.redbull.com/us-en/gta-6-gameplay-details"
@@ -35,32 +35,32 @@ sources:
     date: "Oct 29, 2026"
 ---
 
-GTA 6 plays as **two protagonists, [[characters/jason-duval|Jason Duval]] and [[characters/lucia-caminos|Lucia Caminos]]**, and you can switch between them, even mid-chase, when the story allows it <span class="tag-confirmed">confirmed</span>. Around them, Rockstar has rebuilt the core systems: police who need a witness before they come, a limited weapon loadout, cars you have to fuel and crack, and money that can be lost if you don't bank it <span class="tag-reported">reported</span>.
+GTA 6 gives you two protagonists, [[characters/jason-duval|Jason Duval]] and [[characters/lucia-caminos|Lucia Caminos]], and lets you swap between them mid-chase when the story allows <span class="tag-confirmed">confirmed</span>. The systems around them add friction: police who need a witness, a carry limit on guns in place of GTA 5's weapon wheel, cars that need fuel and tools to steal, and carried cash lost on Wasted or Busted <span class="tag-reported">reported</span>.
 
-Most of those details came from Rockstar's August 2026 previews, the [[media/gta-6-extended-look|Extended Look]] and Edge's October cover feature. Because they reached us through press, we grade them reported; Rockstar-posted facts are confirmed.
+Most of those rules came from Rockstar staff in the August 2026 previews, the [[media/gta-6-extended-look|Extended Look]] and Edge's October 29 cover feature. They reached us through press, so we grade them reported.
 
-## What's new in GTA 6 gameplay?
+## What changes from GTA 5?
 
-- **Heat, not just stars.** Six wanted stars, and police track your clothes, car and face. Change outfits or split up to shake them.
-- **No weapon wheel.** Two handguns and two long guns on you; the rest stays in your vehicle.
-- **Car crime with friction.** Security tiers, theft tools, trackers, fuel and the Waink app.
-- **Money you can lose.** Cash drops on Wasted or Busted; loot needs a fence.
-- **A relationship you can lose.** The romance is optional, and partner activities build closeness.
+| System | GTA 6, per previews |
+| --- | --- |
+| Police | Six stars (GTA 5 had five); response needs a witness, alarm or car tracker; cops hunt your clothes, car and face |
+| Weapons | Two handguns and two long guns on you, the rest in the vehicle, RDR2-style; auto-aim off by default |
+| Cars | Security tiers, theft tools, trackers, fuel, engine health; handling mixes GTA 4's weight with GTA 5's accessibility |
+| Money | Bank (BuckMe), cash and duffel-bag loot; cash is lost on Wasted or Busted; loot goes to a fence |
+| Story | Optional romance, "yours to keep or yours to lose" (Rob Nelson, Edge); a per-character Criminal Profile |
 
-## Is it all confirmed?
-
-No. Rockstar has posted very little gameplay detail itself. Our [[gameplay/gta-6-gameplay-features-confirmed|master features list]] grades every claim line by line, including one debunked rumour (that the wanted stars are gone).
+Rockstar has posted little of this itself. The [[gameplay/gta-6-gameplay-features-confirmed|master features list]] grades every claim line by line, including the debunked rumour that wanted stars are gone.
 
 ## Start here
 
-- [[gameplay/gta-6-gameplay-features-confirmed|Confirmed features list]]: every system in one graded table.
-- [[gameplay/gta-6-wanted-system-and-heat|Wanted system and heat]]: six stars, witnesses and how to lose the cops.
-- [[gameplay/gta-6-weapons|Weapons]]: every named gun and the new loadout.
-- [[gameplay/gta-6-vehicles|Vehicles]]: every officially named vehicle, theft and fuel.
-- [[gameplay/gta-6-money-banks-and-fences|Money, banks and fences]]: bank vs cash vs loot.
+- [[gameplay/gta-6-gameplay-features-confirmed|Confirmed features list]]: every system in graded tables.
+- [[gameplay/gta-6-wanted-system-and-heat|Wanted system and heat]]: star styles, triggers and eight ways to lose the cops.
+- [[gameplay/gta-6-weapons|Weapons]]: the Girardi ES9, Klose K17, Duke 556 and the loadout rules.
+- [[gameplay/gta-6-vehicles|Vehicles]]: the '95 Grotti Cheetah and every other named ride, plus theft and fuel.
+- [[gameplay/gta-6-money-banks-and-fences|Money, banks and fences]]: what you keep when you're Busted.
 - [[gameplay/gta-6-phone-and-social-media|Phone and social media]]: Snapmatic, BuckMe, Waink, RydeMe.
-- [[gameplay/gta-6-character-switching|Character switching]]: why you can't swap at any time.
+- [[gameplay/gta-6-character-switching|Character switching]]: why Rob Nelson says you can't swap at any time.
 - [[gameplay/gta-6-criminal-profile|Criminal Profile]]: the Professional-to-Irredeemable meter.
-- [[gameplay/gta-6-activities-and-side-content|Activities and side content]]: fishing, diving, gyms, racing and more.
+- [[gameplay/gta-6-activities-and-side-content|Activities and side content]]: fishing, scuba, gyms, circuit racing.
 
-Where all of this happens is covered in the [[world/index|world and map hub]]. If you're planning launch day, start with [[guides/gta-6-tips-before-you-start|tips before you start]].
+The map these systems run on is in the [[world/index|world hub]]. For launch day, start with [[guides/gta-6-tips-before-you-start|tips before you start]].

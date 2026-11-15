@@ -2,7 +2,7 @@
 title: "GTA 6 pre-load is live: up to 212 GB, and Rockstar confirms a 30 fps target"
 seoTitle: "GTA 6 Pre-Load Is Live: 212 GB Download and 30 FPS Confirmed"
 shortTitle: "Pre-load goes live"
-description: "GTA 6 pre-load opened Nov 10, 2026, two days earlier than first planned. It needs up to 212 GB, and Rockstar confirmed a 30 fps target on every console."
+description: "GTA 6 pre-load opened Nov 10, 2026, two days ahead of the first plan. Up to 212 GB free needed; Rockstar set a 30fps target on every console, Pro included."
 status: "mixed"
 published: 2026-11-10
 updated: 2026-11-15
@@ -27,9 +27,9 @@ faq:
   - q: "Why do some sites say pre-load starts Nov 12?"
     a: "Nov 12 was the original date. Rockstar moved it to Nov 10 in a Nov 3 Newswire post. Articles that still say Nov 12 are out of date."
   - q: "Does pre-loading let me play GTA 6 early?"
-    a: "No. Pre-loading only downloads the files. The game still unlocks at midnight local store time on Nov 19."
+    a: "No. It only downloads the files. The game unlocks at midnight local store time on Nov 19, which is 9 PM PT on Nov 18 for the US West Coast."
   - q: "Why does the Xbox store say 225 GB?"
-    a: "The store counts in decimal gigabytes. The same package shows as about 209.86 GB on the console, which counts in binary units."
+    a: "The package is 225,336,918,016 bytes. The store divides by 1,000 (225.34 GB); the console divides by 1,024 (about 209.86 GB). Same download."
 sources:
   - title: "Grand Theft Auto VI Pre-Load Begins on November 10"
     url: "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
@@ -63,17 +63,15 @@ sources:
 related: ["release/gta-6-preload-and-file-size", "guides/gta-6-storage-space-guide", "release/gta-6-ps5-pro-performance"]
 ---
 
-GTA 6 pre-load went live on **Tuesday, November 10, 2026**. PS5 owners could start downloading at midnight local time, beginning in New Zealand at 11:00 UTC on Nov 9. Xbox Series X|S opened at a single worldwide moment: "12 a.m. GMT on November 10, 2026", which was 7 PM ET or 4 PM PT on Monday, Nov 9. Rockstar asks for **up to 212 GB** of free space.
+GTA 6 pre-load opened on Tuesday, November 10, 2026, two days earlier than Rockstar first announced. PS5 downloads unlocked at midnight local time, starting in New Zealand at 11:00 UTC on November 9. Xbox Series X|S opened everywhere at once, "12 a.m. GMT on November 10, 2026", which was 7 PM ET and 4 PM PT on Monday, November 9. Rockstar asks for up to 212 GB of free space.
 
-## Why did the date change from Nov 12?
+## Why the date moved from November 12
 
-Rockstar first said digital pre-load would open on Nov 12. In a Newswire post on Nov 3, "Grand Theft Auto VI Pre-Load Begins on November 10", it moved the start forward two days. The release date did not move.
+The June pre-order announcement said November 12. Rockstar's November 3 Newswire post, "Grand Theft Auto VI Pre-Load Begins on November 10", pulled it forward without touching the November 19 release date. June pre-order guides, VICE's October 15 trailer article and a Tech Times piece from November 9 still say November 12. They are stale.
 
-Several articles still say Nov 12, including June pre-order guides and a Tech Times piece from Nov 9. They are stale. The Nov 3 Rockstar post is the current word.
+## How big is the download?
 
-## How big is the GTA 6 download?
-
-Rockstar gives one figure, "up to 212 GB", for PS5, PS5 Pro, Xbox Series X and Series S, with no per-console split. What players are actually seeing <span class="tag-reported">reported</span>:
+Rockstar gives one figure, "up to 212 GB", for PS5, PS5 Pro, Series X and Series S. What players see on their screens <span class="tag-reported">reported</span>:
 
 | Platform | Download | Notes |
 | --- | --- | --- |
@@ -81,33 +79,24 @@ Rockstar gives one figure, "up to 212 GB", for PS5, PS5 Pro, Xbox Series X and S
 | Xbox Series X\|S | 225.34 GB in the store | Same package; about 209.86 GB on the console |
 | German PS5 box | "230 GB" printed | Unexplained by Rockstar <span class="tag-rumour">rumour</span> |
 
-The Xbox gap is units, not content. The package is 225,336,918,016 bytes. The store divides by 1,000 and the console by 1,024. Timesaver recommends clearing about 250 GB to be safe. Our [[guides/gta-6-storage-space-guide|storage space guide]] covers what to delete and whether you need an SSD.
+The Xbox number is a unit difference, not extra content. The package is 225,336,918,016 bytes; the store divides by 1,000 and the console by 1,024. The Japan package is about 1.2 GB smaller. Timesaver recommends clearing about 250 GB. The [[guides/gta-6-storage-space-guide|storage space guide]] covers what to delete and whether you need an SSD.
 
-## Who can pre-load?
+## Who can pre-load
 
-Digital buyers can pre-load straight away. Boxed copies contain a download code, not a disc, and those boxes reached retail on Nov 12; once the code is redeemed, the download starts like any digital copy. Pre-loading does not unlock the game early. See [[release/gta-6-physical-copy-no-disc|why there's no disc]].
+Digital buyers, immediately. Boxed copies hold a download code rather than a disc and reached retail on November 12; redeem the code and the download starts like any digital copy ([[release/gta-6-physical-copy-no-disc|why there's no disc]]). For unattended downloads, PS5 needs auto-downloads on with the console on or in Rest Mode; Xbox needs automatic updates on with the console on or in Sleep mode <span class="tag-reported">reported</span>.
 
-For automatic downloads <span class="tag-reported">reported</span>:
+## Rockstar confirms 30fps, PS5 Pro gets ray-traced shadows
 
-- **PS5:** auto-downloads on, console on or in Rest Mode.
-- **Xbox:** automatic updates on, console on or in Sleep mode.
+The pre-load post also set performance. GTA 6 targets 30fps on PS5, PS5 Pro and Xbox Series X|S, with no 60fps or 40fps mode and no performance toggle at launch. PS5 Pro adds PSSR upscaling and ray-traced shadows, "only available on PlayStation 5 Pro". Rockstar gave no internal resolution for any console.
 
-## What else did Rockstar confirm on Nov 10?
+That kills the 60fps "Performance" mode tables fan sites had circulated, and an earlier ComicBook.com "leak" of ray-traced reflections and lighting on Pro: the official list names shadows only. Full detail on [[release/gta-6-ps5-pro-performance|PS5 Pro performance]].
 
-Rockstar's pre-load post also set performance expectations:
+Rockstar also posted a 30-second "Pre-Load Now" video, PS5-captured with PlayStation branding, which Game Rant calls "Trailer 4". The [[media/index|media hub]] tracks every official video.
 
-- **30 fps target** on PS5, PS5 Pro and Xbox Series X|S. No 60 fps or 40 fps mode and no performance toggle at launch.
-- **PS5 Pro** gets PSSR upscaling and ray-traced shadows, described as "only available on PlayStation 5 Pro".
-- No internal resolutions for any console.
+## Xbox Cloud Gaming, including Xbox One
 
-That settles a long-running rumour. Fan sites had circulated 60 fps "Performance" mode tables, and they were wrong. Full detail: [[release/gta-6-ps5-pro-performance|PS5 Pro performance]].
-
-Rockstar also posted a 30-second "Pre-Load Now" video, captured on PS5 with PlayStation branding. Game Rant calls it "Trailer 4". Our [[media/index|media hub]] tracks every official video.
-
-## Xbox Cloud Gaming joins on day one
-
-Also on Nov 10, Xbox Wire confirmed GTA 6 will stream through Xbox Cloud Gaming from **1 AM ET on Nov 19**, on **Xbox One** as well as Xbox Series X|S. You must buy the game; it is not on Game Pass. The stream runs at Series S settings, and there is no PC or browser streaming at launch. See [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud gaming]].
+Xbox Wire confirmed the same day that GTA 6 streams through Xbox Cloud Gaming from 1 AM ET on November 19, an hour after the native US unlock, on Xbox One as well as Series X|S. You have to buy the game; it is not on Game Pass. The stream runs at Series S settings, and there is no PC or browser streaming at launch ([[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud gaming]]).
 
 ## What's next
 
-Rockstar's first update, 1.002, followed on Nov 13: [[news/2026-11-13-gta-6-update-1-002|update 1.002]]. The game unlocks at midnight local store time on Nov 19; check [[release/gta-6-release-time-by-country|your region's unlock time]]. More launch news is in the [[news/index|news hub]].
+Update 1.002 followed on November 13 ([[news/2026-11-13-gta-6-update-1-002|update 1.002]]). The game unlocks at midnight local store time on November 19 ([[release/gta-6-release-time-by-country|unlock time by region]]). More in the [[news/index|news hub]].

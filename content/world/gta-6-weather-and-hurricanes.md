@@ -2,14 +2,14 @@
 title: "Does GTA 6 have hurricanes? Weather, storms and what's confirmed"
 seoTitle: "Does GTA 6 Have Hurricanes? Weather and Storms Explained"
 shortTitle: "Weather and hurricanes"
-description: "Yes: Rockstar told Game Informer GTA 6 has tropical storms and seasonal hurricanes, with localized rain and lasting puddles. What's known and what isn't."
+description: "Yes. Rockstar told Game Informer GTA 6 has tropical storms and seasonal hurricanes, localized rain and lasting puddles. Frequency and damage are not disclosed."
 status: "reported"
 published: 2026-11-15
 updated: 2026-11-15
 verified: 2026-11-15
 weight: 12
 tags: ["weather", "world", "rumours"]
-tldr: "**Yes, GTA 6 has tropical storms and seasonal hurricanes**, Rockstar told Game Informer on Sep 29, 2026. Storms are localized and wet surfaces persist, but **Rockstar hasn't said how often hurricanes hit or what they do to gameplay**."
+tldr: "**Yes, GTA 6 has tropical storms and seasonal hurricanes**, Rockstar told Game Informer on Sep 29, 2026. Rain is localized and puddles persist after it stops. Rockstar has not said how often hurricanes hit or what they do to the world."
 facts:
   - k: "Hurricanes"
     v: "Yes, seasonal (reported)"
@@ -25,13 +25,13 @@ facts:
     v: "Unconfirmed"
 faq:
   - q: "Does GTA 6 have hurricanes?"
-    a: "Yes. Rockstar told Game Informer in September 2026 that GTA 6 features tropical storms and seasonal hurricanes. Before that, hurricanes were a long-running rumour."
+    a: "Yes. Rockstar told Game Informer on September 29, 2026 that the game has tropical storms and seasonal hurricanes, settling one of the oldest GTA 6 rumours."
   - q: "Can hurricanes destroy things in GTA 6?"
-    a: "Rockstar hasn't said. Game Informer's report did not disclose how often hurricanes happen or what gameplay effects they have."
+    a: "Unknown. Game Informer's exclusive gave no detail on damage, evacuations or mission changes, and Rockstar has not addressed it since."
   - q: "Does GTA 6 have flooding?"
-    a: "Unconfirmed. Older claims about floods remain unverified. Confirmed details are puddles and wet surfaces that persist after rain."
+    a: "Not confirmed. What is confirmed is smaller: puddles and wet surfaces stay after rain ends. Flood physics claims predate the reveal and remain rumour."
   - q: "Does GTA 6 have a day-night cycle?"
-    a: "Yes. Aaron Garbut told Edge the day-night cycles are longer than in past games, with extended sunsets."
+    a: "Yes, and it runs longer than before. Aaron Garbut told Edge the cycle is extended, with longer sunsets."
 sources:
   - title: "Exclusive: Grand Theft Auto VI Features Tropical Storms And Hurricanes"
     url: "https://gameinformer.com/exclusive/2026/09/29/exclusive-grand-theft-auto-vi-features-tropical-storms-and-hurricanes"
@@ -58,45 +58,38 @@ sources:
 related: ["world/leonida-keys", "music/gta-6-justice-score", "world/gta-6-wildlife-and-animals"]
 ---
 
-**Yes, GTA 6 has hurricanes.** Rockstar told Game Informer on September 29, 2026 that the game features **tropical storms and seasonal hurricanes** <span class="tag-reported">reported</span>. That ended years of speculation: hurricanes had been one of the longest-running GTA 6 rumours.
-
-What Rockstar did not say is just as important. It gave no figure for how often hurricanes happen, and no detail on whether they damage the world, flood streets or change missions.
+Yes. Rockstar told Game Informer (Marcus Stewart, Sep 29, 2026) that GTA 6 has tropical storms and seasonal hurricanes <span class="tag-reported">reported</span>. Hurricanes had been a rumour for years; this was the first time Rockstar put its name to them. The grade is "reported" because the details came through Game Informer's exclusive rather than a Rockstar post.
 
 ## What weather is confirmed in GTA 6?
 
-From Game Informer's exclusive <span class="tag-reported">reported</span>:
+Everything below is from Game Informer's exclusive, except the last row, which Aaron Garbut gave to Edge for its Oct 29, 2026 cover feature <span class="tag-reported">reported</span>.
 
 | Feature | Detail |
 | --- | --- |
 | Tropical storms | Yes |
 | Seasonal hurricanes | Yes; frequency not disclosed |
-| Localized storms | You can be in sunshine while rain falls in the distance |
+| Localized storms | You can stand in sunshine while rain falls in the distance |
 | Wet surfaces | Puddles and wet surfaces persist after rain |
 | Moving clouds | Cloud formations travel across the map |
 | Rainbows | Appear in the right light |
+| Day-night cycle | Longer than before, with extended sunsets (Garbut, Edge) |
 
-And from Edge's October 2026 cover feature, via GTAVice.net <span class="tag-reported">reported</span>: Aaron Garbut said day-night cycles are longer than before, with **extended sunsets**.
-
-We grade these "reported" because they come through press features rather than a Rockstar post, though Rockstar was the source each time.
+Localized rain is the practical change: weather becomes something you can see coming across the map and drive out of, rather than a state that flips everywhere at once <span class="tag-speculation">speculation</span>.
 
 ## Can hurricanes destroy things in GTA 6?
 
-Unknown. Game Informer's report did not disclose gameplay effects <span class="tag-reported">reported</span>. Anything you've read about hurricane-triggered destruction, evacuation missions or flood physics is unconfirmed <span class="tag-rumour">rumour</span>.
+Rockstar hasn't said. Game Informer's report gave no frequency and no gameplay effects. Claims about hurricane damage, evacuation missions or flooded streets are unconfirmed <span class="tag-rumour">rumour</span>. The word "seasonal" implies some in-game calendar, but Rockstar hasn't explained one <span class="tag-speculation">speculation</span>.
 
-"Seasonal" suggests the game tracks some kind of calendar or season, but Rockstar hasn't explained how <span class="tag-speculation">speculation</span>.
+## Which old weather rumours are still open?
 
-## Was the GTA 6 hurricane rumour true?
+Two. Older claims about flood physics and surfing physics are not in Game Informer's report and remain unconfirmed <span class="tag-rumour">rumour</span>. How other leaks held up is tracked in [[leaks/index|the leaks ledger]].
 
-Yes. Hurricanes were a long-running rumour until Rockstar confirmed them to Game Informer on Sep 29, 2026, so the status moved from rumour to reported-by-Rockstar. Older claims about **floods** and **surfing physics** have not been confirmed and remain rumour <span class="tag-rumour">rumour</span>. For other leaks and how they held up, see [[leaks/index|the leaks ledger]].
+## Where would storms matter most?
 
-## Where will storms hit hardest?
+Rockstar hasn't mapped weather to regions. Its own copy for the [[world/leonida-keys|Leonida Keys]] warns of "some of the most beautiful and dangerous waters in all of America", and the Keys and [[world/vice-city|Vice City]]'s beaches are the exposed coastline <span class="tag-speculation">speculation</span>. Persistent puddles would show most in the wetlands of [[world/grassrivers|Grassrivers]], if Rockstar models standing water there.
 
-Rockstar hasn't said. The obvious candidates are the coast and islands: the [[world/leonida-keys|Leonida Keys]] sit on what Rockstar calls "some of the most beautiful and dangerous waters in all of America", and [[world/vice-city|Vice City]] is a beach city <span class="tag-speculation">speculation</span>. The wetlands of [[world/grassrivers|Grassrivers]] would be a natural place for persistent water, if the game models it.
+## Is the hurricane song a hint?
 
-## Is there a hurricane theme in the music?
+Possibly, though nobody at Rockstar has said so. The launch trailer runs on Justice's "Flower in a Hurricane" featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard <span class="tag-confirmed">confirmed</span>; the link to the weather system is our guess <span class="tag-speculation">speculation</span>. See [[music/gta-6-justice-score|Justice's GTA 6 score]] and [[media/gta-6-launch-trailer|the launch trailer]].
 
-The launch trailer's song is Justice's "Flower in a Hurricane" featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard <span class="tag-confirmed">confirmed</span>. Whether the title is a nod to the weather system is our guess, not Rockstar's <span class="tag-speculation">speculation</span>. See [[music/gta-6-justice-score|Justice's GTA 6 score]] and [[media/gta-6-launch-trailer|the launch trailer]].
-
-## Does weather affect animals or activities?
-
-Not confirmed. Rockstar has spoken about weather and wildlife separately. See [[world/gta-6-wildlife-and-animals|wildlife and animals]] for the 170-plus species. More on the state at the [[world/index|world hub]].
+Game Informer ran the weather exclusive the same day as its 170-species wildlife story, but Rockstar has not described any link between storms and animal behavior. Details on [[world/gta-6-wildlife-and-animals|wildlife and animals]]; the rest of Leonida is on the [[world/index|world hub]].

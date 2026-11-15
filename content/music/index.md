@@ -38,31 +38,25 @@ sources:
     date: "Oct 29, 2026"
 ---
 
-GTA 6's music arrives in three layers. The **in-game radio** plays licensed tracks across stations hosted by celebrity DJs. **GTA VI: The Album** is 34 original songs made for the game, out November 19, 2026. The **Original Score by Justice** is adaptive music that reacts to play, with its own album on December 11.
-
-Rockstar calls the radio "the biggest and widest-ranging selection of in-game radio and podcasts yet". Six stations have been shown, from reggaeton on Cocoteo FM to Slayer on The Chamber 106.6. Edge reports 23 in total <span class="tag-reported">reported</span>.
+GTA 6's music comes in three separate releases. The in-game radio plays mostly licensed songs on stations hosted by celebrity DJs. *GTA VI: The Album* is 34 original songs, out November 19, 2026 with the game. Justice's adaptive *Original Score* plays in the game from day one, with its own album on December 11.
 
 ## How many radio stations are in GTA 6?
 
-Six are confirmed by Rockstar: Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM and Dirty South Classics. Press identifies hosts including Bad Bunny, Lana Del Rey, Morgan Wallen, Burna Boy, Robyn and Trick Daddy. The other 17 of Edge's reported 23 are unknown until launch. Flash FM is the only returning [[world/vice-city|Vice City]] station Rockstar has confirmed.
+Rockstar has revealed six, all on October 8, 2026: Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM and Dirty South Classics. Press identifies hosts including Bad Bunny, Lana Del Rey, Morgan Wallen, Burna Boy, Slayer's Kerry King and Tom Araya, and Trick Daddy. Edge reports 23 stations in total <span class="tag-reported">reported</span>, so 17 are still unnamed. Flash FM is the only returning [[world/vice-city|Vice City]] station Rockstar has confirmed, and Rockstar says radio and podcasts play on foot through the [[gameplay/gta-6-phone-and-social-media|phone]].
 
 ## What songs are in the trailers?
 
-Each official video has its own signature track: Tom Petty for [[media/gta-6-trailer-1|Trailer 1]], the Pointer Sisters for [[media/gta-6-trailer-2|Trailer 2]], Depeche Mode and five others in the Extended Look, and Justice for the Launch Trailer. The full list is on our trailer songs page.
+Tom Petty's "Love Is a Long Road" in [[media/gta-6-trailer-1|Trailer 1]] (December 2023), the Pointer Sisters' "Hot Together" in [[media/gta-6-trailer-2|Trailer 2]] (May 2025), six licensed tracks led by Depeche Mode's "People Are People" in the August 2026 Extended Look, and Justice's original "Flower in a Hurricane" in the October 2026 Launch Trailer. Rockstar has not said whether any of the older songs are on the in-game radio.
 
 ## What is the difference between The Album and the score?
 
-The Album is a compilation of new songs by many artists, including Travis Scott, Cardi B, Fuerza Regida and Keith Richards. The score is Justice's own instrumental work for the game. "Flower in a Hurricane" is the one track on both. Justice, Travis Scott, Cardi B and Metro Boomin also headline *GTA VI: The Festival* in Miami on November 21.
+The Album is new songs by many artists: ten singles so far from Travis Scott, Cardi B, Morgan Wallen, Fuerza Regida, Keith Richards, Tove Lo and others, with the rest of the 34-track list coming from leaked vinyl packaging. The score is Justice's own instrumental music, 30 tracks on CD and vinyl plus digital bonus tracks. "Flower in a Hurricane" is the only track on both. Justice, Travis Scott, Cardi B and Metro Boomin also headline *GTA VI: The Festival* in Miami on November 21.
 
 ## Start here
 
-- [[music/gta-6-radio-stations|GTA 6 radio stations]]: all six confirmed stations, hosts and preview tracks, plus the 23-station question.
+- [[music/gta-6-radio-stations|GTA 6 radio stations]]: the six confirmed stations, their hosts and all 18 preview tracks.
 - [[music/gta-6-trailer-songs|GTA 6 trailer songs]]: every song in every official video, graded.
 - [[music/gta-6-soundtrack-album|GTA VI: The Album]]: the 10 official singles and the reported 34-song tracklist.
 - [[music/gta-6-justice-score|The Justice score]]: release date, formats and the two singles.
 
-## Related
-
-- [[media/index|Trailers and media]] for the videos themselves.
-- [[timeline/index|The full GTA 6 timeline]] for when each music reveal landed.
-- [[gameplay/gta-6-phone-and-social-media|The phone]], which lets you play radio and podcasts on foot.
+For the videos themselves, see [[media/index|trailers and media]]; for when each music reveal landed, see the [[timeline/index|GTA 6 timeline]].
