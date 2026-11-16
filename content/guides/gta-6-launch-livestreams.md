@@ -30,6 +30,11 @@ faq:
   - q: "Is Kai Cenat's GTA 6 marathon confirmed for a specific launch time?"
     a: "Press reports describe his intention to marathon the game, but we have not recovered a first-person launch schedule with a specific go-live time. He is not listed here as a time-confirmed stream."
 sources:
+  - title: "More Ways to Create, Connect, and Play: TwitchCon San Diego 2026"
+    url: "https://blog.twitch.tv/en/2026/11/13/twitchcon-san-diego-2026/"
+    publisher: "Twitch"
+    tier: "primary"
+    date: "Nov 13, 2026; checked Nov 16"
   - title: "The Official Joshimuz Stream Schedule"
     url: "https://joshimuz.com/en-usd/pages/schedule"
     publisher: "Joshimuz"
@@ -113,6 +118,20 @@ This guide deliberately separates three things: participation announced by an ev
 [Dexerto reported in January 2025](https://www.dexerto.com/twitch/kai-cenat-promises-to-100-complete-gta-6-on-stream-3022853/) that Kai Cenat promised a 100-percent-completion marathon. <span class="tag-reported">reported</span> That early statement is not a November launch timetable; we have not recovered a first-person, time-specific launch announcement. Nor do fan-account claims establish IShowSpeed's own travel or streaming schedule. Neither gets a fabricated start time or a "confirmed live now" label here. This is a watchlist with gaps, not a popularity ranking.
 
 More individual channel links will be added with the announcements they support. An old channel homepage is useful for browsing, but by itself it does not prove that a GTA VI stream is scheduled there.
+
+## Twitch's launch celebration: rewards, not a guaranteed game
+
+[Twitch's own November 13 announcement](https://blog.twitch.tv/en/2026/11/13/twitchcon-san-diego-2026/) describes a GTA VI celebration **from launch through November 30**. <span class="tag-confirmed">confirmed</span> Its published outline separates several rewards:
+
+- GTA-themed subscriber emotes and badges earned through subscriptions or gift subscriptions, alongside a viewing badge that evolves as viewers watch GTA streams.
+- A Golden Iguana chat badge for collecting the rewards and fully evolving the viewing badge. The announcement does not supply a complete step-by-step checklist.
+- GTA-themed Heist Trains on participating streams, with six emotes designed by LumpyTouch.
+- Selected stream recaps on Twitch's homepage and occasional gift subscriptions dropped into creators' channels.
+- Surprise daily GTA VI game-code drops from launch through the end of November.
+
+The game-code promise is real, but **the post does not state a claim route, eligible countries, quantities, platform choice or a guaranteed code for any viewer**. Do not buy a subscription on the assumption that it buys the game. Subscriber rewards and the viewing track are different, and a chat badge is not an in-game item.
+
+Some reports give more precise watch-hour requirements or a November 18 campaign start. Those details are not stated in the current official blog section we checked, so this guide does not present them as settled instructions. Use the current campaign terms when Twitch publishes them, not an unofficial reward checklist. The YouTube event and Joshimuz plan above remain separate viewing options; Twitch's celebration announcement does not confirm a personal launch schedule for every GTA creator.
 
 ## What to know before tuning in
 
