@@ -5,8 +5,8 @@ shortTitle: "Screenshots and galleries"
 description: "Every official GTA 6 screenshot drop, dated: 70 with Trailer 2, about 12 in October 2026 and 39 in the Nov 5 Launch Gallery, plus which leaked images to skip."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-16
-verified: 2026-11-16
+updated: 2026-11-17
+verified: 2026-11-17
 weight: 6
 tags: ["media", "trailers"]
 tldr: "Rockstar has released GTA 6 screenshots in three main drops: **70** with [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025, **about 12** in mid-October 2026, and the **39-image Launch Gallery** on November 5, 2026. All live on rockstargames.com/VI. Rockstar's media page now lists **138 screenshots**, with edition bonuses and artwork in separate collections."
@@ -77,6 +77,12 @@ Rockstar has released official GTA 6 screenshots in three main drops: 70 alongsi
 | Nov 5, 2026 | Launch Gallery | 39 | <span class="tag-confirmed">confirmed</span> |
 
 The 70 count is from Wikipedia, citing IGN and VGC. The October and November counts are Gamereactor's: it reported "nearly 40" new images on November 6, and about 12 others roughly three weeks earlier. Rockstar's Newswire post for the Launch Gallery rendered empty when we fetched it, so 39 rests on Gamereactor.
+
+## The Weather Channel weather set
+
+The Weather Channel published **six new weather screenshots** in a [Rockstar collaboration thread](https://x.com/weatherchannel/status/2122429589326798848), alongside a statement from Rockstar lighting and rendering VP Owen Shepherd. We checked the original thread and its six image captions. Rain in the Keys, a storm near the Rusty Anchor, South Ocean Beach sea fog and mist over Gambit Bay are among the scenes. Our [[world/gta-6-weather-and-hurricanes|weather guide]] has the source-by-source table and two credited images.
+
+[GamesRadar+ covered the set on November 16](https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-so-confident-in-gta-6s-weather-system-that-it-has-the-weather-channel-itself-sharing-new-screenshots/). These are promotional screenshots, not performance footage. We have not added six to the earlier **138-image media-index count**: without matching the collections image by image, that could double-count material. The index total below remains dated to its own check.
 
 ## How many GTA 6 screenshots are there in total?
 

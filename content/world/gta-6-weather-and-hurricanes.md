@@ -5,11 +5,11 @@ shortTitle: "Weather and hurricanes"
 description: "Yes. Rockstar told Game Informer GTA 6 has tropical storms and seasonal hurricanes, localized rain and lasting puddles. Frequency and damage are not disclosed."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-17
+verified: 2026-11-17
 weight: 12
 tags: ["weather", "world", "rumours"]
-tldr: "**Yes, GTA 6 has tropical storms and seasonal hurricanes**, Rockstar told Game Informer on Sep 29, 2026. Rain is localized and puddles persist after it stops. Rockstar has not said how often hurricanes hit or what they do to the world."
+tldr: "**Yes, GTA 6 has tropical storms and seasonal hurricanes**, Rockstar told Game Informer on Sep 29, 2026. Rain is localized and puddles persist after it stops. A new Weather Channel collaboration quotes Rockstar on localized, persistent weather and shows rain, sea fog and a tropical storm. Hurricane frequency and damage remain undisclosed."
 facts:
   - k: "Hurricanes"
     v: "Yes, seasonal (reported)"
@@ -33,6 +33,15 @@ faq:
   - q: "Does GTA 6 have a day-night cycle?"
     a: "Yes, and it runs longer than before. Aaron Garbut told Edge the cycle is extended, with longer sunsets."
 sources:
+  - title: "Weather Channel: Rockstar weather statement and six screenshot thread"
+    url: "https://x.com/weatherchannel/status/2122429589326798848"
+    publisher: "The Weather Channel / Rockstar Games"
+    date: "Nov 16, 2026 (US); checked Nov 17 IST"
+    tier: "primary"
+  - title: "Rockstar is so confident in GTA 6's weather system that it has The Weather Channel itself sharing new screenshots"
+    url: "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-so-confident-in-gta-6s-weather-system-that-it-has-the-weather-channel-itself-sharing-new-screenshots/"
+    publisher: "GamesRadar+"
+    date: "Nov 16, 2026"
   - title: "Exclusive: Grand Theft Auto VI Features Tropical Storms And Hurricanes"
     url: "https://gameinformer.com/exclusive/2026/09/29/exclusive-grand-theft-auto-vi-features-tropical-storms-and-hurricanes"
     publisher: "Game Informer"
@@ -76,6 +85,31 @@ Everything below is from Game Informer's exclusive, except the last row, which A
 
 Localized rain is the practical change: weather becomes something you can see coming across the map and drive out of, rather than a state that flips everywhere at once <span class="tag-speculation">speculation</span>.
 
+## The Weather Channel's six new weather screenshots
+
+In a [new Weather Channel thread](https://x.com/weatherchannel/status/2122429589326798848), the broadcaster says Rockstar gave it an exclusive look at Leonida's weather. It quotes **Owen Shepherd, Rockstar's VP of Art: Light and Rendering**, saying the team rebuilt the weather to feel "more localized, persistent, and above all dynamic". He describes a range from clear skies to towering cumulonimbus clouds <span class="tag-confirmed">confirmed</span>. This is a developer statement carried by the collaboration, not a performance test.
+
+The six image posts make the statement more concrete:
+
+| Promotional scene | What the original caption describes |
+| --- | --- |
+| [Leonida Keys](https://x.com/weatherchannel/status/2122429597421904076) | Heavy rain and poor visibility, with road reflectors to help drivers |
+| [Pelican Valley](https://x.com/weatherchannel/status/2122429605944631316) | A storm making already murky swamp water harder to see through |
+| [South Ocean Beach](https://x.com/weatherchannel/status/2122429612328153146) | Sea fog obscuring the hotel view |
+| [Rusty Anchor](https://x.com/weatherchannel/status/2122429619877847338) | A tropical storm making the water choppy |
+| [Gambit Bay](https://x.com/weatherchannel/status/2122429627251757323) | Humidity and low-lying mist over the water |
+| [Key Lento](https://x.com/weatherchannel/status/2122429635459961034) | Wind and rain during the commute |
+
+![Sea fog surrounds the shoreline and buildings in Rockstar's South Ocean Beach weather screenshot.](/static/media/gta-6-weather-sea-fog.webp)
+
+*South Ocean Beach sea fog. Image: Rockstar Games via The Weather Channel; image copy carried by [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-so-confident-in-gta-6s-weather-system-that-it-has-the-weather-channel-itself-sharing-new-screenshots/).*
+
+![Lightning over rough water near a lit waterfront bar in Rockstar's tropical-storm screenshot.](/static/media/gta-6-weather-tropical-storm.webp)
+
+*The tropical-storm scene near the Rusty Anchor. Image: Rockstar Games via The Weather Channel / GamesRadar+.*
+
+The original thread and all six captions were checked directly. These are promotional stills, not new playable footage: they do **not** establish hurricane destruction, flood simulation, weather frequency, a real-time forecast service, or measured frame rates. "This morning" in the captions is the fictional forecast's framing, not a schedule of weather players will encounter at launch. More image sources are on [[media/gta-6-screenshots-and-galleries|screenshots and galleries]].
+
 ## Can hurricanes destroy things in GTA 6?
 
 Rockstar hasn't said. Game Informer's report gave no frequency and no gameplay effects. Claims about hurricane damage, evacuation missions or flooded streets are unconfirmed <span class="tag-rumour">rumour</span>. The word "seasonal" implies some in-game calendar, but Rockstar hasn't explained one <span class="tag-speculation">speculation</span>.
@@ -86,7 +120,7 @@ Two. Older claims about flood physics and surfing physics are not in Game Inform
 
 ## Where would storms matter most?
 
-Rockstar hasn't mapped weather to regions. Its own copy for the [[world/leonida-keys|Leonida Keys]] warns of "some of the most beautiful and dangerous waters in all of America", and the Keys and [[world/vice-city|Vice City]]'s beaches are the exposed coastline <span class="tag-speculation">speculation</span>. Persistent puddles would show most in the wetlands of [[world/grassrivers|Grassrivers]], if Rockstar models standing water there.
+The Weather Channel collaboration now gives regional examples, not a fixed regional forecast or storm schedule. Rockstar's own copy for the [[world/leonida-keys|Leonida Keys]] warns of "some of the most beautiful and dangerous waters in all of America", and the Keys and [[world/vice-city|Vice City]]'s beaches are the exposed coastline <span class="tag-speculation">speculation</span>. Persistent puddles would show most in the wetlands of [[world/grassrivers|Grassrivers]], if Rockstar models standing water there.
 
 ## Is the hurricane song a hint?
 
