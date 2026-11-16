@@ -2,11 +2,11 @@
 title: "GTA 6 storage space guide: how much room you really need"
 seoTitle: "GTA 6 Storage Space: How Much Room You Need on PS5 and Xbox"
 shortTitle: "Storage space guide"
-description: "GTA 6 needs up to 212 GB. Why Xbox lists 225 GB for a 209.86 GB download, what the German box's 230 GB means, and why clearing about 250 GB is the safe call."
+description: "GTA 6 needs up to 212 GB. Why Xbox lists 225 GB for a 209.86 GB download, what a UK box scan's 230 GB label shows, and why clearing about 250 GB is the safe call."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-16
+verified: 2026-11-16
 weight: 6
 tags: ["guides", "preload", "ps5", "xbox"]
 tldr: "Rockstar says GTA VI needs **up to 212 GB** free on every console. The download is about 209.8 GB on PS5 and 209.86 GB on Xbox; the Xbox store's 225.34 GB is the same file counted in decimal units. Timesaver recommends clearing **about 250 GB** to cover patches such as 1.002 (1.07 GB PS5, 2.2 GB Xbox)."
@@ -17,8 +17,8 @@ facts:
     v: "~209.8 GB (~212 GB installed)"
   - k: "Xbox download"
     v: "225.34 GB decimal = ~209.86 GB binary"
-  - k: "German PS5 box"
-    v: "Prints 230 GB (unexplained)"
+  - k: "UK PS5 scan (reported)"
+    v: "230 GB minimum, not a measured download"
   - k: "Recommended free space"
     v: "~250 GB (Timesaver)"
   - k: "Update 1.002"
@@ -33,6 +33,15 @@ faq:
   - q: "Does the boxed copy save download space?"
     a: "No. The box holds a download code, not a disc, so you download all ~210 GB either way."
 sources:
+  - title: "T5G: scanned GTA 6 box artwork, second image"
+    url: "https://x.com/Top5Gamingx/status/2122289927908188341/photo/2"
+    publisher: "@Top5Gamingx on X"
+    date: "Nov 16, 2026; image inspected"
+  - title: "Grand Theft Auto VI - PS5 Games"
+    url: "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
+    publisher: "PlayStation"
+    tier: "primary"
+    date: "Checked Nov 16, 2026"
   - title: "Grand Theft Auto VI Pre-Load Begins on November 10"
     url: "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
     publisher: "Rockstar Games"
@@ -60,7 +69,7 @@ sources:
 related: ["release/gta-6-preload-and-file-size", "release/gta-6-day-one-patch", "guides/gta-6-day-one-checklist"]
 ---
 
-GTA VI needs up to 212 GB of free space on PS5, PS5 Pro, Xbox Series X and Series S, Rockstar said in its Nov 3 pre-load post. It gives no per-console split. <span class="tag-confirmed">confirmed</span> Timesaver recommends clearing about 250 GB, which covers the install, update 1.002 and the unexplained 230 GB figure on the German box. Pre-load dates and steps are on [[release/gta-6-preload-and-file-size|pre-load and file size]]; the rest of the launch prep is in the [[guides/index|guides hub]].
+GTA VI needs up to 212 GB of free space on PS5, PS5 Pro, Xbox Series X and Series S, Rockstar said in its Nov 3 pre-load post. It gives no per-console split. <span class="tag-confirmed">confirmed</span> Timesaver recommends clearing about 250 GB, which covers the install, update 1.002 and the 230 GB minimum printed in box photos. Pre-load dates and steps are on [[release/gta-6-preload-and-file-size|pre-load and file size]]; the rest of the launch prep is in the [[guides/index|guides hub]].
 
 ## How big is GTA 6 on each console?
 
@@ -77,15 +86,19 @@ The PS5 figure is from RockstarINTEL (credited to @MrDalekJD), via Timesaver. Th
 
 The Xbox package is 225,336,918,016 bytes. Stores count in decimal gigabytes (divide by 1,000,000,000) and get 225.34 GB. Consoles count in binary units (divide by 1,073,741,824) and get about 209.86 GB. It is the same file, not a bigger download.
 
-## What about the 230 GB German box?
+## What does the 230 GB label on the box show?
 
-Photos of the German PS5 box reportedly print "230 GB" as minimum free space. <span class="tag-rumour">rumour</span> Rockstar has not explained the 18 GB gap from its own figure. Our guess is a cautious print figure set before final builds. <span class="tag-speculation">speculation</span> Clearing 250 GB covers it either way.
+A [November 16 post by @Top5Gamingx](https://x.com/Top5Gamingx/status/2122289927908188341/photo/2) offers a much clearer view than the earlier German-box photos. Its second image shows the front, spine and back of a **UK/PEGI PS5 sleeve**, with **"230 GB Minimum"** legible on the back. The account says it scanned the artwork. <span class="tag-reported">reported</span> We inspected the full-resolution image, but cannot authenticate the physical item's origin from a scan alone.
+
+That is evidence of what this pictured sleeve prints, **not a measurement of today's download or installed build**. It does not explain the difference from Rockstar's stated up-to-212-GB figure. We do not know whether the print figure includes extra headroom or an earlier estimate, so neither explanation is a confirmed fact. Keep space for updates rather than treating either number as a guarantee that every patch will fit.
+
+The front also says **"Game download code. No disc included."** Buying the box does not save you the main download; see [[release/gta-6-physical-copy-no-disc|the code-in-box guide]]. The back's "Online Features" and "In-game Purchases" labels do not identify a launch multiplayer mode or a story-mode shop. [PlayStation's own listing](https://www.playstation.com/en-us/games/grand-theft-auto-vi/) already lists one player, offline play, optional in-game purchases and PS5 Pro Enhanced. The scan alone establishes no new gameplay feature.
 
 ## Will it fit on a base PS5 or Series S?
 
 Rockstar lists the same "up to 212 GB" for the base PS5 and the Series S, and both run the game natively. Whether it fits depends on what else you have installed, so check free space in system settings now. Delete your largest installs first; they can be re-downloaded.
 
-Patches need room on top of the game. Update 1.002.000 started rolling out on Nov 13 at about 1.07 GB on PS5 and 2.18–2.2 GB on Xbox. <span class="tag-reported">reported</span> On PS5 it went to half of users first and the rest about 11 hours later. Earlier talk of a 15–50 GB day-one patch was never confirmed. <span class="tag-rumour">rumour</span> Details on the [[release/gta-6-day-one-patch|day-one patch]] page.
+Patches need room on top of the game. Update 1.002.000 started rolling out on Nov 13 at about 1.07 GB on PS5 and 2.18–2.2 GB on Xbox. <span class="tag-reported">reported</span> On PS5 it went to half of users first and the rest about 11 hours later. Earlier talk of a 15–50 GB day-one patch was never confirmed. <span class="tag-rumour">rumour</span> A second, smaller pre-launch update was reported on November 16. Keep those downloads separate from the base-game requirement; the [[release/gta-6-day-one-patch|current patch tracker]] has both builds and source limits.
 
 To finish the pre-load unattended, leave auto-downloads on with the PS5 in Rest Mode, or automatic updates on with the Xbox in Sleep mode. <span class="tag-reported">reported</span>
 
