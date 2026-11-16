@@ -30,6 +30,16 @@ faq:
   - q: "Is Kai Cenat's GTA 6 marathon confirmed for a specific launch time?"
     a: "Press reports describe his intention to marathon the game, but we have not recovered a first-person launch schedule with a specific go-live time. He is not listed here as a time-confirmed stream."
 sources:
+  - title: "Sunset Reward Case: Claim a free copy of GTA VI on KICK"
+    url: "https://help.kick.com/en/articles/18357299-sunset-reward-case-claim-a-free-copy-of-gta-vi-on-kick"
+    publisher: "KICK Help Center"
+    tier: "primary"
+    date: "Checked Nov 16, 2026"
+  - title: "Sunset Reward Case: Claim a free copy of GTA VI"
+    url: "https://about.kick.com/news-and-press/13-sunset-reward-case"
+    publisher: "KICK"
+    tier: "primary"
+    date: "Nov 12, 2026"
   - title: "More Ways to Create, Connect, and Play: TwitchCon San Diego 2026"
     url: "https://blog.twitch.tv/en/2026/11/13/twitchcon-san-diego-2026/"
     publisher: "Twitch"
@@ -132,6 +142,21 @@ More individual channel links will be added with the announcements they support.
 The game-code promise is real, but **the post does not state a claim route, eligible countries, quantities, platform choice or a guaranteed code for any viewer**. Do not buy a subscription on the assumption that it buys the game. Subscriber rewards and the viewing track are different, and a chat badge is not an in-game item.
 
 Some reports give more precise watch-hour requirements or a November 18 campaign start. Those details are not stated in the current official blog section we checked, so this guide does not present them as settled instructions. Use the current campaign terms when Twitch publishes them, not an unofficial reward checklist. The YouTube event and Joshimuz plan above remain separate viewing options; Twitch's celebration announcement does not confirm a personal launch schedule for every GTA creator.
+
+## KICK's Sunset Reward Case: a chance, not a purchase alternative
+
+KICK has a separate, independently run promotion, **not a Rockstar or Take-Two partnership**. Its [November 12 campaign announcement](https://about.kick.com/news-and-press/13-sunset-reward-case) and [help guide](https://help.kick.com/en/articles/18357299-sunset-reward-case-claim-a-free-copy-of-gta-vi-on-kick) describe a chance to win a GTA VI Ultimate Edition code for Xbox or PS5. <span class="tag-confirmed">confirmed</span> They do not promise a game to everyone who watches.
+
+The help guide says logged-in viewers unlock a case after **180 minutes of live content**, with the watch requirement resetting daily. New users who complete onboarding can open a free introductory case. Opening a case is a chance to win, not a guaranteed reward after three hours.
+
+Important limits come before any viewing plan:
+
+- Country restrictions and other campaign eligibility rules apply. Seeing a case or even a winner notification does not establish eligibility; selections remain provisional until checked. The campaign terms control if they differ from the help summary.
+- PS5 codes must match the country registered to your PSN account, not your current location. India appears in the help guide's supported PS5 country list, but that alone does not settle all campaign eligibility requirements.
+- Xbox prizes are described as Series X|S codes, subject to account, platform and campaign restrictions. Do not assume a prize grants PC access or resolves [[release/gta-6-xbox-series-s-and-cloud-gaming|cloud-play entitlement]].
+- Codes **will not be issued before November 19** and may arrive later, after availability and eligibility checks. A win is not a launch-midnight delivery promise.
+
+Read the linked campaign rules before entering. This is an optional viewing promotion, not a reliable way to budget for the game; compare actual purchase routes in [[guides/gta-6-cheapest-way-to-play|the cost guide]]. No purchase or subscription requirement is stated in the help guide's watch-to-unlock steps.
 
 ## What to know before tuning in
 
