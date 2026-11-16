@@ -1,0 +1,51 @@
+# Source ledger - checked November16,2026
+
+## First batch: primary pages actually read
+- Rockstar, GTA VI homepage, https://www.rockstargames.com/VI : current release/platform anchor. Official publisher, high confidence within stated scope.
+- Rockstar, Only in Leonida, https://www.rockstargames.com/VI/only-in-leonida : Jason Army stint; Lucia father taught her to fight. Does not identify military unit or firearms stats.
+- Rockstar, media index, https://www.rockstargames.com/VI/media :138 screenshots; separate51 Ultimate benefits,12 Vintage pack,27 artwork entries; image URLs observed in HTML. Locally converted WebP source URLs retained in repo manifest.
+- YouTube Blog, November12, https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/ : event and named roster, not individual personal-channel agendas. Broadcast https://www.youtube.com/youtube fetched as YouTube channel. No specific watch URL invented.
+- Xbox Wire, November10, https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/ : cloud on Xbox One/Series X|S,1AM ET November19,Series S graphics settings,separate game purchase. No method-by-method GTA entitlement or regional cloud unlock table.
+- Xbox cloud, https://www.xbox.com/en-US/cloud-gaming : current general subscription hours/ad-supported sessions/purchased-hours policy,subject to game/method/region/device. General offer is NOT proof GTA VI is included in every method.
+- Xbox Store, https://www.xbox.com/en-US/games/store/cloud-playtime-10-hours/9pl4njhpdn7l :US10-hour pack$3.99,select owned games,November11 release.
+- Xbox Store, https://www.xbox.com/en-us/games/store/grand-theft-auto-vi/9p3h4968grsm :US Standard$79.99,single player,Series X|S. Alternate base record https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9NL3WWNZLZZN shows editions too.
+- PlayStation Store, https://store.playstation.com/en-us/product/EP1004-PPSA01547%5F00-GTAVISTANDARD001 :US$79.99,single player,offline support.
+- Microsoft, https://www.microsoft.com/en-us/d/xbox-series-s/8wg5vqp0x42z :new Series S from$499.99,current storefront,not old MSRP.
+- PlayStation Direct, https://direct.playstation.com/en-us/hardware/ps5 :current listed PS5 models/prices; refurbished Digital slim$499,Digital825GB$599,PS5 1TB$649,Pro$899. Listings not final availability promises.
+- Xbox Wire, https://news.xbox.com/en-us/2025/11/25/xbox-november-update-gaming-copilot-full-screen-experience/ :India cloud service launch,not a promise every game/pack works locally.
+- Xbox Wire, https://news.xbox.com/en-us/2025/12/19/getting-started-with-xbox-cloud-gaming/ :general20Mbps/Ethernet guidance,no GTA VI latency measurement.
+- PS Store India, https://store.playstation.com/en-in/product/EP1004-PPSA01547_00-GTAVISTANDARD001/ :Rs5999 PS license,not interchangeable with Xbox.
+
+## Retail asking-price snapshots, not averages
+- GameStop, https://www.gamestop.com/consoles-hardware/xbox-one/consoles/products/microsoft-xbox-one-console-500gb-with-original-controller---black/101370.html :used XboxOne500GB$99.99,in stock at fetch,controller/HDMI/power adapter;destination restrictions. Does NOT establish sold-price mean.
+- Gameprex, https://gameprex.in/microsoft-xbox-series-s-512gb-pre-owned :Rs34999,one-month warranty claim;not seller endorsement or independently tested quality.
+- Gamekart, https://gamekart.in/product/xbox-series-s-512gb-ssd-gaming-console-without-box-preowned/ :Rs30000,OUT OF STOCK. Kept as unavailable comparison,not recommendation.
+
+## Community originals, actually fetched
+- May11,2025 u/SirKnightShitFourth, https://www.reddit.com/r/GTA6/comments/1kk12jx/gta_6_detailjason_shoots_with_both_eyes_open/ :both-eyes fan discussion;image https://i.redd.it/88px1oafn50f1.jpeg visually inspected,neither eye fully closed. Credit Rockstar and community sharer;no combat stats inferred.
+- Sep14,2026 u/idgeniofix, https://www.reddit.com/r/GTA6/comments/1wgajby/notice_how_jason_raises_his_gun_so_he_doesnt/ :gun movement around Lucia,multiple contradictory interpretations. Gallery not treated as proof of dynamic companion AI.
+- Dec25,2023 u/Sk8d3r, https://www.reddit.com/r/GTA6/comments/18qh93n/one_little_detail_that_might_indicate_jason_is/ :older fan inference,not needed to prove now-official bio.
+- Frame-by-frame analysis, https://www.reddit.com/r/GTA6/comments/1kgavjt/i_went_through_the_2nd_trailer_frame_by_frame/ ;story reconstruction https://www.reddit.com/r/GTA6/comments/1khq83y/piecing_some_things_together/ ;Caribbean Club ID https://www.reddit.com/r/GTA6/comments/1kg7rz9/irl_location_from_trailer_2_caribbean_club_key/ :fetched as future research leads,not yet published findings.
+
+## Press, actually fetched and attributed
+- TalkEsport, https://www.talkesport.com/news/total-gaming-payal-gaming-sharkshe-youtube-24-hour-gta-6-livestream/ :page showsNov13,00:20IST although URL/search saysNov12. Indian/additional roster reported,not self-confirmed creator posts.
+- The Verge, https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support :console-only cloud and30fps targets reported from Rockstar. Distinguish targets from measured frame pacing/latency.
+- Dexerto, https://www.dexerto.com/twitch/kai-cenat-promises-to-100-complete-gta-6-on-stream-3022853/ :Jan2025 marathon promise,quote/embedded fan-shared clip,not a current first-person launch start time.
+- TotalGTA, https://totalgta.com/play-gta-6-on-xbox-cloud-without-game-pass/ :triage lead only;its pricing subsequently verified on Xbox Store. Its entitlement caveat retained independently against primary pages.
+
+## Open gaps
+Original X gun-handling post; creator self-posts and individual channel schedules; representative used sold-price averages; complete India hardware+Xbox game+local pack totals; measured GTA VI latency/frame times;confirmed game-specific free/ad or paid-pack eligibility. No numbers or confirmations fabricated for these gaps.
+
+## 05:49IST scheduled review
+Repo/live baseline6863f48 unchanged,latest deploy success. Official Rockstar homepage/media fetched;no new official date/count change found. Recovered creator-owned https://joshimuz.com/en-usd/pages/schedule with GTA VI Release Day Cutscene% Speedrun,ThursdayNovember19,date only;page warns schedule changes,upcoming clock-time table empty. Same site's actual HTML links https://twitch.tv/joshimuz ;fetched destination resolves Joshimuz. Published as date-specific creator plan,not exact go-live appointment. New article section visually checked390/1440px,no overflow;content109/0/0,TypeScript/build clean.
+Any Austin Bluesky profile fetched and contains matching Miami partnership text,but profile renderer includes mixed unrelated bio material;do not elevate identity/source without clearer direct post/cross-binding. Secondary Knossi/Heideltraut Miami news still leads,no recovered original URLs. CNBCNov14 analyst/macroeconomic launch article fetched;no new official game confirmation. No extra filler news pages.
+
+## 07:49IST source review
+Official homepage/media and live guide fetched,remote5dc5136/latest deploy success. New useful verification: https://blog.twitch.tv/en/2026/11/13/twitchcon-san-diego-2026/ actually fetched,current GTA section confirms launch-Nov30 rewards,viewing/subscriber tracks,Golden Iguana,Heist Trains,Recaps,daily surprise codes. No claim route,country/platform/count guarantee or exact viewing-hour checklist. Contradiction: https://www.dualshockers.com/twitch-leaks-then-deletes-gta-6-drops-campaign/ says deleted campaign,Nov18 start/one-hour/six-days;do NOT upgrade those specifics over currently available primary blog. Added carefully scoped section to existing viewing guide,not duplicate news. Local109/0/0,TypeScript/build,390/1440px pixels pass.
+Other review leads (Guardian GTA Flu,Beebom money story,Macca teaser,TotalGTA roundup) mostly existing topics/secondary interpretation;not new official gameplay claims.
+
+## 09:49IST source review
+Remote0461c5e/workflow43791636889 success confirmed before editing. Official homepage/media unchanged in current fetch. New primary reporting actually fetched: https://insider-gaming.com/how-long-to-complete-gta/ Tom Henderson Nov15 reports campaign~50h,nearly100 missions/five chapters,estimates completionist~200h;quotes NYT Nelson80h run with optional narrative goals. Updated existing how-long-to-beat guide,metadata/FAQ/table;not a new filler story. All clearly reported,not Rockstar figures or measured player averages. X clarifications2122021440149238113/2122024824902156325 direct fetch unavailable,so no claim of firsthand review or personal denial imported. Guardian long-feature lead remains open;GamesRadar original article read but no direct full Guardian long feature recovered yet. Knossi/Heideltraut originals still outstanding.109/0/0,TypeScript/build pass,390/1440px pixels inspected,no overflow.
+
+## 11:49IST review
+Current remote40a8752 and successful43803591756 confirmed;official home/media/live guide checked. Broad news and public Reddit searches mostly old/secondary claims. Actual fetched KICK originals https://about.kick.com/news-and-press/13-sunset-reward-case (Nov12) and https://help.kick.com/en/articles/18357299-sunset-reward-case-claim-a-free-copy-of-gta-vi-on-kick establish independent promotion,180min daily case,chance not guaranteed,provisional eligibility,PSN-country match/India listed,SeriesX|S code caveats,no code beforeNov19/may be later. Added source-linked section to existing launch-viewing guide,not new filler page or recommendation to purchase/participate. Campaign legal terms not separately retrieved;explicitly defer country/eligibility to controlling rules rather than assert universal availability. Local109/0/0,TypeScript/build,390/1440px pixels pass. Guardian original full feature still unresolved;Beebom/TotalGTA fetched as secondary leads,no upgraded gameplay claims.

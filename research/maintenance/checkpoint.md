@@ -1,0 +1,47 @@
+# Editorial checkpoint
+
+Last checked: November 16, 2026, 12:15 IST.
+
+## Recovery
+
+This directory is the durable editorial recovery point. Read this checkpoint, `sources.md`, current Git history and the current article before making changes. The content frontmatter records published sources and dates. The four older research dossiers are leads, not proof of current facts. Never copy an inherited certainty label without reading its source.
+
+The site is https://gta.kuber.studio/ . Repository: Kuberwastaken/gta. No content changes are awaiting publication at this checkpoint.
+
+## Protected design and validation
+
+- Keep the homepage ASCII composition unbroken. No image on or below its hero. Real imagery stays on article/hub pages.
+- Preserve dated homepage updates, SEO metadata, evidence grades, body wikilinks and local/global graph links. No redesign or AI images.
+- 109 Markdown pages. The homepage is the intentional image-coverage exception. Media manifests: `research/media-assets.json` and `quartz/util/media-assets.json`.
+- Four Rockstar YouTube mappings are in `quartz/util/media.ts`. A thumbnail is not a successful playback test. YouTube may require sign-in/verification; keep direct fallbacks.
+- Run `node scripts/check-content.mjs`, `npx tsc --noEmit`, and `npx quartz build`. Inspect actual mobile390px and desktop1440px pixels before publishing. Graph drawing can take seconds; check actual nodes.
+- Sequential commits, batch pushes. Existing `.github/workflows/deploy.yml` publishes Pages and then IndexNow. Check the expected commit and actual live result. Diagnose failures; no blind rerun or push loops. No billing changes or spending.
+- Do not publish filler to satisfy a review cycle. An update to a relevant guide is better than a duplicate news page.
+
+## Publication deduplication
+
+| Commit | Already covered | Verification |
+| --- | --- | --- |
+| 6f605ab / 29bb874 | Official imagery, trailer layer,138-gallery correction | Included in successful first batch |
+| e881163 | Jason gun-handling analysis, community originals vs official biography | Included in successful first batch |
+| e617d0e | Launch-viewing and total-cost guides | Successful run43775065790 |
+| 6863f48 | Remove homepage image only, restore ASCII flow | Successful run43775629947; live mobile/desktop checked |
+| 5dc5136 | Joshimuz creator-owned Nov19 Cutscene% plan, date only | Successful run43779792465; live checked |
+| 0461c5e | Twitch launch-Nov30 reward tracks and daily-code promise, missing mechanics explicit | Successful run43791636889; live checked |
+| 40a8752 | Insider Gaming50h campaign report vs200h completionist estimate vs Nelson80h optional-content run | Successful run43803591756; live checked |
+| 5f10fb0 | KICK independent promotion,180min daily chance,eligibility/region/delivery caveats | Successful run43816086099; live checked |
+
+Latest verified content head: `5f10fb0b6d41ce9c662d59164223697821ce4dd1`.
+Latest content deployment: https://github.com/Kuberwastaken/gta/actions/runs/43816086099 . This checkpoint commit will be newer than that content head; do not mistake it for unpublished article work.
+
+## Unresolved evidence, not publication obligations
+
+- Original X gun-handling post. Reddit stills do not prove dynamic AI, a military unit or stat bonuses.
+- Creator-owned go-live times and agendas beyond recovered organizer announcements and Joshimuz's date-only schedule.
+- Representative sold-price averages; complete India Xbox hardware/game/local-pack totals.
+- GTA VI-specific free/ad-supported or purchased-hour cloud entitlement, not merely the general service policy.
+- Measured game latency/frame pacing after launch; marketing targets are not benchmarks.
+- Guardian's full long feature original remains unresolved. Secondary interpretations are not new official gameplay confirmations.
+- KICK controlling campaign terms were not separately retrieved. The help summary confirms mechanics, but seeing a case or a country on the PS5 code list does not establish full eligibility. No guaranteed game or launch-midnight delivery.
+
+See `sources.md` for exact observed public URLs, checked claims, contradictions and cycle-level deduplication through11:49IST. Continue the existing two-hour review; do not start a second review merely to recover this state.
