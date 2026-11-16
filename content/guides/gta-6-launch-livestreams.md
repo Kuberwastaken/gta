@@ -30,6 +30,16 @@ faq:
   - q: "Is Kai Cenat's GTA 6 marathon confirmed for a specific launch time?"
     a: "Press reports describe his intention to marathon the game, but we have not recovered a first-person launch schedule with a specific go-live time. He is not listed here as a time-confirmed stream."
 sources:
+  - title: "The Official Joshimuz Stream Schedule"
+    url: "https://joshimuz.com/en-usd/pages/schedule"
+    publisher: "Joshimuz"
+    tier: "primary"
+    date: "Checked Nov 16, 2026"
+  - title: "Joshimuz Twitch channel"
+    url: "https://twitch.tv/joshimuz"
+    publisher: "Joshimuz"
+    tier: "primary"
+    date: "Checked Nov 16, 2026"
   - title: "Kai Cenat promises to 100% complete GTA 6 on stream"
     url: "https://www.dexerto.com/twitch/kai-cenat-promises-to-100-complete-gta-6-on-stream-3022853/"
     publisher: "Dexerto"
@@ -88,13 +98,21 @@ These are **event participants**, confirmed by the event's organizer. <span clas
 
 [TalkEsport reports](https://www.talkesport.com/news/total-gaming-payal-gaming-sharkshe-youtube-24-hour-gta-6-livestream/) that Total Gaming, Payal Gaming and Sharkshe are also in the event, alongside an expanded international lineup. <span class="tag-reported">reported</span> Its article explicitly notes the absence of individual durations and agendas. Those names are press-reported additions here, not first-person announcements we have independently recovered from each creator.
 
+## A creator-published launch-day plan: Joshimuz
+
+[Joshimuz's own schedule](https://joshimuz.com/en-usd/pages/schedule) lists **"GTA VI Release Day Cutscene% Speedrun" for Thursday, November 19, 2026**. <span class="tag-confirmed">confirmed</span> The same site links his [Twitch channel](https://twitch.tv/joshimuz), which resolves to Joshimuz. That gives viewers a creator-published plan and an actual place to check, rather than a name inferred from past GTA streams.
+
+The schedule supplies a **date, not a go-live clock time**. Its upcoming-time table was empty when checked, and the page warns that the schedule can change. Do not convert the date into midnight local time or the YouTube event's start time. The listed agenda is a release-day Cutscene% speedrun; it is separate from the organizer-confirmed YouTube roster above.
+
+This is a useful option for viewers who want a specific speedrun-oriented plan rather than a general launch show. Check the creator's schedule and Twitch channel before making it an appointment, and expect story spoilers from an event explicitly framed around cutscenes.
+
 ## A marathon promise is not a launch schedule
 
-This guide deliberately separates three things: participation announced by an event organizer, a creator's general intention to play, and a dated personal-stream schedule. Only the last gives you a reliable appointment on that creator's channel.
+This guide deliberately separates three things: participation announced by an event organizer, a creator's general intention to play, and a dated personal-stream schedule. A date-specific plan is useful even without a clock time, as Joshimuz's schedule shows. An exact appointment still needs a published go-live time.
 
 [Dexerto reported in January 2025](https://www.dexerto.com/twitch/kai-cenat-promises-to-100-complete-gta-6-on-stream-3022853/) that Kai Cenat promised a 100-percent-completion marathon. <span class="tag-reported">reported</span> That early statement is not a November launch timetable; we have not recovered a first-person, time-specific launch announcement. Nor do fan-account claims establish IShowSpeed's own travel or streaming schedule. Neither gets a fabricated start time or a "confirmed live now" label here. This is a watchlist with gaps, not a popularity ranking.
 
-Individual channel links will be added with the announcements they support. An old channel homepage is useful for browsing, but by itself it does not prove that a GTA VI stream is scheduled there.
+More individual channel links will be added with the announcements they support. An old channel homepage is useful for browsing, but by itself it does not prove that a GTA VI stream is scheduled there.
 
 ## What to know before tuning in
 
