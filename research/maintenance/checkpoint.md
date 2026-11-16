@@ -49,3 +49,5 @@ Latest content deployment: https://github.com/Kuberwastaken/gta/actions/runs/438
 - KICK controlling campaign terms were not separately retrieved. The help summary confirms mechanics, but seeing a case or a country on the PS5 code list does not establish full eligibility. No guaranteed game or launch-midnight delivery.
 
 See `sources.md` for exact observed public URLs, checked claims, contradictions and cycle-level deduplication through11:49IST. Continue the existing two-hour review; do not start a second review merely to recover this state.
+
+November16,23:50IST:original CPS release https://www.cps.gov.uk/london-south/news/lapsus-hacker-who-leaked-gta-vi-gameplay-videos-convicted actually fetched,confirms guilty pleaNov16/sentencing listedNov23. Updated existing2022-leak timeline,FAQ/metadata/status,not duplicate news. No footage/source-code links. Prior19:54packaginga282c6c success43884735518;this batch deployment pending.
