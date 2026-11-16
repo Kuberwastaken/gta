@@ -1,38 +1,42 @@
 ---
-title: "GTA 6 day-one patch: update 1.002.000 size, rollout and patch notes"
-seoTitle: "GTA 6 Day-One Patch: Update 1.002 Size and Patch Notes"
+title: "GTA 6 pre-launch updates: 1.002.001 rollout and missing patch notes"
+seoTitle: "GTA 6 Update 1.002.001: Size, Rollout and Patch Notes"
 shortTitle: "Day-one patch"
-description: "GTA 6 update 1.002.000 began rolling out Nov 13: 1.07 GB on PS5, 2.18-2.2 GB on Xbox, reportedly mandatory, no patch notes. The 15-50 GB rumour was wrong."
+description: "VICE reports a second GTA 6 pre-launch update on Nov 16: 01.002.001, about 602.5 MB on PS5 and 1.6 GB on Xbox. Rollout claims are not official patch notes."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-16
+verified: 2026-11-16
 weight: 14
 tags: ["release", "preload", "ps5", "xbox"]
-tldr: "GTA 6 **update 1.002.000** started rolling out on **Nov 13, 2026**: about 1.07 GB on PS5 (staggered over about 11 hours) and 2.18-2.2 GB on Xbox. It is reported as mandatory. Rockstar has published **no patch notes** and has not called it the day-one patch."
+tldr: "VICE reports a **second pre-launch update on November 16**, labelled **01.002.001 on PS5**, at about **602.5 MB on PS5** and **1.6 GB on Xbox**. Its staged PS5 rollout timetable comes from data accounts, not Sony's own announcement. No official change list has been recovered. The earlier 1.002.000 update is separate."
 facts:
   - k: "Version"
-    v: "1.002.000"
+    v: "01.002.001 on PS5 (reported)"
   - k: "Rollout began"
-    v: "Fri, Nov 13, 2026"
+    v: "Mon, Nov 16, 2026 (reported)"
   - k: "PS5 size"
-    v: "~1.07 GB (50% first, rest ~11 h later)"
+    v: "~602.5 MB (second update; reported)"
   - k: "Xbox size"
-    v: "~2.18-2.2 GB"
+    v: "~1.6 GB (second update; reported)"
   - k: "Patch notes"
     v: "None from Rockstar"
   - k: "Mandatory"
-    v: "Reportedly yes"
+    v: "Do not infer launch requirements from size"
 faq:
   - q: "Does GTA 6 have a day-one patch?"
-    a: "It has a pre-launch update, 1.002.000, rolling out since Nov 13, 2026. VICE calls it the day-one patch; Rockstar hasn't, and hasn't said whether another update lands on Nov 19."
+    a: "Two pre-launch updates have been reported: 1.002.000 on Nov 13 and 01.002.001 on PS5 on Nov 16. VICE uses the day-one label; that does not establish a final launch build or official change list."
   - q: "How big is the GTA 6 day-one patch?"
-    a: "About 1.07 GB on PS5 and 2.18-2.2 GB on Xbox Series X|S, per console download screens. That is a fraction of the 15-50 GB some sites predicted before pre-load."
+    a: "VICE reports the second update at about 602.5 MB on PS5 and 1.6 GB on Xbox. The first was about 1.07 GB on PS5 and 2.18-2.2 GB on Xbox. Download sizes can differ by installed build."
   - q: "Why don't I have GTA 6 update 1.002 yet on PS5?"
     a: "Sony staggered it: about half of users got it first and the rest roughly 11 hours later. Highlight the game, press Options and choose Check for Update."
   - q: "What does GTA 6 update 1.002 change?"
     a: "Rockstar hasn't said. An insider called 'Text Funds 2' claims it touches story data, executables, levels, shaders and scripts. Nothing suggests it adds a 60 fps mode."
 sources:
+  - title: "GTA 6 Gets a Second Day One Patch on PS5 and Xbox Ahead of Launch"
+    url: "https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/"
+    publisher: "VICE (Brent Koepp)"
+    date: "Nov 16, 2026"
   - title: "GTA 6 Day One Patch Is Already Rolling Out on PS5"
     url: "https://www.vice.com/en/article/gta-6-day-one-patch-ps5-version-1002/"
     publisher: "VICE"
@@ -55,9 +59,27 @@ sources:
 related: ["release/gta-6-preload-and-file-size", "news/2026-11-13-gta-6-update-1-002", "guides/gta-6-day-one-checklist"]
 ---
 
+## November 16: a second pre-launch update is reported
+
+[VICE's Brent Koepp reports](https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/) that another update began reaching pre-loaded copies on November 16. The PS5 version is **01.002.001**, at around **602.5 MB**; the Xbox download is reported at around **1.6 GB**. <span class="tag-reported">reported</span> These are not the November 13 file sizes below. VICE attributes the details to data accounts and reproduces a post from iGrandTheftAuto.com. We could not independently retrieve that original X post.
+
+VICE reproduces this staged **PS5** timetable. Treat it as a reported rollout plan, not an official Sony guarantee or a reason to change your account region:
+
+| Claimed share reached | UTC | India, IST |
+| --- | --- | --- |
+| 33% | Mon Nov 16, 10:00 AM | Mon Nov 16, 3:30 PM |
+| 66% | Mon Nov 16, 10:00 PM | Tue Nov 17, 3:30 AM |
+| 100% | Tue Nov 17, 10:00 AM | Tue Nov 17, 3:30 PM |
+
+A console still showing the earlier version does not by itself mean your preload failed. Check for updates normally and keep automatic downloads enabled; do not reinstall a 200-plus-GB game merely because a reported wave has not reached you. The source does not give an equivalent staged Xbox timetable.
+
+**What changed remains unknown.** We have not recovered official notes for this build. A small download does not prove a stability fix, new mission, frame-rate mode or early access. Calling it a second "day-one patch" is VICE's wording, not proof that this is the final update before the [[release/gta-6-release-time-by-country|November 19 unlock]].
+
+## Earlier update: November 13
+
 GTA 6's first update, version 1.002.000, began rolling out on Friday, Nov 13, 2026, to consoles that had pre-loaded. It is about **1.07 GB on PS5** and about 2.18 to 2.2 GB on Xbox Series X|S, and it is reported as mandatory. <span class="tag-reported">reported</span> All of that comes from console download screens, because Rockstar has posted no patch notes and has not called it "the day-one patch". VICE and KeenGamer use that label. Our news write-up is at [[news/2026-11-13-gta-6-update-1-002|update 1.002]].
 
-## How big is update 1.002, and who has it?
+## How big was the first update, 1.002.000?
 
 | Platform | Size | Rollout |
 | --- | --- | --- |
@@ -68,15 +90,15 @@ GTA 6's first update, version 1.002.000, began rolling out on Friday, Nov 13, 20
 
 The Xbox update is roughly twice the PS5 one, and nobody has explained the gap. Different packaging per platform would account for it, but that is our guess. <span class="tag-speculation">speculation</span>
 
-## What does update 1.002 change?
+## What was claimed about the first update?
 
 Rockstar has said nothing. An insider posting as "Text Funds 2" claims the update touches story data, executables, levels, shaders and scripts. <span class="tag-rumour">rumour</span> If accurate, that is a broad refresh of the pre-load build rather than new content.
 
-It does not add a 60 fps mode. Rockstar's Nov 10 pre-load post set a 30 fps target on every console, PS5 Pro included, with no performance toggle at launch. Datamined 120 Hz output and PSSR v13.60 strings hint at a future 40 fps mode, unconfirmed. <span class="tag-rumour">rumour</span> See [[release/gta-6-ps5-pro-performance|PS5 Pro and performance]].
+No verified change list establishes that this update adds a 60 fps mode. Reporting on Rockstar's November 10 console targets describes 30 fps, PS5 Pro included. Datamined 120 Hz output and PSSR v13.60 strings hint at a future 40 fps mode, unconfirmed. <span class="tag-rumour">rumour</span> See [[release/gta-6-ps5-pro-performance|PS5 Pro and performance]].
 
-## Is there another patch on Nov 19?
+## Could there still be another patch on Nov 19?
 
-Unknown. Rockstar has not said whether 1.002 is the launch build or whether another update arrives on release day. Leave automatic updates on and check again the evening before your [[release/gta-6-release-time-by-country|unlock time]], since a mandatory update at midnight eats into launch night.
+Unknown. A second pre-launch update is now reported, but that does not establish the final launch build or rule out another release-day download. Leave automatic updates on and check again the evening before your [[release/gta-6-release-time-by-country|unlock time]], since a mandatory update at midnight eats into launch night.
 
 ## What happened to the 50 GB day-one patch?
 

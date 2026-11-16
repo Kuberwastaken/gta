@@ -1,6 +1,10 @@
 # Editorial checkpoint
 
-Last checked: November 16, 2026, 12:15 IST.
+Last checked: November 16, 2026, 17:51 IST.
+
+Identity history was rewritten centrally earlier today. Old commit IDs below describe prior publications,not refs to merge. Rewritten recovery baseline320b0fd455bbdc7f35694d1823a2305cf11ad780 deployed successfully in run43836262538. Both author and committer for new commits use kuberwastaken with97027230+Kuberwastaken@users.noreply.github.com.
+
+Current batch:second pre-launch patch reported by VICE,updated existing tracker/first-patch follow-up. Deployment/live inspection still pending;check current remote head and workflow before treating this batch as live. Source and test details are in sources.md.
 
 ## Recovery
 
