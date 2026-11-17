@@ -1,16 +1,18 @@
 # Editorial checkpoint
 
-Last checked: November 16, 2026, 19:50 IST.
+Last checked: November 17, 2026, 14:34 IST.
 
-Identity history was rewritten centrally earlier today. Old commit IDs below describe prior publications,not refs to merge. Rewritten recovery baseline320b0fd455bbdc7f35694d1823a2305cf11ad780 deployed successfully in run43836262538. Both author and committer for new commits use kuberwastaken with97027230+Kuberwastaken@users.noreply.github.com.
+Current verified live content before this batch: `394a64ad4998abd1a3937c6543248981136de690`, Discord launch theme and quest guidance. Successful deployment: https://github.com/Kuberwastaken/gta/actions/runs/44016619576 . Prior CPS and Weather Channel updates are also live. Earlier hashes and pending notes below are historical, not outstanding work.
 
-Patch batch4e476ac364bb28853b7657f7f515c268f026fcb2 deployed successfully https://github.com/Kuberwastaken/gta/actions/runs/43865801800 ;actual live390/1440px article and rollout table inspected. Current batch:directly attributed UK packaging scan in existing storage guide,not new gameplay or measured download claim. Check current workflow/live result before treating this newer batch as deployed.
+Final pre-launch polish is being published with this checkpoint. Four existing guides corrected: direct Sony GTA+ claim/renewal terms, Xbox redemption clock, realistic private used-code troubleshooting, and US PS5 release timestamp versus unverified native Xbox hours. No new article or design change. Content, TypeScript and build pass; static audit checks 170 HTML pages with no internal-link/asset/metadata/H1/alt issues. Search returns results, graph draws nodes, trailer embed and direct fallback remain present. Actual 390/1440px screenshots inspected. Deployment and actual live verification must still be checked for this new commit.
+
+Both author and committer must remain kuberwastaken with 97027230+Kuberwastaken@users.noreply.github.com. The older identity history was rewritten centrally; do not merge the held original clone or rewrite remote history here.
 
 ## Recovery
 
 This directory is the durable editorial recovery point. Read this checkpoint, `sources.md`, current Git history and the current article before making changes. The content frontmatter records published sources and dates. The four older research dossiers are leads, not proof of current facts. Never copy an inherited certainty label without reading its source.
 
-The site is https://gta.kuber.studio/ . Repository: Kuberwastaken/gta. No content changes are awaiting publication at this checkpoint.
+The site is https://gta.kuber.studio/ . Repository: Kuberwastaken/gta. This checkpoint travels with the final-polish content batch; verify its commit and live deployment before calling it complete.
 
 ## Protected design and validation
 
@@ -35,8 +37,8 @@ The site is https://gta.kuber.studio/ . Repository: Kuberwastaken/gta. No conten
 | 40a8752 | Insider Gaming50h campaign report vs200h completionist estimate vs Nelson80h optional-content run | Successful run43803591756; live checked |
 | 5f10fb0 | KICK independent promotion,180min daily chance,eligibility/region/delivery caveats | Successful run43816086099; live checked |
 
-Latest verified content head: `5f10fb0b6d41ce9c662d59164223697821ce4dd1`.
-Latest content deployment: https://github.com/Kuberwastaken/gta/actions/runs/43816086099 . This checkpoint commit will be newer than that content head; do not mistake it for unpublished article work.
+Historical content head: `5f10fb0b6d41ce9c662d59164223697821ce4dd1`.
+Historical deployment: https://github.com/Kuberwastaken/gta/actions/runs/43816086099 . See the top of this checkpoint for the current publication state.
 
 ## Unresolved evidence, not publication obligations
 

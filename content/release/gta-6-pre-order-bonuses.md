@@ -2,14 +2,14 @@
 title: "GTA 6 pre-order bonuses: Vintage Vice City Pack and a free GTA+ month"
 seoTitle: "GTA 6 Pre-Order Bonuses: Vintage Vice City Pack, GTA+"
 shortTitle: "Pre-order bonuses"
-description: "Any GTA 6 copy bought before Nov 20 gets the Vintage Vice City Pack; digital pre-orders add a GTA+ month that auto-renews at ~$8. Contents and cutoffs."
+description: "Any GTA 6 copy bought before Nov 20 gets the Vintage Vice City Pack; eligible digital orders add a GTA+ month. Sony claim steps, renewal terms and platform cutoffs."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-17
+verified: 2026-11-17
 weight: 7
 tags: ["release", "editions", "gta-plus", "price"]
-tldr: "Every GTA 6 copy bought **before Nov 20, 2026**, boxed or digital, Standard or Ultimate, gets the **Vintage Vice City Pack**: a '55 Vapid Stanier, the Shore Court Garage, 1980s outfits and a tropical weapon skin. Digital pre-orders also get a free GTA+ month, which reportedly renews at about $8."
+tldr: "Every GTA 6 copy bought **before Nov 20, 2026**, boxed or digital, Standard or Ultimate, gets the **Vintage Vice City Pack**: a '55 Vapid Stanier, the Shore Court Garage, 1980s outfits and a tropical weapon skin. Digital pre-orders also get a free GTA+ month, which renews at the regular platform price unless canceled."
 facts:
   - k: "Main bonus"
     v: "Vintage Vice City Pack"
@@ -31,10 +31,20 @@ faq:
   - q: "Does the physical copy get the free GTA+ month?"
     a: "No. The GTA+ month is for digital pre-orders on PS5 and Xbox. The boxed code still gets the Vintage Vice City Pack if bought before Nov 20."
   - q: "How do I claim the free GTA+ month on Xbox?"
-    a: "Go to Store, open your profile, then 'Offers & credits'. Redeem within 180 days; it works once per account and not on restricted child accounts."
+    a: "Go to Store, open your profile, then 'Offers & credits'. Redeem within 180 days of placing your pre-order; it works once per account and not on restricted child accounts."
   - q: "Does the free GTA+ month auto-renew?"
-    a: "games.gg reports it renews at about $8 a month unless cancelled. Turn off auto-renew right after redeeming if you don't want GTA Online perks."
+    a: "Sony confirms monthly renewal at the regular price after the free PS5 month. Check the next payment date when claiming and cancel before it if you do not want to pay."
 sources:
+  - title: "Grand Theft Auto VI: purchase bonus and GTA+ redemption window"
+    url: "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm"
+    publisher: "Xbox Store"
+    date: "Checked Nov 17, 2026"
+    tier: "primary"
+  - title: "Grand Theft Auto VI bonus offer: eligibility, claim and renewal terms"
+    url: "https://www.playstation.com/support/games/gta-vi-offer-terms"
+    publisher: "PlayStation Support"
+    date: "Checked Nov 17, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI Comes to Xbox One and Xbox Series X|S Through Xbox Cloud Gaming on November 19"
     url: "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
     publisher: "Xbox Wire"
@@ -84,7 +94,7 @@ Every item points back to the 2002 *Vice City*. Rockstar's other Vercetti refere
 
 ## What is the deadline?
 
-Rockstar says "all pre-orders and purchases before Nov 20". Xbox Wire says "before 19 November 2026 at 23:59:59". <span class="tag-confirmed">confirmed</span> Both mean you can buy at any point on launch day. Xbox Wire does not name the time zone for its cutoff, so a late-night Nov 19 purchase is cutting it close.
+Rockstar says "all pre-orders and purchases before Nov 20". The Xbox Store says "prior to 19 November 2026 23:59:59". <span class="tag-confirmed">confirmed</span> Both include launch-day purchases within the applicable store cutoff. The Xbox listing does not name the time zone for its cutoff, so a late-night Nov 19 purchase is cutting it close.
 
 Rockstar has not said whether the pack will be sold separately after Nov 20.
 
@@ -94,10 +104,10 @@ Digital pre-orders on PS5 and Xbox Series X|S qualify. The boxed copy does not. 
 
 | Platform | Terms | Grade |
 | --- | --- | --- |
-| Xbox | Redeem within 180 days, once per platform account, not on restricted child accounts. Claim via Store, then profile, then "Offers & credits". | <span class="tag-confirmed">confirmed</span> |
-| PS5 | Sony reportedly also counts PS Store digital purchases made through Nov 19, with the month claimable until Mar 31, 2027. | <span class="tag-reported">reported</span> |
+| Xbox | Redeem within 180 days of placing the pre-order, once per platform account, not on restricted child accounts. Claim via Store, then profile, then "Offers & credits". | <span class="tag-confirmed">confirmed</span> |
+| PS5 | Sony counts eligible PS Store digital Standard or Ultimate purchases on or before Nov 19. Claim by Mar 31, 2027 on the purchasing account; confirmation email and GTA+ product-page offer. Upgrade alone excluded. | <span class="tag-confirmed">confirmed</span> |
 
-games.gg reports the month auto-renews at about $8 unless you cancel. <span class="tag-reported">reported</span> Turn off renewal right after redeeming if you only want the free month.
+[Sony confirms](https://www.playstation.com/support/games/gta-vi-offer-terms) the PS5 month continues as a monthly subscription at the regular price until canceled. Its claim screen shows the next payment date; cancel through Subscriptions Management before that date if you do not want to pay. <span class="tag-confirmed">confirmed</span> For Xbox, read the platform's terms when claiming. A rounded US price from press coverage is not a universal renewal charge.
 
 GTA+ is a membership for GTA Online on GTA V plus a back catalogue of Rockstar games, with a monthly GTA$ deposit reported at GTA$500,000. <span class="tag-reported">reported</span> It adds nothing to GTA 6's story mode, and Rockstar has not said whether it will carry over to any GTA VI online mode, which is [[release/gta-6-gta-online-status|not announced]]. Full terms are in the [[guides/gta-6-gta-plus-explained|GTA+ explainer]].
 

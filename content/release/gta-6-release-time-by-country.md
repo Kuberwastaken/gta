@@ -6,17 +6,17 @@ description: "GTA 6 unlocks at midnight store time on Nov 19, 2026: 11:00 UTC No
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-17
+verified: 2026-11-17
 weight: 1
 tags: ["release", "unlock-times", "ps5", "xbox"]
-tldr: "GTA 6 unlocks at **midnight local store time on November 19, 2026**. New Zealand goes first at 11:00 UTC on Nov 18. The whole US store unlocks at midnight Eastern, so **Pacific players start at 9 PM on Wednesday, Nov 18**. Xbox Cloud Gaming starts an hour later, at 1 AM ET."
+tldr: "Rockstar says **midnight local store time on November 19, 2026**. The US PS5 listing directly confirms 05:00 UTC: **9 PM PST on Nov 18**. Other regional times below are reported compilations. Xbox Cloud Gaming separately starts at 1 AM ET; check your native Xbox countdown."
 facts:
   - k: "Rule"
     v: "Midnight local store time, Nov 19"
   - k: "First to unlock"
     v: "New Zealand, 11:00 UTC Nov 18"
-  - k: "US unlock"
+  - k: "US PS5 unlock"
     v: "12 AM ET / 9 PM PT (Nov 18)"
   - k: "UK unlock"
     v: "12 AM GMT, Nov 19"
@@ -26,7 +26,7 @@ facts:
     v: "1 AM ET, Nov 19"
 faq:
   - q: "What time does GTA 6 unlock in the US?"
-    a: "The whole US store unlocks at 05:00 UTC on Nov 19, 2026, which is midnight Eastern. That is 11 PM Central, 10 PM Mountain and 9 PM Pacific on Wednesday, Nov 18."
+    a: "The US PS5 listing shows 05:00 UTC on Nov 19, 2026: midnight Eastern, or 11 PM Central, 10 PM Mountain and 9 PM Pacific on Nov 18. Native Xbox owners should check their console countdown."
   - q: "What time does GTA 6 unlock in the UK?"
     a: "00:00 GMT on Thursday, Nov 19, 2026, the same moment as Ireland. Germany and France unlock an hour earlier, at 23:00 UTC on Nov 18."
   - q: "What time does GTA 6 release in India?"
@@ -36,8 +36,13 @@ faq:
   - q: "Can I play GTA 6 early with a New Zealand account?"
     a: "On PS5 it reportedly takes a New Zealand PSN account, a New Zealand payment method and a second copy bought on that store. A VPN or console clock change alone does nothing."
   - q: "What time does GTA 6 start on Xbox Cloud Gaming?"
-    a: "1 AM ET on Nov 19, 2026, per Xbox Wire. On the US West Coast that is 10 PM PT on Nov 18, an hour after console players."
+    a: "1 AM ET on Nov 19, 2026, per Xbox Wire. On the US West Coast that is 10 PM PT on Nov 18, an hour after the US PS5 listing."
 sources:
+  - title: "Grand Theft Auto VI: US PS5 release timestamp"
+    url: "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+    publisher: "PlayStation Store"
+    date: "Checked Nov 17, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI regional pre-load and release times on PlayStation 5 and XBOX Series X|S"
     url: "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s"
     publisher: "Rockstar Games Support"
@@ -74,9 +79,9 @@ sources:
 related: ["release/gta-6-preload-and-file-size", "release/gta-6-release-date", "guides/gta-6-day-one-checklist", "release/gta-6-xbox-series-s-and-cloud-gaming"]
 ---
 
-GTA 6 unlocks at midnight local time on Thursday, November 19, 2026, on PS5 and Xbox Series X|S. Rockstar's support article says it "will release midnight local time on November 19, 2026, in all regions". "Local" means the midnight of your console store's region, not your own clock. The US store has one timestamp, midnight Eastern, so **Pacific players start at 9 PM on Wednesday, Nov 18**.
+GTA 6 unlocks at midnight local time on Thursday, November 19, 2026, on PS5 and Xbox Series X|S. Rockstar's support article says it "will release midnight local time on November 19, 2026, in all regions". "Local" means the midnight of your console store's region, not your own clock. The US PS5 listing has one timestamp, midnight Eastern, so **US Pacific PS5 players start at 9 PM on Wednesday, Nov 18**. Native Xbox storefront hours have not been independently confirmed here.
 
-New Zealand goes first, at 11:00 UTC on Nov 18, 18 hours before the US store. Xbox Cloud Gaming starts last in the US, at 1 AM ET. None of it matters if the download isn't finished: [[release/gta-6-preload-and-file-size|pre-load]] has been open since Nov 10 and the game needs up to 212 GB.
+New Zealand goes first, at 11:00 UTC on Nov 18, 18 hours before the US store. Xbox Cloud Gaming starts last in the US, at 1 AM ET. None of it matters if the download isn't finished: [[release/gta-6-preload-and-file-size|pre-load]] has been open since Nov 10 and the final space required can differ from earlier preload reports. Check the [[guides/gta-6-storage-space-guide|storage guide]] and your console.
 
 ## GTA 6 unlock times by country
 
@@ -96,9 +101,17 @@ Rockstar's rule is <span class="tag-confirmed">confirmed</span>. The per-country
 
 Berlin and Paris get the game an hour before London. India runs on one time zone, so every Indian player starts at the same midnight. Brazil dropped daylight saving in 2019, so 03:00 UTC holds for São Paulo and Rio.
 
+## What did we verify directly before launch?
+
+The [US PlayStation Store listing](https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001) was checked directly on **November 17** and shows **November 19, 2026, 05:00 AM UTC**. That converts to midnight EST and **9 PM PST on November 18**. <span class="tag-confirmed">confirmed</span> The arithmetic uses November's standard-time offsets, not summer EDT/PDT.
+
+Some recent press guides paraphrase Rockstar's "midnight local time" sentence as a separate midnight in every US time zone. That is not what the current US PS5 listing's single timestamp shows. The general Rockstar sentence does not spell out that distinction. For an **Xbox native purchase**, confirm the countdown on your own console: we have not recovered an equally explicit current public Xbox storefront hour, so do not treat a PS5 timestamp as an independent Xbox confirmation. Xbox Wire's **1 AM ET cloud start** is a separate service, not the native unlock.
+
+The regional table is still a reported compilation outside that directly checked US PS5 entry. If your account's countdown differs, follow it and check the store region before arranging your night around a press table.
+
 ## What time does GTA 6 unlock in each US time zone?
 
-The US PlayStation Store unlocks at 05:00 UTC on Nov 19 for the whole country. Forbes (Nov 12) and Tech Times (Nov 13) reported the West Coast 9 PM start, and KeenGamer's Nov 3 table lists Central, Mountain and Pacific at 11, 10 and 9 PM on Nov 18. <span class="tag-reported">reported</span>
+The current US PlayStation Store listing shows 05:00 UTC on Nov 19, checked directly above. Forbes (Nov 12) and Tech Times (Nov 13) reported the West Coast 9 PM start, and KeenGamer's Nov 3 table lists Central, Mountain and Pacific at 11, 10 and 9 PM on Nov 18. <span class="tag-reported">reported</span>
 
 | US time zone | Unlock |
 | --- | --- |

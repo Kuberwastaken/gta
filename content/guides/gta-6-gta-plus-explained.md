@@ -2,14 +2,14 @@
 title: "GTA+ explained: the free month with GTA 6, what it does and how to cancel"
 seoTitle: "GTA+ Explained: The Free GTA 6 Month and How It Works"
 shortTitle: "GTA+ explained"
-description: "Digital GTA 6 pre-orders include a month of GTA+. It does nothing in GTA 6 itself, renews at about $8, and must be redeemed within 180 days on Xbox."
+description: "GTA 6 digital orders include a GTA+ month. Sony confirms renewal and a March 31 PS5 claim deadline; Xbox gives 180 days. Claim and cancellation steps."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-17
+verified: 2026-11-17
 weight: 7
 tags: ["guides", "gta-plus", "gta-online", "editions"]
-tldr: "Digital GTA VI pre-orders on PS5 and Xbox include **one free month of GTA+**, Rockstar's GTA Online membership. It does nothing in GTA VI's single-player game. Redeem it on Xbox within 180 days (PS5 reportedly until Mar 31, 2027), and cancel before it **auto-renews at about $8 a month**."
+tldr: "Digital GTA VI pre-orders on PS5 and Xbox include **one free month of GTA+**, Rockstar's GTA Online membership. It does nothing in GTA VI's single-player game. Redeem it on Xbox within 180 days (PS5 until Mar 31, 2027), and cancel before it **renews at your platform's regular monthly price**."
 facts:
   - k: "Who gets it"
     v: "Digital pre-orders, PS5 and Xbox"
@@ -18,23 +18,33 @@ facts:
   - k: "Xbox redeem window"
     v: "180 days, once per account"
   - k: "PS5 claim deadline"
-    v: "Mar 31, 2027 (reported)"
+    v: "Mar 31, 2027 (Sony)"
   - k: "Renewal"
-    v: "~$8/month unless cancelled (reported)"
+    v: "Regular platform price unless canceled"
   - k: "Use in GTA VI"
     v: "None announced"
 faq:
   - q: "What is GTA+?"
     a: "Rockstar's paid GTA Online membership on PS5, Xbox Series X|S and PC. Reported perks: a monthly GTA$500,000 deposit, 15% extra GTA$ on Shark Cards, and a catalogue of older Rockstar games."
   - q: "How do I claim the free GTA+ month from GTA 6?"
-    a: "On Xbox: Store, then your profile, then Offers & credits, within 180 days. On PS5, Sony reportedly keeps the offer open until March 31, 2027."
+    a: "On Xbox: Store, your profile, then Offers & credits, within 180 days of pre-ordering. On PS5, follow the confirmation email and GTA+ product-page offer by March 31, 2027. Use the account that bought GTA VI."
   - q: "Does the GTA+ free month auto-renew?"
-    a: "Reportedly yes, at about $8 a month, per games.gg. Cancel before the free month ends if you do not want to pay."
+    a: "Sony confirms the PS5 offer continues monthly at the regular price until canceled. Read the payment date shown when claiming; cancel in subscription management before that date if you do not want to pay."
   - q: "Does GTA+ do anything in GTA 6?"
     a: "No. GTA VI launches single-player only, and Rockstar has not said whether GTA+ will connect to a future GTA VI online mode."
   - q: "Do boxed copies get the free GTA+ month?"
-    a: "No. Xbox Wire and Rockstar Support, as quoted, limit it to digital pre-orders. Sony reportedly also counts PS Store digital purchases made through Nov 19."
+    a: "No. Xbox Wire and Rockstar Support, as quoted, limit it to digital pre-orders. Sony also counts eligible PS Store digital purchases made through Nov 19."
 sources:
+  - title: "Grand Theft Auto VI: digital purchase and GTA+ offer"
+    url: "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm"
+    publisher: "Xbox Store"
+    date: "Checked Nov 17, 2026"
+    tier: "primary"
+  - title: "How to claim the Grand Theft Auto VI bonus offer for one Month of GTA+"
+    url: "https://www.playstation.com/support/games/gta-vi-offer-terms"
+    publisher: "PlayStation Support"
+    date: "Checked Nov 17, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI Comes to Xbox One and Xbox Series X|S Through Xbox Cloud Gaming on November 19"
     url: "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
     publisher: "Xbox Wire"
@@ -65,7 +75,7 @@ sources:
 related: ["release/gta-6-gta-online-status", "release/gta-6-pre-order-bonuses", "guides/gta-6-which-edition-should-you-buy"]
 ---
 
-GTA+ is Rockstar's paid membership for GTA Online, and digital GTA VI pre-orders on PS5 and Xbox come with one month of it free. It does nothing in GTA VI, which launches as a single-player game. It reportedly renews at about $8 a month, so put a cancel date in your calendar when you redeem it. Other buying guides are in the [[guides/index|guides hub]].
+GTA+ is Rockstar's paid membership for GTA Online, and digital GTA VI pre-orders on PS5 and Xbox come with one month of it free. It does nothing in GTA VI, which launches as a single-player game. Sony confirms that claiming the PS5 month starts a subscription that continues at the regular monthly price unless canceled. Check the price and next payment date on your platform rather than treating a rounded US price as universal. Other buying guides are in the [[guides/index|guides hub]].
 
 ## What GTA+ gives you
 
@@ -90,21 +100,25 @@ Sources disagree. GameSpot says GTA Online access through GTA+ is console-only, 
 | --- | --- |
 | Digital pre-order, PS5 | Yes |
 | Digital pre-order, Xbox Series X\|S | Yes |
-| Digital purchase on PS Store through Nov 19 | Reportedly yes <span class="tag-reported">reported</span> |
+| Digital purchase on PS Store through Nov 19 | Yes, under Sony's offer terms <span class="tag-confirmed">confirmed</span> |
 | Boxed copy (code in box) | No |
-| Ultimate Edition upgrade | Not stated |
+| Ultimate Edition upgrade alone on PS Store | No, explicitly excluded by Sony |
 
 Xbox Wire and Rockstar Support, as quoted, confirm the digital offer and the box-copy exclusion. The [[guides/gta-6-which-edition-should-you-buy|edition guide]] factors this into the Standard-versus-box decision.
 
 ## How do you claim it?
 
-On Xbox, open the Store, open your profile, choose Offers & credits and redeem the GTA+ offer. You have 180 days, it works once per platform account, and restricted child accounts can't use it. <span class="tag-confirmed">confirmed</span> (Xbox Wire)
+On Xbox, open the Store, open your profile, choose Offers & credits and redeem the GTA+ offer. You have 180 days after placing your pre-order, it works once per platform account, and restricted child accounts can't use it. <span class="tag-confirmed">confirmed</span> (Xbox Store)
 
-On PS5, the offer reportedly stays claimable until March 31, 2027. <span class="tag-reported">reported</span> Sony has not published step-by-step instructions that we have found.
+[Sony's published instructions](https://www.playstation.com/support/games/gta-vi-offer-terms) confirm a **March 31, 2027** claim deadline. Buy digital Standard or Ultimate on PS Store on or before November 19, then follow the confirmation email and the GTA+ product-page offer using the **same account**. Complete the on-screen no-extra-cost claim, checking the next payment date before finishing. New, lapsed and existing subscribers qualify; existing subscribers can stack this promotional month. One claim per account, age and country restrictions apply, and the Ultimate upgrade alone is excluded. <span class="tag-confirmed">confirmed</span>
+
+Sony lists excluded PlayStation Store countries in the linked terms. Buying a boxed code is not the same as buying the digital edition directly from PS Store; do not assume the box qualifies.
 
 ## Does it auto-renew?
 
-Reportedly yes: games.gg says the free month rolls into a paid subscription at about $8 a month unless cancelled. <span class="tag-reported">reported</span> Because Xbox gives you 180 days to redeem, the month likely starts at redemption rather than purchase, so you can hold it until you want to play GTA Online. <span class="tag-speculation">speculation</span>
+**On PS5, yes.** Sony says the membership continues monthly at the regular price after the promotional month until canceled. The claim screen gives the next payment date; use **Subscriptions Management** in account settings to cancel before that date if you do not want a paid month. <span class="tag-confirmed">confirmed</span>
+
+Xbox's store gives **180 days after placing the pre-order** to redeem its offer. Read the renewal terms displayed during the Xbox claim rather than assuming Sony's redemption deadline or a reported US monthly price applies to every platform and country. The free month is optional; buying GTA VI and claiming GTA+ are separate steps.
 
 ## Will GTA+ matter for GTA VI later?
 

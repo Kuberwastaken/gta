@@ -1,6 +1,6 @@
 # GTA VI Wire — content guide
 
-Site: https://gta.kuber.studio (Quartz 4, content in `content/`). Brand: **GTA VI Wire**. Today is **2026-11-15**; GTA VI launches **2026-11-19**. Research dossiers with sourced facts live in `research/01..04-*.md`. They are the source of truth. If you add a fact that is not in them, you must have verified it yourself with a fetched page and you must cite that page.
+Site: https://gta.kuber.studio (Quartz 4, content in `content/`). Brand: **GTA VI Wire**. Resolve the current date at each review; the announced GTA VI release is **2026-11-19**, subject to current first-party verification. Research dossiers with sourced facts live in `research/01..04-*.md`. They are historical research leads, not live source-of-truth records. Read `research/maintenance/checkpoint.md`, current source pages and the current article before reusing a claim. If you add a fact that is not in them, you must have verified it yourself with a fetched page and you must cite that page.
 
 ## The rule
 
