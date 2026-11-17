@@ -61,14 +61,24 @@ const defaultOptions: GraphOptions = {
 }
 
 export default ((opts?: Partial<GraphOptions>) => {
-  const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-    const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
+  const Graph: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
+    const isAbout = String(fileData.slug).startsWith("about/")
+    const localGraph = {
+      ...defaultOptions.localGraph,
+      ...opts?.localGraph,
+      ...(isAbout ? { scale: 1, fontSize: 0.8, opacityScale: 5, linkDistance: 100 } : {}),
+    }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
-      <div class={classNames(displayClass, "graph")}>
+      <div class={classNames(displayClass, "graph", ...(isAbout ? ["graph-about"] : []))}>
         {opts?.title !== "" && <h3>{opts?.title ?? i18n(cfg.locale).components.graph.title}</h3>}
         <div class="graph-outer">
-          <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
+          <div class="graph-container" data-cfg={JSON.stringify(localGraph)}>
+            <p class="graph-status" role="status">
+              Topic connections load here as you scroll.{" "}
+              <a href="/graph">Open the full topic map</a>.
+            </p>
+          </div>
           <button class="global-graph-icon" aria-label="Global Graph">
             <svg
               version="1.1"

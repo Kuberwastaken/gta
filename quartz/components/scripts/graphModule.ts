@@ -72,6 +72,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const slug = simplifySlug(fullSlug)
   void getVisited()
   removeAllChildren(graph)
+  const loading = document.createElement("p")
+  loading.className = "graph-status"
+  loading.setAttribute("role", "status")
+  loading.textContent = "Loading topic connections…"
+  graph.append(loading)
 
   let {
     drag: enableDrag,
@@ -365,6 +370,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     resolution: window.devicePixelRatio,
     eventMode: "static",
   })
+  loading.remove()
   graph.appendChild(app.canvas)
 
   const stage = app.stage

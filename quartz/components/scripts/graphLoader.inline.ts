@@ -7,7 +7,9 @@ import type { FullSlug } from "../../util/path"
 type GraphModule = { setupGraph: (slug: FullSlug) => Promise<void> }
 let modPromise: Promise<GraphModule> | undefined
 const loadModule = () => {
-  modPromise ??= (import(new URL("/static/graph.js", window.location.origin).href) as Promise<GraphModule>).catch((e) => {
+  modPromise ??= (
+    import(new URL("/static/graph.js", window.location.origin).href) as Promise<GraphModule>
+  ).catch((e) => {
     modPromise = undefined
     throw e
   })
@@ -29,9 +31,24 @@ document.addEventListener("nav", (e: CustomEventMap["nav"]) => {
     observer?.disconnect()
     icons.forEach((i) => i.removeEventListener("click", onIcon))
     document.removeEventListener("keydown", onKey)
-    const mod = await loadModule()
-    await mod.setupGraph(slug)
-    if (openGlobal) (document.querySelector(".global-graph-icon") as HTMLElement | null)?.click()
+    try {
+      const mod = await loadModule()
+      await mod.setupGraph(slug)
+      if (openGlobal) (document.querySelector(".global-graph-icon") as HTMLElement | null)?.click()
+    } catch (error) {
+      for (const container of containers) {
+        container.replaceChildren()
+        const message = document.createElement("p")
+        message.className = "graph-status"
+        message.append("The interactive graph could not load. ")
+        const link = document.createElement("a")
+        link.href = "/graph"
+        link.textContent = "Open the full topic map"
+        message.append(link)
+        container.append(message)
+      }
+      console.warn("Topic graph unavailable", error)
+    }
   }
   const onIcon = () => void start(true)
   const onKey = (ev: KeyboardEvent) => {
@@ -42,9 +59,12 @@ document.addEventListener("nav", (e: CustomEventMap["nav"]) => {
   }
   let observer: IntersectionObserver | undefined
   if ("IntersectionObserver" in window) {
-    observer = new IntersectionObserver((entries) => entries.some((en) => en.isIntersecting) && void start(), {
-      rootMargin: "300px",
-    })
+    observer = new IntersectionObserver(
+      (entries) => entries.some((en) => en.isIntersecting) && void start(),
+      {
+        rootMargin: "300px",
+      },
+    )
     containers.forEach((c) => observer!.observe(c))
   } else void start()
   icons.forEach((i) => i.addEventListener("click", onIcon))

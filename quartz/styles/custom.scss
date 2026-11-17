@@ -1526,3 +1526,27 @@ footer.vfooter .vf-cols a { overflow-wrap: anywhere; }
   footer.vfooter { padding-right: 0; }
   footer.vfooter .vf-cols { flex-basis: 100%; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
+
+/* Small policy-page neighbourhoods do not need the full graph height. */
+.graph-about .graph-outer,
+.graph-about .graph-container {
+  height: 230px !important;
+}
+.graph-container {
+  position: relative;
+}
+.graph-status {
+  margin: 0;
+  padding: 32px;
+  box-sizing: border-box;
+  text-align: center;
+  color: var(--text-3);
+  font-size: 13px;
+  line-height: 1.6;
+}
+.graph-container > .graph-status {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  align-content: center;
+}
