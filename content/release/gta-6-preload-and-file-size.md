@@ -6,8 +6,8 @@ description: "GTA 6 pre-load opened Nov 10, 2026: PS5 at midnight local, Xbox at
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-17
+verified: 2026-11-17
 weight: 2
 tags: ["release", "preload", "ps5", "xbox"]
 tldr: "Pre-load opened on **Nov 10, 2026** (PS5 at midnight local, Xbox at 00:00 GMT worldwide). Rockstar says you need **up to 212 GB** free. Xbox's store shows 225.34 GB, but that is the same download counted in decimal units."
@@ -36,6 +36,11 @@ faq:
   - q: "Was GTA 6 pre-load Nov 12 or Nov 10?"
     a: "Nov 10. Rockstar announced Nov 12 in June, then moved it two days earlier in a Nov 3 Newswire post. Consequence's June guide, VICE's Oct 15 article and Tech Times on Nov 9 still say Nov 12."
 sources:
+  - title: "Spectrum free Gig Speed Lift for eligible customers"
+    url: "https://corporate.charter.com/newsroom/spectrum-giving-free-gig-speed-lift-thanksgiving-grand-theft-auto"
+    publisher: "Charter Communications"
+    date: "Nov 4, 2026; checked Nov 17"
+    tier: "primary"
   - title: "Grand Theft Auto VI Pre-Load Begins on November 10"
     url: "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
     publisher: "Rockstar Games Newswire"
@@ -129,6 +134,14 @@ Yes. The [[release/gta-6-physical-copy-no-disc|physical edition has no disc]]; i
 
 Some buyers, including Best Buy and Rockstar Store customers, report codes that are already used or missing. Kotaku's editor-in-chief could not reproduce the problem, and Rockstar has announced no specific fix. <span class="tag-reported">reported</span> Keep the receipt and contact the retailer and Rockstar Support.
 
+## Can Spectrum customers download GTA 6 faster for free?
+
+Some existing US customers can. [Charter's November 4 announcement](https://corporate.charter.com/newsroom/spectrum-giving-free-gig-speed-lift-thanksgiving-grand-theft-auto) offers eligible residential customers a temporary **Gig Speed Lift through November 30, 2026**, activated in the My Spectrum App. It requires a qualifying Internet plan, compatible equipment and no outstanding obligation to Spectrum. Restrictions apply and the offer is subject to change. <span class="tag-confirmed">confirmed</span>
+
+The lift raises eligible plans to 1 Gig; existing 1 Gig customers can move to 2 Gig in select areas. Charter says the bill does not change and the connection returns to its original speed tier when the promotion ends. Check the offer in your own app before opting in. This is not a reason to buy a new broadband plan or equipment just for GTA 6.
+
+Treat the advertised "less than 30 minutes" download as a provider claim, not a measured result or guarantee. Your connection, console, home network and download servers affect the time. A faster download still cannot bypass the [[release/gta-6-release-time-by-country|game's unlock time]]. The promotion is for eligible Spectrum customers, not a global or India offer.
+
 ## GTA 6 pre-load not working?
 
 These are general console steps, not Rockstar instructions.
@@ -145,4 +158,6 @@ These are general console steps, not Rockstar instructions.
 
 Yes. Update 1.002.000 started rolling out on Nov 13: about 1.07 GB on PS5, staggered so half of users got it first and the rest about 11 hours later, and about 2.18 to 2.2 GB on Xbox. It is reported as mandatory, and Rockstar has published no patch notes. <span class="tag-reported">reported</span> The 15 to 50 GB day-one patch guesses from before pre-load never materialized. <span class="tag-rumour">rumour</span> Details on the [[release/gta-6-day-one-patch|day-one patch page]].
 
-A console that has sat in Rest Mode or Sleep with auto-downloads on since Nov 10 should show the game at 100% with 1.002 installed. If it does, move on to the [[guides/gta-6-day-one-checklist|day-one checklist]]. What 212 GB buys you is on [[world/gta-6-map-size|map size]]; other launch questions are on the [[release/index|release hub]].
+A second update, **01.002.001**, began reaching pre-loads on November 16: about 602.5 MB on PS5 and 1.6 GB on Xbox, according to the reports collected on our [[release/gta-6-day-one-patch|patch tracker]]. The PS5 rollout was staged. These download sizes and rollout times are reported, not official patch notes. <span class="tag-reported">reported</span>
+
+Auto-download settings alone do not prove the latest update installed. Open your console's download queue and check for updates before following the [[guides/gta-6-day-one-checklist|day-one checklist]]. What 212 GB buys you is on [[world/gta-6-map-size|map size]]; other launch questions are on the [[release/index|release hub]].

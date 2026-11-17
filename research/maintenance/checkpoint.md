@@ -1,6 +1,10 @@
 # Editorial checkpoint
 
-Last checked: November 17, 2026, 14:52 IST.
+Last checked: November 17, 2026, 19:52 IST.
+
+Current live head before this buyer-guide batch: `77ff0ed022b5b539c40fc5edd90a7d2856210510`, successful deployment https://github.com/Kuberwastaken/gta/actions/runs/44066222790 . Public repo/license/contributions/SEO and compact policy graphs are already live. Mobile screenshot follow-through removed leftover desktop right padding: symmetric 16px gutters, full-width sticky navbar, header-anchored GitHub link. Preserve these fixes. The old pending paragraphs below are historical.
+
+This batch adds Charter's eligible-US-customer temporary Spectrum speed offer to the existing pre-load guide, with restrictions, expiry/reversion and no download-time guarantee; updates that guide's stale first-patch-only closing paragraph; and grounds the existing New Zealand PSN warning in Sony's actual residence/account rules. No claimed confirmed GTA-specific ban wave or new article. Verify deployment/live pixels after this batch.
 
 Current verified live content before this batch: `394a64ad4998abd1a3937c6543248981136de690`, Discord launch theme and quest guidance. Successful deployment: https://github.com/Kuberwastaken/gta/actions/runs/44016619576 . Prior CPS and Weather Channel updates are also live. Earlier hashes and pending notes below are historical, not outstanding work.
 
@@ -22,7 +26,7 @@ The site is https://gta.kuber.studio/ . Repository: Kuberwastaken/gta. This chec
 
 - Keep the homepage ASCII composition unbroken. No image on or below its hero. Real imagery stays on article/hub pages.
 - Preserve dated homepage updates, SEO metadata, evidence grades, body wikilinks and local/global graph links. No redesign or AI images.
-- 109 Markdown pages. The homepage is the intentional image-coverage exception. Media manifests: `research/media-assets.json` and `quartz/util/media-assets.json`.
+- 110 Markdown pages. The homepage is the intentional image-coverage exception. Media manifests: `research/media-assets.json` and `quartz/util/media-assets.json`.
 - Four Rockstar YouTube mappings are in `quartz/util/media.ts`. A thumbnail is not a successful playback test. YouTube may require sign-in/verification; keep direct fallbacks.
 - Run `node scripts/check-content.mjs`, `npx tsc --noEmit`, and `npx quartz build`. Inspect actual mobile390px and desktop1440px pixels before publishing. Graph drawing can take seconds; check actual nodes.
 - Sequential commits, batch pushes. Existing `.github/workflows/deploy.yml` publishes Pages and then IndexNow. Check the expected commit and actual live result. Diagnose failures; no blind rerun or push loops. No billing changes or spending.

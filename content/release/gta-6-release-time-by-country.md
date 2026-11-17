@@ -34,10 +34,19 @@ faq:
   - q: "Where does GTA 6 unlock first?"
     a: "New Zealand, at midnight NZDT on Nov 19 (11:00 UTC on Nov 18). Sydney follows two hours later, and the US store 18 hours later."
   - q: "Can I play GTA 6 early with a New Zealand account?"
-    a: "On PS5 it reportedly takes a New Zealand PSN account, a New Zealand payment method and a second copy bought on that store. A VPN or console clock change alone does nothing."
+    a: "A VPN or console clock change alone does not move your purchase to another store. Sony requires truthful residence details and may restrict accounts created with false information. We do not recommend making a false-region PSN account or buying a second copy to chase a few hours."
   - q: "What time does GTA 6 start on Xbox Cloud Gaming?"
     a: "1 AM ET on Nov 19, 2026, per Xbox Wire. On the US West Coast that is 10 PM PT on Nov 18, an hour after the US PS5 listing."
 sources:
+  - title: "Reports of suspended New Zealand PSN accounts; cause unconfirmed"
+    url: "https://vgtimes.com/gaming-news/174859-gta-vi-early-access-trick-may-put-playstation-accounts-at-risk.html"
+    publisher: "VGTimes"
+    date: "Nov 17, 2026"
+  - title: "PlayStation Terms of Service: account information and residence"
+    url: "https://www.playstation.com/en-us/legal/psn-terms-of-service/"
+    publisher: "Sony Interactive Entertainment"
+    date: "Checked Nov 17, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI: US PS5 release timestamp"
     url: "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
     publisher: "PlayStation Store"
@@ -148,13 +157,17 @@ Western Brazilian states such as Amazonas sit an hour behind Brasília and would
 
 ## When does GTA 6 unlock on Xbox and Xbox Cloud Gaming?
 
-Rockstar uses the same "midnight local" wording for Xbox Series X|S, and Microsoft Store data lists per-market timestamps that match the PS5 windows. That rests on store-page data, not a Microsoft statement. <span class="tag-reported">reported</span>
+Rockstar uses the same "midnight local" wording for Xbox Series X|S. We have not independently confirmed the native Xbox storefront hours here, so check your own console countdown rather than treating the US PS5 listing as Xbox evidence.
 
-Xbox Wire's Nov 10 post puts cloud play on Xbox One and Series X|S at 1 AM ET on Nov 19, an hour after the native US unlock, so a Pacific player on cloud starts at 10 PM PT. <span class="tag-confirmed">confirmed</span> Microsoft gave only the Eastern time; whether other countries get cloud access at their own midnight or at one 06:00 UTC moment is unknown. You still have to buy the game, since it is not on Game Pass. Details on the [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud page]].
+Xbox Wire's Nov 10 post puts cloud play on Xbox One and Series X|S at 1 AM ET on Nov 19, an hour after the US PS5 listing, so a Pacific player on cloud starts at 10 PM PT. <span class="tag-confirmed">confirmed</span> Microsoft gave only the Eastern time; whether other countries get cloud access at their own midnight or at one 06:00 UTC moment is unknown. You still have to buy the game, since it is not on Game Pass. Details on the [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud page]].
 
 ## Can you play GTA 6 early with a New Zealand account?
 
-On PS5, GTA BOOM reports that early play needs a New Zealand PSN account and a New Zealand payment method. <span class="tag-reported">reported</span> A VPN or a changed console clock does nothing, because the store region of the account that owns the game sets the unlock. Sources disagree about Xbox region switching. <span class="tag-rumour">rumour</span> In practice the trick means buying a second copy on the NZ store, and it may breach store terms.
+On PS5, GTA BOOM reports that early play needs a New Zealand PSN account and a New Zealand payment method. <span class="tag-reported">reported</span> A VPN or a changed console clock does nothing, because the store region of the account that owns the game sets the unlock. Sources disagree about Xbox region switching. <span class="tag-rumour">rumour</span> Do not treat a second purchase or a false-region account as a safe launch-night shortcut.
+
+[Sony's actual account terms](https://www.playstation.com/en-us/legal/psn-terms-of-service/) require accurate account information and selection of your country or region of residence. Sections 3.1 and 3.2 allow account restrictions for false information and say the account's country cannot be changed after creation. <span class="tag-confirmed">confirmed</span> That is a concrete account risk, not a guaranteed early-unlock method.
+
+Reports of suspended New Zealand accounts are circulating, but a suspension screenshot does not prove that GTA 6 or the account region caused it. We have not independently verified a GTA-specific ban wave. Wait for your own store countdown rather than buying another copy or using an account supplied by an unknown seller.
 
 ## What time is it for you when New Zealand starts?
 
