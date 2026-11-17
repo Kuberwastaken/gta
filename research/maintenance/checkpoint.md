@@ -1,3 +1,7 @@
+## Nov 17 23:52 IST performance follow-through
+
+Current live head before this batch is f39ebff0ec768d7a127641178c95e7bfe42220b8, successful expected-head deployment https://github.com/Kuberwastaken/gta/actions/runs/44102398962 . Buyer guides verified live393/1440; no pending prior deployment. This batch adds directly inspected Digital Foundry episode290 frame-budget analysis to the existing performance guide, explicitly not final-game benchmarks.30/40/60fps budgets calculated at33.3/25/16.7ms. Corrected unsupported inference that omitted ray-tracing features are disproved. No design changes; protected77ffmobilegutters/header intact.110pages. This batch deployment must be verified after push.
+
 # Editorial checkpoint
 
 Last checked: November 17, 2026, 19:52 IST.

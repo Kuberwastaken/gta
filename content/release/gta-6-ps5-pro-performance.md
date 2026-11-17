@@ -5,8 +5,8 @@ shortTitle: "PS5 Pro and performance"
 description: "GTA 6 runs at 30 fps on PS5, PS5 Pro and Xbox Series X|S with no 60 fps mode. The Pro adds PSSR and ray-traced shadows. No console resolutions disclosed."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-17
+verified: 2026-11-17
 weight: 5
 tags: ["release", "performance", "ps5", "platforms"]
 tldr: "GTA 6 targets **30 fps on every console, PS5 Pro included**, with no 60 fps, 40 fps or performance mode at launch (Rockstar, Nov 10). The Pro's only extras are **PSSR upscaling and ray-traced shadows**. No resolution figures exist for any console."
@@ -29,12 +29,22 @@ faq:
   - q: "Is GTA 6 better on PS5 Pro?"
     a: "It looks better, it doesn't run faster. The Pro adds PSSR upscaling and ray-traced shadows; frame rate, content and features match the base PS5."
   - q: "Does GTA 6 have ray tracing on base PS5?"
-    a: "Rockstar only lists ray-traced shadows, and only for PS5 Pro. A pre-release ComicBook.com leak promising ray-traced reflections and lighting doesn't match the official list."
+    a: "Rockstar specifically advertises ray-traced shadows for PS5 Pro. That list does not establish every ray-tracing technique used on base PS5; the earlier reflections and lighting leak remains unverified."
   - q: "Will GTA 6 get a 40 fps or 60 fps patch?"
     a: "Nothing is announced. Notebookcheck found 120 Hz output settings and PSSR v13.60 references in the files, which would fit a 40 fps mode, but Rockstar has said nothing."
   - q: "Can I play GTA 6 on PlayStation Portal?"
     a: "Yes, through Remote Play from your own PS5, per The Shortcut. Quality depends on your home network."
 sources:
+  - title: "Digital Foundry episode 290: console frame-rate analysis"
+    url: "https://www.youtube.com/watch?v=7PLhEMgXdQs"
+    publisher: "Digital Foundry"
+    date: "Nov 16, 2026"
+    tier: "primary"
+  - title: "Digital Foundry episode 290: publisher episode notes"
+    url: "https://shows.acast.com/digital-foundry-direct-weekly/episodes/df-direct-weekly-290-jensen-quits-nvidia-gta-6-ps5-pro-xbox"
+    publisher: "Digital Foundry / Acast"
+    date: "Nov 16, 2026"
+    tier: "primary"
   - title: "GTA 6 PS5 Pro enhancements revealed"
     url: "https://www.theshortcut.com/p/gta-6-ps5-pro-enhancements-revealed"
     publisher: "The Shortcut"
@@ -98,7 +108,19 @@ Rockstar's site says GTA VI "Plays Best On PS5", and every trailer plus the 26-m
 
 No. Two claims say otherwise and both conflict with Rockstar's post. gta6-life.com publishes a table with a 60 fps "Performance" mode, and an older Rock and Borys podcast rumour promised 30 and 60 fps modes. <span class="tag-debunked">debunked</span> A "performance mode" settings screenshot did not come from Rockstar. Claims like these are tracked in [[leaks/index|leaks and rumours]].
 
-Rockstar has not explained the 30 fps choice.
+## Why is 40 fps harder than it sounds?
+
+In [Digital Foundry Direct Weekly episode 290](https://www.youtube.com/watch?v=7PLhEMgXdQs), the team discusses the announced console targets from the 24:06 chapter. Richard Leadbetter explains the CPU and simulation budget behind the choice: a higher frame rate leaves less time to process the same dense world. This is **technical analysis**, not a benchmark of the released game. <span class="tag-reported">reported</span>
+
+| Target | Time available for each frame |
+| --- | --- |
+| 30 fps | About 33.3 milliseconds |
+| 40 fps | 25 milliseconds |
+| 60 fps | About 16.7 milliseconds |
+
+These are frame-time calculations, not measured GTA 6 results. Moving from 30 to 40 fps removes a quarter of the time available for each frame. Leadbetter argues that meeting that budget could require substantial optimization or cutbacks. Better upscaling can help image quality, but it does not by itself prove that the CPU can finish the simulation faster.
+
+That is why a 120 Hz setting or a rumoured file reference is not evidence of a working 40 fps mode. Nor does this analysis prove a future patch is impossible. Wait for announced modes and repeatable tests of the final game, including frame pacing, rather than treating a target as a locked result.
 
 ## What does the PS5 Pro add?
 
@@ -106,7 +128,7 @@ PSSR (PlayStation Spectral Super Resolution) is Sony's machine-learning upscaler
 
 Without resolution figures, nobody can say yet how much sharper the Pro is. Expect pixel counts from Digital Foundry and others after the reported [[release/gta-6-reviews-and-review-embargo|Nov 18 review embargo]].
 
-A ComicBook.com "PlayStation leak" before the official post promised ray-traced reflections, shadows and lighting on Pro. Rockstar's list names shadows only, so treat reflections and lighting as not happening at launch. <span class="tag-debunked">debunked</span> (as stated)
+A ComicBook.com "PlayStation leak" before the official post promised ray-traced reflections, shadows and lighting on Pro. Rockstar's list names shadows only. That does not independently confirm the earlier reflections or lighting claims, but an omission alone does not disprove every other ray-tracing technique either. Keep those claims unverified until supported by the game or a technical test. <span class="tag-rumour">rumour</span>
 
 ### Should you buy a PS5 Pro for GTA 6?
 

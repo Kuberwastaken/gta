@@ -90,3 +90,11 @@ Validation: 109 content files, zero content errors/warnings; TypeScript and Quar
 - Sony primary account terms read directly: https://www.playstation.com/en-us/legal/psn-terms-of-service/ . Sections3.1/3.2 require accurateinformation/residence region and allow restrictions for falseinformation; account country fixed aftercreation. Actualterms, not proof of new GTA-specific policy or banwave.
 - https://vgtimes.com/gaming-news/174859-gta-vi-early-access-trick-may-put-playstation-accounts-at-risk.html read directly: secondary SourceVI-attributed suspensions, causation explicitly unconfirmed. https://gtaculture.com/news/gta-6-new-zealand-playstation-ban read directly as contrasting secondary analysis. Neither used as proof that GTA/region caused any suspension. No procedural region-bypass instructions added.
 - Secondpatch01.002.001 secondary scope matches existing patchtracker and current fetched reporting: about602.5MBPS5/1.6GBXbox,stagedPS5,noofficialnotes. Pre-loadguide crosslink corrected, not a new measurement.
+
+
+## Nov 17 23:52 IST: performance source follow-through
+
+- Primary Digital Foundry episode290 https://www.youtube.com/watch?v=7PLhEMgXdQs actual transcript fetched, console-performance discussion from24:06. Leadbetter explains33.3ms at30fps,25ms at40fps and optimization/cutback tradeoff. Analysis, not released-game measurement or proof a future40fps patch is impossible.
+- Publisher notes https://shows.acast.com/digital-foundry-direct-weekly/episodes/df-direct-weekly-290-jensen-quits-nvidia-gta-6-ps5-pro-xbox confirmsNov16episode/chapter24:06. Secondary Dexerto story is corroboration, not the basis for measurements.
+- Bloomberg actual Q&A landing returned title/footer only; not enough organizer timing evidence. Secondary VICE review-embargo story contains contradictory NewZealand date/time wording; not imported or used to confirm embargo. Metacritic blocking report secondary only; no claimed live-score verification.
+-21:50cycle: SensorTower own undated report landing11.2M+/$1B is not a replacement for a dated newer secondary12M estimate; tracker blank. Secondary15.88M/$1.54B/87percent not upgraded. No sales figures changed.
