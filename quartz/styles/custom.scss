@@ -1550,3 +1550,28 @@ footer.vfooter .vf-cols a { overflow-wrap: anywhere; }
   display: grid;
   align-content: center;
 }
+
+/* Mobile chrome shares one full-width surface and one symmetric reading gutter. */
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.left:has(.explorer) {
+    position: sticky;
+    top: 0;
+    width: calc(100% + 32px);
+    margin: 0 -16px;
+    padding: 12px 16px !important;
+    background: var(--bg);
+    border-bottom: 1px solid var(--hair);
+    z-index: 50;
+  }
+  .page > #quartz-body .center { padding-right: 0; }
+  .github-nav { position: absolute; top: 12px; right: 16px; }
+  .page > #quartz-body .sidebar.left .explorer-content { left: 0; }
+  html { scroll-padding-top: 80px; }
+}
+@media (max-width: 360px) {
+  .side-brand .brand { gap: 6px; }
+  .side-brand .wordmark { font-size: 20px; white-space: nowrap; }
+  .side-brand .mark { width: 20px; height: 20px; }
+  .left.sidebar .flex-component { gap: 4px !important; }
+  .search > .search-button { width: 38px; box-sizing: border-box; padding: 0; justify-content: center; }
+}
