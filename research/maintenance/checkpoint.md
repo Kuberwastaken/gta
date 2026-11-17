@@ -1,12 +1,16 @@
 # Editorial checkpoint
 
-Last checked: November 17, 2026, 14:34 IST.
+Last checked: November 17, 2026, 14:52 IST.
 
 Current verified live content before this batch: `394a64ad4998abd1a3937c6543248981136de690`, Discord launch theme and quest guidance. Successful deployment: https://github.com/Kuberwastaken/gta/actions/runs/44016619576 . Prior CPS and Weather Channel updates are also live. Earlier hashes and pending notes below are historical, not outstanding work.
 
 Final pre-launch polish is being published with this checkpoint. Four existing guides corrected: direct Sony GTA+ claim/renewal terms, Xbox redemption clock, realistic private used-code troubleshooting, and US PS5 release timestamp versus unverified native Xbox hours. No new article or design change. Content, TypeScript and build pass; static audit checks 170 HTML pages with no internal-link/asset/metadata/H1/alt issues. Search returns results, graph draws nodes, trailer embed and direct fallback remain present. Actual 390/1440px screenshots inspected. Deployment and actual live verification must still be checked for this new commit.
 
 Both author and committer must remain kuberwastaken with 97027230+Kuberwastaken@users.noreply.github.com. The older identity history was rewritten centrally; do not merge the held original clone or rewrite remote history here.
+
+## Licensing and contribution batch
+
+Preceding final-polish commit f88e463b5b9f92ca248f1e24c706937d94c335fb is verified live in successful run https://github.com/Kuberwastaken/gta/actions/runs/44052169231 . This batch adds original-editorial-text CC BY 4.0, preserved MIT code scope, third-party exclusions, PR-first contribution guidance, top-right GitHub project link and a two-day news-sitemap correction. 110 content pages. Repository public visibility and this batch's live deployment must be checked after publication. No extra credit condition on mere mentions or copyright exceptions.
 
 ## Recovery
 

@@ -57,6 +57,9 @@ export const SideBrand: QuartzComponent = ({ fileData }: QuartzComponentProps) =
   return (
     <div class="side-brand">
       <GlassDefs />
+      <a class="github-nav" href={site.repo} aria-label="Contribute to GTA VI Wire on GitHub" title="Contribute on GitHub">
+        <img src="/static/github-mark.png" width="24" height="24" alt="GitHub" />
+      </a>
       <a class="brand" href={resolveRelative(slug, "index" as FullSlug)} aria-label={`${site.name} home`}>
         <Mark />
         <Wordmark />
@@ -477,6 +480,7 @@ export const ViceFooter: QuartzComponent = ({ fileData }: QuartzComponentProps) 
           Sourced, graded GTA 6 coverage from Vice City to the Keys. Orchestrated by{" "}
           <a href="https://kuber.studio/">Kuber Mehta</a>.
         </p>
+      <p class="vf-license">Original editorial text: <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Credit the author(s) and link the original article. <a href={to("about/contribute-and-reuse")}>Reuse terms and third-party exclusions</a>.</p>
       </div>
       <div class="vf-cols">
         <nav aria-label="Read">
@@ -492,6 +496,7 @@ export const ViceFooter: QuartzComponent = ({ fileData }: QuartzComponentProps) 
           <a href={to("about/index")}>About the site</a>
           <a href={to("about/how-we-grade")}>How we grade</a>
           <a href={to("about/corrections")}>Corrections</a>
+          <a href={to("about/contribute-and-reuse")}>Contribute · CC BY 4.0</a>
           <a href={to("graph")}>Topic graph</a>
         </nav>
         <nav aria-label="Follow">
@@ -499,7 +504,7 @@ export const ViceFooter: QuartzComponent = ({ fileData }: QuartzComponentProps) 
           <a href="/index.xml">RSS</a>
           <a href="/news.xml">News RSS</a>
           <a href="https://x.com/Kuberwastaken">X</a>
-          <a href="https://github.com/Kuberwastaken">GitHub</a>
+          <a href={site.repo}>Contribute on GitHub</a>
         </nav>
       </div>
     </footer>

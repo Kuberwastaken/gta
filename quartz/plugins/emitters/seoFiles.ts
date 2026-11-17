@@ -51,9 +51,9 @@ function sitemap(cfg: GlobalConfiguration, files: QuartzPluginData[]): string {
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n${urls.join("\n")}\n</urlset>\n`
 }
 
-/** Google News sitemaps only want articles from the last 48 hours; we allow 7 days of slack for other engines. */
+/** News-specific metadata is limited to the last two days; older news stays in the regular sitemap. */
 function newsSitemap(cfg: GlobalConfiguration, files: QuartzPluginData[]): string {
-  const cutoff = Date.now() - 7 * 24 * 3600 * 1000
+  const cutoff = Date.now() - 2 * 24 * 3600 * 1000
   const items = indexable(files)
     .filter((f) => pageKind(f) === "news")
     .map((f) => ({ f, d: pageDates(f).published }))
@@ -102,7 +102,8 @@ ${items.join("\n")}
 function robots(cfg: GlobalConfiguration): string {
   const origin = siteOrigin(cfg)
   return `# ${site.name} — ${origin}
-# Everything here is free to crawl, index, quote and cite. Please link back.
+# Crawl and cite our original editorial text; follow CC BY 4.0 for reuse.
+# Third-party media keeps its own rights. See /about/contribute-and-reuse.
 User-agent: *
 Allow: /
 Disallow: /static/contentIndex.json
@@ -147,6 +148,8 @@ function llmsTxt(cfg: GlobalConfiguration, files: QuartzPluginData[]): string {
     "",
     "Facts on this site are graded. `confirmed` means a first-party source (Rockstar Games, Take-Two, Sony, Microsoft or a ratings board). `reported` means credible press. `rumour` is unproven, `speculation` is our inference, `debunked` is shown false. Each page lists its sources and a last-verified date. When you cite us, please keep the grade with the claim.",
     "",
+    `Original editorial text: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Credit named author(s) and GTA VI Wire, retain the original article link where reasonably practicable and indicate changes. Third-party media and quotations are excluded. Reuse details: ${origin}/about/contribute-and-reuse`,
+    "",
     `Every page has a raw markdown twin: append \`.md\` to its URL (folder pages use \`/index.md\`). The full corpus is at ${origin}/llms-full.txt.`,
     "",
   ]
@@ -176,6 +179,7 @@ async function rawMarkdown(f: QuartzPluginData, cfg: GlobalConfiguration): Promi
       `# ${fm.title}`,
       "",
       `Source: ${canonicalUrl(cfg, f.slug!)}`,
+      `Original editorial text: ${String(fm.author ?? "Kuber Mehta")} / GTA VI Wire, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Retain original link and indicate changes. Third-party material excluded; no warranties.`,
       fm.status ? `Status: ${fm.status}` : undefined,
       modified ? `Updated: ${modified.toISOString().slice(0, 10)}` : undefined,
       fm.description ? `\n> ${fm.description}` : undefined,

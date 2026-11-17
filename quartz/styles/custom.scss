@@ -1502,3 +1502,27 @@ footer.vfooter {
 @media all and ($mobile) {
   .page > #quartz-body .sidebar.left > div:has(> .countdown-link) { display: none; }
 }
+
+/* Repository shortcut, secondary to the existing brand. */
+.github-nav { position: fixed; top: 18px; right: 18px; z-index: 55; display: grid; place-items: center; width: 40px; height: 40px; border-radius: 10px; background: var(--raised) !important; border: 1px solid var(--hair); }
+.github-nav img { width: 24px; height: 24px; margin: 0; }
+.github-nav:focus-visible { outline: 2px solid var(--pink); outline-offset: 3px; }
+.vf-license { font-size: 12px; line-height: 1.6; color: var(--text-3); }
+@media all and ($mobile) {
+  .github-nav { top: 20px; right: 16px; width: 32px; height: 36px; }
+  .github-nav img { width: 22px; height: 22px; }
+  .left.sidebar .flex-component { margin-right: 40px; }
+  .search > .search-button p { display: none; }
+  .search > .search-button { padding: 0 10px; }
+}
+
+footer.vfooter { box-sizing: border-box; padding-right: 24px; }
+footer.vfooter .vf-brand { flex: 0 1 360px; min-width: 0; }
+footer.vfooter .vf-cols { flex: 1 1 420px; min-width: 0; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+footer.vfooter .vf-cols nav { min-width: 0; }
+footer.vfooter .vf-cols a { overflow-wrap: anywhere; }
+:root[saved-theme="dark"] .github-nav img { filter: invert(1); }
+@media all and ($mobile) {
+  footer.vfooter { padding-right: 0; }
+  footer.vfooter .vf-cols { flex-basis: 100%; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}

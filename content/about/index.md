@@ -5,8 +5,8 @@ shortTitle: "About"
 description: "GTA VI Wire is an independent, sourced GTA 6 reference run by developer and writer Kuber Mehta. Not affiliated with Rockstar Games or Take-Two Interactive."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-17
+verified: 2026-11-17
 weight: 1
 tags: ["news", "rockstar", "leaks"]
 tldr: "GTA VI Wire is an **independent fan reference run by Kuber Mehta**, with every claim graded and sourced. It is **not affiliated with Rockstar Games or Take-Two Interactive**. See [[about/how-we-grade|how we grade]] and the [[leaks/index|leaks ledger]]."
@@ -50,7 +50,7 @@ GTA VI Wire is an independent reference for Grand Theft Auto VI. Every factual c
 
 ## Is this an official Rockstar site?
 
-No. **GTA VI Wire is not affiliated with, endorsed by or sponsored by Rockstar Games, Take-Two Interactive, Sony or Microsoft.** Grand Theft Auto, GTA VI and related names are trademarks of their owners. We do not embed Rockstar artwork or screenshots; we describe trailers and link to [Rockstar's official GTA VI site](https://www.rockstargames.com/VI).
+No. **GTA VI Wire is not affiliated with, endorsed by or sponsored by Rockstar Games, Take-Two Interactive, Sony or Microsoft.** Grand Theft Auto, GTA VI and related names are trademarks of their owners. Article pages display credited official promotional media and embed official trailers with viewing fallbacks. Those materials retain their owners' rights. We link to [Rockstar's official GTA VI site](https://www.rockstargames.com/VI).
 
 We have no early access, no review code and no inside line. What we do is read the primary sources (Rockstar's site and Newswire, [Take-Two's SEC filings](https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm), Sony and Microsoft posts, ratings boards) and label everything else for what it is.
 
@@ -79,3 +79,10 @@ People search for leaks, and an unlabeled rumour spreads faster than a correctio
 - On GitHub: [github.com/Kuberwastaken](https://github.com/Kuberwastaken)
 
 Send errors and better sources. Accepted fixes are logged on the [[about/corrections|corrections page]] with the date and what changed.
+
+
+## Can I contribute or reuse an article?
+
+**Contributions welcome as pull requests.** Fork [the GTA VI Wire repository](https://github.com/Kuberwastaken/gta) and send a focused PR with sources and checks. Read [[about/contribute-and-reuse|contribution and reuse guidance]] first.
+
+Original editorial text is **CC BY 4.0**: reuse it with author/site credit, an original-article link where reasonably practicable, a license link and a note of changes. Code remains MIT. Rockstar and other third-party media are excluded; credit is not permission to relicense them.

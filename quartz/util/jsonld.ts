@@ -257,7 +257,10 @@ export function buildJsonLd(cfg: GlobalConfiguration, fd: QuartzPluginData, ctx:
             })),
           }
         : {}),
-      copyrightHolder: { "@id": `${origin}/#org` },
+      license: "https://creativecommons.org/licenses/by/4.0/",
+      acquireLicensePage: `${origin}/about/contribute-and-reuse`,
+      creditText: `${author.name} / ${site.name}. Original editorial text only; third-party media excluded.`,
+      copyrightHolder: { "@id": author.id },
       isAccessibleForFree: true,
     }
     graph.push(article)

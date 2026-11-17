@@ -56,6 +56,7 @@ export default (() => {
         <title>{title}</title>
         <meta name="description" content={description} />
         <link rel="canonical" href={url} />
+        {isArticle && <link rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="Original editorial text only; third-party media excluded" />}
         <meta
           name="robots"
           content={
