@@ -5,8 +5,8 @@ shortTitle: "Launch livestreams"
 description: "YouTube confirms its 24-hour GTA 6 launch stream, RDCWorld pre-show and named creators. Start times in ET, UTC, UK, India and Pacific, with source limits."
 status: "mixed"
 published: 2026-11-16
-updated: 2026-11-16
-verified: 2026-11-16
+updated: 2026-11-17
+verified: 2026-11-17
 weight: 11
 heroImage: "jason-and-lucia-14"
 tags: ["guides", "release", "community", "livestreams"]
@@ -30,6 +30,11 @@ faq:
   - q: "Is Kai Cenat's GTA 6 marathon confirmed for a specific launch time?"
     a: "Press reports describe his intention to marathon the game, but we have not recovered a first-person launch schedule with a specific go-live time. He is not listed here as a time-confirmed stream."
 sources:
+  - title: "Give Discord a Vice City Makeover"
+    url: "https://discord.com/blog/vice-city-theme-available-in-discord"
+    publisher: "Discord"
+    date: "Nov 16, 2026; checked Nov 17"
+    tier: "primary"
   - title: "Sunset Reward Case: Claim a free copy of GTA VI on KICK"
     url: "https://help.kick.com/en/articles/18357299-sunset-reward-case-claim-a-free-copy-of-gta-vi-on-kick"
     publisher: "KICK Help Center"
@@ -157,6 +162,16 @@ Important limits come before any viewing plan:
 - Codes **will not be issued before November 19** and may arrive later, after availability and eligibility checks. A win is not a launch-midnight delivery promise.
 
 Read the linked campaign rules before entering. This is an optional viewing promotion, not a reliable way to budget for the game; compare actual purchase routes in [[guides/gta-6-cheapest-way-to-play|the cost guide]]. No purchase or subscription requirement is stated in the help guide's watch-to-unlock steps.
+
+## Discord's Vice City theme and Pre-Load Quest
+
+If you are gathering with friends on Discord rather than watching a broadcast, Discord has a separate [Vice City theme promotion](https://discord.com/blog/vice-city-theme-available-in-discord). Its November 16 announcement offers a **color theme, app icon and Display Name Style** on desktop and mobile <span class="tag-confirmed">confirmed</span>. These change Discord's appearance, not GTA VI's game content.
+
+- **November 16-22:** Discord says its announcement's button takes you to the theme in Quest Home, where you can apply it.
+- **After November 22:** find the theme and app icon under **User Settings > Appearance** on desktop, or **Settings > App Settings** on mobile. The Display Name Style appears when customizing your profile.
+- **Availability:** the announcement says everyone can use the theme through **December 13**; Nitro members, **excluding Nitro Basic**, get it through **February 20**. Discord does not print a year beside that February date or give a cutoff time in the post. This is limited-time access, not a permanent unlock.
+
+The same post links a **GTA VI Pre-Load Video Quest**, with Orbs for eligible players and a **November 18** end date. It does not state the Orb amount, country coverage or exact ending hour there. Check the offer in your own Quest Home for those details. The theme and the Video Quest are separate offers; neither is a free game code, an in-game reward or a reason to buy Nitro. No subscription is needed for the theme's everyone-access period.
 
 ## What to know before tuning in
 
