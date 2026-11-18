@@ -2,21 +2,21 @@
 title: "GTA 6 sales and pre-orders: $1 billion estimates, store records and forecasts"
 seoTitle: "GTA 6 Pre-Orders and Sales: $1B, 10M+ and Forecasts"
 shortTitle: "Sales and pre-orders"
-description: "Sony and Microsoft call GTA 6 their stores' most pre-ordered game. Sensor Tower estimates $1B and 10.31M units by Nov 11; Take-Two guides $3.35-3.5B."
+description: "Sensor Tower estimates $1.1B and 11.3M GTA 6 pre-orders as of Nov 10. Conflicting snapshots explained, with store records and Take-Two forecasts."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-18
+verified: 2026-11-18
 weight: 16
 tags: ["release", "sales", "take-two"]
-tldr: "Sony and Microsoft both say GTA 6 is the **most pre-ordered game in their stores' history**. Take-Two gives no count; Sensor Tower estimates about $1.0B and 10.31M units as of Nov 11 and 12M+ through Nov 13. Take-Two guides **$3.35–3.5B** in net bookings for the Oct–Dec launch quarter."
+tldr: "Sony and Microsoft both say GTA 6 is the **most pre-ordered game in their stores' history**. Take-Two gives no count; Sensor Tower's own Nov 17 post estimates $1.1B and 11.3M copies as of Nov 10. Older secondary snapshots disagree; CNBC relays 12M+ through Nov 13. Take-Two guides **$3.35–3.5B** in net bookings for the Oct–Dec launch quarter."
 facts:
   - k: "PS Store"
     v: "Most pre-ordered game ever (Sony)"
   - k: "Microsoft Store"
     v: "Most pre-ordered title ever (Microsoft)"
-  - k: "Sensor Tower, Nov 11"
-    v: "~$1.0B, ~10.31M units"
+  - k: "Sensor Tower own post, Nov 10 snapshot"
+    v: "~$1.1B, ~11.3M units (estimate)"
   - k: "Sensor Tower, Nov 13"
     v: "12M+ (via CNBC)"
   - k: "Platform split (est.)"
@@ -27,16 +27,25 @@ facts:
     v: "$8.0-8.2B net bookings"
 faq:
   - q: "How many pre-orders does GTA 6 have?"
-    a: "Take-Two hasn't said. Sensor Tower estimated about 10.31M units and $1.0B, net of returns, as of Nov 11, and CNBC reported its estimate at over 12M through Nov 13."
+    a: "Take-Two hasn't said. Sensor Tower's Nov 17 analyst post gives 11.3M copies and $1.1B as of Nov 10. CNBC relays over 12M through Nov 13. These are estimates, and the older secondary snapshots do not fully agree."
   - q: "Is GTA 6 the most pre-ordered game ever?"
     a: "Per store, yes: Sony and Microsoft both said so on Nov 11. Any cross-platform all-time record rests on Sensor Tower's estimates."
   - q: "How many copies will GTA 6 sell?"
     a: "Most first-year analyst forecasts sit between 31M (Wolfe Research) and 45M (Bank of America); Morningstar says 60-70M in FY27. GTA V sold 11.21M in its first 24 hours."
   - q: "Has GTA 6 made $1 billion?"
-    a: "In pre-orders, roughly, per Sensor Tower's Nov 11 estimate. Take-Two's first real figures will come with its launch-quarter results."
+    a: "Sensor Tower estimates $1.1B in worldwide console pre-order revenue as of Nov 10. That is third-party modeled revenue, not a company-confirmed sales result."
   - q: "Did Take-Two's stock go up because of GTA 6?"
     a: "Shares rose about 8% after the Nov 9 report, even though quarterly bookings fell 18% and missed Take-Two's own guidance."
 sources:
+  - title: "GTA VI Breaks Record >$1B Pre-Order: dated analyst snapshot"
+    url: "https://sensortower.com/blog/gta-vi-breaks-record-greater-than-1b-pre-order-or-sensor-tower-report"
+    publisher: "Sensor Tower / Sam Aune"
+    date: "Nov 17, 2026; figures as of Nov 10"
+    tier: "primary"
+  - title: "GTA VI Sales Tracker"
+    url: "https://sensortower.com/grand-theft-auto-VI/sales-tracker"
+    publisher: "Sensor Tower"
+    tier: "primary"
   - title: "Take-Two Q2 FY27 earnings release (8-K)"
     url: "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm"
     publisher: "Take-Two Interactive / SEC"
@@ -86,7 +95,7 @@ related: ["release/gta-6-price-and-editions", "news/2026-11-09-take-two-q2-earni
 
 GTA 6 is the most pre-ordered game in the history of both console stores. On Nov 11, Sony called it "the most pre-ordered game in the history of PlayStation Store", and Microsoft called it "the most pre-ordered title of all time on the Microsoft Store". <span class="tag-confirmed">confirmed</span> (as reported by GamesRadar+ and PC Gamer)
 
-Take-Two has published no pre-order count. Every unit or dollar figure in the headlines is a third-party estimate, mostly from Sensor Tower, whose methodology is unpublished.
+Take-Two has published no pre-order count. Unit and dollar totals discussed below are third-party estimates, mostly from Sensor Tower. Its own analyst post identifies Video Game Insights as the source, but the post does not expose enough method detail to reproduce the totals. A primary source for an estimate is still not a publisher sales disclosure.
 
 ## How many pre-orders does GTA 6 have?
 
@@ -95,10 +104,19 @@ Take-Two has published no pre-order count. Every unit or dollar figure in the he
 | As of | Sensor Tower estimate | Reported by |
 | --- | --- | --- |
 | ~Nov 3 | ~$750M; ~7.7M copies in early November | Tech Times (Nov 9) |
+| Nov 10 | ~$1.1B; 11.3M copies worldwide across PlayStation and Xbox | Sensor Tower own analyst post (Nov 17) |
 | Nov 11 | ~$1.0B, ~10.31M units, net of returns | TweakTown, Forbes |
 | Through Nov 13 | 12M+ pre-orders | CNBC (Nov 14) |
 
-The Nov 11 platform split gives PlayStation about 75%, or 7.73M units worth about $751M, and Xbox about 2.58M units worth about $250M. Sensor Tower also estimates 89% of pre-orders are the $99.99 Ultimate Edition. <span class="tag-reported">reported</span> The numbers hang together: $1.0B over 10.31M units is about $97 a copy, close to an Ultimate-heavy mix. <span class="tag-speculation">speculation</span>
+### Why do the snapshots disagree?
+
+[Sensor Tower's November 17 analyst post](https://sensortower.com/blog/gta-vi-breaks-record-greater-than-1b-pre-order-or-sensor-tower-report), written by lead gaming insights analyst Sam Aune, explicitly dates its **11.3M copies and $1.1B** to **November 10**. <span class="tag-reported">reported</span> (third-party estimate) That is an earlier date but a higher unit total than the Nov 11 figure relayed by TweakTown and Forbes. The post does not explain that mismatch. It could reflect different snapshots or revisions, but we have not established the cause.
+
+Do not subtract these rows to calculate daily sales, combine them into a growth chart, or silently treat publication date as the date of the estimate. We preserve the older reports as dated claims and now link the analyst's own account directly. Sensor Tower's live tracker did not expose readable current totals in our check, so newer figures repeated elsewhere are not promoted here as verified tracker readings.
+
+Sensor Tower also calls its Nov 10 snapshot the largest pre-launch total on record. That is the firm's comparative claim, not a cross-platform record independently certified by Rockstar. Its forecasts of attention moving away from other games are forecasts, not observed post-launch results.
+
+The older Nov 11 platform split gives PlayStation about 75%, or 7.73M units worth about $751M, and Xbox about 2.58M units worth about $250M. Sensor Tower also estimates 89% of pre-orders are the $99.99 Ultimate Edition. <span class="tag-reported">reported</span> The numbers hang together: $1.0B over 10.31M units is about $97 a copy, close to an Ultimate-heavy mix. <span class="tag-speculation">speculation</span>
 
 A search snippet credited Sensor Tower with "$1.18B from 12M units", and another blog cites $1.09B. Neither dollar figure is verified. CNBC's 12M+ unit count through Nov 13 is. <span class="tag-rumour">rumour</span> (the $1.18B)
 
