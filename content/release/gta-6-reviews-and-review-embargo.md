@@ -5,11 +5,11 @@ shortTitle: "Reviews and embargo"
 description: "GTA 6 reviews reportedly go live Wed, Nov 18, 2026, the day before launch, per NateTheHate and Insider Gaming. Rockstar hasn't confirmed it. No Metacritic yet."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-18
+verified: 2026-11-18
 weight: 12
 tags: ["release", "reviews", "rumours"]
-tldr: "GTA 6 reviews are **reported** to go live on **Wednesday, Nov 18, 2026**, the day before launch. NateTheHate and Insider Gaming say codes went out in late October; **Rockstar has not confirmed** the embargo. A claimed 6-7 AM EST lift time is unverified, and there is no Metacritic score yet."
+tldr: "GTA 6 reviews are **reported** to go live on **Wednesday, Nov 18, 2026**, the day before launch. NateTheHate and Insider Gaming say codes went out in late October; **Rockstar has not confirmed** the embargo. A claimed 6-7 AM EST lift time is unverified. The Game Awards lists **eight nominations**, including Manni L. Perez for Best Performance; that is not an embargo announcement."
 facts:
   - k: "Reported embargo"
     v: "Wed Nov 18, 2026"
@@ -31,6 +31,19 @@ faq:
   - q: "Have reviewers got GTA 6 early?"
     a: "Reportedly yes, from the end of October, per Insider Gaming. tbreak says some outlets and YouTubers will get nothing until launch, so expect 'review in progress' pieces through launch week."
 sources:
+  - title: "The Game Awards 2026 nominees"
+    url: "https://thegameawards.com/nominees"
+    publisher: "The Game Awards"
+    date: "Checked Nov 18, 2026"
+    tier: "primary"
+  - title: "Game of the Year nominees"
+    url: "https://thegameawards.com/categories/game-of-the-year"
+    publisher: "The Game Awards"
+    tier: "primary"
+  - title: "Best Performance nominees"
+    url: "https://thegameawards.com/categories/best-performance"
+    publisher: "The Game Awards"
+    tier: "primary"
   - title: "GTA 6 Review Codes Reportedly Out, Embargo 18 November"
     url: "https://tbreak.com/gta-6-review-codes-embargo-november-18/"
     publisher: "tbreak"
@@ -58,6 +71,25 @@ related: ["release/gta-6-release-time-by-country", "release/gta-6-ps5-pro-perfor
 ---
 
 GTA 6 reviews are reported to go live on Wednesday, November 18, 2026, one day before launch. <span class="tag-reported">reported</span> **Rockstar has not confirmed the embargo.** As of Nov 15 there are no published reviews and no Metacritic score. <span class="tag-confirmed">confirmed</span> (absence)
+
+## What do GTA 6's eight Game Awards nominations confirm?
+
+The Game Awards' own 2026 category pages list GTA VI in **eight categories**, checked on November 18. <span class="tag-confirmed">confirmed</span> This is an awards nomination list, not a set of published reviews or a review score.
+
+| Category | Organizer's listing |
+| --- | --- |
+| [Game of the Year](https://thegameawards.com/categories/game-of-the-year) | Grand Theft Auto VI, Rockstar Games |
+| [Best Game Direction](https://thegameawards.com/categories/best-game-direction) | Grand Theft Auto VI |
+| [Best Narrative](https://thegameawards.com/categories/best-narrative) | Grand Theft Auto VI |
+| [Best Art Direction](https://thegameawards.com/categories/best-art-direction) | Grand Theft Auto VI |
+| [Best Score and Music](https://thegameawards.com/categories/best-score-and-music) | Grand Theft Auto VI |
+| [Best Audio Design](https://thegameawards.com/categories/best-audio-design) | Grand Theft Auto VI |
+| [Best Performance](https://thegameawards.com/categories/best-performance) | Manni L. Perez, Grand Theft Auto VI |
+| [Best Action / Adventure](https://thegameawards.com/categories/best-action-adventure) | Grand Theft Auto VI |
+
+The performance page establishes **Manni L. Perez's involvement in GTA VI**. It does not name her character, publish the full cast, or independently settle who plays [[characters/lucia-caminos|Lucia]]. Treat that distinction carefully when sharing casting claims. A nomination is not a win, either.
+
+The nominations also do not confirm the rumoured review-embargo hour, every outlet's access, final performance measurements, or a Metacritic average. Wait for the actual reviews and tests before using awards attention as a buying recommendation. Our [[guides/gta-6-which-edition-should-you-buy|edition guide]] separates purchase choices from launch-week hype.
 
 ## Where does the Nov 18 date come from?
 

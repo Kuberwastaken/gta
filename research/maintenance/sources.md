@@ -101,3 +101,6 @@ Validation: 109 content files, zero content errors/warnings; TypeScript and Quar
 
 
 Nov18 05:52IST: recovered full primary SensorTower analyst post https://sensortower.com/blog/gta-vi-breaks-record-greater-than-1b-pre-order-or-sensor-tower-report , datedNov17/authorSamAune, explicitly11.3M/$1.1B asofNov10. Existing sales guide now links original, distinguishes primaryestimate fromcompanydisclosure, and flags disagreement withsecondaryNov11 10.31M/$1B ratherthanmanufacturinggrowthseries. Trackerstillnotreadabletotals. Prior49000c8liveverified44147060266;thisbatchdeploymentpending. No designchange/no newpage.
+
+
+Nov18 07:52IST: all eight actual TheGameAwards category pages fetched directly: game-of-the-year,best-game-direction,best-narrative,best-art-direction,best-score-and-music,best-audio-design,best-performance,best-action-adventure under https://thegameawards.com/categories/ . Each listsGTAVI;performance listsManniL.Perezbutnotcharacter. Existingreviewsguide updatedwithlinkedtable,nocastrole/embargohour/scoreinference. Prior48e4074live44207313110;thisbatchdeploymentpending. PreserveASCIIdesign/mobilegutters,110pages.
