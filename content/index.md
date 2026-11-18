@@ -5,7 +5,7 @@ seoTitle: "GTA 6 Wire: Release Times, Map, Characters & Every Fact"
 description: "The sourced GTA 6 field guide: unlock times by country, editions and prices, the Leonida map, Jason and Lucia, vehicles, radio and a graded leaks ledger."
 heroSub: "Unlock times, editions, the Leonida map, Jason and Lucia, radio stations and a leaks ledger. Each claim is marked confirmed, reported or rumour, with its source."
 published: 2026-11-15
-updated: 2026-11-16
+updated: 2026-11-18
 quick:
   - q: "Unlock time by country"
     to: "release/gta-6-release-time-by-country"
@@ -33,6 +33,12 @@ Every claim on the site carries a grade: <span class="tag-confirmed">confirmed</
 - The [[leaks/index|leaks ledger]], which grades every rumour from Bloomberg's 2022 report to the CyberLeek footage, and the [[timeline/index|timeline]] of everything Rockstar has said since 2022.
 
 Pages link wherever the facts connect: a character to the region they live in, the region to the vehicles seen there, the vehicle to the trailer it appeared in. The [[graph|topic graph]] draws the whole thing.
+
+## Launch begins - November 18
+
+- [[news/2026-11-18-gta-6-new-zealand-launch-first-player-reports|New Zealand launch and first player reports]]: actual launch reporting, original community evidence and its limits, without story outcomes.
+- [[release/gta-6-ps5-pro-performance|First measured Xbox performance]]: Series X and Series S resolution samples and why the 30 fps target is not a lock.
+- [[guides/gta-6-tips-before-you-start|Settings before your first session]]: hands-on accessibility and comfort guidance, separate from preview claims.
 
 ## New reference pages - November 16
 

@@ -5,11 +5,11 @@ shortTitle: "News"
 description: "Dated GTA 6 news before the Nov 19, 2026 launch: pre-load at 212 GB, update 1.002, Take-Two Q2 earnings, the Collector's Box map leak and 39 new screenshots."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-18
+verified: 2026-11-18
 weight: 1
 tags: ["news", "release", "leaks"]
-tldr: "GTA 6 launches **Nov 19, 2026** on PS5 and Xbox Series X|S. Since Nov 5: 39 new screenshots, Take-Two earnings, pre-load (212 GB), update 1.002 and a Collector's Box map leak. Start with the [[news/2026-11-15-gta-6-launch-week-briefing|launch week briefing]]."
+tldr: "**The phased GTA VI launch has begun in New Zealand**, with player interviews and independent console tests now available. Start with the [[news/2026-11-18-gta-6-new-zealand-launch-first-player-reports|spoiler-free launch report]], then check your own store countdown. Earlier launch-week reporting remains below."
 sources:
   - title: "Take-Two Q2 FY2027 earnings release (8-K)"
     url: "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm"
@@ -31,9 +31,13 @@ Rockstar posted 39 Launch Gallery screenshots on November 5. Take-Two reported o
 
 ## Is November 19 still the date?
 
-Yes. The 2027 slip rumours are graded debunked in the [[leaks/gta-6-another-delay-rumour|delay rumour entry]], and the two real delays are on [[timeline/gta-6-delays|GTA 6 delays]]. Reviews reportedly lift on Wednesday, November 18 <span class="tag-reported">reported</span>, which Rockstar has not confirmed ([[release/gta-6-reviews-and-review-embargo|reviews and embargo]]).
+Yes. The 2027 slip rumours are graded debunked in the [[leaks/gta-6-another-delay-rumour|delay rumour entry]], and the two real delays are on [[timeline/gta-6-delays|GTA 6 delays]]. Reviews are now published; see the [[release/gta-6-reviews-and-review-embargo|dated critic snapshots and original reviews]].
 
 Grades follow [[about/how-we-grade|how we grade]]: confirmed for Rockstar, Take-Two, Sony or Microsoft, reported for credible press, rumour for leaks and insiders. The [[leaks/index|leaks ledger]] tracks every notable claim since 2022. We describe leaks and never link to leaked material.
+
+## Latest: launch begins, November 18
+
+[[news/2026-11-18-gta-6-new-zealand-launch-first-player-reports|First player reports and launch checks]], with named New Zealand interviews, original community provenance, measured Xbox results and practical settings. No story outcomes or new mission details.
 
 ## Start here
 

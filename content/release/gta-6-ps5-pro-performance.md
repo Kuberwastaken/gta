@@ -2,14 +2,14 @@
 title: "GTA 6 on PS5 Pro: 30 fps, PSSR and ray-traced shadows explained"
 seoTitle: "GTA 6 PS5 Pro Performance: 30 FPS, PSSR, RT Shadows"
 shortTitle: "PS5 Pro and performance"
-description: "GTA 6 runs at 30 fps on PS5, PS5 Pro and Xbox Series X|S with no 60 fps mode. The Pro adds PSSR and ray-traced shadows. No console resolutions disclosed."
+description: "GTA 6 targets 30 fps on consoles. DF measures Xbox resolutions and Series S frame drops; PS5 Pro adds PSSR and ray-traced shadows. See the testing caveats."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-18
 verified: 2026-11-18
 weight: 5
 tags: ["release", "performance", "ps5", "platforms"]
-tldr: "GTA 6 targets **30 fps on every console, PS5 Pro included**, with no 60 fps, 40 fps or performance mode at launch (Rockstar, Nov 10). The Pro's only extras are **PSSR upscaling and ray-traced shadows**. No resolution figures exist for any console."
+tldr: "GTA 6 targets **30 fps on every console, PS5 Pro included**, with no 60 fps, 40 fps or performance mode at launch (Rockstar, Nov 10). The Pro's only extras are **PSSR upscaling and ray-traced shadows**. Digital Foundry now measures about 1440p internally on Series X and 720p on Series S; these are test samples, not official fixed specifications."
 facts:
   - k: "Frame rate (all consoles)"
     v: "30 fps target"
@@ -17,8 +17,8 @@ facts:
     v: "None at launch"
   - k: "PS5 Pro extras"
     v: "PSSR + ray-traced shadows"
-  - k: "Resolutions"
-    v: "Not disclosed"
+  - k: "Measured Xbox internals"
+    v: "DF: ~1440p Series X / ~720p Series S"
   - k: "Marketing footage"
     v: "Captured on base PS5"
   - k: "Confirmed by"
@@ -35,6 +35,16 @@ faq:
   - q: "Can I play GTA 6 on PlayStation Portal?"
     a: "Yes, through Remote Play from your own PS5, per The Shortcut. Quality depends on your home network."
 sources:
+  - title: "Xbox Series X and S launch tech review"
+    url: "https://www.youtube.com/watch?v=F3lxGD8HX2k"
+    publisher: "Digital Foundry"
+    date: "Checked Nov 18, 2026"
+    tier: "primary"
+  - title: "Console upscaling analysis"
+    url: "https://www.digitalfoundry.net/features/why-didnt-rockstar-use-fsr-4-on-series-x-for-gta-6-microsofts-stats-have-the-answer"
+    publisher: "Digital Foundry"
+    date: "Checked Nov 18, 2026"
+    tier: "primary"
   - title: "Why GTA 6 has no 40fps mode: direct Rockstar responses"
     url: "https://www.techradar.com/gaming/why-no-40fps-mode-for-gta-6-rockstar-says-the-complexity-of-simulating-and-rendering-our-world-requires-it-to-carefully-balance-how-we-spend-every-millisecond-of-both-the-central-processor-and-the-graphics-processor"
     publisher: "TechRadar (Rob Dwiar)"
@@ -103,8 +113,8 @@ The PS5 Pro gets two upgrades, PSSR upscaling and ray-traced shadows, which Rock
 | --- | --- | --- | --- |
 | PS5 | 30 fps | DualSense haptics, Tempest 3D Audio, faster loading | Not disclosed |
 | PS5 Pro | 30 fps | Base PS5 features plus PSSR and ray-traced shadows | Not disclosed |
-| Xbox Series X | 30 fps | — | Not disclosed |
-| Xbox Series S | 30 fps | Native; Xbox Wire calls it "the most affordable way to play natively" | Not disclosed |
+| Xbox Series X | 30 fps target, with tested dips | — | About 1440p internally in DF samples |
+| Xbox Series S | 30 fps target; more frequent tested dips | Native; core ray-tracing features retained in DF tests | About 720p internally in DF samples |
 | Xbox Cloud Gaming | Streams at Series S settings | Plays on Xbox One, from 1 AM ET Nov 19 | — |
 
 Rockstar's site says GTA VI "Plays Best On PS5", and every trailer plus the 26-minute Extended Look was captured on a base PS5, not a Pro. <span class="tag-confirmed">confirmed</span> (as reported) Digital Foundry found no sign of Sony's upscaler in the [[media/gta-6-launch-trailer|Oct 15 launch trailer]], which fits that. <span class="tag-reported">reported</span> What you have watched is the standard console version.
@@ -112,6 +122,16 @@ Rockstar's site says GTA VI "Plays Best On PS5", and every trailer plus the 26-m
 ## Does GTA 6 have 60 fps?
 
 No. Two claims say otherwise and both conflict with Rockstar's post. gta6-life.com publishes a table with a 60 fps "Performance" mode, and an older Rock and Borys podcast rumour promised 30 and 60 fps modes. <span class="tag-debunked">debunked</span> A "performance mode" settings screenshot did not come from Rockstar. Claims like these are tracked in [[leaks/index|leaks and rumours]].
+
+## Launch tests: Series X and Series S are not equally steady
+
+[Digital Foundry's original Xbox tech review](https://www.youtube.com/watch?v=F3lxGD8HX2k) is now available. Oliver Mackenzie measured about **1440p internally on Series X** in sampled shots and **720p internally on Series S**. Series X generally held 30 fps in typical play, with drops in demanding chases, crowds and combat. Series S fell below target more often, including sustained mid-to-upper-20s traversal and combat, and around 20 fps in demanding tests. <span class="tag-reported">reported</span> (independent testing, Nov 18)
+
+The findings supersede our earlier statement that all resolution figures were guesses. They are **measured samples**, not official fixed-resolution guarantees. The video does not establish every patch/build outcome, and a regular four-console comparison was still planned rather than completed in that video. Do not read the table as a ranked comparison of all four versions from one identical test run.
+
+Mackenzie also measured roughly **180 ms input lag on his Series X setup**, including the wireless controller and display. That is setup-specific, not an engine-only value or a cloud measurement. Switching output refresh settings did not substantially change his measured result; a 120 Hz signal is not a 120 fps game mode.
+
+The test finds key ray-tracing systems and strand hair retained on Series S, with lower-quality effects and assets. The original video is uncertain about the exact Series S upscaler; [Digital Foundry's later written article](https://www.digitalfoundry.net/features/why-didnt-rockstar-use-fsr-4-on-series-x-for-gta-6-microsofts-stats-have-the-answer) identifies FSR 4, while explicitly labeling its explanation of Rockstar's choice as conjecture. It is not an announcement of a future 40/60 fps mode.
 
 ## Rockstar explains the 30 fps choice
 
@@ -139,7 +159,7 @@ That is why a 120 Hz setting or a rumoured file reference is not evidence of a w
 
 PSSR (PlayStation Spectral Super Resolution) is Sony's machine-learning upscaler, so the Pro should produce a sharper image at the same 30 fps. Ray-traced shadows are the only ray-tracing feature Rockstar lists for any console. <span class="tag-confirmed">confirmed</span>
 
-Without resolution figures, nobody can say yet how much sharper the Pro is. Expect pixel counts from Digital Foundry and others alongside the now-published [[release/gta-6-reviews-and-review-embargo|Nov 18 reviews]].
+Xbox measurements now exist, but they do not by themselves quantify a PS5 Pro image-quality advantage. Keep platform-specific testing separate from the now-published [[release/gta-6-reviews-and-review-embargo|Nov 18 reviews]].
 
 A ComicBook.com "PlayStation leak" before the official post promised ray-traced reflections, shadows and lighting on Pro. Rockstar's list names shadows only. That does not independently confirm the earlier reflections or lighting claims, but an omission alone does not disprove every other ray-tracing technique either. Keep those claims unverified until supported by the game or a technical test. <span class="tag-rumour">rumour</span>
 
@@ -151,7 +171,7 @@ The Limited Edition DualSense controllers ($84.99) use standard DualSense hardwa
 
 ## Xbox Series X and Series S
 
-Both run natively at 30 fps. Series S resolution is undisclosed, and the "720p–900p" figures online are guesses. <span class="tag-rumour">rumour</span> The cloud version streams at Series S settings. Storage and cloud details are on [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud gaming]].
+Both run natively with a 30 fps target, not a guaranteed lock. Digital Foundry now measures about 720p internally on Series S, with frequent frame-rate dips in its tests. <span class="tag-reported">reported</span> The cloud version streams at Series S settings. Storage and cloud details are on [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud gaming]].
 
 ## Will a 40 fps mode arrive later?
 
@@ -165,4 +185,4 @@ There is no PC version, so there are no PC specs. GamesBeat reported a Q1 2027 P
 
 ## What we're watching
 
-Two numbers will matter after launch: measured resolution on each console, and whether the 30 fps target holds steady. A target is not a lock.
+Next: further platform comparisons, tested build details and whether patches improve the measured drops, especially on Series S. A target is not a lock.

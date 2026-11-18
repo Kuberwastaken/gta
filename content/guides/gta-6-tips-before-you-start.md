@@ -5,8 +5,8 @@ shortTitle: "Tips before you start"
 description: "GTA 6 tips from previews: police need a witness, pocket cash is lost on Wasted or Busted, loot needs a fence, and you carry two handguns and two long guns."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-18
+verified: 2026-11-18
 weight: 2
 tags: ["guides", "beginner", "wanted-system", "money", "weapons"]
 tldr: "Police only come if there is a witness, an alarm or a car tracker; **cash on hand is lost when you are Wasted or Busted**, so bank it; duffel-bag loot is worthless until a fence buys it; and you carry two handguns and two long guns, the rest in your car. Almost all of it is reported from previews, not a manual."
@@ -33,6 +33,11 @@ faq:
   - q: "Is auto-aim on by default in GTA 6?"
     a: "No, previews report it is off by default, and recoil is heavier than GTA V. Turn it on in settings before your first mission if you play with lock-on."
 sources:
+  - title: "Hands-on review: accessibility and settings"
+    url: "https://www.techradar.com/gaming/gta-6-review"
+    publisher: "TechRadar"
+    date: "Checked Nov 18, 2026"
+    tier: "primary"
   - title: "GTA 6 gameplay: Key details that you might have missed"
     url: "https://www.redbull.com/us-en/gta-6-gameplay-details"
     publisher: "Red Bull"
@@ -67,9 +72,21 @@ sources:
 related: ["gameplay/gta-6-wanted-system-and-heat", "gameplay/gta-6-money-banks-and-fences", "guides/gta-6-controls-and-weapon-slots", "guides/gta-6-day-one-checklist"]
 ---
 
-Five GTA V habits will get you killed or broke in GTA VI. Police need a witness before they come. Cash in your pocket is gone when you are Wasted or Busted. Stolen loot is worth nothing until a fence buys it. The weapon wheel is gone. Switching between Jason and Lucia is locked in parts of the story. Nearly every tip below comes from hands-on previews (Edge, Red Bull, Engadget, VICE) and the August Extended Look, so treat the details as <span class="tag-reported">reported</span> until the game unlocks on Nov 19.
+Five GTA V habits will get you killed or broke in GTA VI. Police need a witness before they come. Cash in your pocket is gone when you are Wasted or Busted. Stolen loot is worth nothing until a fence buys it. **Nov 18 correction:** our earlier claim that the weapon wheel was gone was wrong. [TechRadar](https://www.techradar.com/gaming/gta-6-review) discusses its UI and [The Verge](https://www.theverge.com/games/1035801/grand-theft-auto-6-review) describes using it; see the [[about/corrections|corrections log]]. Switching between Jason and Lucia is locked in parts of the story. Nearly every tip below comes from hands-on previews (Edge, Red Bull, Engadget, VICE) and the August Extended Look, so treat those details as preview-sourced <span class="tag-reported">reported</span> claims unless separately checked against the released game. The new settings section below is based on a published review.
 
 Not set up yet? The [[guides/gta-6-day-one-checklist|day-one checklist]] comes first. Other launch guides are in the [[guides/index|guides hub]].
+
+## Before playing: comfort and accessibility settings
+
+[TechRadar's November 18 hands-on review](https://www.techradar.com/gaming/gta-6-review), based on a PS5 Pro playthrough, describes these options. <span class="tag-reported">reported</span> This is a settings checklist, not a claim that we tested each option on every console or that every menu label is identical across builds.
+
+- **Reading:** check subtitle and UI scale/readability before you begin.
+- **Camera comfort:** review shake, bob, camera and control-mapping options. Change one thing at a time so you can tell what helps.
+- **Visual clarity:** the reviewer describes high-contrast highlighting, reduced light brightness and a color option for the focus trail. These are reported options, not a guarantee of medical suitability or removal of all flashing content.
+- **Audio comfort:** look for the reported tinnitus-reduction setting. It does not replace a comfortable listening level.
+- **Input demands:** the review describes simplified controls, lower damage, auto driving and simpler mini games. Inspect the actual menu for the activity you need rather than assuming one toggle changes everything.
+
+These are hands-on review findings, unlike the preview-sourced gameplay tips below. If frame pacing or responsiveness is your concern, settings cannot be assumed to create a 60 fps mode: see the [[release/gta-6-ps5-pro-performance|measured performance guide]].
 
 ## How does the wanted system work?
 

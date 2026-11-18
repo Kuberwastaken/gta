@@ -2,14 +2,14 @@
 title: "GTA 6 on Xbox Series S, Xbox One and Xbox Cloud Gaming"
 seoTitle: "GTA 6 Xbox Series S and Cloud Gaming: Xbox One, Game Pass"
 shortTitle: "Series S and cloud gaming"
-description: "GTA 6 runs natively on Series S at 30 fps and streams to Xbox One via Xbox Cloud Gaming from 1 AM ET Nov 19. You must buy it: no Game Pass, no PC cloud."
+description: "GTA 6 targets 30 fps on Series S, with measured drops. Xbox One uses paid-game cloud access from 1 AM ET Nov 19; PC/browser streaming is not offered."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-16
-verified: 2026-11-15
+updated: 2026-11-18
+verified: 2026-11-18
 weight: 9
 tags: ["release", "xbox", "platforms", "performance"]
-tldr: "GTA 6 runs **natively on Xbox Series S** at the same 30 fps target as Series X. Xbox One owners can stream it through **Xbox Cloud Gaming from 1 AM ET on Nov 19**, an hour after the native US unlock, but only if they buy the game. It is not in Game Pass, and PC or browser streaming is not available at launch."
+tldr: "GTA 6 runs **natively on Xbox Series S** at the same 30 fps target as Series X, but Digital Foundry now finds more frequent drops on Series S. Xbox One owners can stream it through **Xbox Cloud Gaming from 1 AM ET on Nov 19**, an hour after the native US unlock, but only if they buy the game. It is not in Game Pass, and PC or browser streaming is not available at launch."
 facts:
   - k: "Series S"
     v: "Native, 30 fps target"
@@ -35,6 +35,11 @@ faq:
   - q: "Can I play GTA 6 on PS4?"
     a: "No. There is no PS4 version and no PlayStation cloud option. PS5 owners can only stream from their own console via Remote Play."
 sources:
+  - title: "Xbox Series X and S tech review"
+    url: "https://www.youtube.com/watch?v=F3lxGD8HX2k"
+    publisher: "Digital Foundry"
+    date: "Checked Nov 18, 2026"
+    tier: "primary"
   - title: "Cloud playtime - 10 hours"
     url: "https://www.xbox.com/en-US/games/store/cloud-playtime-10-hours/9pl4njhpdn7l"
     publisher: "Xbox Store"
@@ -90,12 +95,20 @@ Xbox One owners can play through Xbox Cloud Gaming from 1 AM ET on Nov 19, 2026.
 | Device | How | Notes |
 | --- | --- | --- |
 | Xbox Series X | Native | 30 fps target |
-| Xbox Series S | Native | 30 fps target; resolution not disclosed |
+| Xbox Series S | Native | 30 fps target; DF measures ~720p internally, with frequent dips |
 | Xbox One | Xbox Cloud Gaming only | Series S settings; from 1 AM ET Nov 19 |
 | PC / browser | Not at launch | No cloud streaming to PC |
 | PS4 | Not supported | No version, no cloud option |
 
-Neither Rockstar nor Microsoft has given a Series S resolution, and the "720p–900p" figures online are guesses. <span class="tag-rumour">rumour</span> Rockstar has published resolutions for no console, the [[release/gta-6-ps5-pro-performance|PS5 Pro]] included.
+Official resolution specifications remain separate from independent measurements. [Digital Foundry's November 18 Xbox tech review](https://www.youtube.com/watch?v=F3lxGD8HX2k) measures **about 720p internally on Series S**, compared with about 1440p on Series X in sampled shots. This supersedes our earlier blanket description of Series S figures as guesses. <span class="tag-reported">reported</span> (independent testing)
+
+### How steady is Series S at launch?
+
+The test finds much of the core visual technology retained, including strand hair and ray-tracing features, but reduced effect and asset quality. Its larger reservation is frame rate: traversal and combat can remain in the mid-to-upper 20s, with roughly 20 fps in demanding tests. Series X also drops under stress but generally holds its target more consistently in the reviewer's typical play.
+
+If you already own a Series S, this is a warning about the tested experience, not a reason to assume it cannot run the game. If you are buying hardware specifically for GTA VI, compare the measured performance before treating the cheapest native console as an equivalent experience. See the [[release/gta-6-ps5-pro-performance|performance guide]] for the targets, measurements and limitations.
+
+These are **local console tests**, not cloud latency or service-quality measurements. Xbox Wire's cloud-settings description does not prove an identical rendered frame rate or end-to-end latency for a streamed session. Network, service hardware and display conditions need their own evidence.
 
 ## Will GTA 6 fit on a 512 GB Series S?
 
@@ -136,4 +149,4 @@ No. Rockstar lists PS5 and Xbox Series X|S only, and Sony has no cloud option fo
 
 ## What we're watching
 
-A measured Series S resolution after the reported [[release/gta-6-reviews-and-review-embargo|Nov 18 review embargo]], and cloud start times outside the US. Everything else launch-related is on the [[release/index|release hub]]; if you're streaming in, the map starts in [[world/vice-city|Vice City]].
+Changes to the tested Series S frame rate after patches, and cloud start times outside the US. Everything else launch-related is on the [[release/index|release hub]]; if you're streaming in, the map starts in [[world/vice-city|Vice City]].

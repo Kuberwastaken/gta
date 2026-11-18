@@ -92,6 +92,8 @@ GTA 6 unlocks at midnight local time on Thursday, November 19, 2026, on PS5 and 
 
 New Zealand goes first, at 11:00 UTC on Nov 18, 18 hours before the US store. Xbox Cloud Gaming starts last in the US, at 1 AM ET. None of it matters if the download isn't finished: [[release/gta-6-preload-and-file-size|pre-load]] has been open since Nov 10 and the final space required can differ from earlier preload reports. Check the [[guides/gta-6-storage-space-guide|storage guide]] and your console.
 
+**Nov 18 launch update:** BBC and AAP now report players actually playing in New Zealand and Australia. Our [[news/2026-11-18-gta-6-new-zealand-launch-first-player-reports|spoiler-free launch report]] separates those observations from other stores that are still counting down. New Zealand unlocking does not change your account's store unlock.
+
 ## GTA 6 unlock times by country
 
 Rockstar's rule is <span class="tag-confirmed">confirmed</span>. The per-country timestamps come from PlayStation Store data compiled by gtasix.org, which counts about 15 distinct windows, so the table is <span class="tag-reported">reported</span>. Offsets are the November 2026 ones: US daylight saving ended Nov 1, Europe's ended Oct 25, and Australia and New Zealand are on summer time.
