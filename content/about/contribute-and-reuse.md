@@ -5,8 +5,8 @@ shortTitle: "Contribute and reuse"
 description: "Send sourced GTA 6 improvements as pull requests. Reuse original GTA VI Wire articles under CC BY 4.0 with credit, an original link and a note of changes."
 status: "confirmed"
 published: 2026-11-17
-updated: 2026-11-17
-verified: 2026-11-17
+updated: 2026-11-18
+verified: 2026-11-18
 weight: 4
 tags: ["contributing", "licensing", "about"]
 tldr: "**Contributions welcome as pull requests.** Original editorial text is **CC BY 4.0**: credit the author(s) and GTA VI Wire, retain the original article link where reasonably practicable, link the license and note changes. Code stays MIT; third-party media is excluded."
@@ -42,15 +42,29 @@ related: ["about/index", "about/how-we-grade", "about/corrections"]
 
 Help improve an independent GTA 6 reference. **Contribute through a pull request** to [GTA VI Wire on GitHub](https://github.com/Kuberwastaken/gta), whether it fixes an error, adds a better source, improves a guide or repairs the site.
 
-## How to send a pull request
+## Start contributing
 
-1. Fork the repository and create a focused branch.
-2. Edit the relevant page in `content/` or the site code. Improve existing coverage before adding a duplicate.
-3. Cite direct sources, check current dates and label reporting, rumours and speculation. Follow [[about/how-we-grade|our evidence grades]]. Never submit stolen footage, private information or credentials.
-4. Follow `CONTRIBUTING.md` in the repository. Run the content check, TypeScript and build; inspect mobile and desktop screenshots for visual changes.
-5. Open a PR explaining the change, evidence, checks and unresolved questions. Maintainers review before merging. A PR does not guarantee publication.
+**[Read the contributor checklist](https://github.com/Kuberwastaken/gta/blob/main/CONTRIBUTING.md)** · **[Fork the repository](https://github.com/Kuberwastaken/gta/fork)** · **[Open a pull request](https://github.com/Kuberwastaken/gta/compare)**
 
-Bug reports and source leads can also go into issues. A sourced PR is the preferred route for a fix. See [[about/corrections|corrections]] for our approach to errors.
+You will need a GitHub account to submit changes. The fork link may ask you to sign in. The PR link opens GitHub's comparison screen, not an empty submission: choose your fork and changed branch first. There must be a change to compare before you can create a PR.
+
+## How to send your first pull request
+
+1. **Choose one fix.** Correct an error, improve a source, add a missing practical detail or fix a site bug. Improve an existing page before adding duplicate coverage. Article files live in `content/`, grouped like the site sections.
+2. **Fork and edit.** Fork the repository, create a branch with a short descriptive name, then edit the relevant Markdown page or code. For a small text fix, GitHub's file editor is enough; you do not have to set up a local development environment first.
+3. **Show the evidence.** Add direct source URLs, the date checked and any uncertainty. Follow [[about/how-we-grade|our evidence grades]]. Do not submit stolen footage, private information, credentials or material you cannot share.
+4. **Check your change.** Follow the linked [contributor checklist](https://github.com/Kuberwastaken/gta/blob/main/CONTRIBUTING.md). Run the checks if you can. If you cannot run them, say so in the PR rather than checking boxes you did not verify. For visual changes, include mobile and desktop screenshots.
+5. **Open the PR.** On the [comparison screen](https://github.com/Kuberwastaken/gta/compare), use "compare across forks" if needed. The base repository is `Kuberwastaken/gta`, base branch `main`; the head is your fork and changed branch. Select "Create pull request".
+6. **Fill in the template.** GitHub automatically adds our [PR template](https://github.com/Kuberwastaken/gta/blob/main/.github/pull_request_template.md) to the description. Explain the change, affected page, sources, checks and remaining caveats. If the description is blank, copy the linked template into it. Submit for maintainer review; a PR does not guarantee publication.
+
+### What will the PR ask for?
+
+- The affected page or file, what changed and why.
+- Source links with dates checked and a clear line between facts, reporting and speculation.
+- Checks you actually ran, any you could not run, and screenshots for visual changes.
+- Confirmation that your submission respects privacy, the existing design and the contribution licenses below.
+
+**Not ready to edit?** Open an issue from the [repository](https://github.com/Kuberwastaken/gta) with the affected page, the problem and a source or reproduction steps. A sourced PR is the preferred route for a fix. See [[about/corrections|corrections]] for our approach to errors.
 
 ## Reuse original articles with credit
 
