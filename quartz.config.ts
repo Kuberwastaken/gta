@@ -74,6 +74,7 @@ const config: QuartzConfig = {
       Plugin.CNAME(),
       Plugin.SeoFiles(),
       Plugin.GraphBundle(),
+      Plugin.CheatsPage(),
       Plugin.CustomOgImages(),
     ],
   },

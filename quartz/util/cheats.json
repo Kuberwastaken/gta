@@ -1,0 +1,307 @@
+[
+  {
+    "name": "$250,000",
+    "cheat": "↑ → ↓ ← ↑ ← ↓ →",
+    "effect": "Adds $250,000."
+  },
+  {
+    "name": "Drunk",
+    "cheat": "Unknown",
+    "effect": "Makes both characters drunk."
+  },
+  {
+    "name": "Raise Heat Level",
+    "cheat": "← ↓ → ↓ ↑ ↓ ↑",
+    "effect": "Increases heat across the map."
+  },
+  {
+    "name": "Raise Wanted Level",
+    "cheat": "Unknown",
+    "effect": "Increases the wanted level."
+  },
+  {
+    "name": "Unlimited Focus",
+    "cheat": "↓ ↑ ↑ ↓ ↑ ↓ ↑ ↓ ↑ →",
+    "effect": "Keeps Focus from running out."
+  },
+  {
+    "name": "No Fall Damage",
+    "cheat": "Unknown",
+    "effect": "Prevents damage from falls."
+  },
+  {
+    "name": "Parachute",
+    "cheat": "Unknown",
+    "effect": "Gives you a parachute."
+  },
+  {
+    "name": "Body Armor",
+    "cheat": "↓ ↑ ← ↑ ↑ ↑ ↑ ↑ ↓ ↓",
+    "effect": "Gives you body armor."
+  },
+  {
+    "name": "Repair Vehicle",
+    "cheat": "Unknown",
+    "effect": "Restores your current vehicle."
+  },
+  {
+    "name": "Unlimited Nitrous",
+    "cheat": "Unknown",
+    "effect": "Keeps vehicle nitrous and fuel from running out."
+  },
+  {
+    "name": "Max Ammo",
+    "cheat": "↓ ↑ → ↓ ← ← ↑ ↑ ↓ ←",
+    "effect": "Restocks ammunition."
+  },
+  {
+    "name": "Infinite Ammo",
+    "cheat": "↓ ↑ → ↓ ← ← ↑ ↓ ↓ ↓",
+    "effect": "Provides unlimited ammunition."
+  },
+  {
+    "name": "No Reload",
+    "cheat": "↓ ↑ → ↓ ← ← ↑ ↓ ↓ ↑",
+    "effect": "Removes the need to reload."
+  },
+  {
+    "name": "All Explosive Weapons",
+    "cheat": "Unknown",
+    "effect": "Gives you the explosive weapons."
+  },
+  {
+    "name": "Incendiary Ammo",
+    "cheat": "Unknown",
+    "effect": "Sets targets alight with ammunition."
+  },
+  {
+    "name": "Exploding Bottles",
+    "cheat": "Unknown",
+    "effect": "Makes damaged bottles explode."
+  },
+  {
+    "name": "Explosive Shotgun",
+    "cheat": "Unknown",
+    "effect": "Gives you an explosive-shell shotgun."
+  },
+  {
+    "name": "Hauners H-AT",
+    "cheat": "Unknown",
+    "effect": "Gives you the Hauners H-AT."
+  },
+  {
+    "name": "Attack Force",
+    "cheat": "↓ ↑ ← ← → ↓ ↓ ↑ ↓",
+    "effect": "Launches targets struck by bullets or melee."
+  },
+  {
+    "name": "Exploding Balls",
+    "cheat": "↓ ↑ ← ← → ↓ ↓ ↑ →",
+    "effect": "Makes sports balls explode on impact."
+  },
+  {
+    "name": "Vehicle Force",
+    "cheat": "↓ ↑ ← ← → ↓ ← ↑ ↓",
+    "effect": "Launches people struck by your vehicle."
+  },
+  {
+    "name": "Interstate Ambulance",
+    "cheat": "Unknown",
+    "effect": "Spawns Interstate Ambulance."
+  },
+  {
+    "name": "Airboat 09",
+    "cheat": "Unknown",
+    "effect": "Spawns Airboat 09."
+  },
+  {
+    "name": "Bravado Banshee",
+    "cheat": "Unknown",
+    "effect": "Spawns Bravado Banshee."
+  },
+  {
+    "name": "Tuff BMX",
+    "cheat": "Unknown",
+    "effect": "Spawns Tuff BMX."
+  },
+  {
+    "name": "Maibatsu Boomazoom",
+    "cheat": "← ↑ → ↓ ← ← ↑ ←",
+    "effect": "Spawns Maibatsu Boomazoom."
+  },
+  {
+    "name": "Nagasaki Carbon RS",
+    "cheat": "Unknown",
+    "effect": "Spawns Nagasaki Carbon RS."
+  },
+  {
+    "name": "'65 Vapid Dominator",
+    "cheat": "Unknown",
+    "effect": "Spawns a '65 Vapid Dominator."
+  },
+  {
+    "name": "Progen Emerus",
+    "cheat": "Unknown",
+    "effect": "Spawns Progen Emerus."
+  },
+  {
+    "name": "Inflatable Flamingo",
+    "cheat": "Unknown",
+    "effect": "Spawns Inflatable Flamingo."
+  },
+  {
+    "name": "MTL Pumper",
+    "cheat": "← ↑ → ↓ ← → → ↑",
+    "effect": "Spawns MTL Pumper."
+  },
+  {
+    "name": "Vapid Stanier G2 Taxi",
+    "cheat": "Unknown",
+    "effect": "Spawns Vapid Stanier G2 Taxi."
+  },
+  {
+    "name": "Hauners P-996 Lazer",
+    "cheat": "Unknown",
+    "effect": "Spawns Hauners P-996 Lazer."
+  },
+  {
+    "name": "HVY Bulldozer",
+    "cheat": "← ↑ → ↓ ← → → ↓",
+    "effect": "Spawns HVY Bulldozer."
+  },
+  {
+    "name": "Lapwing Mallard",
+    "cheat": "Unknown",
+    "effect": "Spawns Lapwing Mallard."
+  },
+  {
+    "name": "Brimstone Golfer",
+    "cheat": "Unknown",
+    "effect": "Spawns Brimstone Golfer."
+  },
+  {
+    "name": "Hauners Rhino Tank",
+    "cheat": "Unknown",
+    "effect": "Spawns Hauners Rhino Tank."
+  },
+  {
+    "name": "Maibatsu Sanchez",
+    "cheat": "Unknown",
+    "effect": "Spawns Maibatsu Sanchez."
+  },
+  {
+    "name": "Nagasaki Sea Sparrow",
+    "cheat": "Unknown",
+    "effect": "Spawns Nagasaki Sea Sparrow."
+  },
+  {
+    "name": "Speeder 700 GT",
+    "cheat": "Unknown",
+    "effect": "Spawns Speeder 700 GT."
+  },
+  {
+    "name": "Truffade Thrax",
+    "cheat": "Unknown",
+    "effect": "Spawns Truffade Thrax."
+  },
+  {
+    "name": "Western Zombie Bobber",
+    "cheat": "Unknown",
+    "effect": "Spawns Western Zombie Bobber."
+  },
+  {
+    "name": "Move Time Forward",
+    "cheat": "Unknown",
+    "effect": "Advances the clock."
+  },
+  {
+    "name": "Pause Time of Day",
+    "cheat": "Unknown",
+    "effect": "Stops the time-of-day cycle."
+  },
+  {
+    "name": "Cycle Weather",
+    "cheat": "↓ → ↑ ↓ → ↑ →",
+    "effect": "Changes the weather."
+  },
+  {
+    "name": "Golden Hour",
+    "cheat": "Unknown",
+    "effect": "Warm golden lighting with a widescreen view."
+  },
+  {
+    "name": "Powdered Sugar",
+    "cheat": "Unknown",
+    "effect": "White scenery with sparkling highlights."
+  },
+  {
+    "name": "Pinhole",
+    "cheat": "Unknown",
+    "effect": "Pinhole-camera appearance."
+  },
+  {
+    "name": "Neon Jungle",
+    "cheat": "Unknown",
+    "effect": "Neon-colored highlights."
+  },
+  {
+    "name": "Yesteryear",
+    "cheat": "Unknown",
+    "effect": "Black-and-white CRT appearance."
+  },
+  {
+    "name": "Cataclysm",
+    "cheat": "↓ ↓ ↑ → → ↑ ← ← → →",
+    "effect": "Murky smoke across the world."
+  },
+  {
+    "name": "Videotape",
+    "cheat": "Unknown",
+    "effect": "Old videotape appearance."
+  },
+  {
+    "name": "Dark Mirror",
+    "cheat": "Unknown",
+    "effect": "Darkens and flips the world upside down."
+  },
+  {
+    "name": "Migraine",
+    "cheat": "Unknown",
+    "effect": "Blurred, distorted view."
+  },
+  {
+    "name": "Dollhouse",
+    "cheat": "↓ ↓ ↑ → → ↑ ← ← ↓ →",
+    "effect": "Bright colors with a narrow view."
+  },
+  {
+    "name": "Bubblegum",
+    "cheat": "Unknown",
+    "effect": "Purple-and-yellow coloring."
+  },
+  {
+    "name": "Fast Forward",
+    "cheat": "Unknown",
+    "effect": "Motion blur and faster-moving clouds."
+  },
+  {
+    "name": "Fisheye",
+    "cheat": "Unknown",
+    "effect": "Wide, curved fisheye view."
+  },
+  {
+    "name": "Faded Glory",
+    "cheat": "↓ ↓ ↑ → → ↑ ← ← ← →",
+    "effect": "Color CRT appearance."
+  },
+  {
+    "name": "Pixel Art",
+    "cheat": "Unknown",
+    "effect": "Pixelated view."
+  },
+  {
+    "name": "Hellscape",
+    "cheat": "Unknown",
+    "effect": "Red-and-orange coloring with heat haze."
+  }
+]

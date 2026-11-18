@@ -12,3 +12,5 @@ export { CNAME } from "./cname"
 export { CustomOgImages } from "./ogImage"
 export { SeoFiles } from "./seoFiles"
 export { GraphBundle } from "./graphBundle"
+
+export { CheatsPage } from "./cheatsPage"
