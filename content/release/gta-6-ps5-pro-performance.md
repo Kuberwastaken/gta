@@ -5,16 +5,16 @@ shortTitle: "PS5 Pro and performance"
 description: "GTA 6 targets 30 fps on consoles. DF measures Xbox resolutions and Series S frame drops; PS5 Pro adds PSSR and ray-traced shadows. See the testing caveats."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-18
-verified: 2026-11-18
+updated: 2026-11-19
+verified: 2026-11-19
 weight: 5
 tags: ["release", "performance", "ps5", "platforms"]
-tldr: "GTA 6 targets **30 fps on every console, PS5 Pro included**, with no 60 fps, 40 fps or performance mode at launch (Rockstar, Nov 10). The Pro's only extras are **PSSR upscaling and ray-traced shadows**. Digital Foundry now measures about 1440p internally on Series X and 720p on Series S; these are test samples, not official fixed specifications."
+tldr: "GTA 6 targets **30 fps on every console, PS5 Pro included**, with no 60 fps, 40 fps or performance mode at launch (Rockstar, Nov 10). The Pro adds **PSSR upscaling and ray-traced shadows**. Rockstar has now told Kotaku not to expect a higher-frame-rate mode on current consoles. Digital Foundry now measures about 1440p internally on Series X and 720p on Series S; these are test samples, not official fixed specifications."
 facts:
   - k: "Frame rate (all consoles)"
     v: "30 fps target"
   - k: "60 / 40 fps mode"
-    v: "None at launch"
+    v: "No current-console performance mode planned (Rockstar to Kotaku)"
   - k: "PS5 Pro extras"
     v: "PSSR + ray-traced shadows"
   - k: "Measured Xbox internals"
@@ -29,12 +29,17 @@ faq:
   - q: "Is GTA 6 better on PS5 Pro?"
     a: "It looks better, it doesn't run faster. The Pro adds PSSR upscaling and ray-traced shadows; frame rate, content and features match the base PS5."
   - q: "Does GTA 6 have ray tracing on base PS5?"
-    a: "Rockstar specifically advertises ray-traced shadows for PS5 Pro. That list does not establish every ray-tracing technique used on base PS5; the earlier reflections and lighting leak remains unverified."
+    a: "Yes. Marc Chambers tells Kotaku the base presentation uses ray-traced reflections and global illumination. PS5 Pro adds ray-traced shadows and PSSR. This direct statement supersedes our earlier lack of confirmation for base ray tracing."
   - q: "Will GTA 6 get a 40 fps or 60 fps patch?"
-    a: "Nothing is announced. Notebookcheck found 120 Hz output settings and PSSR v13.60 references in the files, which would fit a 40 fps mode, but Rockstar has said nothing."
+    a: "Do not expect one on current consoles. Kotaku directly asked Rockstar about future 40 or 60 fps modes; Marc Chambers says even the PS5 Pro CPU is not powerful enough for the complex simulation at higher frame rates. This is a current-console developer position, not a benchmark or an announcement about PC or future hardware."
   - q: "Can I play GTA 6 on PlayStation Portal?"
     a: "Yes, through Remote Play from your own PS5, per The Shortcut. Quality depends on your home network."
 sources:
+  - title: "Future performance modes: direct Rockstar response"
+    url: "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979"
+    publisher: "Kotaku (Zack Zwiezen)"
+    date: "Nov 18, 2026; checked Nov 19 IST"
+    tier: "primary"
   - title: "Xbox Series X and S launch tech review"
     url: "https://www.youtube.com/watch?v=F3lxGD8HX2k"
     publisher: "Digital Foundry"
@@ -139,7 +144,7 @@ The test finds key ray-tracing systems and strand hair retained on Series S, wit
 
 Technology production director **Marc Chambers** also describes Rockstar's tools and technology as custom-built. That explains the developer's design approach, not a promise that every console will always sustain the target.
 
-This is stronger evidence for Rockstar's reasoning than an analyst's inference, but it still is **not a released-game benchmark**. It does not identify a single component as the sole bottleneck, establish per-console resolutions, or rule out all future optimization. The current launch offering has no 40 fps balanced mode; no later 40 or 60 fps patch is announced.
+This is stronger evidence for Rockstar's reasoning than an analyst's inference, but it still is **not a released-game benchmark**. It does not identify a single component as the sole bottleneck, establish per-console resolutions, or rule out all future optimization. The current launch offering has no 40 fps balanced mode. A separate direct response to Kotaku below goes further about the current-console outlook for later modes.
 
 ## Why is 40 fps harder than it sounds?
 
@@ -161,7 +166,7 @@ PSSR (PlayStation Spectral Super Resolution) is Sony's machine-learning upscaler
 
 Xbox measurements now exist, but they do not by themselves quantify a PS5 Pro image-quality advantage. Keep platform-specific testing separate from the now-published [[release/gta-6-reviews-and-review-embargo|Nov 18 reviews]].
 
-A ComicBook.com "PlayStation leak" before the official post promised ray-traced reflections, shadows and lighting on Pro. Rockstar's list names shadows only. That does not independently confirm the earlier reflections or lighting claims, but an omission alone does not disprove every other ray-tracing technique either. Keep those claims unverified until supported by the game or a technical test. <span class="tag-rumour">rumour</span>
+A ComicBook.com "PlayStation leak" before the official post promised ray-traced reflections, shadows and lighting on Pro. **Nov 19 update:** the earlier marketing list named Pro shadows only, which did not settle base ray tracing. Chambers' direct response to Kotaku now explicitly confirms ray-traced reflections and global illumination in the base presentation. The later developer statement supersedes our earlier uncertainty; see the future-mode section below. <span class="tag-confirmed">confirmed</span> (developer statement)
 
 ### Should you buy a PS5 Pro for GTA 6?
 
@@ -175,7 +180,13 @@ Both run natively with a 30 fps target, not a guaranteed lock. Digital Foundry n
 
 ## Will a 40 fps mode arrive later?
 
-Nothing is announced. Notebookcheck found two hints in the files: 120 Hz output settings, which a 40 fps mode needs because 40 divides evenly into 120, and references to PSSR version 13.60. <span class="tag-rumour">rumour</span> Update 1.002.000 shipped Nov 13 with no patch notes, so nobody knows whether it touches performance; see [[release/gta-6-day-one-patch|day-one patch]].
+**Do not buy current hardware expecting a later performance-mode patch.** [Kotaku's November 18 article](https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979) reports that Zack Zwiezen directly asked Rockstar about future **60 fps or 40 fps** modes. Rockstar's technology production director **Marc Chambers** says PS5 Pro's improved GPU and upscaling support higher visual fidelity, but its CPU is not powerful enough to run the game's complex simulation at higher frame rates. <span class="tag-confirmed">confirmed</span> (developer response published by Kotaku)
+
+That is stronger evidence than our earlier launch-only wording or file-based speculation. It is Rockstar's stated position for **current-generation consoles**, including PS5 Pro. It does not mean frame pacing cannot improve through fixes, that every scene is already CPU-limited, or that a PC version or a later hardware port has been announced. Kotaku's final paragraphs speculate about those ports; we do not treat that speculation as a release plan.
+
+Chambers also explicitly identifies **ray-traced reflections and global illumination in the base presentation**, with **ray-traced shadows and PSSR added on PS5 Pro**. That replaces our earlier uncertainty about whether the advertised Pro shadows established the base ray-tracing features. It is a developer description, separate from the measured Xbox samples above.
+
+Notebookcheck's earlier 120 Hz output and PSSR-file references remain file-based reports, not proof of a hidden or forthcoming 40 fps mode. Patch downloads without official notes likewise do not establish a new mode; see [[release/gta-6-day-one-patch|patch and firmware tracking]].
 
 ## Remote Play and PC
 

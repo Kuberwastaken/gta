@@ -136,3 +136,6 @@ Original sources:
 - https://www.rnz.co.nz/life/screens/games/grand-theft-auto-vi-the-biggest-game-of-a-generation-was-worth-the-wait
 - https://www.gamingbible.com/reviews/gta-6-review-389961-20261117
 Secondary triage only: https://futurezone.at/games/gta-6-release-bugs-performance-ps5-gameplay-stream-neuseeland-launch/403206606
+
+
+Nov19 01:51IST: Kotaku original https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979 actuallyfetched: directquestionfuture40/60fps,ChambersProCPUinsufficientforhigherframerates,currentconsoleposition. ConfirmsbaseRTreflections/GIandProshadows/PSSR. UpdatedexistingperformanceFAQ/futuresection,notPCportannouncement/permanentoptimizationimpossibility. Polygonsecondarylead https://www.polygon.com/gta-6-30-fps-locked-ps5-pro-performance/ read,notprimarybasis. Sonylaunchblog https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/ originalreadmostlyrecap,noarbitrarynewpage. Prior a69bbd3live44368820366. Currentbatchneedsdeploymentverification.
