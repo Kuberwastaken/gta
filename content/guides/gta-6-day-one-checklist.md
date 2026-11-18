@@ -2,15 +2,15 @@
 title: "GTA 6 day-one checklist: everything to do before November 19"
 seoTitle: "GTA 6 Day One Checklist: What to Do Before Nov 19"
 shortTitle: "Day-one checklist"
-description: "GTA 6 unlocks at midnight store time on Nov 19. Buy by Nov 19 for the pre-order pack, redeem box codes, clear 250 GB, pre-load and confirm update 1.002."
+description: "GTA 6 launch checklist: redeem codes, clear storage, finish the pre-load, check game patches and PS5 system software, and verify your store unlock time."
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-18
+verified: 2026-11-18
 weight: 1
 tags: ["guides", "beginner", "preload", "unlock-times", "release"]
-tldr: "Buy before Nov 20 to keep the Vintage Vice City Pack, **pre-load now** (open since Nov 10), clear about 250 GB, confirm update 1.002 installed, and leave the console in Rest Mode or Sleep. It unlocks at **midnight local store time on Nov 19**, which is 9 PM Nov 18 on the US West Coast. Every region: [[release/gta-6-release-time-by-country|unlock times by country]]."
+tldr: "Buy before Nov 20 to keep the Vintage Vice City Pack, **pre-load now** (open since Nov 10), clear about 250 GB, check the latest game update and PS5 system software, and leave the console in Rest Mode or Sleep. It unlocks at **midnight local store time on Nov 19**, which is 9 PM Nov 18 on the US West Coast. Every region: [[release/gta-6-release-time-by-country|unlock times by country]]."
 facts:
   - k: "Unlock"
     v: "Midnight local store time, Nov 19, 2026"
@@ -19,14 +19,14 @@ facts:
   - k: "Space needed"
     v: "Up to 212 GB (clear ~250 GB)"
   - k: "Pre-launch patch"
-    v: "1.002.000, ~1.07 GB PS5 / ~2.2 GB Xbox"
+    v: "01.002.001 reported; check latest version"
   - k: "Pre-order pack cutoff"
     v: "Purchases before Nov 20"
   - k: "Online mode"
     v: "None at launch"
 faq:
   - q: "What should I do before GTA 6 comes out?"
-    a: "Clear about 250 GB, start the pre-load (open since Nov 10), and check that update 1.002.000 (1.07 GB on PS5, about 2.2 GB on Xbox) has installed before the night of Nov 18."
+    a: "Clear about 250 GB, start the pre-load (open since Nov 10), check the latest game update, and check PS5 system software separately. Rest mode alone is not a readiness test."
   - q: "Do I still get the pre-order bonus if I buy on launch day?"
     a: "Yes. Rockstar says the Vintage Vice City Pack covers all pre-orders and purchases before Nov 20. Xbox Wire puts the cutoff at 23:59:59 on Nov 19."
   - q: "Can I pre-load the physical copy?"
@@ -34,6 +34,11 @@ faq:
   - q: "Does pre-loading let me play early?"
     a: "No. It only downloads the files. The game opens when your store region reaches midnight on Nov 19, starting with New Zealand at 11:00 UTC on Nov 18."
 sources:
+  - title: "GTA VI preparation and PS5 system software guidance"
+    url: "https://www.playstation.com/en-us/support/games/gta-vi-support/"
+    publisher: "PlayStation Support"
+    date: "Checked Nov 18, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI regional pre-load and release times on PlayStation 5 and XBOX Series X|S"
     url: "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s"
     publisher: "Rockstar Games"
@@ -74,7 +79,7 @@ sources:
 related: ["release/gta-6-release-time-by-country", "release/gta-6-preload-and-file-size", "guides/gta-6-tips-before-you-start", "guides/gta-6-faq"]
 ---
 
-GTA VI unlocks at midnight local store time on Thursday, November 19, 2026, on PS5 and Xbox Series X|S. To be driving through [[world/vice-city|Vice City]] the minute it opens, you need a purchase or redeemed code, about 250 GB free, the pre-load finished and update 1.002.000 installed before Wednesday night. Everything below is ordered by deadline. The underlying sources are in the [[release/index|release hub]]; non-first-party claims carry a grade per [[about/how-we-grade|how we grade]].
+GTA VI unlocks at midnight local store time on Thursday, November 19, 2026, on PS5 and Xbox Series X|S. To be driving through [[world/vice-city|Vice City]] the minute it opens, you need a purchase or redeemed code, about 250 GB free, the pre-load finished, the latest game update checked and PS5 system software up to date before your unlock. Everything below is ordered by deadline. The underlying sources are in the [[release/index|release hub]]; non-first-party claims carry a grade per [[about/how-we-grade|how we grade]].
 
 | When | Task | Why |
 | --- | --- | --- |
@@ -83,7 +88,7 @@ GTA VI unlocks at midnight local store time on Thursday, November 19, 2026, on P
 | Now | Start the pre-load | Open since Nov 10 on both consoles |
 | Now | Auto-downloads on, console in Rest Mode or Sleep | Update 1.002 and later patches install overnight |
 | By 23:59:59 Nov 19 | Have your purchase in | Vintage Vice City Pack cutoff |
-| Nov 18 | Mute spoiler keywords | New Zealand unlocks at 11:00 UTC; reviews reportedly land |
+| Nov 18 | Mute spoiler keywords | New Zealand unlocks at 11:00 UTC; reviews are published |
 | Nov 18-19 | Check your console's store countdown | Your store region, not your clock, sets the unlock |
 
 ## 1. Buy before November 20
@@ -115,7 +120,9 @@ Pre-load opened Nov 10. Rockstar first announced Nov 12, then moved it earlier, 
 
 - [ ] Start the download now. PS5 opened at midnight local time on Nov 10 (New Zealand first, 11:00 UTC Nov 9). Xbox opened at one worldwide moment: 12 a.m. GMT Nov 10, which was 7 PM ET on Nov 9.
 - [ ] Turn on auto-downloads (PS5) or automatic updates (Xbox) and leave the console in Rest Mode or Sleep <span class="tag-reported">reported</span>.
-- [ ] Confirm update 1.002.000 shows as installed. It began rolling out Nov 13: about 1.07 GB on PS5 and 2.18-2.2 GB on Xbox <span class="tag-reported">reported</span>. The PS5 rollout was staggered: half of players got it about 11 hours after the first wave. Rockstar has posted no patch notes and hasn't called it the day-one patch; see [[release/gta-6-day-one-patch|day-one patch]].
+- [ ] Check GTA VI for the latest game update, not just the first 1.002.000 patch. The second PS5 build **01.002.001** is reported at about 602.5 MB, with an approximately 1.6 GB Xbox update. Sizes depend on the installed build; the [[release/gta-6-day-one-patch|patch guide]] separates reported downloads from official change lists.
+- [ ] **PS5: check system software separately.** Sony's [GTA VI support guide](https://www.playstation.com/en-us/support/games/gta-vi-support/) gives **Settings > System > System Software > System Software Update and Settings**. The original support-handle notice says a system update is required before play; see the [[release/gta-6-day-one-patch|firmware and game-patch distinction]]. A finished pre-load or a night in rest mode does not prove this check is done.
+- [ ] On PS5, Sony also lists **Settings > Saved Data and Game/App Settings > Automatic Updates > Auto-Install in Rest Mode**, plus **Settings > System > Power Saving > Features Available in Rest Mode > Stay Connected to the Internet**. Those settings help future downloads; still inspect pending updates before launch.
 
 ## 5. Know your unlock time
 
@@ -132,11 +139,11 @@ The game runs at 30 fps on every console, PS5 Pro included, with no performance 
 ## 7. Dodge spoilers on Nov 18
 
 - [ ] Mute GTA keywords from 11:00 UTC Wednesday. New Zealand unlocks about 18 hours before the US East Coast (11:00 UTC Nov 18 against 05:00 UTC Nov 19), so story clips will circulate all day.
-- [ ] Expect reviews Wednesday, Nov 18, per NateTheHate and Insider Gaming <span class="tag-reported">reported</span>. Rockstar hasn't confirmed it; see [[release/gta-6-reviews-and-review-embargo|reviews and embargo]].
+- [ ] Reviews are now published. Use the [[release/gta-6-reviews-and-review-embargo|spoiler-light reviews guide]] if you want the verdicts without story outcomes; following original review links may expose more.
 - [ ] Avoid CyberLeek clips, which contain major story spoilers <span class="tag-reported">reported</span>. Our [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek explainer]] covers what leaked without the plot.
 
 ## 8. Before your first mission
 
 Read [[guides/gta-6-tips-before-you-start|tips before you start]]: police need a witness, pocket cash is lost when you die, and you carry two long guns at most. Keep the [[guides/gta-6-faq|GTA 6 FAQ]] open for quick answers and the [[guides/index|guides hub]] for the rest.
 
-Still unresolved as of Nov 15: patch notes for 1.002, a confirmed review embargo, and an explanation of the German box's 230 GB. Changes get logged on the [[about/corrections|corrections page]].
+Still unresolved at this Nov 18 update: a recovered official change list for the reported game updates and an explanation of the German box's 230 GB. Changes get logged on the [[about/corrections|corrections page]].

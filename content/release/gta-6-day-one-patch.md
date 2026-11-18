@@ -5,8 +5,8 @@ shortTitle: "Day-one patch"
 description: "VICE reports a second GTA 6 pre-launch update on Nov 16: 01.002.001, about 602.5 MB on PS5 and 1.6 GB on Xbox. Rollout claims are not official patch notes."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-16
-verified: 2026-11-16
+updated: 2026-11-18
+verified: 2026-11-18
 weight: 14
 tags: ["release", "preload", "ps5", "xbox"]
 tldr: "VICE reports a **second pre-launch update on November 16**, labelled **01.002.001 on PS5**, at about **602.5 MB on PS5** and **1.6 GB on Xbox**. Its staged PS5 rollout timetable comes from data accounts, not Sony's own announcement. No official change list has been recovered. The earlier 1.002.000 update is separate."
@@ -33,6 +33,21 @@ faq:
   - q: "What does GTA 6 update 1.002 change?"
     a: "Rockstar hasn't said. An insider called 'Text Funds 2' claims it touches story data, executables, levels, shaders and scripts. Nothing suggests it adds a 60 fps mode."
 sources:
+  - title: "GTA VI console preparation and system software"
+    url: "https://www.playstation.com/en-us/support/games/gta-vi-support/"
+    publisher: "PlayStation Support"
+    date: "Checked Nov 18, 2026"
+    tier: "primary"
+  - title: "PS5 system software requirement notice"
+    url: "https://x.com/PS_Support_US/status/2122863683881619685"
+    publisher: "@PS_Support_US on X"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "Preloaded GTA 6: PCMag console update check"
+    url: "https://uk.pcmag.com/games/168442/preloaded-gta-6-check-you-dont-need-any-extra-updates-before-playing"
+    publisher: "PCMag"
+    date: "Nov 18, 2026"
+    tier: "primary"
   - title: "GTA 6 Gets a Second Day One Patch on PS5 and Xbox Ahead of Launch"
     url: "https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/"
     publisher: "VICE (Brent Koepp)"
@@ -58,6 +73,14 @@ sources:
     date: "Nov 10, 2026"
 related: ["release/gta-6-preload-and-file-size", "news/2026-11-13-gta-6-update-1-002", "guides/gta-6-day-one-checklist"]
 ---
+
+## PS5 system software is separate from the game patch
+
+The [November 18 post from @PS_Support_US](https://x.com/PS_Support_US/status/2122863683881619685), read at its original URL, says a PS5 system software update is required before playing GTA VI. The [@PlayStation account also shared that notice](https://x.com/PlayStation/status/2122870764760420863). [PCMag's hands-on check](https://uk.pcmag.com/games/168442/preloaded-gta-6-check-you-dont-need-any-extra-updates-before-playing) reports that its console had not installed the firmware while in rest mode. <span class="tag-reported">reported</span> Do not assume a completed game pre-load means the console is ready.
+
+[Sony's GTA VI support page](https://www.playstation.com/en-us/support/games/gta-vi-support/) separately directs players to **Settings > System > System Software > System Software Update and Settings** and says to keep system software up to date. It also lists automatic game updates and staying connected in rest mode as separate settings. <span class="tag-confirmed">confirmed</span> (Sony support guidance)
+
+Check the console's current system-update screen as well as GTA VI's game-update screen. **Firmware is not game update 01.002.001**. We are not assigning an unverified firmware version or promising that rest mode installs every update. No primary source recovered here explains a GTA-specific security purpose, so jailbreak and anti-piracy theories remain speculation.
 
 ## November 16: a second pre-launch update is reported
 

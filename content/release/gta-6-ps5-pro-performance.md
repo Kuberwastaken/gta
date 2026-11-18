@@ -5,8 +5,8 @@ shortTitle: "PS5 Pro and performance"
 description: "GTA 6 runs at 30 fps on PS5, PS5 Pro and Xbox Series X|S with no 60 fps mode. The Pro adds PSSR and ray-traced shadows. No console resolutions disclosed."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-17
-verified: 2026-11-17
+updated: 2026-11-18
+verified: 2026-11-18
 weight: 5
 tags: ["release", "performance", "ps5", "platforms"]
 tldr: "GTA 6 targets **30 fps on every console, PS5 Pro included**, with no 60 fps, 40 fps or performance mode at launch (Rockstar, Nov 10). The Pro's only extras are **PSSR upscaling and ray-traced shadows**. No resolution figures exist for any console."
@@ -35,6 +35,11 @@ faq:
   - q: "Can I play GTA 6 on PlayStation Portal?"
     a: "Yes, through Remote Play from your own PS5, per The Shortcut. Quality depends on your home network."
 sources:
+  - title: "Why GTA 6 has no 40fps mode: direct Rockstar responses"
+    url: "https://www.techradar.com/gaming/why-no-40fps-mode-for-gta-6-rockstar-says-the-complexity-of-simulating-and-rendering-our-world-requires-it-to-carefully-balance-how-we-spend-every-millisecond-of-both-the-central-processor-and-the-graphics-processor"
+    publisher: "TechRadar (Rob Dwiar)"
+    date: "Nov 18, 2026"
+    tier: "primary"
   - title: "Digital Foundry episode 290: console frame-rate analysis"
     url: "https://www.youtube.com/watch?v=7PLhEMgXdQs"
     publisher: "Digital Foundry"
@@ -108,6 +113,14 @@ Rockstar's site says GTA VI "Plays Best On PS5", and every trailer plus the 26-m
 
 No. Two claims say otherwise and both conflict with Rockstar's post. gta6-life.com publishes a table with a 60 fps "Performance" mode, and an older Rock and Borys podcast rumour promised 30 and 60 fps modes. <span class="tag-debunked">debunked</span> A "performance mode" settings screenshot did not come from Rockstar. Claims like these are tracked in [[leaks/index|leaks and rumours]].
 
+## Rockstar explains the 30 fps choice
+
+[TechRadar's November 18 report](https://www.techradar.com/gaming/why-no-40fps-mode-for-gta-6-rockstar-says-the-complexity-of-simulating-and-rendering-our-world-requires-it-to-carefully-balance-how-we-spend-every-millisecond-of-both-the-central-processor-and-the-graphics-processor) contains responses to questions the outlet sent directly to Rockstar. Senior vice president of technology **Jonathon Ashcroft** attributes the target to the time needed for intertwined world simulation and rendering across **both CPU and GPU**. His explanation uses an approximately **33-millisecond frame budget** and describes the chosen frame rate as a balance between presentation, simulation and gameplay. <span class="tag-confirmed">confirmed</span> (direct developer response published by TechRadar)
+
+Technology production director **Marc Chambers** also describes Rockstar's tools and technology as custom-built. That explains the developer's design approach, not a promise that every console will always sustain the target.
+
+This is stronger evidence for Rockstar's reasoning than an analyst's inference, but it still is **not a released-game benchmark**. It does not identify a single component as the sole bottleneck, establish per-console resolutions, or rule out all future optimization. The current launch offering has no 40 fps balanced mode; no later 40 or 60 fps patch is announced.
+
 ## Why is 40 fps harder than it sounds?
 
 In [Digital Foundry Direct Weekly episode 290](https://www.youtube.com/watch?v=7PLhEMgXdQs), the team discusses the announced console targets from the 24:06 chapter. Richard Leadbetter explains the CPU and simulation budget behind the choice: a higher frame rate leaves less time to process the same dense world. This is **technical analysis**, not a benchmark of the released game. <span class="tag-reported">reported</span>
@@ -126,7 +139,7 @@ That is why a 120 Hz setting or a rumoured file reference is not evidence of a w
 
 PSSR (PlayStation Spectral Super Resolution) is Sony's machine-learning upscaler, so the Pro should produce a sharper image at the same 30 fps. Ray-traced shadows are the only ray-tracing feature Rockstar lists for any console. <span class="tag-confirmed">confirmed</span>
 
-Without resolution figures, nobody can say yet how much sharper the Pro is. Expect pixel counts from Digital Foundry and others after the reported [[release/gta-6-reviews-and-review-embargo|Nov 18 review embargo]].
+Without resolution figures, nobody can say yet how much sharper the Pro is. Expect pixel counts from Digital Foundry and others alongside the now-published [[release/gta-6-reviews-and-review-embargo|Nov 18 reviews]].
 
 A ComicBook.com "PlayStation leak" before the official post promised ray-traced reflections, shadows and lighting on Pro. Rockstar's list names shadows only. That does not independently confirm the earlier reflections or lighting claims, but an omission alone does not disprove every other ray-tracing technique either. Keep those claims unverified until supported by the game or a technical test. <span class="tag-rumour">rumour</span>
 
