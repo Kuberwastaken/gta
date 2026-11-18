@@ -6,8 +6,8 @@ description: "GTA 6 launch checklist: redeem codes, clear storage, finish the pr
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-18
-verified: 2026-11-18
+updated: 2026-11-19
+verified: 2026-11-19
 weight: 1
 tags: ["guides", "beginner", "preload", "unlock-times", "release"]
 tldr: "Buy before Nov 20 to keep the Vintage Vice City Pack, **pre-load now** (open since Nov 10), clear about 250 GB, check the latest game update and PS5 system software, and leave the console in Rest Mode or Sleep. It unlocks at **midnight local store time on Nov 19**, which is 9 PM Nov 18 on the US West Coast. Every region: [[release/gta-6-release-time-by-country|unlock times by country]]."
@@ -34,6 +34,27 @@ faq:
   - q: "Does pre-loading let me play early?"
     a: "No. It only downloads the files. The game opens when your store region reaches midnight on Nov 19, starting with New Zealand at 11:00 UTC on Nov 18."
 sources:
+  - title: "PlayStation service status"
+    url: "https://status.playstation.com/"
+    publisher: "PlayStation"
+    date: "Checked Nov 19, 2026, 03:50 IST"
+    tier: "primary"
+  - title: "PS5 error WS-116449-5"
+    url: "https://www.playstation.com/en-us/support/error-codes/ps5/ws-116449-5/"
+    publisher: "PlayStation Support"
+    tier: "primary"
+  - title: "PS5 error WS-116414-7"
+    url: "https://www.playstation.com/en-us/support/error-codes/ps5/ws-116414-7/"
+    publisher: "PlayStation Support"
+    tier: "primary"
+  - title: "PlayStation network problems before GTA VI release"
+    url: "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release"
+    publisher: "The Guardian"
+    date: "Nov 18, 2026"
+  - title: "PSN login and download disruption reports"
+    url: "https://www.polygon.com/gta-6-is-psn-down-detector-account-services-busy-server-connection-error/"
+    publisher: "Polygon"
+    date: "Nov 18, 2026"
   - title: "GTA VI preparation and PS5 system software guidance"
     url: "https://www.playstation.com/en-us/support/games/gta-vi-support/"
     publisher: "PlayStation Support"
@@ -124,6 +145,20 @@ Pre-load opened Nov 10. Rockstar first announced Nov 12, then moved it earlier, 
 - [ ] **PS5: check system software separately.** Sony's [GTA VI support guide](https://www.playstation.com/en-us/support/games/gta-vi-support/) gives **Settings > System > System Software > System Software Update and Settings**. The original support-handle notice says a system update is required before play; see the [[release/gta-6-day-one-patch|firmware and game-patch distinction]]. A finished pre-load or a night in rest mode does not prove this check is done.
 - [ ] On PS5, Sony also lists **Settings > Saved Data and Game/App Settings > Automatic Updates > Auto-Install in Rest Mode**, plus **Settings > System > Power Saving > Features Available in Rest Mode > Stay Connected to the Internet**. Those settings help future downloads; still inspect pending updates before launch.
 
+## PSN login or download failing at launch?
+
+**Status checked November 19 at 03:50 IST (November 18, 22:20 UTC):** [Sony's service-status page](https://status.playstation.com/) showed all services running. That is a dated snapshot, not a promise that every account or download works. Open the live page again if you have a problem. <span class="tag-confirmed">confirmed</span>
+
+[The Guardian](https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release) reported failed logins and game/update downloads on November 18, including an earlier Sony gaming-and-social alert. [Polygon](https://www.polygon.com/gta-6-is-psn-down-detector-account-services-busy-server-connection-error/) also reported problems while the official tracker was green. These are reports of disruption around launch, **not proof that GTA VI caused it**, a measured failure rate, or a currently universal outage. The Guardian says no official cause had been established. <span class="tag-reported">reported</span>
+
+| What you see | Sony's guidance |
+| --- | --- |
+| **WS-116449-5** | This can indicate maintenance. Check service status first. If no outage or maintenance is listed, reset the PS5 internet connection settings and run a connection test; restart the router/modem after leaving it off for at least five minutes; try later if congestion persists. [Official steps](https://www.playstation.com/en-us/support/error-codes/ps5/ws-116449-5/). |
+| **WS-116414-7** | Check service status, restart the PS5, turn the router off for five minutes before restarting it, then retry the connection later. [Official steps](https://www.playstation.com/en-us/support/error-codes/ps5/ws-116414-7/). |
+| Download complete but game still locked | Check your own store countdown against [[release/gta-6-release-time-by-country|regional unlock times]]. An unreached unlock time is different from a failed PSN connection. |
+
+Keep PS5 system software and the GTA VI game update as **separate checks**, as described above and in the [[release/gta-6-day-one-patch|patch guide]]. An error report does not establish a new game patch or a reason to erase and redownload the whole game. No recovery time is promised here.
+
 ## 5. Know your unlock time
 
 Rockstar's wording is "midnight local time on November 19, 2026, in all regions". Local means your store region's midnight. The whole US store opens at midnight Eastern, so Central starts at 11 PM, Mountain at 10 PM and Pacific at 9 PM on Nov 18 <span class="tag-reported">reported</span>. New Zealand goes first at 11:00 UTC on Nov 18, the UK at 00:00 UTC on Nov 19. Every region, plus the Perth and Hawaii disputes, is on [[release/gta-6-release-time-by-country|release time by country]].
@@ -146,4 +181,4 @@ The game runs at 30 fps on every console, PS5 Pro included, with no performance 
 
 Read [[guides/gta-6-tips-before-you-start|tips before you start]]: police need a witness, pocket cash is lost when you die, and you carry two long guns at most. Keep the [[guides/gta-6-faq|GTA 6 FAQ]] open for quick answers and the [[guides/index|guides hub]] for the rest.
 
-Still unresolved at this Nov 18 update: a recovered official change list for the reported game updates and an explanation of the German box's 230 GB. Changes get logged on the [[about/corrections|corrections page]].
+Still unresolved at this Nov 19 update: a recovered official change list for the reported game updates and an explanation of the German box's 230 GB. Changes get logged on the [[about/corrections|corrections page]].
