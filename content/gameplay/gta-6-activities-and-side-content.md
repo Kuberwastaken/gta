@@ -5,8 +5,8 @@ shortTitle: "Activities and side content"
 description: "GTA 6's 18 reported side activities, from scuba diving and hunting to gyms, tattoo parlors and circuit racing, plus how dates and workouts change Jason and Lucia."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-18
+verified: 2026-11-18
 weight: 8
 tags: ["gameplay", "wildlife", "guides"]
 tldr: "Previews list 18 activities, including **fishing, hunting, scuba diving, skydiving, jet skis, basketball, mini-golf, pool, gyms, barbers, tattoo parlors and circuit racing**. Partner activities feed Jason and Lucia's relationship, and gyms change physique and stamina."
@@ -35,6 +35,11 @@ faq:
   - q: "How long is GTA 6 with side content?"
     a: "Rob Nelson reportedly put his playthrough at about 80 hours. Outlets disagree on whether that includes side content; some say it pushes past 100."
 sources:
+  - title: "Released-game activities and direct Rob Nelson interview"
+    url: "https://www.gamingbible.com/reviews/gta-6-review-389961-20261117"
+    publisher: "GAMINGbible"
+    date: "Checked Nov 18, 2026"
+    tier: "primary"
   - title: "GTA 6 gameplay: Key details that you might have missed"
     url: "https://www.redbull.com/us-en/gta-6-gameplay-details"
     publisher: "Red Bull"
@@ -85,6 +90,14 @@ The reported activity list for GTA 6 runs to 18 entries: fishing, hunting, scuba
 | Driving | Circuit racing, new to the series | <span class="tag-reported">reported</span> |
 
 The [[media/gta-6-extended-look|Extended Look]] adds two older-series echoes, per Engadget: a bench-press minigame like San Andreas's, and GTA IV-style stranger encounters such as a man dangling from a bridge <span class="tag-reported">reported</span>.
+
+## What a released-game review and developer interview add
+
+[GAMINGbible's November 18 review and Rob Nelson interview](https://www.gamingbible.com/reviews/gta-6-review-389961-20261117) add evidence beyond the preview activity list. Reviewer **Sam Cawley**, writing after more than 70 hours on a base PS5 with publisher-provided code, describes spending free time at gyms, the beach and a nightclub. <span class="tag-reported">reported</span> That corroborates selected activities; it is not an independent check of every entry in the table or a 100-percent-completion run.
+
+Nelson's explanation is about **activities and interiors having a purpose**. The team wanted interaction that adds to playing the characters, rather than extra buildings that are only scenery or routines that become chores. In the direct interview he gives physically putting on clothes and pouring engine coolant into a car as examples of interactions left out. <span class="tag-confirmed">confirmed</span> (developer statement in an interview)
+
+This does **not** supply an exact enterable-building count, a percentage of the map with interiors, or proof that every visible business is usable. Nor does a reviewer's 70-hour playthrough settle the [[guides/gta-6-how-long-to-beat|campaign-length question]]. See the [[gameplay/gta-6-vehicles|vehicle guide]] for the separate firsthand driving observations.
 
 ## Can you fish, hunt and scuba dive?
 

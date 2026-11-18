@@ -31,6 +31,16 @@ faq:
   - q: "Is this launch report spoiler-free?"
     a: "We omit story outcomes and new mission details. External live blogs, Reddit threads and technical videos may show gameplay, thumbnails or plot information."
 sources:
+  - title: "Base PS5 review and direct Rob Nelson interview"
+    url: "https://www.gamingbible.com/reviews/gta-6-review-389961-20261117"
+    publisher: "GAMINGbible"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "Two-hour New Zealand launch hands-on"
+    url: "https://www.rnz.co.nz/life/screens/games/grand-theft-auto-vi-the-biggest-game-of-a-generation-was-worth-the-wait"
+    publisher: "RNZ"
+    date: "Checked Nov 18, 2026"
+    tier: "primary"
   - title: "Regional release schedule"
     url: "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s"
     publisher: "Rockstar Support"
@@ -92,6 +102,14 @@ BBC Newsbeat interviewed **Aleana Fernando in Auckland**, whose early impression
 These are named people's first impressions, not a survey or evidence that the game has no bugs. The sessions are short compared with the full campaign, and the reports do not establish an identical console, build or display for every person. An excited description of smoothness cannot settle a frame-time question on Series S.
 
 [RNZ's own pre-launch interviews](https://www.rnz.co.nz/life/screens/games/visiting-vice-city-the-kiwi-gamers-taking-annual-leave-for-grand-theft-auto-vi) add a different perspective: Christchurch brothers Michael and Hayden Bainbridge arranged separate consoles so they could play side by side, while other interviewees planned leave around launch. That is evidence of preparation and anticipation, **not** a post-launch verdict. We keep the timing of that reporting clear rather than relabeling every launch-week interview as a review.
+
+## A local two-hour hands-on is different from a full review
+
+[RNZ journalist Liam Swiggs's launch hands-on](https://www.rnz.co.nz/life/screens/games/grand-theft-auto-vi-the-biggest-game-of-a-generation-was-worth-the-wait) is based on **two hours after the midnight unlock**. It is dated November 19 in New Zealand, even though that reporting is already available on November 18 in India. Swiggs played on **Xbox Series S** and reports frame-rate drops in busy scenes and near water. He also describes his partner's standard-PS5 play as steadier. <span class="tag-reported">reported</span>
+
+That is useful firsthand context alongside the named player interviews, but not a controlled comparison: RNZ does not supply frame-time graphs, matching scenes or a reproducible measurement method. Swiggs explicitly has not personally tested Series X or PS5 Pro, so his discussion of those machines is not another console benchmark. His enthusiastic first impression and the drops can both be true. We do not present a two-hour session as a completed-game verdict or adopt its map-size and download-size generalizations.
+
+For a longer hands-on with a stated platform, [Sam Cawley's GAMINGbible review](https://www.gamingbible.com/reviews/gta-6-review-389961-20261117) reports **more than 70 hours on a base PS5**, with a publisher-provided review code. Its direct Rob Nelson interview and first-hand driving observations now inform our [[gameplay/gta-6-vehicles|vehicle guide]] and [[gameplay/gta-6-activities-and-side-content|activities guide]]. That playtime is the reviewer's experience, not a campaign-length promise. As with all external reviews, opening the original can reveal more gameplay and story context than this summary.
 
 ## What the original Reddit report does and does not establish
 

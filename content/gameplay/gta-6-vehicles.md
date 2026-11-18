@@ -5,8 +5,8 @@ shortTitle: "Vehicles"
 description: "Rockstar names seven GTA 6 vehicles, from the '95 Grotti Cheetah to Jason's Vapid Ganado. Plus fan IDs, security-tier car theft, fuel and the Waink app."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-18
+verified: 2026-11-18
 weight: 3
 tags: ["vehicles", "gameplay", "editions"]
 tldr: "Rockstar names **the '95 Grotti Cheetah, '55 Vapid Stanier, Vapid Ganado, Dinka Enduro, Crest Kayak, Shitzu Squalo and '67 Vapid Dominator Buggy**. Previews add security tiers for car theft, fuel, trunk storage and the Waink app. There is no official vehicle count."
@@ -35,6 +35,11 @@ faq:
   - q: "What is the Grotti Cheetah based on?"
     a: "Fans read Grotti as Ferrari, so the '95 Cheetah as a Ferrari homage. Rockstar has never stated real-world equivalents for its brands."
 sources:
+  - title: "Base PS5 driving review and direct Rob Nelson interview"
+    url: "https://www.gamingbible.com/reviews/gta-6-review-389961-20261117"
+    publisher: "GAMINGbible"
+    date: "Checked Nov 18, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI"
     publisher: "Rockstar Games"
@@ -109,6 +114,14 @@ GTA 6 puts a security layer on every car, per Red Bull, Edge and VICE <span clas
 ## Do you need fuel in GTA 6?
 
 Yes. Fuel gauges return and refuelling means holding a button for about 10 seconds; engine health is tracked as well <span class="tag-reported">reported</span>.
+
+## What the released-game driving review adds
+
+[Sam Cawley's November 18 GAMINGbible review](https://www.gamingbible.com/reviews/gta-6-review-389961-20261117) is based on more than 70 hours on a **base PS5**, with review code supplied by the publisher. Cawley reports heavier-feeling handling, different behavior between vehicle types and substantial crash damage: repeated collisions can leave the engine struggling or the car unusable. He describes using petrol stations and Pay 'n' Sprays for repairs, and finding those costs painful early on. <span class="tag-reported">reported</span> These are the reviewer's observations, not a measured vehicle-by-vehicle damage model or a price list.
+
+The practical adjustment is to leave more braking room while learning a car and keep a repair buffer, rather than assume GTA V muscle memory will transfer unchanged. A repair observation also does not independently verify every preview claim above about fuel, security tiers or registration.
+
+In the same outlet's direct interview, **Rob Nelson says pouring engine coolant into a car was an example of a maintenance interaction the team did not include**. <span class="tag-confirmed">confirmed</span> (developer statement in an interview) Detailed driving therefore does not mean every real-world maintenance chore is simulated. That distinction belongs with the [[gameplay/gta-6-activities-and-side-content|wider design approach to side activities]], not an unsupported claim that vehicle upkeep has disappeared.
 
 ## What other vehicle systems are reported?
 
