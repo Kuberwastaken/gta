@@ -2,14 +2,14 @@
 title: "GTA 6 launch week briefing: unlock times, pre-load, patch, reviews and what's still unknown"
 seoTitle: "GTA 6 Launch Week Briefing: Everything to Know Before Nov 19"
 shortTitle: "Launch week briefing"
-description: "GTA 6 unlocks at midnight store time on Nov 19 (9 PM PT Nov 18). Pre-load needs up to 212 GB, update 1.002 is out, reviews reportedly land Nov 18."
+description: "GTA 6 unlocks at midnight store time on Nov 19 (9 PM PT Nov 18). Pre-load needs up to 212 GB, update 1.002 is out, reviews are now published (Nov 18 update)."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-18
 verified: 2026-11-15
 weight: 1
 tags: ["news", "release", "unlock-times", "preload", "reviews"]
-tldr: "GTA 6 launches **Thursday, November 19, 2026 at midnight local store time** on PS5 and Xbox Series X|S; New Zealand goes first at 11:00 UTC on Nov 18. Pre-load opened Nov 10, update 1.002 is downloading, and reviews reportedly lift Nov 18. Times: [[release/gta-6-release-time-by-country|unlock times by country]]."
+tldr: "GTA 6 launches **Thursday, November 19, 2026 at midnight local store time** on PS5 and Xbox Series X|S; New Zealand goes first at 11:00 UTC on Nov 18. Pre-load opened Nov 10, update 1.002 is downloading, and reviews are now published (Nov 18 update). Times: [[release/gta-6-release-time-by-country|unlock times by country]]."
 facts:
   - k: "Launch"
     v: "Nov 19, 2026, midnight local store time"
@@ -22,14 +22,14 @@ facts:
   - k: "Frame rate"
     v: "30 fps target on every console"
   - k: "Reviews"
-    v: "Expected Nov 18 (not confirmed by Rockstar)"
+    v: "Published Nov 18; see updated reviews guide"
 faq:
   - q: "What time does GTA 6 unlock in the US?"
     a: "The whole US store unlocks at midnight Eastern on Nov 19. That is 11 PM Central, 10 PM Mountain and 9 PM Pacific on Wednesday, Nov 18."
   - q: "Can I still pre-load GTA 6?"
     a: "Yes, until launch. Boxed copies hold a download code, so redeem it first. Budget up to 212 GB plus room for the 1-2 GB update."
   - q: "When do GTA 6 reviews come out?"
-    a: "NateTheHate and Insider Gaming report Wednesday, Nov 18; a relayed claim says 6-7 AM EST. Rockstar has confirmed neither, and no reviews are out yet."
+    a: "Reviews are published on Wednesday, Nov 18. The updated reviews guide links original criticism and a dated Metacritic/OpenCritic snapshot."
   - q: "Does GTA 6 have online multiplayer at launch?"
     a: "No. Rockstar and the stores call it a single-player experience, and the ESRB rating carries no Users Interact label. No online mode or date is announced."
   - q: "Is GTA 6 out on PC this week?"
@@ -81,7 +81,7 @@ sources:
 related: ["release/gta-6-release-time-by-country", "guides/gta-6-day-one-checklist", "release/gta-6-preload-and-file-size", "release/gta-6-reviews-and-review-embargo"]
 ---
 
-Grand Theft Auto VI unlocks on Thursday, November 19, 2026, at midnight local store time on PS5 and Xbox Series X|S. Four days out, pre-load has been open for five days, update 1.002 is already on consoles, and Take-Two says Rockstar has finished development.
+Grand Theft Auto VI unlocks on Thursday, November 19, 2026, at midnight local store time on PS5 and Xbox Series X|S. At this briefing's original Nov 15 publication, pre-load has been open for five days, update 1.002 is already on consoles, and Take-Two says Rockstar has finished development.
 
 ## When does GTA 6 unlock?
 
@@ -120,7 +120,7 @@ Rockstar targets 30fps on every console, PS5 Pro included, with no 60fps or perf
 
 ## Reviews
 
-NateTheHate said on October 26 that review codes were out with a Wednesday, November 18 embargo, and Insider Gaming says it verified the date <span class="tag-reported">reported</span>. A relayed claim puts the lift at 6-7 AM EST <span class="tag-rumour">rumour</span>. Rockstar has confirmed neither, and there is no Metacritic score yet ([[release/gta-6-reviews-and-review-embargo|reviews and embargo]]).
+**Nov 18 update:** Reviews are now published. GameSpot, Polygon and The Verge timestamp their originals at the same instant, 11:00 UTC / 6 AM EST / 4:30 PM IST. Our [[release/gta-6-reviews-and-review-embargo|updated reviews guide]] links the original criticism, gives spoiler-light summaries and records a dated Metacritic/OpenCritic snapshot. Critic averages can change and are not platform benchmarks. <span class="tag-confirmed">confirmed</span> (publication and page state)
 
 ## What is not in the game at launch
 
@@ -144,7 +144,7 @@ New Zealand starts about 18 hours before the US East Coast, so story spoilers wi
 | --- | --- | --- |
 | Nov 17-18 | Closing submissions in the IWGB tribunal over the 2025 firings | <span class="tag-reported">reported</span> |
 | Nov 18 | Miami Heat play as "Vice City" vs Milwaukee | <span class="tag-reported">reported</span> |
-| Nov 18 | Reported review embargo | <span class="tag-reported">reported</span> |
+| Nov 18 | Reviews published (updated) | <span class="tag-confirmed">confirmed</span> |
 | Nov 19 | Launch; *Grand Theft Auto VI: The Album* (34 tracks) | <span class="tag-confirmed">confirmed</span> |
 | Nov 21 | *GTA VI: The Festival* at Mana Wynwood, Miami | <span class="tag-confirmed">confirmed</span> |
 | Nov 26 | Rockstar UK union recognition ballot closes | <span class="tag-reported">reported</span> |
@@ -154,4 +154,4 @@ The union ballot covers about 1,600 staff; Rockstar publishing head Jennifer Kol
 
 ## Still unknown
 
-Rockstar has not given internal resolutions for any console, an online mode name or date, a PC or Switch 2 version, or the review embargo time. The printable Leonida map for November 19 rests on a single Push Square summary <span class="tag-reported">reported</span>. Launch-night steps are in the [[guides/gta-6-day-one-checklist|day-one checklist]]; every story is in the [[news/index|news hub]].
+Rockstar has not given internal resolutions for any console, an online mode name or date, a PC or Switch 2 version. Reviews are now published; see the Nov 18 update above. The printable Leonida map for November 19 rests on a single Push Square summary <span class="tag-reported">reported</span>. Launch-night steps are in the [[guides/gta-6-day-one-checklist|day-one checklist]]; every story is in the [[news/index|news hub]].

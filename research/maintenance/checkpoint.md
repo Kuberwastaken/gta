@@ -77,3 +77,14 @@ Nov18 05:52IST: recovered full primary SensorTower analyst post https://sensorto
 Nov18 07:52IST: all eight actual TheGameAwards category pages fetched directly: game-of-the-year,best-game-direction,best-narrative,best-art-direction,best-score-and-music,best-audio-design,best-performance,best-action-adventure under https://thegameawards.com/categories/ . Each listsGTAVI;performance listsManniL.Perezbutnotcharacter. Existingreviewsguide updatedwithlinkedtable,nocastrole/embargohour/scoreinference. Prior48e4074live44207313110;thisbatchdeploymentpending. PreserveASCIIdesign/mobilegutters,110pages.
 
 Nov18 15:50IST launch-readiness contribution handoff: existing default PR template confirmed on main and GitHub docs confirm automatic description fill. Site now has direct contributor-checklist/fork/compare/template links with first-contribution steps and correct base/head choices. README/CONTRIBUTING agree; template asks affected page, evidence/dates, separate checks and unchecked caveats. No artificial PR created just to test. Anonymous compare page loads; fork properly asks sign-in. Previousa00d395live44222684750;thisbatchdeploymentpending. No design/layout/license scope change.
+
+
+Nov18 17:53IST source watch: Original GameSpot, Polygon, The Verge and Windows Central reviews are published. Verified source URLs:
+https://www.gamespot.com/reviews/grand-theft-auto-6-review/
+https://www.polygon.com/gta-6-review/
+https://www.theverge.com/games/1035801/grand-theft-auto-6-review
+https://www.windowscentral.com/gaming/xbox/grand-theft-auto-6-xbox-review
+Aggregators read directly:
+https://www.metacritic.com/game/grand-theft-auto-vi/ main view99,146criticblock; other platform totals not clearly labeled in extract, not merged.
+https://opencritic.com/game/15398/grand-theft-auto-vi average98,recommend100%, not99fromsecondaryroundup. Reviews-list100thpercentile is distinct.
+Replaced stale future-embargo/no-score text in existing review guide and Nov15 briefing; no new article. No all-time-record claim, story outcomes or inferred per-console benchmarks. Publication times11UTC/6EST/3PST convert16:30IST. Nov18 verified by date calculation. Six current primary review/aggregator sources plus retained official awards category links. Existing e53ac07 deployment44284265788 is verified live; this reviews batch pending validation/publication. Design/ASCII/mobilegutters untouched.

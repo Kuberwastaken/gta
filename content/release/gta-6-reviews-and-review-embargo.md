@@ -1,36 +1,66 @@
 ---
-title: "GTA 6 reviews: the reported Nov 18 embargo, time and Metacritic"
-seoTitle: "GTA 6 Review Embargo: Nov 18 Date, Time and Metacritic"
+title: "GTA 6 reviews are live: Metacritic, OpenCritic and spoiler-light verdicts"
+seoTitle: "GTA 6 Reviews: Metacritic, OpenCritic and First Verdicts"
 shortTitle: "Reviews and embargo"
-description: "GTA 6 reviews reportedly go live Wed, Nov 18, 2026, the day before launch, per NateTheHate and Insider Gaming. Rockstar hasn't confirmed it. No Metacritic yet."
+description: "GTA 6 reviews are live on Nov 18. Read spoiler-light verdicts, a timestamped Metacritic and OpenCritic snapshot, and what scores cannot tell you."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-18
 verified: 2026-11-18
 weight: 12
 tags: ["release", "reviews", "rumours"]
-tldr: "GTA 6 reviews are **reported** to go live on **Wednesday, Nov 18, 2026**, the day before launch. NateTheHate and Insider Gaming say codes went out in late October; **Rockstar has not confirmed** the embargo. A claimed 6-7 AM EST lift time is unverified. The Game Awards lists **eight nominations**, including Manni L. Perez for Best Performance; that is not an embargo announcement."
+tldr: "GTA 6 reviews are **live on November 18, 2026**. Original reviews praise the detailed world and central relationship, with pacing among the reservations. At **17:53 IST / 12:23 UTC**, Metacritic's main page displayed **99** and OpenCritic displayed a **98 Top Critic Average with 100% recommending**. These are changing critic snapshots, not user scores or performance guarantees."
 facts:
-  - k: "Reported embargo"
-    v: "Wed Nov 18, 2026"
-  - k: "Confirmed by Rockstar"
-    v: "No"
-  - k: "Claimed time"
-    v: "6-7 AM EST / 11:00-12:00 UTC (unverified)"
-  - k: "Review codes"
-    v: "Reportedly sent late Oct"
-  - k: "Metacritic score"
-    v: "None yet (Nov 15)"
+  - k: "Reviews"
+    v: "Published Nov 18, 2026"
+  - k: "Observed publication time"
+    v: "11:00 UTC / 6 AM EST / 4:30 PM IST"
+  - k: "Metacritic"
+    v: "99 on main page (Nov 18 snapshot)"
+  - k: "OpenCritic"
+    v: "98 Top Critic Average; 100% recommend"
+  - k: "Snapshot checked"
+    v: "Nov 18, 17:53 IST / 12:23 UTC"
 faq:
-  - q: "When do GTA 6 reviews come out?"
-    a: "Reportedly Wednesday, Nov 18, 2026. NateTheHate posted the date on X on Oct 26 and Insider Gaming says it verified it independently. Rockstar has not confirmed it."
-  - q: "What time does the GTA 6 review embargo lift?"
-    a: "Unconfirmed. A BlackBate claim relayed by Gizbot says 6-7 AM EST (12:01-1:01 PM CET), about the same hour New Zealand players get the game at 11:00 UTC."
+  - q: "Are GTA 6 reviews out?"
+    a: "Yes. Original reviews from GameSpot, Polygon, The Verge and Windows Central are published on November 18, 2026. This is no longer merely a reported embargo date."
+  - q: "What time did GTA 6 reviews go live?"
+    a: "The Verge shows 11:00 UTC, Polygon shows 6 AM EST and GameSpot shows 3 AM PST on Nov 18, the same instant: 4:30 PM IST. These are observed publication timestamps, not a claim about every outlet's embargo contract."
   - q: "What is GTA 6's Metacritic score?"
-    a: "It has none. As of Nov 15, 2026 no reviews are published. Scores should appear on Metacritic and OpenCritic once the embargo lifts."
-  - q: "Have reviewers got GTA 6 early?"
-    a: "Reportedly yes, from the end of October, per Insider Gaming. tbreak says some outlets and YouTubers will get nothing until launch, so expect 'review in progress' pieces through launch week."
+    a: "At 17:53 IST / 12:23 UTC on Nov 18, Metacritic's main GTA VI page displayed 99; OpenCritic displayed a 98 Top Critic Average and 100% recommending. Platform views, review counts and averages can change. Neither number is a user score."
+  - q: "Do strong reviews prove GTA 6 runs perfectly on my console?"
+    a: "No. A critic's overall verdict is not a frame-time benchmark for every console, build or display. Check the tested platform and separate performance evidence before deciding."
 sources:
+  - title: "Grand Theft Auto 6 review"
+    url: "https://www.gamespot.com/reviews/grand-theft-auto-6-review/"
+    publisher: "GameSpot"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "The GTA 6 review"
+    url: "https://www.polygon.com/gta-6-review/"
+    publisher: "Polygon"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "Grand Theft Auto VI review"
+    url: "https://www.theverge.com/games/1035801/grand-theft-auto-6-review"
+    publisher: "The Verge"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "Grand Theft Auto 6 Xbox review"
+    url: "https://www.windowscentral.com/gaming/xbox/grand-theft-auto-6-xbox-review"
+    publisher: "Windows Central"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "Grand Theft Auto VI critic scores"
+    url: "https://www.metacritic.com/game/grand-theft-auto-vi/"
+    publisher: "Metacritic"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "Grand Theft Auto VI critic average and recommendations"
+    url: "https://opencritic.com/game/15398/grand-theft-auto-vi"
+    publisher: "OpenCritic"
+    date: "Nov 18, 2026"
+    tier: "primary"
   - title: "The Game Awards 2026 nominees"
     url: "https://thegameawards.com/nominees"
     publisher: "The Game Awards"
@@ -70,7 +100,50 @@ sources:
 related: ["release/gta-6-release-time-by-country", "release/gta-6-ps5-pro-performance", "leaks/gta-6-cyberleek-2026-leaks"]
 ---
 
-GTA 6 reviews are reported to go live on Wednesday, November 18, 2026, one day before launch. <span class="tag-reported">reported</span> **Rockstar has not confirmed the embargo.** As of Nov 15 there are no published reviews and no Metacritic score. <span class="tag-confirmed">confirmed</span> (absence)
+GTA 6 reviews are published on Wednesday, November 18, 2026. We read the original GameSpot, Polygon, The Verge and Windows Central reviews, rather than treating a roundup's score list as the reviews themselves. <span class="tag-confirmed">confirmed</span> The summaries below avoid mission outcomes and late-game details. The linked reviews can contain story context, images and gameplay descriptions.
+
+## GTA 6 Metacritic and OpenCritic: a dated snapshot
+
+Checked **November 18 at 17:53 IST / 12:23 UTC**:
+
+| Source | Own-page snapshot |
+| --- | --- |
+| [Metacritic](https://www.metacritic.com/game/grand-theft-auto-vi/) | **99** on the main game page |
+| [OpenCritic](https://opencritic.com/game/15398/grand-theft-auto-vi) | **98** Top Critic Average; **100%** Critics Recommend |
+
+Metacritic exposes several platform totals. We do not combine them or assign an ambiguously labeled total to a console. OpenCritic's recommendation percentage is not its average score; its reviews listing's 100th-percentile label is another separate measure.
+
+Both figures are **aggregator snapshots**, not Rockstar's own rating and not permanent launch-day values. Secondary roundups disagree about OpenCritic's average; the table uses OpenCritic's own page at the check above. We are not declaring an all-time record from a moving average across different platforms and review pools.
+
+Metacritic's user-review field was still unavailable at this check. OpenCritic showed a player-rating threshold rather than an established player consensus. Neither should be presented as a launch audience verdict. <span class="tag-confirmed">confirmed</span> (observed page state)
+
+## Spoiler-light verdicts from original reviews
+
+### GameSpot: detail and dual leads, with a pacing caveat
+
+[Tamoor Hussain's review](https://www.gamespot.com/reviews/grand-theft-auto-6-review/) praises world detail, the two-lead structure, audiovisual work and performances. Its explicit negative is progression gating that can interrupt pacing.
+
+### Polygon: relationship, satire and freedom
+
+[Giovanni Colantonio's review](https://www.polygon.com/gta-6-review/) emphasizes the central relationship, economic satire and freedom inside a reactive world. This is a critical reading of the story and systems, not a console benchmark or a guaranteed experience for every player.
+
+### The Verge: immersion and a deliberate buildup
+
+[Andrew Webster's review](https://www.theverge.com/games/1035801/grand-theft-auto-6-review) connects open-world freedom with the immersion of Red Dead Redemption 2 and a more personal story. He describes a deliberate, slow buildup. His nearly 80 hours played are one reviewer's experience, not a story-only completion time.
+
+### Windows Central: a strongly positive Xbox verdict
+
+[Windows Central's review](https://www.windowscentral.com/gaming/xbox/grand-theft-auto-6-xbox-review) praises immersion, story and sandbox detail, including Xbox polish. That overall praise cannot substitute for measured Series X versus Series S resolution and frame-time results.
+
+These are **reviewer judgments**, not official feature announcements. The shared praise is for detail and the relationship between [[characters/jason-duval|Jason]] and [[characters/lucia-caminos|Lucia]]. Pacing remains worth reading about if you prefer immediate freedom. We do not convert an unscored review into a numeric score, or treat every enthusiastic verdict as evidence of flawless technical performance.
+
+For buying decisions, pair the criticism with [[release/gta-6-ps5-pro-performance|platform and performance evidence]], [[guides/gta-6-how-long-to-beat|length estimates]] and the [[guides/gta-6-which-edition-should-you-buy|edition guide]]. A reviewer's hours played include their particular mix of exploration, retries and optional content.
+
+## When did the GTA 6 reviews publish?
+
+The Verge's original review is timestamped **11:00 UTC on Nov 18**. Polygon shows **6 AM EST**, and GameSpot shows **3 AM PST**, the same instant: **4:30 PM IST**. <span class="tag-confirmed">confirmed</span> These observations replace our earlier uncertain 6-7 AM EST window. They establish when those reviews published, not the terms of every outlet's embargo agreement.
+
+Before publication, NateTheHate, Insider Gaming and tbreak reported November 18. That reporting is now historical context, not a reason to keep saying reviews are merely expected. Rockstar's public confirmation of every review-code allocation is not established here. A missing review from an outlet does not prove it was denied access.
 
 ## What do GTA 6's eight Game Awards nominations confirm?
 
@@ -89,46 +162,12 @@ The Game Awards' own 2026 category pages list GTA VI in **eight categories**, ch
 
 The performance page establishes **Manni L. Perez's involvement in GTA VI**. It does not name her character, publish the full cast, or independently settle who plays [[characters/lucia-caminos|Lucia]]. Treat that distinction carefully when sharing casting claims. A nomination is not a win, either.
 
-The nominations also do not confirm the rumoured review-embargo hour, every outlet's access, final performance measurements, or a Metacritic average. Wait for the actual reviews and tests before using awards attention as a buying recommendation. Our [[guides/gta-6-which-edition-should-you-buy|edition guide]] separates purchase choices from launch-week hype.
+The nominations also do not confirm the rumoured review-embargo hour, every outlet's access, final performance measurements, or a Metacritic average. Use the published reviews above for criticism and separate platform tests for performance, rather than treating awards attention as a buying recommendation. Our [[guides/gta-6-which-edition-should-you-buy|edition guide]] separates purchase choices from launch-week hype.
 
-## Where does the Nov 18 date come from?
+## How to read reviews without spoiling launch
 
-| Source | Claim | Grade |
-| --- | --- | --- |
-| NateTheHate (X, Oct 26, 2026) | Review codes are out, embargo on Nov 18 | <span class="tag-rumour">rumour</span> |
-| Insider Gaming | Verified the date independently; codes went out at the end of October | <span class="tag-reported">reported</span> |
-| tbreak (Mufaddal Fakhruddin, Oct 27) | Relays both | <span class="tag-reported">reported</span> |
-| Rockstar | Nothing on record | — |
+The summaries here omit story outcomes, but following review links or opening videos can expose scenes, mechanics and thumbnails you have not seen. Avoid ending searches, mute character and mission keywords, and use text summaries if you want to keep the opening fresh. Leaked footage remains a separate source with separate provenance; see [[leaks/gta-6-cyberleek-2026-leaks|the leak context]] rather than treating clips as a complete review build.
 
-Two sources on the same date, one claiming its own check, is as good as embargo reporting gets without the publisher. It is still not Rockstar, and embargo times move.
+## What we are still checking
 
-## What time does the GTA 6 review embargo lift?
-
-One claim, from BlackBate and relayed by Gizbot, puts it at 6 to 7 AM EST, which it gives as 12:01 to 1:01 PM CET. <span class="tag-rumour">rumour</span> That converts to about 11:00 to 12:00 UTC on Nov 18, 11 AM to noon in London and 3 to 4 AM on the US West Coast.
-
-If the time holds, reviews land within the same hour that New Zealand players start playing, at 11:00 UTC on Nov 18. The full unlock schedule is on [[release/gta-6-release-time-by-country|release time by country]].
-
-## Did every outlet get a review code?
-
-No, reportedly. tbreak says some outlets and YouTubers may have to wait until launch, and that YouTuber Shirrako may have a code. <span class="tag-rumour">rumour</span> Expect a split: full reviews on Nov 18 from outlets with early access, "review in progress" pieces from the rest through launch week.
-
-## What reviews should settle
-
-Rockstar has left several things for players and critics to measure:
-
-| Question | What we know now |
-| --- | --- |
-| Length | Rob Nelson told Red Bull a full playthrough with optional content runs about 80 hours <span class="tag-reported">reported</span>; story-only length is unknown. See [[guides/gta-6-how-long-to-beat|how long to beat]] |
-| Performance | 30 fps target on every console; Rockstar gives no resolutions. See [[release/gta-6-ps5-pro-performance|PS5 Pro and performance]] |
-| New systems | Six-star [[gameplay/gta-6-wanted-system-and-heat|wanted and heat system]], witness-based police response, Criminal Profile <span class="tag-reported">reported</span> |
-| Radio | Rockstar has revealed six stations; Edge reported 23 in total <span class="tag-reported">reported</span>. See [[music/gta-6-radio-stations|radio stations]] |
-
-## How to avoid GTA 6 spoilers before launch
-
-Nov 18 carries the most risk: reviews may land, New Zealand players start streaming about 18 hours before the US store unlocks, and leaked footage is still around. CyberLeek's leaks include about 25 minutes of spoiler-heavy footage, possibly from an older build, which Engadget warned about on Oct 8; Rockstar's legal team has been removing clips. <span class="tag-reported">reported</span> Background is on [[leaks/gta-6-cyberleek-2026-leaks|the CyberLeek leaks]].
-
-Mute "GTA 6 ending" and the main character names on social apps for Nov 18 and 19, stick to reviews that state they are spoiler-free, and skip video thumbnails.
-
-## What we're watching
-
-Confirmation of the embargo time from Rockstar or any outlet, and the Metacritic and OpenCritic scores, which we will add here when reviews publish. Back to the [[release/index|release hub]], or prep with the [[guides/gta-6-day-one-checklist|day-one checklist]].
+Platform-specific resolution and frame-time measurements, patch/build details, and changes to the critic aggregates as more reviews arrive. High averages do not establish native Xbox One support, a PC release date, a 60 fps mode or multiplayer availability. Keep those questions separate in the [[release/index|release hub]]. For launch preparation, use [[release/gta-6-release-time-by-country|country unlock times]] and the [[guides/gta-6-day-one-checklist|day-one checklist]].
