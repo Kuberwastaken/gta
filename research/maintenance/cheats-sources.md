@@ -14,3 +14,11 @@ Raise Wanted Level input recovered from two directly fetched original hands-on g
 - https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/
 - https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/
 Both give Left, Down, Right, Down, Up, Right, Up. Replaces only that Unknown input.61rows/18publishedinputs/43Unknown. No visible context, added features or theme changes. Insider Gaming still TBC is absence, not a conflicting alternate input. Mod-vendor guide's18code claim triaged but not used as verification.
+
+
+## November 19, 17:51 IST update
+
+Drunk input published identically in two directly read original guides:
+- https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/
+- https://www.polygon.com/gta-6-cheat-codes-list-unlock/
+Both give Up, Left, Right, Up, Up, Left, Right, Up, Left, Right. Polygon was first read15:50IST but input held until GamesRadar independently filled its earlier TBC at17:50IST. Polygon explicitly describes PS5 testing; no claim of our own game test. GameSpot still blank is missing evidence, not conflicting alternate input. Replace only Drunk Unknown.61rows/19publishedinputs/42Unknown. No visible source/context/chrome or theme change. Current assertions supersede historical44/43Unknown counts above.
