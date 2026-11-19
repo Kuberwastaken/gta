@@ -2,28 +2,28 @@
 title: "GTA VI Wire corrections policy and log"
 seoTitle: "GTA VI Wire Corrections Policy and Corrections Log"
 shortTitle: "Corrections"
-description: "How GTA VI Wire fixes errors and dates its corrections, including the Nov 18 weapon-wheel correction and notes on newly available console testing."
+description: "How GTA VI Wire fixes errors and dates its corrections, including the Nov 19 Ultimate bonus correction and the Nov 18 weapon-wheel correction."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-18
-verified: 2026-11-18
+updated: 2026-11-19
+verified: 2026-11-19
 weight: 3
 tags: ["news", "leaks", "rockstar"]
-tldr: "We fix factual errors fast, say what changed and date it here. The log now includes a **November 18 weapon-wheel correction**. Grade changes are tracked separately on each page and in the [[leaks/index|leaks ledger]]."
+tldr: "We fix factual errors fast, say what changed and date it here. The log includes the **November 19 Ultimate bonus correction** and the **November 18 weapon-wheel correction**. Grade changes are tracked separately on each page and in the [[leaks/index|leaks ledger]]."
 facts:
   - k: "Corrections issued"
     v: "See dated log below"
   - k: "Report via"
     v: "X @Kuberwastaken or GitHub"
   - k: "Log updated"
-    v: "November 18, 2026"
+    v: "November 19, 2026"
 faq:
   - q: "How do I report an error on GTA VI Wire?"
     a: "Message @Kuberwastaken on X or open an issue at github.com/Kuberwastaken. Include the page, the claim and a source if you have one."
   - q: "Is a grade change a correction?"
     a: "No. If a rumour is later confirmed or debunked, that is new evidence, not our mistake. It is dated on the page. A correction is when we got something wrong."
   - q: "Have there been any corrections?"
-    a: "Yes. On November 18 we corrected the first-hours guide's claim that the weapon wheel was gone, after published reviews described using it."
+    a: "Yes. On November 19 we corrected an unsupported dismissal of Ultimate bonus details. On November 18 we corrected the first-hours guide's claim that the weapon wheel was gone, after published reviews described using it."
 sources:
   - title: "Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI"
@@ -42,7 +42,7 @@ sources:
 related: ["about/how-we-grade", "about/index", "leaks/index"]
 ---
 
-When GTA VI Wire gets something wrong, we fix it, say what changed and log it here. The log now includes a **November 18 weapon-wheel correction**.
+When GTA VI Wire gets something wrong, we fix it, say what changed and log it here. The log includes the **November 19 Ultimate bonus correction** and the **November 18 weapon-wheel correction**.
 
 ## How do I report a mistake?
 
@@ -77,6 +77,7 @@ We do not silently delete mistakes.
 
 | Date | Page | What changed |
 | --- | --- | --- |
+| Nov 19, 2026 | [[release/gta-6-price-and-editions|Price and editions]] and [[guides/gta-6-which-edition-should-you-buy|Which edition should you buy]] | Removed the unsupported dismissal of extra Ultimate vehicle/weapon details as debunked or garbled. [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-ultimate-edition-bonuses/) and [VGC](https://www.videogameschronicle.com/guide/gta-6-ultimate-edition-how-to-claim-your-ultimate-edition-benefits-in-gta-6/) describe them within the official bonus groups. Added claim locations and progression limits, with source disagreements kept visible. |
 | Nov 18, 2026 | [[guides/gta-6-tips-before-you-start|Tips before you start]] | Removed the incorrect claim that the weapon wheel was gone. [TechRadar's hands-on review](https://www.techradar.com/gaming/gta-6-review) discusses its UI, and [The Verge's review](https://www.theverge.com/games/1035801/grand-theft-auto-6-review) describes using it. |
 
 **New evidence, not a retroactive official specification:** the [[release/gta-6-ps5-pro-performance|performance guide]] and [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S guide]] now carry Digital Foundry's Nov 18 measurements. Earlier statements that resolutions were undisclosed must not be read as dismissing these newly available independent test samples.

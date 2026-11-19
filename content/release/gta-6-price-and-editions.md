@@ -2,12 +2,12 @@
 title: "GTA 6 price and editions: $79.99 Standard, $99.99 Ultimate, and regional prices"
 seoTitle: "GTA 6 Price and Editions: $79.99, Ultimate and Regional"
 shortTitle: "Price and editions"
-description: "GTA 6 is $79.99 Standard or $99.99 Ultimate in the US, £69.99/£89.99 in the UK. Prices in 10 regions, the 16 Ultimate items and the $20 upgrade."
+description: "GTA 6 is $79.99 Standard or $99.99 Ultimate in the US, £69.99/£89.99 in the UK. Prices in 10 regions, the 16 Ultimate bonus groups, claim locations and chapter unlocks."
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-16
-verified: 2026-11-15
+updated: 2026-11-19
+verified: 2026-11-19
 weight: 3
 tags: ["release", "price", "editions"]
 tldr: "GTA 6 costs **$79.99 Standard or $99.99 Ultimate** in the US (£69.99/£89.99 UK, €79.99/€99.99 eurozone). Ultimate is **digital only** and adds 16 items; Standard owners can upgrade later for the difference, $20/£20/€20 on Xbox."
@@ -38,6 +38,26 @@ faq:
   - q: "Can I upgrade GTA 6 Standard to Ultimate later?"
     a: "Yes. On Xbox the upgrade costs $20, £20 or €20. PlayStation hides the upgrade price until the game is in your library."
 sources:
+  - title: "Ultimate Edition contents and upgrade rules"
+    url: "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+    publisher: "Rockstar Support"
+    date: "Checked Nov 19, 2026"
+    tier: "primary"
+  - title: "How to collect Ultimate Edition bonuses"
+    url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ultimate-edition-bonuses/"
+    publisher: "PC Gamer"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "How to get all Ultimate Edition bonuses"
+    url: "https://www.gamespot.com/articles/how-to-get-all-gta-6-ultimate-edition-bonuses/"
+    publisher: "GameSpot"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "Where to claim Ultimate Edition benefits"
+    url: "https://www.videogameschronicle.com/guide/gta-6-ultimate-edition-how-to-claim-your-ultimate-edition-benefits-in-gta-6/"
+    publisher: "VGC"
+    date: "Nov 18, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI Comes to Xbox One and Xbox Series X|S Through Xbox Cloud Gaming on November 19"
     url: "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
     publisher: "Xbox Wire"
@@ -116,7 +136,7 @@ Rockstar Support says a physical Ultimate "is not available"; it is sold only on
 
 ### The 16 Ultimate Edition items
 
-gtasix.org transcribed this list from Rockstar Support. <span class="tag-reported">reported</span>
+[Rockstar Support](https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions) directly lists these 16 bonus groups. <span class="tag-confirmed">confirmed</span>
 
 | Vehicles | Weapons and looks | Businesses and properties |
 | --- | --- | --- |
@@ -129,7 +149,32 @@ gtasix.org transcribed this list from Rockstar Support. <span class="tag-reporte
 
 Two caveats affect the value. Five of the businesses are "only open for business with the Ultimate Edition", so Standard players will see them shut. And the items unlock across the story's chapters, not on day one. The cars and guns are covered on [[gameplay/gta-6-vehicles|vehicles]] and [[gameplay/gta-6-weapons|weapons]].
 
-VICE's June 24 list does not match. It adds Girardi and Klose pistols, a Dinka Enduro and a Crest Kayak, and calls the Stanier and weapon skins Standard pre-order bonuses. Use the Rockstar Support list. <span class="tag-debunked">debunked</span>
+**November 19 correction:** we previously dismissed the extra pistol, motorcycle and kayak details in VICE's older list as debunked. That was too strong. Released-game guides identify the customized pistols as the Personalized Weapon Variants and the motorcycle/kayak as Jason's Safehouse Vehicles. Different detail is not proof of a different entitlement. The official 16-group list above remains the contents reference; claim locations below come from hands-on guides. See the [[about/corrections|corrections log]].
+
+## How to claim Ultimate Edition bonuses
+
+**Not seeing everything immediately does not mean your purchase failed.** [Rockstar Support](https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions) says the bonuses open across story chapters. [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-ultimate-edition-bonuses/), [GameSpot](https://www.gamespot.com/articles/how-to-get-all-gta-6-ultimate-edition-bonuses/) and [VGC](https://www.videogameschronicle.com/guide/gta-6-ultimate-edition-how-to-claim-your-ultimate-edition-benefits-in-gta-6/) now describe where to collect them in the released game. The chapter numbers below are progression hints; no mission names or story outcomes are included. <span class="tag-reported">reported</span> (hands-on guides)
+
+PC Gamer says the **main-menu store shows the individual bonus entries after mission 11**. Check each entry rather than expecting one button to deliver every reward. This is a way to inspect the items, not a claim that every bonus first unlocks at mission 11.
+
+| Bonus group | When and where to look |
+| --- | --- |
+| Jason's Safehouse Vehicles | Motorcycle and kayak at Jason's starting home in Chapter 1. PC Gamer and VGC specifically limit access to that chapter, so do not assume they remain claimable later. |
+| Ganado Retro Build | Chapter 1, Coastal Auto Care in Key Lento; PC Gamer directs you to Pro Builds/Full Kits in the modification menu. VGC also marks this as Chapter 1-only. |
+| Rideout Customs and One-Eyed Willie's | Chapter 1. Look in the map index under Vehicles/Mod Shops; the latter is in Lake Leonida. |
+| Stock 305 and Electric Fang | Chapter 1, Stockyard. The map index places them under Style/Casual & Street and Style/Tattoos respectively. |
+| Sara's Unisex Salon | Available in Hamlet in Chapter 1; signature looks start in Chapter 2, with more later. Find it under Style/Hair & Beauty. |
+| Goodtime Gear | Chapter 1, The Wonder Whale in Key Lento. PC Gamer calls this Vice City Merch and points to the mannequins and Style/Souvenir & Swimwear map category. |
+| PTT Youngin$ Compound | Chapter 1, Southside. This is an activity, not an automatic inventory grant; PC Gamer indexes it under Robberies/Illegal Operations. |
+| Personalized Weapon Variants | Jason's in Chapter 1, Lucia's in Chapter 2. PC Gamer points to Variants in an Ammu-Nation weapon locker. These are customized versions of their pistols. |
+| Morgan Revolvers | Chapter 2, Ammu-Nation weapon lockers. |
+| Dominator Buggy and Garage; Classic Car Collection | Chapter 2. Follow Wyman's related activity and messages; PC Gamer says the classic-car follow-up arrives after collecting the buggy. |
+| Vice City Style; Shitzu Squalo | Chapter 4. Check the wardrobe for outfits and tattoo/salon menus for the other style options. The boat is at a Washington Beach canal dock, indexed under Personal. |
+| '95 Grotti Cheetah | Chapter 5, Pegassi Residences. PC Gamer points to an Exploration task in the map index. |
+
+The guides differ on a few labels and how much detail they give. PC Gamer calls the motorcycle **Dinka Endura**, while GameSpot calls it **Enduro**; this page does not settle the model spelling from those conflicting accounts. GameSpot's pistol paragraph also gives mixed timing, so the separate Jason/Chapter 1 and Lucia/Chapter 2 timing above follows PC Gamer and VGC. Chapter-only access warnings are attributed guide reports, not an independently tested recovery route if you have already passed them.
+
+These are **Ultimate bonuses**, separate from the [[release/gta-6-pre-order-bonuses|Vintage Vice City Pack and GTA+ offer]]. A store entitlement, a chapter unlock and collecting an item are different steps. Do not buy the game or upgrade again merely because a later reward is not visible yet.
 
 ## How does the upgrade work?
 

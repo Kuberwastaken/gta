@@ -5,8 +5,8 @@ shortTitle: "Which edition to buy"
 description: "Standard is $79.99, Ultimate $99.99 and digital only, and the box is a download code. Upgrading later costs the $20 gap, so Standard digital suits most players."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-19
+verified: 2026-11-19
 weight: 4
 tags: ["guides", "editions", "price", "physical"]
 tldr: "Buy **Standard digital ($79.99)** unless you already know you want Ultimate's extras: it gets the pre-order pack and the free GTA+ month, and the **Ultimate upgrade later costs the $20 gap**. Ultimate ($99.99) is digital only, and its 16 items unlock across the story anyway. The box copy is a download code and skips the GTA+ month."
@@ -33,6 +33,26 @@ faq:
   - q: "How many people bought Ultimate?"
     a: "Sensor Tower estimates 89% of GTA VI pre-orders were the Ultimate Edition. That is a third-party estimate, not a Rockstar figure."
 sources:
+  - title: "Ultimate Edition contents and upgrade rules"
+    url: "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+    publisher: "Rockstar Support"
+    date: "Checked Nov 19, 2026"
+    tier: "primary"
+  - title: "How to collect Ultimate Edition bonuses"
+    url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ultimate-edition-bonuses/"
+    publisher: "PC Gamer"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "How to get all Ultimate Edition bonuses"
+    url: "https://www.gamespot.com/articles/how-to-get-all-gta-6-ultimate-edition-bonuses/"
+    publisher: "GameSpot"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "Where to claim Ultimate Edition benefits"
+    url: "https://www.videogameschronicle.com/guide/gta-6-ultimate-edition-how-to-claim-your-ultimate-edition-benefits-in-gta-6/"
+    publisher: "VGC"
+    date: "Nov 18, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI Comes to Xbox One and Xbox Series X|S Through Xbox Cloud Gaming on November 19"
     url: "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
     publisher: "Xbox Wire"
@@ -96,7 +116,7 @@ The Vintage Vice City Pack ('55 Vapid Stanier, Shore Court Garage, 1980s outfits
 
 ## What does Ultimate add?
 
-Rockstar Support lists 16 items, as compiled by gtasix.org. <span class="tag-reported">reported</span>
+[Rockstar Support](https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions) directly lists 16 bonus groups. <span class="tag-confirmed">confirmed</span>
 
 | Type | Items |
 | --- | --- |
@@ -108,7 +128,7 @@ Five of the businesses are "only open for business with the Ultimate Edition". T
 
 Sensor Tower estimates 89% of pre-orders went to Ultimate anyway. <span class="tag-reported">reported</span> (estimate)
 
-VICE's June 24 list differs: it adds Girardi and Klose pistols, a Dinka Enduro and a Crest Kayak, and calls the Stanier and weapon skins Standard bonuses. That list is probably garbled. Rockstar's pages name the Girardi ES9 and Klose K17 as Jason's and Lucia's own pistols, which may explain the mix-up. <span class="tag-speculation">speculation</span> We follow the Rockstar Support list. The cars are covered in [[gameplay/gta-6-vehicles|vehicles]], the guns in [[gameplay/gta-6-weapons|weapons]].
+**November 19 correction:** our earlier suggestion that the extra pistol, motorcycle and kayak details in VICE's list were garbled was too strong. Released-game guides describe them within the Personalized Weapon Variants and Jason's Safehouse Vehicles groups. The [[release/gta-6-price-and-editions#How to claim Ultimate Edition bonuses|Ultimate claim guide]] now separates official contents from hands-on claim locations, chapter gates and Chapter 1-only access warnings. No mission names or story outcomes are needed. See the [[about/corrections|corrections log]]. The cars are covered in [[gameplay/gta-6-vehicles|vehicles]], the guns in [[gameplay/gta-6-weapons|weapons]].
 
 ## What does upgrading later cost?
 
