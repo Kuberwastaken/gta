@@ -2,14 +2,14 @@
 title: "GTA+ explained: the free month with GTA 6, what it does and how to cancel"
 seoTitle: "GTA+ Explained: The Free GTA 6 Month and How It Works"
 shortTitle: "GTA+ explained"
-description: "GTA 6 digital orders include a GTA+ month. Sony confirms renewal and a March 31 PS5 claim deadline; Xbox gives 180 days. Claim and cancellation steps."
+description: "GTA+ now has optional GTA 6 story-mode benefits. Reported perks, unresolved expiry terms, the free-month offer, renewal and cancellation steps."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-17
-verified: 2026-11-17
+updated: 2026-11-19
+verified: 2026-11-19
 weight: 7
 tags: ["guides", "gta-plus", "gta-online", "editions"]
-tldr: "Digital GTA VI pre-orders on PS5 and Xbox include **one free month of GTA+**, Rockstar's GTA Online membership. It does nothing in GTA VI's single-player game. Redeem it on Xbox within 180 days (PS5 until Mar 31, 2027), and cancel before it **renews at your platform's regular monthly price**."
+tldr: "Digital GTA VI pre-orders on PS5 and Xbox include **one free month of GTA+**, Rockstar's GTA Online membership. Rockstar now advertises optional GTA VI story-mode benefits; detailed perks and expiry caveats are below. Redeem it on Xbox within 180 days (PS5 until Mar 31, 2027), and cancel before it **renews at your platform's regular monthly price**."
 facts:
   - k: "Who gets it"
     v: "Digital pre-orders, PS5 and Xbox"
@@ -22,19 +22,33 @@ facts:
   - k: "Renewal"
     v: "Regular platform price unless canceled"
   - k: "Use in GTA VI"
-    v: "None announced"
+    v: "Optional story-mode benefits"
 faq:
   - q: "What is GTA+?"
-    a: "Rockstar's paid GTA Online membership on PS5, Xbox Series X|S and PC. Reported perks: a monthly GTA$500,000 deposit, 15% extra GTA$ on Shark Cards, and a catalogue of older Rockstar games."
+    a: "Rockstar's paid membership with GTA Online perks, a games catalogue and now optional GTA VI story-mode benefits on console. Reported GTA Online perks: a monthly GTA$500,000 deposit, 15% extra GTA$ on Shark Cards, and a catalogue of older Rockstar games."
   - q: "How do I claim the free GTA+ month from GTA 6?"
     a: "On Xbox: Store, your profile, then Offers & credits, within 180 days of pre-ordering. On PS5, follow the confirmation email and GTA+ product-page offer by March 31, 2027. Use the account that bought GTA VI."
   - q: "Does the GTA+ free month auto-renew?"
     a: "Sony confirms the PS5 offer continues monthly at the regular price until canceled. Read the payment date shown when claiming; cancel in subscription management before that date if you do not want to pay."
   - q: "Does GTA+ do anything in GTA 6?"
-    a: "No. GTA VI launches single-player only, and Rockstar has not said whether GTA+ will connect to a future GTA VI online mode."
+    a: "Yes. Rockstar now advertises optional benefits for Jason and Lucia. Launch reporting describes a car and garage, transport perks, store discounts and increased vehicle sale value. The detailed cancellation treatment is disputed, so do not assume every reward is permanent."
   - q: "Do boxed copies get the free GTA+ month?"
     a: "No. Xbox Wire and Rockstar Support, as quoted, limit it to digital pre-orders. Sony also counts eligible PS Store digital purchases made through Nov 19."
 sources:
+  - title: "GTA VI: optional GTA+ benefits for Jason and Lucia"
+    url: "https://www.rockstargames.com/VI"
+    publisher: "Rockstar Games"
+    date: "Checked Nov 19, 2026"
+    tier: "primary"
+  - title: "GTA VI GTA+ membership benefits"
+    url: "https://www.gamespot.com/articles/gta-6-gta-subscription-includes-a-free-supercar-discounts-and-more/"
+    publisher: "GameSpot"
+    date: "Nov 18, 2026"
+  - title: "Hands-on guide to GTA VI GTA+ benefits"
+    url: "https://www.gtaboom.com/how-to-unlock-every-gta-benefit-in-gta-6-9a2d"
+    publisher: "GTA BOOM"
+    date: "Nov 19, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI: digital purchase and GTA+ offer"
     url: "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm"
     publisher: "Xbox Store"
@@ -75,7 +89,7 @@ sources:
 related: ["release/gta-6-gta-online-status", "release/gta-6-pre-order-bonuses", "guides/gta-6-which-edition-should-you-buy"]
 ---
 
-GTA+ is Rockstar's paid membership for GTA Online, and digital GTA VI pre-orders on PS5 and Xbox come with one month of it free. It does nothing in GTA VI, which launches as a single-player game. Sony confirms that claiming the PS5 month starts a subscription that continues at the regular monthly price unless canceled. Check the price and next payment date on your platform rather than treating a rounded US price as universal. Other buying guides are in the [[guides/index|guides hub]].
+GTA+ is Rockstar's paid membership for GTA Online, and digital GTA VI pre-orders on PS5 and Xbox come with one month of it free. Rockstar now advertises optional benefits for Jason and Lucia in GTA VI. Single-player does not mean subscription extras are absent. Sony confirms that claiming the PS5 month starts a subscription that continues at the regular monthly price unless canceled. Check the price and next payment date on your platform rather than treating a rounded US price as universal. Other buying guides are in the [[guides/index|guides hub]].
 
 ## What GTA+ gives you
 
@@ -88,7 +102,7 @@ Rockstar's GTA+ page lists the membership on PS5, Xbox Series X|S and PC. <span 
 | Game catalogue | Older Rockstar games, playable while subscribed |
 | GTA Online access | Recently added on consoles |
 
-Every perk applies to GTA Online on GTA V or to the back catalogue. TechRadar's angle is that the free month lets you start playing older GTA games right away, before GTA VI unlocks.
+The table above covers GTA Online and the games catalogue. It is not the complete membership benefit list now that GTA VI story-mode extras are advertised.
 
 ### Does it include GTA Online on PC?
 
@@ -120,9 +134,28 @@ Sony lists excluded PlayStation Store countries in the linked terms. Buying a bo
 
 Xbox's store gives **180 days after placing the pre-order** to redeem its offer. Read the renewal terms displayed during the Xbox claim rather than assuming Sony's redemption deadline or a reported US monthly price applies to every platform and country. The free month is optional; buying GTA VI and claiming GTA+ are separate steps.
 
-## Will GTA+ matter for GTA VI later?
+## What does GTA+ add to GTA VI story mode?
 
-Nobody knows yet. Rockstar's pre-order post and the store listings call GTA VI "a single player experience", and no GTA VI online mode, name or date exists. Rockstar has not said whether GTA+ will carry over to it, or whether GTA$ or GTA Online characters will transfer. A 2027 online date is <span class="tag-rumour">rumour</span>; see the [[leaks/gta-6-online-at-launch-rumour|online-at-launch rumour]] and [[release/gta-6-gta-online-status|GTA Online status]].
+**November 19 correction:** our earlier statement that GTA+ did nothing in GTA VI was wrong. [Rockstar's live GTA VI page](https://www.rockstargames.com/VI) now explicitly advertises optional in-game benefits for Jason and Lucia on console. That establishes that story-mode benefits exist. The detailed list below comes from [GameSpot's launch report](https://www.gamespot.com/articles/gta-6-gta-subscription-includes-a-free-supercar-discounts-and-more/) and [GTA BOOM's hands-on guide](https://www.gtaboom.com/how-to-unlock-every-gta-benefit-in-gta-6-9a2d), not a fully recovered first-party terms page. See the [[about/corrections|corrections log]].
+
+| Reported benefit | What the guides describe |
+| --- | --- |
+| Vehicle and garage | A '90 Annis Venturas BLVD Elegy and a single-car garage in Crosstown, with a weapon locker and direct fencing for stolen goods. Progression-gated, not necessarily available at the beginning. |
+| Transport | Premium Scooter Bros and RydeMe services, free scooter/bike rentals and free public transit. GameSpot also lists Seashark rentals. |
+| Store discounts | 10% off at eligible businesses, including weapon and clothing shops, salons, tattooists and vehicle mod shops. |
+| Vehicle sales | 10% extra on eligible vehicle sales. |
+
+<span class="tag-reported">reported</span> GTA BOOM says its tested route is **Settings > Account > GTA+ Boosts**, where the boosts can be enabled. Check that the membership is active and that you are using the platform account holding it. These are optional extras, distinct from the [[release/gta-6-price-and-editions|Ultimate Edition rewards]] and [[release/gta-6-pre-order-bonuses|Vintage Vice City Pack]]. There is no need to subscribe merely to play the purchased story.
+
+### What happens when membership ends?
+
+**Do not assume all rewards are permanent.** GameSpot says the benefits stop being available when membership expires. GTA BOOM instead says an already claimed car and garage remain, while ongoing discounts and services stop. The two guides also differ on whether the vehicle claim begins during or after its relevant chapter. We have not recovered readable first-party terms settling those points: the membership page returned only navigation in our direct check. We therefore do not promise permanent ownership, a precise chapter trigger, or a recovery method for an unclaimed reward. Read the actual in-game benefit and cancellation terms before paying on that assumption.
+
+Canceling renewal and reaching the end of paid membership are different moments. Keep the platform's displayed next-payment date in view; the existing claim and cancellation instructions above still apply. No subscription is activated by reading this guide.
+
+### Does this announce GTA VI multiplayer?
+
+No. Story-mode membership benefits do not announce an online mode, a release date, character transfers or shared GTA$ balances. Those remain separate questions on [[release/gta-6-gta-online-status|GTA Online status]].
 
 GTA Online on GTA V is not winding down. Take-Two shipped the Kortz Center Heist Summer Update on July 14, 2026, and says it will keep supporting GTA Online after GTA VI launches. <span class="tag-confirmed">confirmed</span>
 

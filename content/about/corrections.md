@@ -77,6 +77,7 @@ We do not silently delete mistakes.
 
 | Date | Page | What changed |
 | --- | --- | --- |
+| Nov 19, 2026 | [[guides/gta-6-gta-plus-explained|GTA+ explained]] and [[release/gta-6-pre-order-bonuses|Pre-order bonuses]] | Corrected the claim that GTA+ did nothing in GTA VI story mode. [Rockstar's live VI page](https://www.rockstargames.com/VI) advertises optional benefits for Jason and Lucia. Detailed perks remain attributed reporting; conflicting cancellation and progression claims are not treated as settled. |
 | Nov 19, 2026 | [[release/gta-6-price-and-editions|Price and editions]] and [[guides/gta-6-which-edition-should-you-buy|Which edition should you buy]] | Removed the unsupported dismissal of extra Ultimate vehicle/weapon details as debunked or garbled. [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-ultimate-edition-bonuses/) and [VGC](https://www.videogameschronicle.com/guide/gta-6-ultimate-edition-how-to-claim-your-ultimate-edition-benefits-in-gta-6/) describe them within the official bonus groups. Added claim locations and progression limits, with source disagreements kept visible. |
 | Nov 18, 2026 | [[guides/gta-6-tips-before-you-start|Tips before you start]] | Removed the incorrect claim that the weapon wheel was gone. [TechRadar's hands-on review](https://www.techradar.com/gaming/gta-6-review) discusses its UI, and [The Verge's review](https://www.theverge.com/games/1035801/grand-theft-auto-6-review) describes using it. |
 

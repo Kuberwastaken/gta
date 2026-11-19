@@ -5,8 +5,8 @@ shortTitle: "Pre-order bonuses"
 description: "Any GTA 6 copy bought before Nov 20 gets the Vintage Vice City Pack; eligible digital orders add a GTA+ month. Sony claim steps, renewal terms and platform cutoffs."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-17
-verified: 2026-11-17
+updated: 2026-11-19
+verified: 2026-11-19
 weight: 7
 tags: ["release", "editions", "gta-plus", "price"]
 tldr: "Every GTA 6 copy bought **before Nov 20, 2026**, boxed or digital, Standard or Ultimate, gets the **Vintage Vice City Pack**: a '55 Vapid Stanier, the Shore Court Garage, 1980s outfits and a tropical weapon skin. Digital pre-orders also get a free GTA+ month, which renews at the regular platform price unless canceled."
@@ -109,7 +109,7 @@ Digital pre-orders on PS5 and Xbox Series X|S qualify. The boxed copy does not. 
 
 [Sony confirms](https://www.playstation.com/support/games/gta-vi-offer-terms) the PS5 month continues as a monthly subscription at the regular price until canceled. Its claim screen shows the next payment date; cancel through Subscriptions Management before that date if you do not want to pay. <span class="tag-confirmed">confirmed</span> For Xbox, read the platform's terms when claiming. A rounded US price from press coverage is not a universal renewal charge.
 
-GTA+ is a membership for GTA Online on GTA V plus a back catalogue of Rockstar games, with a monthly GTA$ deposit reported at GTA$500,000. <span class="tag-reported">reported</span> It adds nothing to GTA 6's story mode, and Rockstar has not said whether it will carry over to any GTA VI online mode, which is [[release/gta-6-gta-online-status|not announced]]. Full terms are in the [[guides/gta-6-gta-plus-explained|GTA+ explainer]].
+GTA+ is a membership for GTA Online on GTA V plus a back catalogue of Rockstar games, with a monthly GTA$ deposit reported at GTA$500,000. <span class="tag-reported">reported</span> **November 19 correction:** it does now offer optional GTA VI story-mode benefits, explicitly advertised on [Rockstar's GTA VI page](https://www.rockstargames.com/VI). The [[guides/gta-6-gta-plus-explained|GTA+ explainer]] separates reported perks from unresolved expiry terms. This does not announce a GTA VI online mode, which remains [[release/gta-6-gta-online-status|a separate question]]. Full terms are in the [[guides/gta-6-gta-plus-explained|GTA+ explainer]].
 
 ## Was the Stanier a Standard-only bonus?
 
