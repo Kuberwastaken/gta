@@ -5,8 +5,8 @@ shortTitle: "Vehicles"
 description: "Rockstar names seven GTA 6 vehicles, from the '95 Grotti Cheetah to Jason's Vapid Ganado. Plus fan IDs, security-tier car theft, fuel and the Waink app."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-18
-verified: 2026-11-18
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 3
 tags: ["vehicles", "gameplay", "editions"]
 tldr: "Rockstar names **the '95 Grotti Cheetah, '55 Vapid Stanier, Vapid Ganado, Dinka Enduro, Crest Kayak, Shitzu Squalo and '67 Vapid Dominator Buggy**. Previews add security tiers for car theft, fuel, trunk storage and the Waink app. There is no official vehicle count."
@@ -20,7 +20,7 @@ facts:
   - k: "Fuel"
     v: "Yes, refuel at stations (reported)"
   - k: "Pay 'n' Spray"
-    v: "Back; clears wanted level (reported)"
+    v: "Repairs; handles vehicle clue (reported)"
   - k: "New"
     v: "Circuit racing, e-scooters (reported)"
 faq:
@@ -35,6 +35,10 @@ faq:
   - q: "What is the Grotti Cheetah based on?"
     a: "Fans read Grotti as Ferrari, so the '95 Cheetah as a Ferrari homage. Rockstar has never stated real-world equivalents for its brands."
 sources:
+  - title: "GTA 6 police and the Heat system"
+    url: "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/"
+    publisher: "Engadget"
+    date: "Nov 18, 2026"
   - title: "Base PS5 driving review and direct Rob Nelson interview"
     url: "https://www.gamingbible.com/reviews/gta-6-review-389961-20261117"
     publisher: "GAMINGbible"
@@ -72,6 +76,8 @@ related: ["gameplay/gta-6-wanted-system-and-heat", "release/gta-6-price-and-edit
 Rockstar's edition and pre-order pages name seven GTA 6 vehicles: the '95 Grotti Cheetah, '55 Vapid Stanier, Vapid Ganado, Dinka Enduro, Crest Kayak, Shitzu Squalo and '67 Vapid Dominator Buggy, plus a gold donk from Rideout Customs <span class="tag-confirmed">confirmed</span>. Every other model name comes from press readings of Rockstar screenshots or fan IDs from trailers. There is no official count; fan databases disagree, and one lists 176 <span class="tag-rumour">rumour</span>.
 
 The bigger change from GTA V is ownership and theft. Cars now have security tiers, trackers, registration fees, fuel and trunks, and a phone app tells you what a car is worth before you take it <span class="tag-reported">reported</span>.
+
+**November 20 correction:** we previously described Pay 'n' Spray as clearing the entire wanted level. [Red Bull's preview](https://www.redbull.com/us-en/gta-6-gameplay-details) describes the vehicle's wanted status, while [Engadget's launch guide](https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/) separates that clue from the others and from regional heat. We have narrowed the claim here; see the [[about/corrections|corrections log]].
 
 ## What vehicles has Rockstar officially named?
 
@@ -130,7 +136,7 @@ In the same outlet's direct interview, **Rob Nelson says pouring engine coolant 
 | Personal cars | Multiple per character, stored in garages | <span class="tag-reported">reported</span> |
 | Trunks | Store weapons, outfits and people | <span class="tag-reported">reported</span> |
 | Weapon storage | Guns beyond the two-handgun, two-long-gun limit stay in the car | <span class="tag-reported">reported</span> |
-| Pay 'n' Spray | Repairs the car and clears your wanted level | <span class="tag-reported">reported</span> |
+| Pay 'n' Spray | Repairs the car and addresses its vehicle clue, not every identity clue or regional heat | <span class="tag-reported">reported</span> |
 | Scooter Bros | Delivers a vehicle to you for a fee | <span class="tag-reported">reported</span> |
 | E-scooters | Rideable | <span class="tag-reported">reported</span> |
 | Circuit racing | New to the series | <span class="tag-reported">reported</span> |

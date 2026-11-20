@@ -2,28 +2,28 @@
 title: "GTA VI Wire corrections policy and log"
 seoTitle: "GTA VI Wire Corrections Policy and Corrections Log"
 shortTitle: "Corrections"
-description: "How GTA VI Wire fixes errors and dates its corrections, including the Nov 19 Ultimate bonus correction and the Nov 18 weapon-wheel correction."
+description: "How GTA VI Wire fixes errors and dates its corrections, including the Nov 20 heat-system correction, Nov 19 bonus corrections and Nov 18 weapon-wheel correction."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-19
-verified: 2026-11-19
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 3
 tags: ["news", "leaks", "rockstar"]
-tldr: "We fix factual errors fast, say what changed and date it here. The log includes the **November 19 Ultimate bonus correction** and the **November 18 weapon-wheel correction**. Grade changes are tracked separately on each page and in the [[leaks/index|leaks ledger]]."
+tldr: "We fix factual errors fast, say what changed and date it here. The log includes the **November 20 heat-system correction**, **November 19 bonus corrections** and **November 18 weapon-wheel correction**. Grade changes are tracked separately on each page and in the [[leaks/index|leaks ledger]]."
 facts:
   - k: "Corrections issued"
     v: "See dated log below"
   - k: "Report via"
     v: "X @Kuberwastaken or GitHub"
   - k: "Log updated"
-    v: "November 19, 2026"
+    v: "November 20, 2026"
 faq:
   - q: "How do I report an error on GTA VI Wire?"
     a: "Message @Kuberwastaken on X or open an issue at github.com/Kuberwastaken. Include the page, the claim and a source if you have one."
   - q: "Is a grade change a correction?"
     a: "No. If a rumour is later confirmed or debunked, that is new evidence, not our mistake. It is dated on the page. A correction is when we got something wrong."
   - q: "Have there been any corrections?"
-    a: "Yes. On November 19 we corrected an unsupported dismissal of Ultimate bonus details. On November 18 we corrected the first-hours guide's claim that the weapon wheel was gone, after published reviews described using it."
+    a: "Yes. On November 20 we narrowed an overbroad Pay 'n' Spray wanted-reset claim. On November 19 we corrected bonus coverage. On November 18 we corrected the first-hours guide's claim that the weapon wheel was gone, after published reviews described using it."
 sources:
   - title: "Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI"
@@ -42,7 +42,7 @@ sources:
 related: ["about/how-we-grade", "about/index", "leaks/index"]
 ---
 
-When GTA VI Wire gets something wrong, we fix it, say what changed and log it here. The log includes the **November 19 Ultimate bonus correction** and the **November 18 weapon-wheel correction**.
+When GTA VI Wire gets something wrong, we fix it, say what changed and log it here. The log includes the **November 20 heat-system correction**, **November 19 bonus corrections** and **November 18 weapon-wheel correction**.
 
 ## How do I report a mistake?
 
@@ -77,6 +77,7 @@ We do not silently delete mistakes.
 
 | Date | Page | What changed |
 | --- | --- | --- |
+| Nov 20, 2026 | [[gameplay/gta-6-wanted-system-and-heat|Wanted system]], [[guides/gta-6-tips-before-you-start|Tips]], [[gameplay/gta-6-vehicles|Vehicles]], [[gameplay/gta-6-gameplay-features-confirmed|Gameplay features]] and [[gameplay/gta-6-money-banks-and-fences|Money]] | Narrowed the claim that Pay 'n' Spray clears the entire wanted level. Red Bull described vehicle wanted status; [Engadget's launch guide](https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/) separates the vehicle clue, other identifying details and regional heat. No universal reset or cooldown timer is promised. |
 | Nov 19, 2026 | [[guides/gta-6-gta-plus-explained|GTA+ explained]] and [[release/gta-6-pre-order-bonuses|Pre-order bonuses]] | Corrected the claim that GTA+ did nothing in GTA VI story mode. [Rockstar's live VI page](https://www.rockstargames.com/VI) advertises optional benefits for Jason and Lucia. Detailed perks remain attributed reporting; conflicting cancellation and progression claims are not treated as settled. |
 | Nov 19, 2026 | [[release/gta-6-price-and-editions|Price and editions]] and [[guides/gta-6-which-edition-should-you-buy|Which edition should you buy]] | Removed the unsupported dismissal of extra Ultimate vehicle/weapon details as debunked or garbled. [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-ultimate-edition-bonuses/) and [VGC](https://www.videogameschronicle.com/guide/gta-6-ultimate-edition-how-to-claim-your-ultimate-edition-benefits-in-gta-6/) describe them within the official bonus groups. Added claim locations and progression limits, with source disagreements kept visible. |
 | Nov 18, 2026 | [[guides/gta-6-tips-before-you-start|Tips before you start]] | Removed the incorrect claim that the weapon wheel was gone. [TechRadar's hands-on review](https://www.techradar.com/gaming/gta-6-review) discusses its UI, and [The Verge's review](https://www.theverge.com/games/1035801/grand-theft-auto-6-review) describes using it. |

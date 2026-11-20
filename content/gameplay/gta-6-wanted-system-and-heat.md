@@ -20,14 +20,14 @@ facts:
   - k: "Star styles"
     v: "Solid, flashing, hollow, red"
   - k: "Pay 'n' Spray"
-    v: "Clears wanted level"
+    v: "Vehicle clue, not all heat"
   - k: "Grade"
     v: "Reported (previews and developer interview)"
 faq:
   - q: "How many wanted stars are in GTA 6?"
     a: "Six, shown on the HUD in the Extended Look per Engadget and VICE. GTA 5 had five. Rockstar has not said what the sixth star sends after you."
   - q: "How do you lose the cops in GTA 6?"
-    a: "Make their description wrong: new clothes, a barber haircut, a mask for CCTV, split Jason and Lucia, or swap or torch the car. A Pay 'n' Spray clears the level outright."
+    a: "Make their description wrong: new clothes, a barber haircut, a mask for CCTV, split Jason and Lucia, or swap or torch the car. A Pay 'n' Spray addresses the vehicle clue, but other identifying details and regional heat can remain."
   - q: "Does GTA 6 still have wanted stars?"
     a: "Yes. A fan-site claim that GTA 6 'eliminates the wanted star system' is false. The Extended Look HUD shows six of them."
   - q: "Do police come every time you commit a crime in GTA 6?"
@@ -35,6 +35,14 @@ faq:
   - q: "Can police search buses in GTA 6?"
     a: "Only if they saw you get on. Rockstar's Phil Hooker gave that rule in previews, which makes a bus a cheap way out of a search zone."
 sources:
+  - title: "GTA 6 wanted-star visual states"
+    url: "https://www.engadget.com/2322564/gta-6-wanted-level-star-system-details/"
+    publisher: "Engadget"
+    date: "Nov 19, 2026"
+  - title: "GTA 6 police and the Heat system"
+    url: "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/"
+    publisher: "Engadget"
+    date: "Nov 18, 2026"
   - title: "Rockstar developer on pursuit balance and police radar"
     url: "https://www.techradar.com/gaming/gta-6-dev-says-removing-cops-from-the-players-radar-created-some-really-memorable-and-epic-chases-and-escapes-the-player-needs-to-now-use-the-awareness-threat-indicators-to-help-them-evade-or-change-their-appearance-outrig"
     publisher: "TechRadar"
@@ -92,6 +100,16 @@ Once you are reported, police build a profile:
 | Weapons | What was seen |
 | Vehicle | Sightings, stolen-car trackers |
 
+## Does a respray remove all heat?
+
+No single respray should be treated as a universal reset. **November 20 correction:** we previously described Pay 'n' Spray as clearing the entire wanted level. [Red Bull's preview](https://www.redbull.com/us-en/gta-6-gameplay-details) describes the vehicle's wanted status, while [Engadget's launch guide](https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/) separates that clue from the others and from regional heat. We have narrowed the claim here; see the [[about/corrections|corrections log]].
+
+[Engadget's November 18 guide](https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/) describes six tracking icons below the wanted stars: camera, accomplice, clothing, face, weapon and vehicle. A respray or replacement car addresses the vehicle clue. It does not establish that police forget the character's face, clothing, partner or weapons. <span class="tag-reported">reported</span> The guide reports what its writers have seen; we have not tested every combination ourselves.
+
+There is also **regional heat**, separate from whether a chase has ended. Engadget says repeated crime in an area brings more patrols that can remain after the wanted level is lost. Its guide describes a purple map overlay for a hot area and says that heat fades if you stop committing crimes there. It provides no fixed cooldown duration, so we do not promise a timer or claim that visiting a repair shop cools a district.
+
+The sources do not use every star description identically. Engadget's November 18 guide calls one state gray and describes red as a risk of being recognized again; its November 19 follow-up, citing GameSpot, uses flashing white for lost line of sight and red near a crime scene. The preview-based table below uses the latter distinction. This is not a verified exhaustive list of every HUD state or settings variant.
+
 ## What do the star styles mean?
 
 The stars change look to show what police know <span class="tag-reported">reported</span>:
@@ -131,7 +149,7 @@ Each reported method attacks one line of the profile <span class="tag-reported">
 | Barber haircut | Appearance |
 | Mask | CCTV identification |
 | Swap or torch the car | Vehicle |
-| Pay 'n' Spray | Repairs the car and clears the wanted level |
+| Pay 'n' Spray | Repairs the car and addresses its vehicle clue, not all heat |
 | Ride a bus | Police won't search it unless they saw you board, per Rockstar's Phil Hooker |
 | Leave through another exit | Line of sight; Red Bull says many buildings have several |
 

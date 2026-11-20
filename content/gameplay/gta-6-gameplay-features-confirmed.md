@@ -5,8 +5,8 @@ shortTitle: "Confirmed features list"
 description: "Every GTA 6 gameplay feature in graded tables: six wanted stars, heat, a 2+2 gun loadout, fuel, hurricanes, 170+ animals, story-gated switching, fences and apps."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 1
 tags: ["gameplay", "wanted-system", "weapons", "vehicles", "money"]
 tldr: "Rockstar itself confirms **two playable leads with story-gated switching**, an optional romance and radio on foot. Six wanted stars, a two-handgun, two-long-gun loadout, fuel, bank vs cash vs loot, 170+ animal species and hurricanes come from Rockstar staff via press, graded reported."
@@ -33,6 +33,10 @@ faq:
   - q: "Is GTA 6 multiplayer at launch?"
     a: "No. Rockstar's June 2026 pricing announcement called GTA 6 'a single-player experience', and no GTA 6 online mode has been announced."
 sources:
+  - title: "GTA 6 police and the Heat system"
+    url: "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/"
+    publisher: "Engadget"
+    date: "Nov 18, 2026"
   - title: "Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI"
     publisher: "Rockstar Games"
@@ -119,6 +123,9 @@ Details: [[gameplay/gta-6-character-switching|character switching]], [[gameplay/
 
 ## Police and wanted system
 
+**November 20 correction:** we previously described Pay 'n' Spray as clearing the entire wanted level. [Red Bull's preview](https://www.redbull.com/us-en/gta-6-gameplay-details) describes the vehicle's wanted status, while [Engadget's launch guide](https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/) separates that clue from the others and from regional heat. We have narrowed the claim here; see the [[about/corrections|corrections log]].
+
+
 | Feature | Detail | Grade |
 | --- | --- | --- |
 | Six wanted stars | Shown in the Extended Look | <span class="tag-reported">reported</span> |
@@ -126,7 +133,7 @@ Details: [[gameplay/gta-6-character-switching|character switching]], [[gameplay/
 | Heat system | Tracks CCTV, clothes, suspects, weapons, vehicle | <span class="tag-reported">reported</span> |
 | Star styles | Solid, flashing, hollow, red | <span class="tag-reported">reported</span> |
 | Shake a description | Change clothes, haircut, mask, split up, ditch the car | <span class="tag-reported">reported</span> |
-| Pay 'n' Spray | Repairs and clears wanted level | <span class="tag-reported">reported</span> |
+| Pay 'n' Spray | Repairs and addresses the vehicle clue; other heat can remain | <span class="tag-reported">reported</span> |
 | Bus trick | Police won't search a bus unless they saw you board (Phil Hooker) | <span class="tag-reported">reported</span> |
 | Helicopters, dogs, perimeters, NOOSE | All referenced | <span class="tag-reported">reported</span> |
 | "No wanted stars" | Fan-site claim, contradicted by footage | <span class="tag-debunked">debunked</span> |

@@ -5,8 +5,8 @@ shortTitle: "Money, banks and fences"
 description: "GTA 6 splits money into BuckMe bank funds, cash and duffel-bag loot. Cash is lost on Wasted or Busted, loot needs a fence, and almost any shop can be robbed."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 4
 tags: ["money", "gameplay"]
 tldr: "GTA 6 splits money three ways: **bank balance (the BuckMe app), cash on hand, and duffel-bag loot**. Cash is lost if you're Wasted or Busted, so bank it at ATMs, and loot only becomes money once a fence buys it."
@@ -35,6 +35,10 @@ faq:
   - q: "Can you buy property in GTA 6?"
     a: "Rockstar hasn't announced it. Garages for multiple personal cars are reported, and the Shore Court garage near Ocean Beach is named."
 sources:
+  - title: "GTA 6 police and the Heat system"
+    url: "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/"
+    publisher: "Engadget"
+    date: "Nov 18, 2026"
   - title: "GTA 6 gameplay: Key details that you might have missed"
     url: "https://www.redbull.com/us-en/gta-6-gameplay-details"
     publisher: "Red Bull"
@@ -92,13 +96,16 @@ Banks sit at the center of the story. [[characters/raul-bautista|Raul Bautista]]
 
 ## Do story missions cost money?
 
+**November 20 correction:** we previously described Pay 'n' Spray as clearing the entire wanted level. [Red Bull's preview](https://www.redbull.com/us-en/gta-6-gameplay-details) describes the vehicle's wanted status, while [Engadget's launch guide](https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/) separates that clue from the others and from regional heat. We have narrowed the claim here; see the [[about/corrections|corrections log]].
+
+
 Some do. Previews say certain story beats need a minimum cash amount before they open <span class="tag-reported">reported</span>. Rockstar hasn't said which missions or how much. The reported spending list so far:
 
 | Spend | Detail |
 | --- | --- |
 | Stolen-car registration | A fee per car; the Waink app shows the cost first |
 | Scooter Bros | Delivers a vehicle to you for a fee |
-| Pay 'n' Spray | Repairs the car and clears your wanted level |
+| Pay 'n' Spray | Repairs the car and addresses its vehicle clue, not every identity clue or regional heat |
 | Safe codes | Buyable instead of found |
 | Barbers, salons, tattoo parlors, gyms | Change appearance or stats |
 

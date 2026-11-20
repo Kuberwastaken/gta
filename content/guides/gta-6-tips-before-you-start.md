@@ -5,8 +5,8 @@ shortTitle: "Tips before you start"
 description: "GTA 6 tips from previews: police need a witness, pocket cash is lost on Wasted or Busted, loot needs a fence, and you carry two handguns and two long guns."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-18
-verified: 2026-11-18
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 2
 tags: ["guides", "beginner", "wanted-system", "money", "weapons"]
 tldr: "Police only come if there is a witness, an alarm or a car tracker; **cash on hand is lost when you are Wasted or Busted**, so bank it; duffel-bag loot is worthless until a fence buys it; and you carry two handguns and two long guns, the rest in your car. Almost all of it is reported from previews, not a manual."
@@ -19,13 +19,13 @@ facts:
     v: "2 handguns + 2 long guns"
   - k: "Auto-aim"
     v: "Off by default"
-  - k: "Wanted reset"
+  - k: "Escape tools"
     v: "Pay 'n' Spray, disguise, split up"
   - k: "Source grade"
     v: "Mostly previews (reported)"
 faq:
   - q: "How does the wanted system work in GTA 6?"
-    a: "Six stars, up from GTA V's five. Police only respond to a witness, an alarm or a stolen-car tracker, and a Pay 'n' Spray both repairs the car and clears the wanted level."
+    a: "Six stars, up from GTA V's five. Police only respond to a witness, an alarm or a stolen-car tracker, and a Pay 'n' Spray repairs the car and addresses its vehicle clue, not every identifying detail or regional heat."
   - q: "Do you lose money when you die in GTA 6?"
     a: "Cash on hand, yes, per previews. Bank balances in the BuckMe app survive, so hit an ATM before any job."
   - q: "How many weapons can you carry in GTA 6?"
@@ -33,6 +33,10 @@ faq:
   - q: "Is auto-aim on by default in GTA 6?"
     a: "No, previews report it is off by default, and recoil is heavier than GTA V. Turn it on in settings before your first mission if you play with lock-on."
 sources:
+  - title: "GTA 6 police and the Heat system"
+    url: "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/"
+    publisher: "Engadget"
+    date: "Nov 18, 2026"
   - title: "Hands-on review: accessibility and settings"
     url: "https://www.techradar.com/gaming/gta-6-review"
     publisher: "TechRadar"
@@ -90,6 +94,9 @@ These are hands-on review findings, unlike the preview-sourced gameplay tips bel
 
 ## How does the wanted system work?
 
+**November 20 correction:** we previously described Pay 'n' Spray as clearing the entire wanted level. [Red Bull's preview](https://www.redbull.com/us-en/gta-6-gameplay-details) describes the vehicle's wanted status, while [Engadget's launch guide](https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/) separates that clue from the others and from regional heat. We have narrowed the claim here; see the [[about/corrections|corrections log]].
+
+
 It tracks what police know about you, not only what you did. The full system is on [[gameplay/gta-6-wanted-system-and-heat|wanted system and heat]].
 
 1. Check for witnesses. A crime only draws police if there is a witness, an alarm or a stolen-car tracker.
@@ -103,7 +110,7 @@ It tracks what police know about you, not only what you did. The full system is 
 | Hollow / outlined | They don't know who the suspect is |
 | Red | You are inside the search zone |
 
-4. Shake your description. Heat tracks CCTV, your clothes and appearance, how many suspects there were, weapons and the vehicle. Split Jason and Lucia up, change clothes, get a barber haircut, wear a mask in front of CCTV, or swap or torch the car. A Pay 'n' Spray repairs the car and clears the wanted level.
+4. Shake your description. Heat tracks CCTV, your clothes and appearance, how many suspects there were, weapons and the vehicle. Split Jason and Lucia up, change clothes, get a barber haircut, wear a mask in front of CCTV, or swap or torch the car. A Pay 'n' Spray repairs the car and addresses its vehicle clue; other identifying details and regional heat can remain.
 5. Ride the bus. Rockstar's Phil Hooker says police won't search one unless they saw you board it. Don't return to a shop you just robbed: police may hold a perimeter there. Helicopters carry searchlights, and police dogs appear.
 6. Watch your record. Each character has a Criminal Profile running from Professional to Irredeemable, with angel and devil icons, and it feeds into the story. How much it changes is unknown; see [[gameplay/gta-6-criminal-profile|Criminal Profile]].
 
