@@ -5,11 +5,11 @@ shortTitle: "Characters"
 description: "GTA 6 has two playable leads, Jason Duval and Lucia Caminos, and eight official Rockstar bios covering nine people. Every other name, graded by its source."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 1
 tags: ["characters", "jason", "lucia", "cast", "story"]
-tldr: "GTA 6 stars **Jason Duval and Lucia Caminos**, both playable. Rockstar has published **eight character bios covering nine people**, and has added none since Trailer 2 in May 2025. Every other name comes from the Extended Look, trailer dialogue or marketing copy."
+tldr: "GTA 6 stars **Jason Duval and Lucia Caminos**, both playable. Rockstar has published **eight character bios covering nine people**, and has added none since Trailer 2 in May 2025. Rockstar now also publishes the full cast in its launch credits. Our cast table stays with the pre-release-profile characters."
 facts:
   - k: "Playable leads"
     v: "Jason Duval, Lucia Caminos"
@@ -18,19 +18,24 @@ facts:
   - k: "Bios added since Trailer 2"
     v: "None (as of Nov 15, 2026)"
   - k: "Official cast list"
-    v: "None yet; credits expected at launch"
+    v: "Published by Rockstar"
   - k: "Setting"
     v: "Leonida, centered on Vice City"
 faq:
   - q: "Who are the main characters in GTA 6?"
     a: "Jason Duval and Lucia Caminos, the two playable protagonists. Rockstar's narrative SVP Rupert Humphries calls it 'a Bonnie and Clyde-type narrative'."
   - q: "How many characters has Rockstar officially revealed for GTA 6?"
-    a: "The Only in Leonida page has eight bio entries covering nine people, because Real Dimez is a duo. Other names come from the Extended Look and marketing copy."
+    a: "The Only in Leonida page has eight bio entries covering nine people, because Real Dimez is a duo. That describes the pre-release profiles, not the full launch cast now named in Rockstar credits."
   - q: "Are there four protagonists in GTA 6?"
     a: "No. Rob Nelson told Famitsu that Rockstar considered four and rejected the idea because players would spend less time with each one."
   - q: "Has Rockstar confirmed the GTA 6 voice actors?"
-    a: "No. Rockstar has published no cast list. Stephen Root says he is in the game; every other actor link is a fan identification."
+    a: "Yes. Rockstar credits Dylan Rourke as Jason, Manni L. Perez as Lucia and the supporting performers in its official credits."
 sources:
+  - title: "Grand Theft Auto VI official credits"
+    url: "https://www.rockstargames.com/VI/credits"
+    publisher: "Rockstar Games"
+    date: "Read Nov 20, 2026"
+    tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
@@ -60,7 +65,7 @@ sources:
 related: ["characters/jason-duval", "characters/lucia-caminos", "characters/gta-6-voice-actors-and-cast"]
 ---
 
-GTA 6 has two playable leads, Jason Duval and Lucia Caminos, and a supporting cast Rockstar has profiled in eight bio entries covering nine people. That list, on the Only in Leonida page, went up with [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025. When we checked it on November 15, 2026, nothing had been added. Every other name you've seen comes from the [[media/gta-6-extended-look|Extended Look]], trailer dialogue, or edition and pre-order copy.
+GTA 6 has two playable leads, Jason Duval and Lucia Caminos, and a supporting cast Rockstar has profiled in eight bio entries covering nine people. That list, on the Only in Leonida page, went up with [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025. When we checked it on November 15, 2026, nothing had been added. The full official credits now name many more roles. Our [[characters/gta-6-voice-actors-and-cast|cast guide]] limits its table to these pre-release-profile characters, without newly revealed story roles.
 
 ## Who are the main characters in GTA 6?
 
@@ -92,13 +97,13 @@ No. Nelson told Famitsu that Rockstar considered four protagonists and dropped t
 
 ## Start here
 
-- [[characters/jason-duval|Jason Duval]]: the Army past, the Keys, and the fan-identified actor.
+- [[characters/jason-duval|Jason Duval]]: the Army past, the Keys, and credited performer Dylan Rourke.
 - [[characters/lucia-caminos|Lucia Caminos]]: prison, the ankle tag, Liberty City and her plan.
 - [[characters/jason-and-lucia-relationship|Jason and Lucia's relationship]]: Nelson says the romance is "yours to keep or yours to lose."
 - [[characters/gta-6-first-female-protagonist|Is Lucia GTA's first female protagonist?]]: the accurate answer, back to the 1997 original.
-- [[characters/gta-6-voice-actors-and-cast|Voice actors and cast]]: two actors on the record, four fan IDs, two denials.
+- [[characters/gta-6-voice-actors-and-cast|Voice actors and cast]]: official credits for the pre-release character profiles.
 - [[characters/extended-look-characters|Extended Look characters]]: Méndez, Val, Raymond, Nesto and the rest.
-- [[characters/brian-heder|Brian Heder]]: Jason's landlord, and the character Stephen Root is linked to.
+- [[characters/brian-heder|Brian Heder]]: Jason's landlord, and played by Stephen Root in the official credits.
 - [[characters/cal-hampton|Cal Hampton]]: conspiracy theories and Coast Guard radio.
 - [[characters/raul-bautista|Raul Bautista]]: the bank robber who recruits the pair after a getaway.
 - [[characters/boobie-ike|Boobie Ike]], [[characters/dre-quan-priest|Dre'Quan Priest]] and [[characters/real-dimez|Real Dimez]]: Only Raw Records, funded by a strip club and drug money.

@@ -5,8 +5,8 @@ shortTitle: "Dre'Quan Priest"
 description: "Dre'Quan Priest is GTA 6's would-be music mogul, an ex-dealer who co-runs Only Raw Records with Boobie Ike and just signed Real Dimez. His bio, quotes and role."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 23
 tags: ["characters", "vice-city", "music", "story"]
 tldr: "Dre'Quan Priest is **'more of a hustler than a gangster'**, a former street dealer whose goal was always music. He co-runs **Only Raw Records** with Boobie Ike, has just **signed Real Dimez**, and still books acts into Boobie's strip club for now. No trailer scene of him has been reported."
@@ -24,7 +24,7 @@ facts:
   - k: "First seen"
     v: "Trailer 2 bios (May 6, 2025)"
   - k: "Voice actor"
-    v: "Not reported"
+    v: "Naiqui Macabroad (confirmed)"
 faq:
   - q: "Who is Dre'Quan Priest in GTA 6?"
     a: "A former street dealer turned aspiring music mogul who runs Only Raw Records with Boobie Ike. He has just signed the rap duo Real Dimez."
@@ -33,8 +33,13 @@ faq:
   - q: "What is Only Raw Records?"
     a: "The Vice City label Dre'Quan runs with Boobie Ike. Boobie's bio says it is the venture he is most invested in and that it still needs a hit."
   - q: "Who voices Dre'Quan?"
-    a: "No actor has been reported or fan-identified. Rockstar has not released a cast list."
+    a: "Rockstar credits Naiqui Macabroad as Dre’Quan."
 sources:
+  - title: "Grand Theft Auto VI official credits"
+    url: "https://www.rockstargames.com/VI/credits"
+    publisher: "Rockstar Games"
+    date: "Read Nov 20, 2026"
+    tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
@@ -94,7 +99,7 @@ Rockstar hasn't said. Its real-world release, *Grand Theft Auto VI: The Album*, 
 
 ## Who voices Dre'Quan?
 
-No actor has been reported or fan-identified in our sources. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
+[Rockstar's official credits](https://www.rockstargames.com/VI/credits) name **Naiqui Macabroad** as **Dre’Quan**. <span class="tag-confirmed">confirmed</span> This November 20 update replaces the pre-launch uncertainty on this page. The credit names the performer; it does not separately assign every voice, capture and stunt contribution. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]] for the limited, pre-release-profile cast table.
 
 ## Open questions
 

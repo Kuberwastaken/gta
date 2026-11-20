@@ -1,15 +1,15 @@
 ---
 title: "Cal Hampton in GTA 6: Jason's paranoid friend with a Coast Guard scanner"
-seoTitle: "Cal Hampton GTA 6: Who He Is, Bio and Voice Actor Rumor"
+seoTitle: "Cal Hampton GTA 6: Who He Is, Bio and Bobby Moynihan Cast Credit"
 shortTitle: "Cal Hampton"
-description: "Cal Hampton is Jason's stay-at-home friend in GTA 6 and an associate of Brian Heder. His Rockstar bio, pull quotes, Extended Look line and the Moynihan rumor."
+description: "Cal Hampton is Jason's stay-at-home friend in GTA 6 and an associate of Brian Heder. His Rockstar bio, pull quotes, Extended Look line and the official Bobby Moynihan credit."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 21
 tags: ["characters", "jason", "cast", "leonida-keys"]
-tldr: "Cal Hampton is **Jason's friend and a fellow associate of Brian Heder** who would rather stay home with beers and **Coast Guard radio** than go on a job. He is only heard, not seen, near the end of the Extended Look. Fans name **Bobby Moynihan** as his actor; that is **unconfirmed**."
+tldr: "Cal Hampton is **Jason's friend and a fellow associate of Brian Heder** who would rather stay home with beers and **Coast Guard radio** than go on a job. He is only heard, not seen, near the end of the Extended Look. Rockstar credits **Bobby Moynihan** as Cal."
 facts:
   - k: "Role"
     v: "Jason's friend, Brian's associate"
@@ -22,17 +22,22 @@ facts:
   - k: "Extended Look"
     v: "Voice only, near the end (reported)"
   - k: "Voice actor"
-    v: "Bobby Moynihan (rumour)"
+    v: "Bobby Moynihan (confirmed)"
 faq:
   - q: "Who is Cal Hampton in GTA 6?"
     a: "Jason Duval's friend and a fellow associate of Keys smuggler Brian Heder. Rockstar's bio has him at home snooping on Coast Guard comms with a few beers."
   - q: "Who voices Cal Hampton?"
-    a: "Rockstar hasn't said. Fans identify Bobby Moynihan, and SVG and timesaver.gg list him, but neither Rockstar nor Moynihan has confirmed it."
+    a: "Rockstar credits Bobby Moynihan as Cal."
   - q: "Is Cal Hampton GTA 6's version of Lester?"
     a: "Fans make the comparison; Rockstar hasn't. Nothing official says Cal plans heists or handles tech for the crew."
   - q: "Is Cal in the Extended Look?"
     a: "Only as a voice. Wikipedia's summary has him urging Jason and Lucia to make the most of being young near the end of the video."
 sources:
+  - title: "Grand Theft Auto VI official credits"
+    url: "https://www.rockstargames.com/VI/credits"
+    publisher: "Rockstar Games"
+    date: "Read Nov 20, 2026"
+    tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
@@ -79,12 +84,12 @@ Fans keep comparing him to Lester Crest, GTA V's housebound heist planner. Rocks
 
 ## Who voices Cal Hampton?
 
-Fans identify Bobby Moynihan, and SVG and timesaver.gg both list that identification. <span class="tag-rumour">rumour</span> Neither Rockstar nor Moynihan has confirmed it in any source we have seen. Rockstar has published no cast list and normally credits actors at the end of the game. The full graded list is on [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
+[Rockstar's official credits](https://www.rockstargames.com/VI/credits) name **Bobby Moynihan** as **Cal**. <span class="tag-confirmed">confirmed</span> This November 20 update replaces the pre-launch uncertainty on this page. The credit names the performer; it does not separately assign every voice, capture and stunt contribution. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]] for the limited, pre-release-profile cast table.
 
 ## Open questions
 
 - Does Cal give missions, or is he comic relief? Rockstar's copy only says Jason wants more than he does.
 - Does the Coast Guard eavesdropping turn into a mechanic, such as patrol warnings on boat runs?
-- Will the credits confirm Moynihan after launch on November 19?
+- Which of his routines can change as the story progresses?
 
 Back to [[characters/index|all GTA 6 characters]].

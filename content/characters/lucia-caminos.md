@@ -2,15 +2,15 @@
 title: "Lucia Caminos in GTA 6: prison, Liberty City roots and the ankle tag"
 seoTitle: "Lucia Caminos GTA 6: Backstory, Prison and Voice Actor"
 shortTitle: "Lucia Caminos"
-description: "Lucia Caminos, GTA 6's female lead: raised to fight, jailed in Leonida Penitentiary, family from Liberty City. Her bio, trailer scenes and the actor rumors."
+description: "Lucia Caminos, GTA 6's female lead: raised to fight, jailed in Leonida Penitentiary, family from Liberty City. Her bio, trailer scenes and credited performer Manni L. Perez."
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 3
 tags: ["characters", "lucia", "story", "vice-city"]
-tldr: "Lucia Caminos is one of GTA 6's two playable leads. Rockstar says **fighting for her family landed her in Leonida Penitentiary**, 'sheer luck' got her out, and her family came from **Liberty City**. Her ankle tag is 'part of the narrative' (Rob Nelson). **Her actor is unconfirmed**: Manni L. Perez is a fan ID, and the 'she confirmed it' posts trace to an impersonator account."
+tldr: "Lucia Caminos is one of GTA 6's two playable leads. Rockstar says **fighting for her family landed her in Leonida Penitentiary**, 'sheer luck' got her out, and her family came from **Liberty City**. Her ankle tag is 'part of the narrative' (Rob Nelson). **Rockstar credits Manni L. Perez as Lucia.**"
 facts:
   - k: "Role"
     v: "Playable protagonist"
@@ -25,7 +25,7 @@ facts:
   - k: "First seen"
     v: "Trailer 1 (Dec 2023)"
   - k: "Voice actor"
-    v: "Unconfirmed; Manni L. Perez (rumour)"
+    v: "Manni L. Perez (confirmed)"
 faq:
   - q: "Why was Lucia in prison in GTA 6?"
     a: "Rockstar's bio says fighting for her family landed her in the Leonida Penitentiary. It has not said what the specific crime was."
@@ -38,6 +38,11 @@ faq:
   - q: "Who plays Lucia in GTA 6?"
     a: "Rockstar has not said. Fans widely believe it is Manni L. Perez, but she has not confirmed it. The Instagram account that appeared to confirm it, mannil.perez, is an impostor per AllThingsHow."
 sources:
+  - title: "Grand Theft Auto VI official credits"
+    url: "https://www.rockstargames.com/VI/credits"
+    publisher: "Rockstar Games"
+    date: "Read Nov 20, 2026"
+    tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
@@ -152,14 +157,7 @@ The romance with Jason is optional and can fall apart. That is on the [[characte
 
 ## Who plays Lucia Caminos?
 
-Rockstar has published no cast list. Full picture on [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
-
-| Claim | Grade | Basis |
-| --- | --- | --- |
-| Manni L. Perez plays Lucia | <span class="tag-rumour">rumour</span> | Fan consensus from voice, likeness and a prior GTA Online role (SVG, inkl). No word from Rockstar or Perez. |
-| Perez confirmed it on social media | <span class="tag-debunked">debunked</span> | EGW News ran it; other coverage ties the "confirmation" to an impersonator account. |
-
-AllThingsHow reported in August 2026 that the Instagram handle `mannil.perez`, with over 50,000 followers, "is not Manni L. Perez," and that Perez had disabled comments and then removed her Instagram in July 2025. When she returned for her first Instagram Live in early September 2026, she ignored GTA questions, per LADbible.
+[Rockstar's official credits](https://www.rockstargames.com/VI/credits) name **Manni L. Perez** as **Lucia Caminos**. <span class="tag-confirmed">confirmed</span> This November 20 update replaces the pre-launch uncertainty on this page. The credit names the performer; it does not separately assign every voice, capture and stunt contribution. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]] for the limited, pre-release-profile cast table.
 
 ## Open questions
 

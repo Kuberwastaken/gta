@@ -5,8 +5,8 @@ shortTitle: "Boobie Ike"
 description: "Boobie Ike owns real estate, a strip club and a studio in GTA 6's Vice City, and co-runs Only Raw Records. His Rockstar bio, pull quotes and Extended Look role."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 22
 tags: ["characters", "vice-city", "music", "story"]
 tldr: "Boobie Ike is **a local Vice City legend** who turned his street years into **real estate, a strip club and a recording studio**. His main bet is **Only Raw Records** with Dre'Quan Priest. His own pull quote says **drug money pays for it all**, and he is reported as the client for a drug pickup in the Extended Look."
@@ -22,7 +22,7 @@ facts:
   - k: "First seen"
     v: "Trailer 2 bios (May 6, 2025)"
   - k: "Voice actor"
-    v: "Not reported"
+    v: "Mike Forbs (confirmed)"
 faq:
   - q: "Who is Boobie Ike in GTA 6?"
     a: "A Vice City street figure turned businessman with real estate, a strip club and a recording studio. He co-runs Only Raw Records with Dre'Quan Priest."
@@ -31,8 +31,13 @@ faq:
   - q: "What does Boobie do in the Extended Look?"
     a: "Wikipedia's summary of the video says he is the client for Jason and Lucia's drug pickup."
   - q: "Who voices Boobie Ike?"
-    a: "No actor has been reported or identified, and Rockstar has not released a cast list."
+    a: "Rockstar credits Mike Forbs as Boobie Ike."
 sources:
+  - title: "Grand Theft Auto VI official credits"
+    url: "https://www.rockstargames.com/VI/credits"
+    publisher: "Rockstar Games"
+    date: "Read Nov 20, 2026"
+    tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
@@ -87,7 +92,7 @@ His club and studio haven't been placed on a map either. The Vice City districts
 
 ## Who voices Boobie Ike?
 
-No actor has been reported or even fan-identified in our sources, and Rockstar has published no cast list. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
+[Rockstar's official credits](https://www.rockstargames.com/VI/credits) name **Mike Forbs** as **Boobie Ike**. <span class="tag-confirmed">confirmed</span> This November 20 update replaces the pre-launch uncertainty on this page. The credit names the performer; it does not separately assign every voice, capture and stunt contribution. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]] for the limited, pre-release-profile cast table.
 
 ## Open questions
 

@@ -2,14 +2,14 @@
 title: "Brian Heder in GTA 6: the Keys smuggler who is Jason's landlord"
 seoTitle: "Brian Heder GTA 6: Who He Is and Is Stephen Root Brian?"
 shortTitle: "Brian Heder"
-description: "Brian Heder is GTA 6's veteran Keys drug runner who lets Jason live rent-free for shakedowns. Stephen Root says he's in the game; Rockstar hasn't credited him."
+description: "Brian Heder is GTA 6's veteran Keys drug runner who lets Jason live rent-free for shakedowns. Rockstar credits Stephen Root as Brian."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 20
 tags: ["characters", "jason", "leonida-keys", "cast"]
-tldr: "Brian Heder is a drug runner from **the golden age of smuggling in the Keys**, still moving product through his boat yard with his third wife, Lori. He lets **Jason live rent-free** in exchange for help with shakedowns. **Stephen Root** told AP he is in GTA 6; the link to Brian comes from press, not from Root or Rockstar."
+tldr: "Brian Heder is a drug runner from **the golden age of smuggling in the Keys**, still moving product through his boat yard with his third wife, Lori. He lets **Jason live rent-free** in exchange for help with shakedowns. Rockstar credits **Stephen Root** as Brian."
 facts:
   - k: "Role"
     v: "Veteran drug runner, Jason's landlord"
@@ -22,17 +22,22 @@ facts:
   - k: "Extended Look"
     v: "Gives the pair a job over dinner (reported)"
   - k: "Actor"
-    v: "Stephen Root (reported; not credited)"
+    v: "Stephen Root (confirmed)"
 faq:
   - q: "Who is Brian Heder in GTA 6?"
     a: "A veteran drug runner from the golden age of smuggling in the Keys. He moves product through his boat yard with his third wife, Lori, and lets Jason live rent-free at one of his properties."
   - q: "Is Stephen Root in GTA 6?"
-    a: "Yes, by his own account: he told AP 'Yeah, you're gonna see me in there.' In the quotes we have seen he doesn't name Brian Heder, and Rockstar hasn't credited him."
+    a: "Rockstar credits Stephen Root as Brian Heder."
   - q: "What does Jason do for Brian?"
     a: "He helps with local shakedowns and stops by for Lori's sangria. In return he lives rent-free at one of Brian's properties."
   - q: "Who is Lori in GTA 6?"
     a: "Brian's third wife, named in his official bio as moving product through the boat yard with him. She has no profile of her own."
 sources:
+  - title: "Grand Theft Auto VI official credits"
+    url: "https://www.rockstargames.com/VI/credits"
+    publisher: "Rockstar Games"
+    date: "Read Nov 20, 2026"
+    tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
@@ -57,7 +62,7 @@ sources:
 related: ["characters/jason-duval", "characters/cal-hampton", "world/leonida-keys"]
 ---
 
-Brian Heder is the old smuggler at the center of [[characters/jason-duval|Jason Duval]]'s life in the [[world/leonida-keys|Leonida Keys]]: his landlord, his employer and, in the Extended Look, the man telling him to get out while he can. He also has the strongest actor link in the game. Stephen Root has said on the record that he is in GTA 6, and press tie him to Brian.
+Brian Heder is the old smuggler at the center of [[characters/jason-duval|Jason Duval]]'s life in the [[world/leonida-keys|Leonida Keys]]: his landlord, his employer and, in the Extended Look, the man telling him to get out while he can. Rockstar now credits Stephen Root as Brian in its official cast list.
 
 ## What Rockstar says about Brian
 
@@ -81,11 +86,7 @@ Both Extended Look details come from Wikipedia's summary of the video. Brian sen
 
 ## Is Stephen Root Brian Heder?
 
-Probably, but it isn't confirmed. Root, whom Collider's headline calls a "King of the Hill" star, told the Associated Press: "Yeah, you're gonna see me in there." Collider ran the story on September 20, 2026. <span class="tag-reported">reported</span>
-
-In the quotes we have seen, Root never says "Brian Heder." Headlines and Wikipedia make that link, and Rockstar hasn't credited him. So Root is the closest thing GTA 6 has to a confirmed cast member, but the specific role is a press inference.
-
-One more name hangs off this circle. Jim Santangeli, Simon Pearson in Red Dead Redemption 2, says he did a "little small bit" in GTA VI. His role is unknown. <span class="tag-reported">reported</span> The full graded list is on [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
+[Rockstar's official credits](https://www.rockstargames.com/VI/credits) name **Stephen Root** as **Brian Heder**. <span class="tag-confirmed">confirmed</span> This November 20 update replaces the pre-launch uncertainty on this page. The credit names the performer; it does not separately assign every voice, capture and stunt contribution. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]] for the limited, pre-release-profile cast table.
 
 ## Where is Brian based?
 

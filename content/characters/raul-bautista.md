@@ -2,14 +2,14 @@
 title: "Raul Bautista in GTA 6: the reckless bank robber who recruits Jason and Lucia"
 seoTitle: "Raul Bautista GTA 6: Bank Robber, Role and Voice Actor"
 shortTitle: "Raul Bautista"
-description: "Raul Bautista is GTA 6's veteran bank robber. Jason and Lucia drive his getaway in the Extended Look and he recruits them. His bio, quotes and actor rumor."
+description: "Raul Bautista is GTA 6's veteran bank robber. Jason and Lucia drive his getaway in the Extended Look and he recruits them. His bio, quotes and credited performer Manny Perez."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 25
 tags: ["characters", "story", "cast", "money"]
-tldr: "Raul Bautista is **a seasoned bank robber always hunting for talent**, and Rockstar warns that **his recklessness raises the stakes with every score**. In the Extended Look, Jason and Lucia **drive his getaway** and he invites them into his crew. timesaver.gg names **Manny Perez** as his actor; that is **unconfirmed**."
+tldr: "Raul Bautista is **a seasoned bank robber always hunting for talent**, and Rockstar warns that **his recklessness raises the stakes with every score**. In the Extended Look, Jason and Lucia **drive his getaway** and he invites them into his crew. Rockstar credits **Manny Perez** as Raul."
 facts:
   - k: "Role"
     v: "Veteran bank robber, crew leader"
@@ -22,17 +22,22 @@ facts:
   - k: "Location"
     v: "Not stated by Rockstar"
   - k: "Voice actor"
-    v: "Manny Perez (rumour)"
+    v: "Manny Perez (confirmed)"
 faq:
   - q: "Who is Raul Bautista in GTA 6?"
     a: "A seasoned bank robber always looking for people willing to take big risks. Rockstar's bio says his recklessness raises the stakes with every score."
   - q: "Does Raul recruit Jason and Lucia?"
     a: "Yes, per Wikipedia's summary of the Extended Look: they drive the getaway for his robbery and he then invites them into his crew."
   - q: "Who voices Raul Bautista?"
-    a: "Unconfirmed. timesaver.gg names Manny Perez. He is not Manni L. Perez, the actor fans link to Lucia."
+    a: "Rockstar credits Manny Perez as Raul Bautista."
   - q: "Is the GTA 6 story about a bank heist?"
     a: "Rockstar says the story starts when 'an easy score goes wrong.' Wikipedia, citing VGC and Eurogamer, calls it a failed bank heist; Rockstar has not used those words."
 sources:
+  - title: "Grand Theft Auto VI official credits"
+    url: "https://www.rockstargames.com/VI/credits"
+    publisher: "Rockstar Games"
+    date: "Read Nov 20, 2026"
+    tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
@@ -103,9 +108,7 @@ What happens after the alarm is covered in [[gameplay/gta-6-money-banks-and-fenc
 
 ## Who voices Raul Bautista?
 
-timesaver.gg names Manny Perez. <span class="tag-rumour">rumour</span> Rockstar has published no cast list, and we have seen no statement from the actor.
-
-Don't confuse him with Manni L. Perez, the actor fans link to Lucia. The names are a letter apart and get mixed up in search results. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
+[Rockstar's official credits](https://www.rockstargames.com/VI/credits) name **Manny Perez** as **Raul Bautista**. <span class="tag-confirmed">confirmed</span> This November 20 update replaces the pre-launch uncertainty on this page. The credit names the performer; it does not separately assign every voice, capture and stunt contribution. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]] for the limited, pre-release-profile cast table.
 
 ## Open questions
 

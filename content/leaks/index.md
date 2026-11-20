@@ -6,8 +6,8 @@ description: "Over 50 GTA 6 leaks and rumours from 2022 to launch week, each gra
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 1
 tags: ["leaks", "rumours", "debunked", "timeline"]
 tldr: "The best GTA 6 call came from a reporter: Bloomberg's July 2022 story on a Latina co-lead in a fictional Miami. **$100 base price, PC at launch, online at launch, 60fps and a 2027 delay are all debunked.** The credible open item is a **Q1 2027 PC version** ([[leaks/gta-6-pc-at-launch-rumour|PC rumour]])."
@@ -21,7 +21,7 @@ facts:
   - k: "Biggest leak"
     v: "Sept 2022 hack, 90+ clips"
   - k: "Still open"
-    v: "PC date, online mode, cast list"
+    v: "PC date, online mode"
   - k: "Last checked"
     v: "Nov 15, 2026"
 faq:
@@ -36,6 +36,11 @@ faq:
   - q: "Did CyberLeek release the full GTA 6 game?"
     a: "No. CyberLeek posted clips and a map image in August and October 2026, then told Kotaku it would not release the full build or more footage."
 sources:
+  - title: "Grand Theft Auto VI official credits"
+    url: "https://www.rockstargames.com/VI/credits"
+    publisher: "Rockstar Games"
+    date: "Read Nov 20, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI"
     publisher: "Rockstar Games"
@@ -127,12 +132,12 @@ Grades follow our [[about/how-we-grade|grading system]]: <span class="tag-confir
 | A Latina female co-lead in a Bonnie and Clyde-style duo, in a fictional Miami | Bloomberg (Jason Schreier), Jul 27, 2022 | <span class="tag-confirmed">confirmed</span> | Dec 4, 2023 (Trailer 1) | [[characters/gta-6-first-female-protagonist|First female lead]] |
 | Four playable protagonists | Long-running fan and insider talk | <span class="tag-debunked">debunked</span> | Aug 2026 (Rob Nelson to Famitsu) | [[leaks/gta-6-four-protagonists-rumour|Four protagonists]] |
 | Extra leads named "Billy and Kai" | Leaked names tied to the four-lead talk | <span class="tag-rumour">rumour</span> | open | [[leaks/gta-6-four-protagonists-rumour|Four protagonists]] |
-| Manni L. Perez plays Lucia | Fan ID from voice, likeness, GTA Online role | <span class="tag-rumour">rumour</span> | open | [[leaks/gta-6-actor-identifications|Actor IDs]] |
+| Manni L. Perez plays Lucia | Rockstar credits, read Nov 20, 2026 | <span class="tag-confirmed">confirmed</span> | Nov 20, 2026 (official credits checked) | [[leaks/gta-6-actor-identifications|Actor IDs]] |
 | Perez "confirmed" the role on social media | EGW News | <span class="tag-debunked">debunked</span> | Sep 2026 (traced to an impersonator account) | [[leaks/gta-6-actor-identifications|Actor IDs]] |
-| Dylan Rourke plays Jason | Fan ID; user-edited IMDb listing | <span class="tag-rumour">rumour</span> | open | [[leaks/gta-6-actor-identifications|Actor IDs]] |
+| Dylan Rourke plays Jason | Rockstar credits, read Nov 20, 2026 | <span class="tag-confirmed">confirmed</span> | Nov 20, 2026 (official credits checked) | [[leaks/gta-6-actor-identifications|Actor IDs]] |
 | Troy Baker or Roger Craig Smith voices Jason | Fan theories | <span class="tag-debunked">debunked</span> | Both actors denied it | [[leaks/gta-6-actor-identifications|Actor IDs]] |
-| Stephen Root is in the game (as Brian Heder) | Root to AP, Sep 2026 | <span class="tag-reported">reported</span> | Sep 20, 2026 (in game; Brian link uncredited) | [[characters/brian-heder|Brian Heder]] |
-| Bobby Moynihan plays Cal; Manny Perez plays Raul | Fan IDs | <span class="tag-rumour">rumour</span> | open | [[leaks/gta-6-actor-identifications|Actor IDs]] |
+| Stephen Root is in the game (as Brian Heder) | Rockstar credits, read Nov 20, 2026 | <span class="tag-confirmed">confirmed</span> | Nov 20, 2026 (official credits checked) | [[characters/brian-heder|Brian Heder]] |
+| Bobby Moynihan plays Cal; Manny Perez plays Raul | Rockstar credits, read Nov 20, 2026 | <span class="tag-confirmed">confirmed</span> | Nov 20, 2026 (official credits checked) | [[leaks/gta-6-actor-identifications|Actor IDs]] |
 | Tommy Vercetti returns or cameos | Fan theory, fed by Vercetti references in edition copy | <span class="tag-rumour">rumour</span> | open (references themselves confirmed Jun 2026) | [[leaks/tommy-vercetti-return-rumour|Tommy Vercetti]] |
 | "Val" is Valentina from GTA Online | Fan ID; timesaver.gg calls it confirmed | <span class="tag-rumour">rumour</span> | open | [[characters/returning-characters-and-cameos|Cameos]] |
 | An older Phil Cassidy appears | Fan nickname for an Ammu-Nation owner | <span class="tag-rumour">rumour</span> | open | [[characters/returning-characters-and-cameos|Cameos]] |
@@ -217,7 +222,7 @@ The misses were price, platforms and online. Analysts called a $100 base game; i
 
 ## Still open four days before launch
 
-The PC date is the most credible open item. GamesBeat's Q1 2027 report is <span class="tag-reported">reported</span>, and [PCWorld](https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html) noted Rockstar did not respond. Rockstar has published no cast list and usually leaves that to the end credits ([[leaks/gta-6-actor-identifications|actor ID tracker]]). The November 18 review embargo is widely reported but unconfirmed by Rockstar. The CyberLeek map and the Collector's Box poster disagree on county names, and neither replaces the in-game map ([[world/gta-6-leaked-map-and-counties|leaked map and counties]]). No GTA 6 online mode has been announced, so any date is a <span class="tag-rumour">rumour</span>.
+The PC date is the most credible open item. GamesBeat's Q1 2027 report is <span class="tag-reported">reported</span>, and [PCWorld](https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html) noted Rockstar did not respond. Rockstar's credits now settle the profiled-character actor IDs ([[leaks/gta-6-actor-identifications|updated tracker]]). The November 18 review embargo is widely reported but unconfirmed by Rockstar. The CyberLeek map and the Collector's Box poster disagree on county names, and neither replaces the in-game map ([[world/gta-6-leaked-map-and-counties|leaked map and counties]]). No GTA 6 online mode has been announced, so any date is a <span class="tag-rumour">rumour</span>.
 
 ## Five leak waves
 
@@ -233,7 +238,7 @@ The Kurtaj case is covered on the [[timeline/gta-6-2022-leak|2022 leak page]]. W
 
 ## After November 19
 
-The credits will confirm or kill every actor ID, the in-game map will settle the county names, and reviews will land. Each row gets regraded with a dated note, and mistakes go on the [[about/corrections|corrections page]].
+The credits now settle the profiled-character actor IDs. County names and other claims still need their own evidence. Each row gets regraded with a dated note, and mistakes go on the [[about/corrections|corrections page]].
 
 ## Start here
 
@@ -242,7 +247,7 @@ The credits will confirm or kill every actor ID, the in-game map will settle the
 - [[leaks/gta-6-100-dollar-price-rumour|The $100 price rumour]]: $20 high on Standard, right on Ultimate.
 - [[leaks/gta-6-online-at-launch-rumour|Online at launch]]: single-player only, plus the 2027 and 32-player claims.
 - [[leaks/gta-6-four-protagonists-rumour|Four protagonists]]: the design Rockstar tried and dropped.
-- [[leaks/gta-6-actor-identifications|Actor identifications]]: seven cast claims, none credited by Rockstar.
+- [[leaks/gta-6-actor-identifications|Actor identifications]]: the profiled-character matches now confirmed in Rockstar credits.
 - [[leaks/tommy-vercetti-return-rumour|Tommy Vercetti]]: Vercetti Estate references, no confirmed return.
 - [[leaks/gta-6-another-delay-rumour|Another delay]]: why the 2027 slip claims are dead.
 - [[leaks/gta-6-budget-rumours|Budget rumours]]: $2B myths against Kolbe's $1.5B ceiling.

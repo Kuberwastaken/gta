@@ -1,16 +1,16 @@
 ---
-title: "Jason Duval in GTA 6: Army past, Keys drug runs and the actor question"
+title: "Jason Duval in GTA 6: Army past, Keys drug runs and credited actor Dylan Rourke"
 seoTitle: "Jason Duval GTA 6: Backstory, Army Past and Voice Actor"
 shortTitle: "Jason Duval"
 description: "Jason Duval, GTA 6's male lead: Army veteran, drug runner in the Leonida Keys, Brian Heder's rent-free tenant. His bio, trailer scenes and who plays him."
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-16
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 2
 tags: ["characters", "jason", "story", "leonida-keys"]
-tldr: "Jason Duval is one of GTA 6's two playable leads. Per Rockstar he **grew up around grifters, did a stint in the Army and now works for drug runners in the Keys**, living rent-free at [[characters/brian-heder|Brian Heder]]'s place in exchange for shakedown work. **His actor is unconfirmed**: Dylan Rourke is a fan ID, and Troy Baker and Roger Craig Smith have denied it."
+tldr: "Jason Duval is one of GTA 6's two playable leads. Per Rockstar he **grew up around grifters, did a stint in the Army and now works for drug runners in the Keys**, living rent-free at [[characters/brian-heder|Brian Heder]]'s place in exchange for shakedown work. **Rockstar credits Dylan Rourke as Jason.**"
 facts:
   - k: "Role"
     v: "Playable protagonist"
@@ -25,12 +25,12 @@ facts:
   - k: "First seen"
     v: "Trailer 1 (Dec 2023)"
   - k: "Voice actor"
-    v: "Unconfirmed; Dylan Rourke (rumour)"
+    v: "Dylan Rourke (confirmed)"
 faq:
   - q: "Was Jason Duval in the military?"
     a: "Yes. Rockstar's bio says he did a stint in the Army trying to shake off his troubled teens. In the launch trailer he says he got in some trouble in the Army and did not leave on the best of terms."
   - q: "Who voices Jason in GTA 6?"
-    a: "Rockstar has not said. Fans identify Dylan Rourke, but neither Rockstar nor Rourke has confirmed it. Troy Baker and Roger Craig Smith have both denied playing him."
+    a: "Rockstar credits Dylan Rourke as Jason Duval."
   - q: "Where does Jason live in GTA 6?"
     a: "In the Leonida Keys. Brian Heder's bio says Brian lets Jason live rent-free at one of his properties in exchange for help with local shakedowns."
   - q: "Is Jason an undercover cop?"
@@ -38,6 +38,11 @@ faq:
   - q: "Is Jason the main character of GTA 6?"
     a: "He is one of two. Rob Nelson told Famitsu 'This game is the story of Jason and Lucia,' and Rockstar rejected a four-protagonist version to keep the focus on them."
 sources:
+  - title: "Grand Theft Auto VI official credits"
+    url: "https://www.rockstargames.com/VI/credits"
+    publisher: "Rockstar Games"
+    date: "Read Nov 20, 2026"
+    tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
@@ -140,15 +145,7 @@ Nothing from Rockstar points that way. "Jason is an undercover cop" and "Jason b
 
 ## Who plays Jason Duval?
 
-Rockstar has published no cast list and normally credits performers at launch. Full breakdown on [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
-
-| Claim | Grade | Basis |
-| --- | --- | --- |
-| Dylan Rourke plays Jason | <span class="tag-rumour">rumour</span> | Fan ID reported by SVG. An IMDb listing exists, but IMDb is user-edited. No word from Rockstar or Rourke. |
-| Troy Baker voices Jason | <span class="tag-debunked">debunked</span> | He denied it, per Rockstar Report. |
-| Roger Craig Smith voices Jason | <span class="tag-debunked">debunked</span> | He denied it, per Rockstar Report. |
-
-We have not seen Baker's or Smith's original posts; the denials come via Rockstar Report.
+[Rockstar's official credits](https://www.rockstargames.com/VI/credits) name **Dylan Rourke** as **Jason Duval**. <span class="tag-confirmed">confirmed</span> This November 20 update replaces the pre-launch uncertainty on this page. The credit names the performer; it does not separately assign every voice, capture and stunt contribution. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]] for the limited, pre-release-profile cast table.
 
 ## Open questions
 

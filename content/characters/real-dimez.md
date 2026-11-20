@@ -5,8 +5,8 @@ shortTitle: "Real Dimez"
 description: "Real Dimez are Bae-Luxe and Roxy, GTA 6's rap duo signed to Only Raw Records five years after a hit with DWNPLY. Their bio, pull quotes and stated influences."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 24
 tags: ["characters", "music", "vice-city", "phone"]
 tldr: "Real Dimez are **Bae-Luxe and Roxy**, high school friends who turned shaking down local dealers into **rap tracks and a social media following**. An early single with **DWNPLY** made them; five years later they are **signed to Only Raw Records**. Dazed says their story runs partly through **in-game viral posts**."
@@ -24,7 +24,7 @@ facts:
   - k: "First seen"
     v: "Trailer 2 bios (May 6, 2025)"
   - k: "Voice actors"
-    v: "Not reported"
+    v: "Hood Brat; Krissy Celess (confirmed)"
 faq:
   - q: "Who are Real Dimez in GTA 6?"
     a: "A rap duo, Bae-Luxe and Roxy, friends since high school. They are signed to Only Raw Records, run by Dre'Quan Priest and Boobie Ike."
@@ -35,6 +35,11 @@ faq:
   - q: "Are Real Dimez one character or two?"
     a: "Two people sharing one bio entry. That is why Rockstar's eight official bios cover nine people."
 sources:
+  - title: "Grand Theft Auto VI official credits"
+    url: "https://www.rockstargames.com/VI/credits"
+    publisher: "Rockstar Games"
+    date: "Read Nov 20, 2026"
+    tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
@@ -99,7 +104,7 @@ Real Dimez are why outlets disagree. PCGamesN's guide has said Rockstar confirme
 
 ## Who voices Real Dimez?
 
-No actors have been reported or fan-identified for Bae-Luxe or Roxy. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
+[Rockstar's official credits](https://www.rockstargames.com/VI/credits) name **Hood Brat** as Bae-Luxe and **Krissy Celess** as Roxy Rashad. <span class="tag-confirmed">confirmed</span> This replaces the pre-launch unknown on this page. See [[characters/gta-6-voice-actors-and-cast|voice actors and cast]].
 
 ## Open questions
 

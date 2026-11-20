@@ -5,8 +5,8 @@ shortTitle: "Activities and side content"
 description: "GTA 6's 18 reported side activities, from scuba diving and hunting to gyms, tattoo parlors and circuit racing, plus how dates and workouts change Jason and Lucia."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-18
-verified: 2026-11-18
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 8
 tags: ["gameplay", "wildlife", "guides"]
 tldr: "Previews list 18 activities, including **fishing, hunting, scuba diving, skydiving, jet skis, basketball, mini-golf, pool, gyms, barbers, tattoo parlors and circuit racing**. Partner activities feed Jason and Lucia's relationship, and gyms change physique and stamina."
@@ -35,6 +35,11 @@ faq:
   - q: "How long is GTA 6 with side content?"
     a: "Rob Nelson reportedly put his playthrough at about 80 hours. Outlets disagree on whether that includes side content; some say it pushes past 100."
 sources:
+  - title: "Rob Nelson on omitted darts and activity design"
+    url: "https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/"
+    publisher: "VGC"
+    date: "Nov 19, 2026"
+    tier: "primary"
   - title: "Released-game activities and direct Rob Nelson interview"
     url: "https://www.gamingbible.com/reviews/gta-6-review-389961-20261117"
     publisher: "GAMINGbible"
@@ -98,6 +103,14 @@ The [[media/gta-6-extended-look|Extended Look]] adds two older-series echoes, pe
 Nelson's explanation is about **activities and interiors having a purpose**. The team wanted interaction that adds to playing the characters, rather than extra buildings that are only scenery or routines that become chores. In the direct interview he gives physically putting on clothes and pouring engine coolant into a car as examples of interactions left out. <span class="tag-confirmed">confirmed</span> (developer statement in an interview)
 
 This does **not** supply an exact enterable-building count, a percentage of the map with interiors, or proof that every visible business is usable. Nor does a reviewer's 70-hour playthrough settle the [[guides/gta-6-how-long-to-beat|campaign-length question]]. See the [[gameplay/gta-6-vehicles|vehicle guide]] for the separate firsthand driving observations.
+
+## Can you play darts, bowling or full basketball matches?
+
+**Darts and bowling are not playable launch activities**, according to [VGC's direct interview with Rob Nelson](https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/), published November 19. VGC identifies both omissions; Nelson explains that even Rockstar has finite time and resources, and that darts did not reach the team's standard. <span class="tag-reported">reported</span> This does not mean they are announced for a later update or an online mode.
+
+Nelson describes activities as extensions of the wider controls and physical simulation. He gives pool's physics and weightlifting's physical interaction as examples. Basketball has a specific limit: players can move around and shoot, but **cannot play full matches**. A basketball entry in the preview list above should not be read as a complete competitive basketball game.
+
+This interview explains selected inclusions and omissions, not an exhaustive list of everything removed during development. It supplies no release schedule for additions. For other unannounced systems, keep the [[leaks/index|leaks ledger]] separate from the playable-activity list.
 
 ## Can you fish, hunt and scuba dive?
 

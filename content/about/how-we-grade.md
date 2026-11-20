@@ -5,8 +5,8 @@ shortTitle: "How we grade"
 description: "Every GTA 6 claim on GTA VI Wire is graded confirmed, reported, rumour, speculation or debunked. What each grade means, how sources rank and how grades change."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 2
 tags: ["leaks", "rumours", "debunked", "rockstar"]
 tldr: "**Confirmed** means first-party (Rockstar, Take-Two, Sony, Microsoft, a ratings board or a named Rockstar staffer). **Reported** means credible press. **Rumour** means leaks, insiders and fan IDs. Grades move as evidence arrives; see the [[leaks/index|leaks ledger]] for every live call."
@@ -111,10 +111,10 @@ Grades move with evidence. Four cases from the site:
 
 ## What stays reported or rumour?
 
-Three claims still sit in the middle:
+These examples show how evidence changes a grade:
 
 - **PC in Q1 2027.** GamesBeat cited four unnamed sources in October 2026 ([via PCWorld](https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html)). Credible outlet, no Rockstar comment: <span class="tag-reported">reported</span>. PC at launch is <span class="tag-debunked">debunked</span>. See [[leaks/gta-6-pc-at-launch-rumour|PC at launch]].
-- **Actor IDs.** Manni L. Perez as Lucia and Dylan Rourke as Jason are fan identifications: <span class="tag-rumour">rumour</span>. Stephen Root told AP he is in the game, so his part is <span class="tag-reported">reported</span>, but Rockstar has not credited him as Brian Heder. See [[leaks/gta-6-actor-identifications|actor identifications]].
+- **Actor IDs.** Manni L. Perez as Lucia, Dylan Rourke as Jason and Stephen Root as Brian were previously fan IDs or press-linked roles. Rockstar's official credits now pair each performer and character, so these matches are <span class="tag-confirmed">confirmed</span>. That does not authenticate earlier social posts. See [[leaks/gta-6-actor-identifications|actor identifications]].
 - **Review embargo.** November 18 comes from NateTheHate and Insider Gaming ([tbreak](https://tbreak.com/gta-6-review-codes-embargo-november-18/)). Rockstar has not confirmed it, so it is <span class="tag-reported">reported</span>. See [[release/gta-6-reviews-and-review-embargo|reviews and embargo]].
 
 ## How do you handle contradictions?
