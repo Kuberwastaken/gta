@@ -29,10 +29,25 @@ faq:
   - q: "Why are most GTA 6 features graded 'reported' and not 'confirmed'?"
     a: "They reached the public through Edge, Game Informer, Red Bull and VICE, not a Rockstar post. Preview builds change, so we grade by route, not by who was quoted."
   - q: "Does GTA 6 have a weapon wheel?"
-    a: "Previews say no. You carry two handguns and two long guns, only one long gun on your back, and the rest rides in your vehicle the way RDR2 used the horse."
+    a: "Yes. TechRadar and The Verge describe using the weapon wheel in their released-game reviews. Our earlier claim that the limited loadout replaces the wheel was incorrect; carrying capacity and the selection interface are different questions."
   - q: "Is GTA 6 multiplayer at launch?"
     a: "No. Rockstar's June 2026 pricing announcement called GTA 6 'a single-player experience', and no GTA 6 online mode has been announced."
 sources:
+  - title: "Mike Jones and Mark Tennant on gameplay and ambient animation"
+    url: "https://www.techradar.com/gaming/there-are-close-to-a-thousand-animation-sets-for-ambient-activities-how-rockstars-gameplay-animation-makes-gta-6-a-fully-living-and-breathing-world-from-breathtaking-foot-chases-to-details-like-how-characters-open-a-door"
+    publisher: "TechRadar"
+    date: "Nov 20, 2026"
+    tier: "primary"
+  - title: "Released-game weapon wheel review"
+    url: "https://www.techradar.com/gaming/gta-6-review"
+    publisher: "TechRadar"
+    date: "Checked Nov 20, 2026"
+    tier: "primary"
+  - title: "Released-game combat and weapon wheel review"
+    url: "https://www.theverge.com/games/1035801/grand-theft-auto-6-review"
+    publisher: "The Verge"
+    date: "Checked Nov 20, 2026"
+    tier: "primary"
   - title: "GTA 6 police and the Heat system"
     url: "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/"
     publisher: "Engadget"
@@ -142,11 +157,14 @@ Details: [[gameplay/gta-6-wanted-system-and-heat|wanted system and heat]].
 
 ## Weapons and combat
 
+**November 20 consistency correction:** this page still carried the old no-wheel claim after the first-hours guide was corrected on November 18. [TechRadar](https://www.techradar.com/gaming/gta-6-review) discusses the wheel's UI and [The Verge](https://www.theverge.com/games/1035801/grand-theft-auto-6-review) describes selecting weapons with it. We have corrected both the table and FAQ; see the [[about/corrections|corrections log]].
+
 | Feature | Detail | Grade |
 | --- | --- | --- |
 | Girardi ES9, Klose K17, Hawk & Little Morgan | Named on edition pages | <span class="tag-confirmed">confirmed</span> |
 | Duke 556 rifle | Seen in the Extended Look | <span class="tag-reported">reported</span> |
-| Loadout replaces the wheel | Two handguns + two long guns, one long gun on the back, rest in the vehicle (like RDR2's horse) | <span class="tag-reported">reported</span> |
+| Weapon wheel | Described in TechRadar and The Verge released-game reviews | <span class="tag-reported">reported</span> |
+| Limited loadout | Previews report two handguns + two long guns, with the rest in a vehicle; this does not mean the wheel is absent | <span class="tag-reported">reported</span> |
 | Open carry | A visible gun changes NPC reactions but doesn't call police | <span class="tag-reported">reported</span> |
 | Auto-aim off by default | | <span class="tag-reported">reported</span> |
 | Focus slow motion | Highlights weak points | <span class="tag-reported">reported</span> |
@@ -206,13 +224,27 @@ Details: [[gameplay/gta-6-money-banks-and-fences|money and fences]], [[gameplay/
 
 Details: [[world/gta-6-map-size|map size]], [[world/gta-6-interiors|interiors]], [[world/gta-6-wildlife-and-animals|wildlife]], [[world/gta-6-weather-and-hurricanes|weather]].
 
+## Movement and ambient animation
+
+[TechRadar's November 20 direct Rockstar Q&A](https://www.techradar.com/gaming/there-are-close-to-a-thousand-animation-sets-for-ambient-activities-how-rockstars-gameplay-animation-makes-gta-6-a-fully-living-and-breathing-world-from-breathtaking-foot-chases-to-details-like-how-characters-open-a-door) adds detail about how the world moves, rather than a new mission or activity list. **Mike Jones, Director of Animation: Gameplay Animation**, says Jason and Lucia's interactions target faster pacing than Red Dead Redemption 2 while retaining weight and realism. This is a design aim, not a measured input-latency result or a claim that every player will prefer the controls. <span class="tag-confirmed">confirmed</span> (developer statement)
+
+Jones describes vaulting and climbing designed to preserve momentum, with variations based on how a jump starts, how it chains into another action and how the character lands. He also gives a small interaction example: Lucia can use her hip to open a door when her hands are occupied with drinks. He says that detail took months to develop. That example does not establish a separate player-controlled door command or that every door works the same way.
+
+| What Rockstar described | What the number or detail means | Grade |
+| --- | --- | --- |
+| Close to a thousand ambient animation sets | Mark Tennant, Vice President of Animation, describes sets for the ambient world, including day-to-day jobs and people spending time together | <span class="tag-confirmed">confirmed</span> (developer statement) |
+| Hundreds of bespoke one-off events and custom sequences | Additional layers over the ambient animation, intended to reward exploration | <span class="tag-confirmed">confirmed</span> (developer statement) |
+| Momentum-preserving traversal | Jones describes variations in vaulting, climbing, chained jumps and landings | <span class="tag-confirmed">confirmed</span> (developer statement) |
+
+**Animation sets are not playable minigames.** Tennant's production count is not a count of side missions, unique NPCs, enterable buildings or hours of content. The interview also does not say every ambient event can be started by the player, that every rooftop is reachable, or that these details arrived in a new patch. For the separate playable-activity evidence and its limits, see [[gameplay/gta-6-activities-and-side-content|activities and side content]].
+
 ## Activities
 
 | Feature | Grade |
 | --- | --- |
 | Fishing, hunting, scuba, kayaking, jet skis | <span class="tag-reported">reported</span> |
 | Skydiving, base-jumping | <span class="tag-reported">reported</span> |
-| Basketball, mini-golf, pool, backyard wrestling, shooting ranges | <span class="tag-reported">reported</span> |
+| Basketball shooting (not full matches), mini-golf, pool, backyard wrestling, shooting ranges | <span class="tag-reported">reported</span> |
 | Gyms, barbers, salons, tattoo parlors, zoo | <span class="tag-reported">reported</span> |
 | Pet (or scold) dogs | <span class="tag-reported">reported</span> |
 

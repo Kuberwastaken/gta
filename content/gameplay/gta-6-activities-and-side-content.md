@@ -35,6 +35,11 @@ faq:
   - q: "How long is GTA 6 with side content?"
     a: "Rob Nelson reportedly put his playthrough at about 80 hours. Outlets disagree on whether that includes side content; some say it pushes past 100."
 sources:
+  - title: "Mike Jones and Mark Tennant on gameplay and ambient animation"
+    url: "https://www.techradar.com/gaming/there-are-close-to-a-thousand-animation-sets-for-ambient-activities-how-rockstars-gameplay-animation-makes-gta-6-a-fully-living-and-breathing-world-from-breathtaking-foot-chases-to-details-like-how-characters-open-a-door"
+    publisher: "TechRadar"
+    date: "Nov 20, 2026"
+    tier: "primary"
   - title: "Rob Nelson on omitted darts and activity design"
     url: "https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/"
     publisher: "VGC"
@@ -82,6 +87,10 @@ related: ["world/gta-6-wildlife-and-animals", "characters/jason-and-lucia-relati
 ---
 
 The reported activity list for GTA 6 runs to 18 entries: fishing, hunting, scuba diving, skydiving, base-jumping, jet skis, kayaking, basketball, mini-golf, pool, backyard wrestling, shooting ranges, gyms, zoo visits, barbers, salons, tattoo parlors and circuit racing <span class="tag-reported">reported</span>. The list comes from Rockstar's August 2026 previews and Edge's October cover feature, as written up by Red Bull, VICE and GTAVice.net. Rockstar has not published its own list.
+
+## Ambient activity is not a minigame count
+
+In [TechRadar's November 20 direct interview](https://www.techradar.com/gaming/there-are-close-to-a-thousand-animation-sets-for-ambient-activities-how-rockstars-gameplay-animation-makes-gta-6-a-fully-living-and-breathing-world-from-breathtaking-foot-chases-to-details-like-how-characters-open-a-door), Rockstar animation VP **Mark Tennant** describes close to a thousand ambient animation sets, plus hundreds of bespoke one-off events and custom sequences. <span class="tag-confirmed">confirmed</span> (developer statement) These support the background world, including people at work and spending time together. They are **not a claim of a thousand playable side activities**, a quest total or a completion-time estimate. The [[gameplay/gta-6-gameplay-features-confirmed#movement-and-ambient-animation|movement and animation section]] separates those production details from the activity list below.
 
 ## What activities are in GTA 6?
 
