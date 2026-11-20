@@ -5,8 +5,8 @@ shortTitle: "Wanted system and heat"
 description: "GTA 6 has six wanted stars and a heat system: police need a witness, alarm or car tracker, then hunt your clothes, car and face. Star styles and every escape."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 1
 tags: ["wanted-system", "gameplay"]
 tldr: "GTA 6 has **six wanted stars** (GTA 5 had five), and police only respond to a witness, an alarm or a stolen-car tracker. They hunt a description, so you lose them by changing clothes, splitting up Jason and Lucia, getting a haircut or torching the car."
@@ -22,7 +22,7 @@ facts:
   - k: "Pay 'n' Spray"
     v: "Clears wanted level"
   - k: "Grade"
-    v: "Reported (previews)"
+    v: "Reported (previews and developer interview)"
 faq:
   - q: "How many wanted stars are in GTA 6?"
     a: "Six, shown on the HUD in the Extended Look per Engadget and VICE. GTA 5 had five. Rockstar has not said what the sixth star sends after you."
@@ -35,6 +35,11 @@ faq:
   - q: "Can police search buses in GTA 6?"
     a: "Only if they saw you get on. Rockstar's Phil Hooker gave that rule in previews, which makes a bus a cheap way out of a search zone."
 sources:
+  - title: "Rockstar developer on pursuit balance and police radar"
+    url: "https://www.techradar.com/gaming/gta-6-dev-says-removing-cops-from-the-players-radar-created-some-really-memorable-and-epic-chases-and-escapes-the-player-needs-to-now-use-the-awareness-threat-indicators-to-help-them-evade-or-change-their-appearance-outrig"
+    publisher: "TechRadar"
+    date: "Nov 19, 2026"
+    tier: "primary"
   - title: "GTA 6 gameplay: Key details that you might have missed"
     url: "https://www.redbull.com/us-en/gta-6-gameplay-details"
     publisher: "Red Bull"
@@ -65,7 +70,7 @@ related: ["gameplay/gta-6-criminal-profile", "gameplay/gta-6-vehicles", "gamepla
 
 GTA 6 has six wanted stars, one more than GTA 5, and police respond only when something reports you: a witness, an alarm, or the tracker on a stolen car <span class="tag-reported">reported</span>. Once they are looking, they hunt a description built from CCTV, your clothes, your car, your weapons and how many of you there are. You escape by making that description wrong.
 
-These rules come from Rockstar staff at the August 2026 preview events, the [[media/gta-6-extended-look|Extended Look]] and Edge's October 29 cover feature, as written up by Red Bull, Engadget, VICE and GTAVice.net. Press is the route, so the grade is reported.
+These rules come from Rockstar staff at the August 2026 preview events, the [[media/gta-6-extended-look|Extended Look]] and Edge's October 29 cover feature, as written up by Red Bull, Engadget, VICE and GTAVice.net. Press is the route, so the grade is reported. The pursuit section below adds TechRadar's direct questions to Rockstar, published November 19; it is developer testimony, not our own console test.
 
 ## How many wanted stars are in GTA 6?
 
@@ -97,6 +102,23 @@ The stars change look to show what police know <span class="tag-reported">report
 | Flashing | Police have lost contact |
 | Hollow / outlined | You're an unidentified suspect |
 | Red | You're inside the search zone |
+
+## Why are cops missing from the radar?
+
+[TechRadar's direct Q&A with Rockstar](https://www.techradar.com/gaming/gta-6-dev-says-removing-cops-from-the-players-radar-created-some-really-memorable-and-epic-chases-and-escapes-the-player-needs-to-now-use-the-awareness-threat-indicators-to-help-them-evade-or-change-their-appearance-outrig) adds a distinction to the older preview rules: vice president of technology David Hynd says removing cops and enemies from the radar was part of balancing the wanted system. Players instead use awareness and threat indicators, or change their appearance. <span class="tag-reported">reported</span> This describes the intended pursuit design, not a missing-HUD bug or a promise that every difficulty and accessibility setting behaves identically.
+
+### How the game rewards a good escape
+
+Hynd describes a system that gives players an escape window after an effective move, rather than keeping the pressure constant. His examples include taking a corner well enough to make a pursuing car miss it or spin out, and suppressing officers during an on-foot chase so they stop following. Rockstar can then ease parts of the pursuit to let that success matter. TechRadar reports this from its own questions to the developer; it does not provide a fixed timer, a guaranteed input sequence or a universal escape exploit.
+
+| Situation | What Hynd describes |
+| --- | --- |
+| A successful evasive move | Pursuit pressure can ease, giving the player a chance to escape. |
+| Staying in cover without deciding what to do next | K9 units can flush the player out. Hiding indefinitely is not the intended answer. |
+| Continuing a robbery | Dispatch and arrival timing create a choice between more loot and leaving before police arrive. |
+| Losing radar markers | Awareness and threat indicators, together with appearance changes, become more important. |
+
+These are <span class="tag-reported">reported</span> design explanations, not newly published patch notes. They do not settle how long police retain a description, what triggers every dispatch, or how the separate [[gameplay/gta-6-criminal-profile|Criminal Profile]] changes. The older escape methods below remain preview-sourced unless separately tested.
 
 ## How do you lose the cops in GTA 6?
 
