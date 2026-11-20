@@ -9,7 +9,7 @@ updated: 2026-11-20
 verified: 2026-11-20
 weight: 2
 tags: ["guides", "beginner", "wanted-system", "money", "weapons"]
-tldr: "Police only come if there is a witness, an alarm or a car tracker; **cash on hand is lost when you are Wasted or Busted**, so bank it; duffel-bag loot is worthless until a fence buys it; and you carry two handguns and two long guns, the rest in your car. Almost all of it is reported from previews, not a manual."
+tldr: "Police only come if there is a witness, an alarm or a car tracker; **cash on hand is lost when you are Wasted or Busted**, so bank it; duffel-bag loot is worthless until a fence buys it; and you carry two handguns and two long guns, the rest in your car. Most of the numbered tips come from previews; the save and settings sections add released-game reporting."
 facts:
   - k: "Wanted stars"
     v: "Six (up from five in GTA V)"
@@ -24,6 +24,10 @@ facts:
   - k: "Source grade"
     v: "Mostly previews (reported)"
 faq:
+  - q: "How do you save in GTA 6?"
+    a: "Kotaku's testing describes pause menu > Game > Save while safely in free roam. Saving is unavailable during missions, combat or a police pursuit. Check the save before quitting rather than assuming recent free-roam activity triggered autosave."
+  - q: "Can you replay completed GTA 6 missions?"
+    a: "GTA BOOM reports that the launch game has no mission-replay menu. Its tested alternative is loading a manual save made beforehand; this is not a promise of a later replay feature."
   - q: "How does the wanted system work in GTA 6?"
     a: "Six stars, up from GTA V's five. Police only respond to a witness, an alarm or a stolen-car tracker, and a Pay 'n' Spray repairs the car and addresses its vehicle clue, not every identifying detail or regional heat."
   - q: "Do you lose money when you die in GTA 6?"
@@ -33,6 +37,20 @@ faq:
   - q: "Is auto-aim on by default in GTA 6?"
     a: "No, previews report it is off by default, and recoil is heavier than GTA V. Turn it on in settings before your first mission if you play with lock-on."
 sources:
+  - title: "Autosave testing and manual-save restrictions"
+    url: "https://kotaku.com/be-careful-with-auto-saving-in-gta-6-it-doesnt-happen-as-often-as-you-think-2000758487"
+    publisher: "Kotaku"
+    date: "Nov 19, 2026"
+    tier: "primary"
+  - title: "GTA VI save slots and mission replay menu check"
+    url: "https://www.gtaboom.com/gta-6-has-a-new-save-system-and-will-not-let-you-replay-story-missions-fa48"
+    publisher: "GTA BOOM"
+    date: "Nov 18, 2026"
+    tier: "primary"
+  - title: "Launch-day save guidance"
+    url: "https://www.techradar.com/live/news/gta-6-launch-day-november-19"
+    publisher: "TechRadar"
+    date: "Nov 19, 2026"
   - title: "GTA 6 police and the Heat system"
     url: "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/"
     publisher: "Engadget"
@@ -76,9 +94,33 @@ sources:
 related: ["gameplay/gta-6-wanted-system-and-heat", "gameplay/gta-6-money-banks-and-fences", "guides/gta-6-controls-and-weapon-slots", "guides/gta-6-day-one-checklist"]
 ---
 
-Five GTA V habits will get you killed or broke in GTA VI. Police need a witness before they come. Cash in your pocket is gone when you are Wasted or Busted. Stolen loot is worth nothing until a fence buys it. **Nov 18 correction:** our earlier claim that the weapon wheel was gone was wrong. [TechRadar](https://www.techradar.com/gaming/gta-6-review) discusses its UI and [The Verge](https://www.theverge.com/games/1035801/grand-theft-auto-6-review) describes using it; see the [[about/corrections|corrections log]]. Switching between Jason and Lucia is locked in parts of the story. Nearly every tip below comes from hands-on previews (Edge, Red Bull, Engadget, VICE) and the August Extended Look, so treat those details as preview-sourced <span class="tag-reported">reported</span> claims unless separately checked against the released game. The new settings section below is based on a published review.
+Five GTA V habits will get you killed or broke in GTA VI. Police need a witness before they come. Cash in your pocket is gone when you are Wasted or Busted. Stolen loot is worth nothing until a fence buys it. **Nov 18 correction:** our earlier claim that the weapon wheel was gone was wrong. [TechRadar](https://www.techradar.com/gaming/gta-6-review) discusses its UI and [The Verge](https://www.theverge.com/games/1035801/grand-theft-auto-6-review) describes using it; see the [[about/corrections|corrections log]]. Switching between Jason and Lucia is locked in parts of the story. Nearly every tip below comes from hands-on previews (Edge, Red Bull, Engadget, VICE) and the August Extended Look, so treat those details as preview-sourced <span class="tag-reported">reported</span> claims unless separately checked against the released game. The save-management section adds released-game testing; the settings section is based on a published review.
 
 Not set up yet? The [[guides/gta-6-day-one-checklist|day-one checklist]] comes first. Other launch guides are in the [[guides/index|guides hub]].
+
+## Save before you stop playing
+
+**Do not assume every free-roam errand has been saved.** [Kotaku's November 19 testing](https://kotaku.com/be-careful-with-auto-saving-in-gta-6-it-doesnt-happen-as-often-as-you-think-2000758487) found autosaves after main story missions and larger side missions, but not after every smaller activity. Its guide reports no autosave during a mission. [TechRadar's launch-day advice](https://www.techradar.com/live/news/gta-6-launch-day-november-19) also warns against relying only on sporadic autosaves. <span class="tag-reported">reported</span> These are the outlets' released-game observations, not our own tests or an exhaustive list of every autosave trigger.
+
+Before quitting:
+
+1. Finish the current mission and get safely into free roam. Kotaku reports that missions, combat, police pursuit and some movement states prevent manual saving.
+2. Open **pause menu > Game > Save**, as described by Kotaku. Check the save slot and the displayed save details before choosing what to overwrite.
+3. Confirm that the new save is present before closing the game. Keep an earlier manual save if you want a way back; do not overwrite your only fallback merely to test a save-loss report.
+
+### How many save slots are available?
+
+[GTA BOOM's own menu check](https://www.gtaboom.com/gta-6-has-a-new-save-system-and-will-not-let-you-replay-story-missions-fa48) reports **15 manual slots and one overwriting autosave slot**. TechRadar independently lists 15 manual slots and says you cannot save during missions. Rotating manual slots gives you earlier points to return to, within that limit. It is not the same as an unlimited history or a backup against every crash or storage problem. <span class="tag-reported">reported</span>
+
+### Can you replay a completed mission?
+
+GTA BOOM reports **no mission-replay menu in the launch game**. Its practical alternative is loading a manual save made before the mission. Keep that limitation in mind before starting a long section, rather than assuming a GTA V-style replay list will let you revisit it later. The report is not an announcement of future replay support or New Game+.
+
+### Is lost progress always an autosave mistake?
+
+No. Kotaku separates its own autosave tests from online allegations that progress was lost even after a manual save. Those allegations do not establish how widespread a bug is, a single cause, or a verified recovery method. Manual saving reduces dependence on autosave; it is **not a guarantee against all reported save problems**. No fix or patch is promised here.
+
+A suspended console session is not a completed save, and it should not be the only copy of progress you care about. Separately, published cheat guides report that activating a cheat disables saving for that session. Save before experimenting, not after; the plain [cheat-code table](/cheats) lists inputs without changing that restriction.
 
 ## Before playing: comfort and accessibility settings
 

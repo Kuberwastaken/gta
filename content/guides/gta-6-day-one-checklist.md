@@ -6,8 +6,8 @@ description: "GTA 6 launch checklist: redeem codes, clear storage, finish the pr
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-19
-verified: 2026-11-19
+updated: 2026-11-20
+verified: 2026-11-20
 weight: 1
 tags: ["guides", "beginner", "preload", "unlock-times", "release"]
 tldr: "Buy before Nov 20 to keep the Vintage Vice City Pack, **pre-load now** (open since Nov 10), clear about 250 GB, check the latest game update and PS5 system software, and leave the console in Rest Mode or Sleep. It unlocks at **midnight local store time on Nov 19**, which is 9 PM Nov 18 on the US West Coast. Every region: [[release/gta-6-release-time-by-country|unlock times by country]]."
@@ -182,3 +182,7 @@ The game runs at 30 fps on every console, PS5 Pro included, with no performance 
 Read [[guides/gta-6-tips-before-you-start|tips before you start]]: police need a witness, pocket cash is lost when you die, and you carry two long guns at most. Keep the [[guides/gta-6-faq|GTA 6 FAQ]] open for quick answers and the [[guides/index|guides hub]] for the rest.
 
 Still unresolved at this Nov 19 update: a recovered official change list for the reported game updates and an explanation of the German box's 230 GB. Changes get logged on the [[about/corrections|corrections page]].
+
+## Before your first session ends
+
+- [ ] Read the [[guides/gta-6-tips-before-you-start#save-before-you-stop-playing|save-management steps]]. Published launch tests warn that smaller free-roam activities may not trigger autosave. Save manually when safe in free roam and check the saved slot before quitting. Do not treat console suspension as a completed save or assume there is a mission-replay menu.
