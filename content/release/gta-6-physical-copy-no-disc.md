@@ -6,8 +6,8 @@ description: "GTA 6's boxed edition has no disc, just a download code and an A3 
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-17
-verified: 2026-11-17
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 4
 tags: ["release", "physical", "ps5", "xbox"]
 tldr: "**There is no GTA 6 disc.** The boxed Standard Edition holds a **download code** and a folded A3 poster; it reached stores on Nov 12, 2026 so buyers could redeem and pre-load. No physical Ultimate exists, and Strauss Zelnick says discs \"don't really make sense for the consumer\" without ruling one out."
@@ -92,7 +92,7 @@ There is no physical Ultimate Edition either. Rockstar Support says one "is not 
 
 Early unboxings, compiled by Timesaver.gg, found a download code, a folded A3 poster, no disc and no paper map. <span class="tag-reported">reported</span>
 
-Push Square reports that Rockstar will post a free printable Leonida map and cover-art poster on rockstargames.com on Nov 19, followed "shortly after launch" by a double-sided physical map on the Rockstar Store at $0.99, or free with any Rockstar Store order. <span class="tag-reported">reported</span> We have seen that only in Push Square's headline and summary, and our map research found no second source. The [[guides/gta-6-printable-map|printable map guide]] will link it once it is live. The $399.99 [[release/gta-6-collectors-box|Collector's Box]] does contain a double-sided Macca and Leonida map poster, but no game.
+**November 21 update:** Rockstar's [official media page](https://www.rockstargames.com/VI/media) now supplies the printable Leonida map and cover-art poster. <span class="tag-confirmed">confirmed</span> The [[guides/gta-6-printable-map|printable map guide]] has verified download links, file formats and print dimensions. The earlier reported $0.99 physical print offer is separate; current stock and checkout terms were not checked here. The $399.99 [[release/gta-6-collectors-box|Collector's Box]] does contain a double-sided Macca and Leonida map poster, but no game.
 
 ## Are GTA 6 box codes region-locked?
 

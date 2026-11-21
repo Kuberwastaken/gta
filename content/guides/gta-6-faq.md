@@ -5,8 +5,8 @@ shortTitle: "GTA 6 FAQ"
 description: "35 sourced GTA 6 answers: midnight store-time unlock, $79.99 price, 212 GB size, no disc, 30 fps only, no PC or online at launch, ratings and story length."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 3
 tags: ["guides", "release", "beginner", "unlock-times", "price"]
 tldr: "GTA VI launches **Nov 19, 2026** on PS5 and Xbox Series X|S at midnight local store time (midnight ET for the whole US store). It costs $79.99 (Ultimate $99.99), needs up to 212 GB, runs at 30 fps, and has **no disc, no online mode and no PC version** at launch."
@@ -245,7 +245,7 @@ Rockstar told Edge the landmass is "nearly as large as" GTA IV, GTA V and RDR2 c
 
 ### Is there a map I can print?
 
-The box has none. Push Square reports Rockstar will post a free printable Leonida map on rockstargames.com on Nov 19, with a $0.99 physical print later <span class="tag-reported">reported</span>. See [[guides/gta-6-printable-map|printable map]].
+The box has none. Rockstar's [official media page](https://www.rockstargames.com/VI/media) now offers the printable Leonida map and cover-art poster <span class="tag-confirmed">confirmed</span>. The map reveals locations; it is linked rather than embedded in our guide. See [[guides/gta-6-printable-map|printable map]].
 
 ### What is GTA 6 rated?
 

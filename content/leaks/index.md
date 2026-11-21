@@ -6,8 +6,8 @@ description: "Over 50 GTA 6 leaks and rumours from 2022 to launch week, each gra
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-20
-verified: 2026-11-20
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 1
 tags: ["leaks", "rumours", "debunked", "timeline"]
 tldr: "The best GTA 6 call came from a reporter: Bloomberg's July 2022 story on a Latina co-lead in a fictional Miami. **$100 base price, PC at launch, online at launch, 60fps and a 2027 delay are all debunked.** The credible open item is a **Q1 2027 PC version** ([[leaks/gta-6-pc-at-launch-rumour|PC rumour]])."
@@ -195,7 +195,7 @@ Grades follow our [[about/how-we-grade|grading system]]: <span class="tag-confir
 | Goose Key, Pelican Valley, Southwind, Moreau, Manzana | Collector's Box poster photos, Nov 12-14 | <span class="tag-reported">reported</span> | open (Moreau and Manzana may be misreads) | [[world/gta-6-leaked-map-and-counties|Leaked counties]] |
 | A "non-US sequel tease" on the poster | Social posts | <span class="tag-rumour">rumour</span> | no on-record source | [[world/gta-6-leaked-map-and-counties|Leaked counties]] |
 | A UFO Easter egg on the map | GamesRadar+ headline, Nov 14 | <span class="tag-rumour">rumour</span> | open | [[media/gta-6-easter-eggs-in-trailers|Easter eggs]] |
-| A free printable map on Nov 19 | Push Square, citing Rockstar | <span class="tag-reported">reported</span> | due Nov 19 | [[guides/gta-6-printable-map|Printable map]] |
+| Official printable map and cover-art poster | Rockstar media page and downloaded files | <span class="tag-confirmed">confirmed</span> | Checked Nov 21 | [[guides/gta-6-printable-map|Printable map]] |
 | Hurricanes in the game | Long-running fan rumour | <span class="tag-confirmed">confirmed</span> | Sep 29, 2026 (Game Informer) | [[world/gta-6-weather-and-hurricanes|Hurricanes]] |
 | No wanted stars at all | Fan site leonidaexplorer | <span class="tag-debunked">debunked</span> | Aug 27, 2026 (Extended Look shows stars) | [[gameplay/gta-6-wanted-system-and-heat|Wanted system]] |
 

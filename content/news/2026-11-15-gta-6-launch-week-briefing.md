@@ -5,8 +5,8 @@ shortTitle: "Launch week briefing"
 description: "GTA 6 unlocks at midnight store time on Nov 19 (9 PM PT Nov 18). Pre-load needs up to 212 GB, update 1.002 is out, reviews are now published (Nov 18 update)."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-18
-verified: 2026-11-15
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 1
 tags: ["news", "release", "unlock-times", "preload", "reviews"]
 tldr: "GTA 6 launches **Thursday, November 19, 2026 at midnight local store time** on PS5 and Xbox Series X|S; New Zealand goes first at 11:00 UTC on Nov 18. Pre-load opened Nov 10, update 1.002 is downloading, and reviews are now published (Nov 18 update). Times: [[release/gta-6-release-time-by-country|unlock times by country]]."
@@ -155,3 +155,6 @@ The union ballot covers about 1,600 staff; Rockstar publishing head Jennifer Kol
 ## Still unknown
 
 Rockstar has not given internal resolutions for any console, an online mode name or date, a PC or Switch 2 version. Reviews are now published; see the Nov 18 update above. The printable Leonida map for November 19 rests on a single Push Square summary <span class="tag-reported">reported</span>. Launch-night steps are in the [[guides/gta-6-day-one-checklist|day-one checklist]]; every story is in the [[news/index|news hub]].
+
+
+**November 21 update:** the pre-launch printable-map uncertainty is now settled by [Rockstar's official media page](https://www.rockstargames.com/VI/media). The [[guides/gta-6-printable-map|printable map guide]] links the downloaded and checked map/poster ZIPs, formats and print dimensions. <span class="tag-confirmed">confirmed</span> This does not verify the separate physical print offer or every claim about earlier leaked art.

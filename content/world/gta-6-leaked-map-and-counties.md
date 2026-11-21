@@ -5,8 +5,8 @@ shortTitle: "Leaked map and counties"
 description: "The CyberLeek map names five GTA 6 counties: Lummox, Kelly, Leonard, Vice-Dale and Mariana. The Collector's Box poster adds Goose Key. Both leaks, graded."
 status: "rumour"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 5
 tags: ["leaks", "map", "rumours", "world"]
 tldr: "Two leaks show the full Leonida map: CyberLeek's in-game map (Aug 2026), which names **five counties: Lummox, Kelly, Leonard, Vice-Dale and Mariana**, and photos of the Collector's Box poster (Nov 2026). Rockstar has confirmed neither map's details, and the in-game one may come from a 2023 build."
@@ -31,7 +31,7 @@ faq:
   - q: "Is Ambrosia a county in GTA 6?"
     a: "Unclear. Earlier coverage referred to an 'Ambrosia County', but the leaked county list has no Ambrosia County. Rockstar has only called Ambrosia a destination."
   - q: "Will Rockstar release a printable GTA 6 map?"
-    a: "There is a claim that Rockstar will post a free printable Leonida map on Nov 19. It traces to a single unverified source, so treat it as rumour."
+    a: "Yes. Rockstar's official media page now offers the print-ready Leonida map. Our printable-map guide links the checked files and dimensions; the map itself reveals locations."
 sources:
   - title: "Major GTA 6 Leaks Reveal Gameplay Clips and Full Leonida Map"
     url: "https://www.gtabase.com/articles/gta-6/gta-6-leak-reveals-two-gameplay-clips-and-full-leonida-map"
@@ -126,6 +126,6 @@ Ambrosia is the clearest conflict. Earlier coverage referred to an "Ambrosia Cou
 
 ## Will Rockstar release an official map?
 
-The poster is one. A claim that Rockstar will post a free printable Leonida map on Nov 19 traces to a single unverified source <span class="tag-rumour">rumour</span>; [[guides/gta-6-printable-map|the printable map guide]] will carry it if it happens. Two other poster claims are also unverified: a GamesRadar+ headline on Nov 14 teased a "UFO easter egg" (we could not read the article body), and Shattered.io found no on-record quote behind talk of a "non-US sequel tease" <span class="tag-rumour">rumour</span>.
+**November 21 update:** [Rockstar's official media page](https://www.rockstargames.com/VI/media) now offers a print-ready Leonida map <span class="tag-confirmed">confirmed</span>; [[guides/gta-6-printable-map|the printable map guide]] links the checked files. This supersedes the pre-launch uncertainty about whether a download would appear, not every claim about the leaked images. Two other poster claims are also unverified: a GamesRadar+ headline on Nov 14 teased a "UFO easter egg" (we could not read the article body), and Shattered.io found no on-record quote behind talk of a "non-US sequel tease" <span class="tag-rumour">rumour</span>.
 
 The 2022 leak was early development footage, not a map; it is covered at [[timeline/gta-6-2022-leak|the 2022 GTA 6 leak]]. Official geography starts at the [[world/index|world hub]].

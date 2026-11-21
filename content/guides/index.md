@@ -5,8 +5,8 @@ shortTitle: "Guides"
 description: "GTA 6 launch-week guides: pre-load and 250 GB to clear before Nov 19, Standard vs Ultimate, the GTA+ auto-renew, beginner tips on heat and cash, and a FAQ."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-16
-verified: 2026-11-15
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 1
 tags: ["guides", "beginner", "release"]
 tldr: "Start with the [[guides/gta-6-day-one-checklist|day-one checklist]]: **buy before Nov 20, pre-load now, clear about 250 GB**, and check your [[release/gta-6-release-time-by-country|unlock time]]. Read [[guides/gta-6-tips-before-you-start|tips before you start]] before your first session: police need witnesses and cash on hand is lost when you die."
@@ -38,7 +38,7 @@ In the [[release/index|release hub]], which owns the unlock table, regional pric
 - [[guides/gta-6-gta-plus-explained|GTA+ explained]]: the free month on digital pre-orders and the roughly $8 auto-renewal.
 - [[guides/gta-6-how-long-to-beat|How long to beat]]: Rob Nelson's reported 80-hour run and what it covers.
 - [[guides/gta-6-controls-and-weapon-slots|Controls and weapon slots]]: loadout limits, auto-aim, Focus and character switching.
-- [[guides/gta-6-printable-map|Printable map]]: the free Leonida map due Nov 19 and the leaked Collector's Box poster.
+- [[guides/gta-6-printable-map|Printable map]]: verified official map/poster downloads, file formats and print dimensions, with a map spoiler warning.
 
 ## What isn't in these guides yet
 

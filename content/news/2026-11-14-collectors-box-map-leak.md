@@ -5,8 +5,8 @@ shortTitle: "Collector's Box map leak"
 description: "The GTA 6 Collector's Box map poster leaked Nov 12-14, 2026 via Selfridges Manchester, adding Goose Key and Pelican Valley. Which names hold up and which may be misreads."
 status: "mixed"
 published: 2026-11-14
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 2
 tags: ["news", "leaks", "map", "world"]
 tldr: "Photos of the **official Collector's Box map poster** leaked Nov 12-14, 2026, after a box was reportedly sold early at Selfridges Manchester. It adds names like **Goose Key** and **Pelican Valley**. Rockstar hasn't commented, and some readings may be wrong. See [[world/gta-6-leaked-map-and-counties|leaked map and counties]]."
@@ -104,3 +104,6 @@ The Collector's Box itself is merchandise only. It costs $399.99 (£349.99, €3
 ## What's next
 
 The in-game map settles it on November 19: Goose Key, Pelican Valley and Moreau either appear or they don't. We'll update [[world/gta-6-leaked-map-and-counties|leaked map and counties]] and the [[leaks/index|leaks ledger]] then. More in the [[news/index|news hub]].
+
+
+**November 21 update:** the pre-launch printable-map uncertainty is now settled by [Rockstar's official media page](https://www.rockstargames.com/VI/media). The [[guides/gta-6-printable-map|printable map guide]] links the downloaded and checked map/poster ZIPs, formats and print dimensions. <span class="tag-confirmed">confirmed</span> This does not verify the separate physical print offer or every claim about earlier leaked art.

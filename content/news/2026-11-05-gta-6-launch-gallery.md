@@ -5,8 +5,8 @@ shortTitle: "Launch Gallery screenshots"
 description: "Rockstar posted 39 new GTA 6 screenshots on Nov 5, 2026, its last image drop before launch. The count, the cars spotted, and how it fits the 70-shot 2025 set."
 status: "mixed"
 published: 2026-11-05
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 6
 tags: ["news", "media", "trailers", "vehicles"]
 tldr: "On **Nov 5, 2026** Rockstar posted a **Launch Gallery of 39 new screenshots** on rockstargames.com/VI, two weeks before launch and about three weeks after a 12-image set. Full record: [[media/gta-6-screenshots-and-galleries|screenshots and galleries]]."
@@ -85,3 +85,6 @@ We don't reproduce Rockstar's screenshots; the Newswire link in the sources has 
 ## What came next
 
 Pre-load opened November 10 with a 30-second "Pre-Load Now" video ([[news/2026-11-10-gta-6-preload-live|pre-load story]]). Rockstar says a free printable Leonida map goes up on rockstargames.com on November 19. Every launch-month story is in the [[news/index|news hub]].
+
+
+**November 21 update:** the pre-launch printable-map uncertainty is now settled by [Rockstar's official media page](https://www.rockstargames.com/VI/media). The [[guides/gta-6-printable-map|printable map guide]] links the downloaded and checked map/poster ZIPs, formats and print dimensions. <span class="tag-confirmed">confirmed</span> This does not verify the separate physical print offer or every claim about earlier leaked art.

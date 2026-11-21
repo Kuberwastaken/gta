@@ -194,7 +194,7 @@ Rockstar's wording is "midnight local time on November 19, 2026, in all regions"
 
 ## 6. Know what you're getting
 
-The game runs at 30 fps on every console, PS5 Pro included, with no performance mode at launch; Pro adds PSSR and ray-traced shadows ([[release/gta-6-ps5-pro-performance|PS5 Pro performance]]). There is no online mode: Rockstar calls GTA VI "a single player experience", and GTA Online on GTA V keeps running ([[release/gta-6-gta-online-status|GTA Online status]]). There is no PC version, and any "GTA 6 PC download" is fake or malware; a Q1 2027 PC date is a GamesBeat report <span class="tag-reported">reported</span> ([[release/gta-6-pc-release-date|PC release date]]). The box has no paper map; a free printable one is reportedly due on rockstargames.com on Nov 19 <span class="tag-reported">reported</span> ([[guides/gta-6-printable-map|printable map]]).
+The game runs at 30 fps on every console, PS5 Pro included, with no performance mode at launch; Pro adds PSSR and ray-traced shadows ([[release/gta-6-ps5-pro-performance|PS5 Pro performance]]). There is no online mode: Rockstar calls GTA VI "a single player experience", and GTA Online on GTA V keeps running ([[release/gta-6-gta-online-status|GTA Online status]]). There is no PC version, and any "GTA 6 PC download" is fake or malware; a Q1 2027 PC date is a GamesBeat report <span class="tag-reported">reported</span> ([[release/gta-6-pc-release-date|PC release date]]). The box has no paper map; Rockstar's [official media page](https://www.rockstargames.com/VI/media) now offers a printable one <span class="tag-confirmed">confirmed</span> ([[guides/gta-6-printable-map|printable map]]).
 
 ## 7. Dodge spoilers on Nov 18
 

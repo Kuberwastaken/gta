@@ -5,8 +5,8 @@ shortTitle: "Screenshots and galleries"
 description: "Every official GTA 6 screenshot drop, dated: 70 with Trailer 2, about 12 in October 2026 and 39 in the Nov 5 Launch Gallery, plus which leaked images to skip."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-17
-verified: 2026-11-17
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 6
 tags: ["media", "trailers"]
 tldr: "Rockstar has released GTA 6 screenshots in three main drops: **70** with [[media/gta-6-trailer-2|Trailer 2]] on May 6, 2025, **about 12** in mid-October 2026, and the **39-image Launch Gallery** on November 5, 2026. All live on rockstargames.com/VI. Rockstar's media page now lists **138 screenshots**, with edition bonuses and artwork in separate collections."
@@ -102,4 +102,4 @@ The roughly 12 October images, with gameplay details, landed in the same stretch
 
 Three sets circulate that Rockstar did not release. CyberLeek posted clips and a full Leonida map image between August and October 2026; Rockstar acknowledged the leaks as "heartbreaking" but verified nothing specific ([[leaks/gta-6-cyberleek-2026-leaks|CyberLeek leaks]]). A photo of the Collector's Box map leaked around November 12-14, 2026, reportedly from a box sold early at Selfridges Manchester ([[news/2026-11-14-collectors-box-map-leak|the map leak story]]). And stills from the September 2022 hack show early-development footage; we do not link to them, but the background is on [[timeline/gta-6-2022-leak|the 2022 leak]].
 
-Rockstar has said its trailers were captured in-game on PS5, but it has published no capture notes for screenshot sets. It also has not said whether it will put out a press kit or a high-resolution map image at launch, beyond the free printable Leonida map that Push Square reports is due on rockstargames.com on November 19. New drops after launch will be logged in the [[media/index|media hub]].
+Rockstar has said its trailers were captured in-game on PS5, but it has published no capture notes for screenshot sets. **November 21 update:** its [official media page](https://www.rockstargames.com/VI/media) now offers print-ready map and cover-art poster downloads; see [[guides/gta-6-printable-map|verified formats and dimensions]]. This does not establish a separate press-kit release. New drops after launch will be logged in the [[media/index|media hub]].

@@ -1,34 +1,39 @@
 ---
-title: "GTA 6 printable map: the free Leonida map due November 19"
-seoTitle: "GTA 6 Printable Map: Free Leonida Map and Poster on Nov 19"
+title: "GTA 6 printable map: official downloads, format and print size"
+seoTitle: "GTA 6 Printable Map: Official Download and Print Size"
 shortTitle: "Printable map"
-description: "No paper map in the GTA 6 box. Rockstar reportedly posts a free printable Leonida map Nov 19, then a $0.99 double-sided print, free with any Rockstar order."
+description: "Download Rockstar's official GTA 6 Leonida map and cover-art poster. Verified ZIP files contain 5775 x 7900 CMYK JPEGs at 300 dpi, sized 19.25 x 26.33 inches."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 8
 tags: ["guides", "map", "physical", "leaks"]
-tldr: "The GTA VI box has **no paper map**, just a code and an A3 poster. Rockstar reportedly posts a **free printable Leonida map and cover-art poster on rockstargames.com on Nov 19**, then sells a double-sided print for $0.99 (free with any Rockstar Store order). The only official map out now is on the back of the $399.99 Collector's Box poster, which leaked on Nov 12-14."
+tldr: "Rockstar's official media page now offers the **Leonida map and cover-art poster in print-ready formats**. Both printable ZIP downloads were checked on November 21: each contains a **5775 x 7900 CMYK JPEG at 300 dpi**. Rockstar lists 19.25 x 26.33 inches. The map reveals locations, so skip it if you want to explore without seeing the full layout."
 facts:
   - k: "Paper map in box"
     v: "No (A3 poster only)"
   - k: "Free printable map"
-    v: "rockstargames.com, Nov 19 (reported)"
+    v: "Available on Rockstar's media page"
   - k: "Physical map"
-    v: "$0.99, free with any Rockstar Store order"
+    v: "Earlier $0.99 report; availability not rechecked"
   - k: "Physical map timing"
-    v: "\"Shortly after launch\""
+    v: "Not verified here"
   - k: "Collector's Box"
     v: "Full Leonida map on poster back"
 faq:
   - q: "Does GTA 6 come with a map?"
     a: "No. Early unboxings of the boxed Standard edition show a download code and a folded A3 poster, with no disc and no paper map."
   - q: "Where can I get a printable GTA 6 map?"
-    a: "Push Square reports Rockstar will post it free on rockstargames.com on Nov 19. If you are already ordering from the Rockstar Store, add the $0.99 double-sided print and it costs nothing."
+    a: "Open Rockstar's GTA VI media page and select View Options on Leonida Map & Cover Art Poster. Choose Leonida Map - Printable. The verified ZIP contains a 5775 x 7900 CMYK JPEG at 300 dpi, not a PDF."
   - q: "Is the leaked GTA 6 map real?"
     a: "The November photos show Rockstar's official Collector's Box poster, seen at Selfridges Manchester. It is stylised art, not the in-game map, and GameRant says folds may have garbled names like Moreau and Manzana."
 sources:
+  - title: "Leonida Map & Cover Art Poster: official print-ready downloads"
+    url: "https://www.rockstargames.com/VI/media"
+    publisher: "Rockstar Games"
+    date: "Page and printable ZIPs checked Nov 21, 2026"
+    tier: "primary"
   - title: "GTA 6 PS5 File Size Confirmed to Be 212GB, Physical Map Available But Not in Boxed Copies"
     url: "https://www.pushsquare.com/news/2026/11/gta-6-ps5-file-size-confirmed-to-be-212gb-physical-map-available-but-not-in-boxed-copies"
     publisher: "Push Square"
@@ -67,22 +72,41 @@ sources:
 related: ["world/leonida-regions", "world/gta-6-leaked-map-and-counties", "release/gta-6-collectors-box", "news/2026-11-14-collectors-box-map-leak"]
 ---
 
-There is no paper map in the GTA VI box. Push Square reports that Rockstar will post a free printable Leonida map and a printable cover-art poster on rockstargames.com on November 19. A double-sided physical version follows "shortly after launch" on the Rockstar Store, at $0.99 on its own or free with any other Rockstar Store purchase <span class="tag-reported">reported</span>.
+**The official printable map is available now.** [Rockstar's GTA VI media page](https://www.rockstargames.com/VI/media) has a **Leonida Map & Cover Art Poster** card describing print-ready formats of the official game map and cover-art poster. We downloaded and opened both printable archives on **November 21, 2026**. <span class="tag-confirmed">confirmed</span>
 
-For what each region is, start at [[world/leonida-regions|Leonida's regions]]. The rest of launch prep is in the [[guides/index|guides hub]].
+**Map spoiler warning:** the map shows the full layout and named locations. This guide does not embed it, so you can read the download and print instructions without seeing the map. Open the map file only if you want that information.
 
-## Is the printable map confirmed?
+## Where do I download the official map?
 
-Not to our standard. Push Square attributes the announcement to Rockstar, but Push Square blocks our fetches and we have only seen the claim in a search snippet. Our world research traced the free-printable claim to that single source. That is why it is graded reported and not confirmed. We will link the file on Nov 19 if it appears.
+1. Open [Rockstar's official media page](https://www.rockstargames.com/VI/media).
+2. Find **Leonida Map & Cover Art Poster** and choose **View Options**.
+3. Choose **Leonida Map - Printable** for the map or **Cover Art - Printable** for the poster.
+4. Download the ZIP, extract it and open the JPEG inside. These verified printable files are **not PDFs**.
 
-| Item | Where | When | Price | Grade |
-| --- | --- | --- | --- | --- |
-| Printable Leonida map | rockstargames.com | Nov 19 | Free | <span class="tag-reported">reported</span> |
-| Printable cover-art poster | rockstargames.com | Nov 19 | Free | <span class="tag-reported">reported</span> |
-| Double-sided physical map | Rockstar Store | "Shortly after launch" | $0.99, free with any order | <span class="tag-reported">reported</span> |
-| Map on Collector's Box poster | Rockstar Store | Ships from Nov 19 | Part of the $399.99 box | <span class="tag-confirmed">confirmed</span> |
+The direct files below came from Rockstar's own page, not a fan upload. If an asset URL changes, use View Options on that page again.
 
-If you only want something on the wall for launch night, print the free file. Rockstar has given no ship date for the physical print beyond "shortly after launch".
+| Printable download | ZIP size | Inside |
+| --- | --- | --- |
+| [Official Leonida map ZIP](https://media-rockstargames-com.akamaized.net/VI/downloads/artwork_wallpapers/Leonida_Map_Poster_Printable.zip) | About 45.4 MB | One map JPEG |
+| [Official cover-art poster ZIP](https://media-rockstargames-com.akamaized.net/VI/downloads/artwork_wallpapers/Cover_Art_Poster_Printable.zip) | About 34.3 MB | One cover-art JPEG |
+
+Sizes are decimal MB for the checked archives; a device using binary units can display smaller numbers. No purchase or Collector's Box was needed to retrieve these downloads.
+
+## What size should I print it?
+
+Rockstar lists **19.25 x 26.33 inches** for each printable variant. Both extracted JPEGs are **5775 x 7900 pixels**, tagged **300 dpi** and stored in **CMYK**. We checked the image files as well as the page's download labels. <span class="tag-confirmed">confirmed</span>
+
+Use the original extracted JPEG rather than a screenshot or a small web preview. Ask a print shop to preserve its proportions. A4, A3 and other paper shapes do not have exactly the same proportions as this artwork, so fitting to a sheet can leave margins; filling the whole sheet can crop it. Check the print preview before approving a print. Home-printer color conversion can also change how the CMYK artwork looks.
+
+This check verifies the supplied files, not the output of every printer. We have not made a physical test print or checked a particular shop's paper, price or color profile. The map's artwork is not a substitute for a measured playable-area calculation; see [[world/gta-6-map-size|map size]] for the separate evidence.
+
+## What changed from the pre-launch report?
+
+Before launch, this guide could only trace the free-printable claim to a Push Square summary, so it was graded reported. **November 21 update:** the official page and working files now establish availability directly. That does not independently validate every earlier claim about a physical product.
+
+The earlier Push Square report described a double-sided physical map at $0.99, free with another Rockstar Store order, arriving shortly after launch. <span class="tag-reported">reported</span> **Current stock, checkout price and shipping were not verified in this download check.** Do not add an order just to get a map without checking its current terms. The free digital files above are a separate option.
+
+For the six pre-release region profiles, start at [[world/leonida-regions|Leonida's regions]]. More launch help is in the [[guides/index|guides hub]].
 
 ## What's in the box instead?
 
@@ -96,10 +120,10 @@ That poster leaked between Nov 12 and 14. It was first seen on display at Selfri
 
 ## How does it compare to the August leak?
 
-CyberLeek's August image of the in-game map, possibly from a 2023 build, showed five counties: Lummox, Kelly, Leonard, Vice-Dale and Mariana <span class="tag-rumour">rumour</span>. Only Lummox also appears on the Collector's Box poster. Earlier coverage mentioned an "Ambrosia County" that neither list has. Rockstar has confirmed no county names. See [[world/gta-6-leaked-map-and-counties|leaked map and counties]].
+CyberLeek's August image of the in-game map, possibly from a 2023 build, showed five counties: Lummox, Kelly, Leonard, Vice-Dale and Mariana <span class="tag-rumour">rumour</span>. Only Lummox also appears on the Collector's Box poster. Earlier coverage mentioned an "Ambrosia County" that neither list has. That was the pre-launch evidence; Rockstar's official downloadable map is now the current reference for printed labels. This section does not certify the August image as a shipping-build map. See [[world/gta-6-leaked-map-and-counties|leaked map and counties]].
 
 ## Which places are safe to circle?
 
 The six on Rockstar's "Only in Leonida" page: [[world/vice-city|Vice City]], the Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga <span class="tag-confirmed">confirmed</span>.
 
-On Nov 19 we will check the download link, file format and print size, and whether the printable map matches the Collector's Box art. The rest of launch night is on the [[guides/gta-6-day-one-checklist|day-one checklist]].
+The downloadable files are now checked, but we have not established that every label or coastline is identical to the earlier Collector's Box poster. Do not treat either illustration as a scale measurement of the playable world. The rest of launch night is on the [[guides/gta-6-day-one-checklist|day-one checklist]].

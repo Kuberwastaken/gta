@@ -5,8 +5,8 @@ shortTitle: "Collector's Box"
 description: "The $399.99 GTA 6 Collector's Box (£349.99, €399.99) holds 11 items, from a Macca figure to Oakley Frogskins, but no game. One per account, Rockstar Store only."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 8
 tags: ["release", "editions", "physical", "price"]
 tldr: "The GTA 6 Collector's Box, **The Goodtime State – Vice City Collection**, costs **$399.99 and does not include the game**. Rockstar Store only, one per account, 18+, shipping from Nov 19 with no free shipping. Its 11 items include a Macca the Gator figure, Oakley Frogskins and the Leonida map poster that leaked on Nov 12."
@@ -105,7 +105,7 @@ Macca is the star of *Macca & Friends*, a cartoon on in-game TV; his background 
 
 There are no in-game items or codes in the box that anyone has reported. The $20 step from Standard to Ultimate is the route to in-game extras (16 of them).
 
-The standard boxed game has no paper map at all. Push Square reports Rockstar will post a free printable map on Nov 19 and sell a $0.99 physical one later. <span class="tag-reported">reported</span> See the [[guides/gta-6-printable-map|printable map guide]].
+The standard boxed game has no paper map at all. Rockstar now offers an [official printable map download](https://www.rockstargames.com/VI/media). <span class="tag-confirmed">confirmed</span> The earlier reported $0.99 physical offer is separate; current stock and checkout terms were not checked here. See the [[guides/gta-6-printable-map|printable map guide]].
 
 ## How did the box leak the map?
 

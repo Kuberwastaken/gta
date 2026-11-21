@@ -6,8 +6,8 @@ description: "Rockstar staff put GTA 6's map at about 2x GTA 5 and 3x RDR2, with
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 1
 tags: ["map", "world", "leaks"]
 tldr: "Rockstar developers put Leonida at **roughly 2x GTA 5 and 3x Red Dead Redemption 2**, and Edge says its landmass is nearly GTA 4, GTA 5 and RDR2 combined. Rockstar has published no square-km or square-mile figure. Fan estimates run from about 83 km² to 125 km² of land."
@@ -119,4 +119,4 @@ Rockstar has pitched density as much as area. Aaron Garbut told Edge there are "
 
 The map unlocks gradually as you explore, and Rob Nelson put a full playthrough with optional content at about 80 hours, per Red Bull <span class="tag-reported">reported</span>. Outlets disagree on whether that 80 includes side content; see [[guides/gta-6-how-long-to-beat|how long GTA 6 is]].
 
-Rockstar has not said whether water counts, how big any single region is, or whether the in-game map will show a scale. The first clean measurement will come after Nov 19, from the in-game map or an official [[guides/gta-6-printable-map|printable map]] if one appears. The rest of Leonida is on the [[world/index|world hub]].
+Rockstar has not said whether water counts, how big any single region is, or whether the in-game map will show a scale. An official [[guides/gta-6-printable-map|printable map]] is now available, but an illustration's pixel dimensions do not by themselves measure playable area or settle the competing land/water estimates. The rest of Leonida is on the [[world/index|world hub]].
