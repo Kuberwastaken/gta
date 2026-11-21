@@ -6,8 +6,8 @@ description: "GTA 6 launch checklist: redeem codes, clear storage, finish the pr
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-21
-verified: 2026-11-21
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 1
 tags: ["guides", "beginner", "preload", "unlock-times", "release"]
 tldr: "Buy before Nov 20 to keep the Vintage Vice City Pack, **pre-load now** (open since Nov 10), clear about 250 GB, check the latest game update and PS5 system software, and leave the console in Rest Mode or Sleep. It unlocks at **midnight local store time on Nov 19**, which is 9 PM Nov 18 on the US West Coast. Every region: [[release/gta-6-release-time-by-country|unlock times by country]]."
@@ -34,6 +34,16 @@ faq:
   - q: "Does pre-loading let me play early?"
     a: "No. It only downloads the files. The game opens when your store region reaches midnight on Nov 19, starting with New Zealand at 11:00 UTC on Nov 18."
 sources:
+  - title: "Troubleshooting for audio desync issues on PlayStation 5"
+    url: "https://support.rockstargames.com/articles/3ssEH8P4XHr2SSk2dlQR9a/troubleshooting-for-audio-desync-issues-on-playstation-5"
+    publisher: "Rockstar Games Support"
+    date: "Nov 19, 2026; checked Nov 22"
+    tier: "primary"
+  - title: "Troubleshooting audio desync issues on Xbox Series X or S"
+    url: "https://support.rockstargames.com/articles/6yXGnSzFIH0vrhicfSCuyP/troubleshooting-audio-desync-issues-on-xbox-series-x-or-s"
+    publisher: "Rockstar Games Support"
+    date: "Nov 19, 2026; checked Nov 22"
+    tier: "primary"
   - title: "PS5 error CE-108255-1"
     url: "https://www.playstation.com/en-us/support/error-codes/ps5/ce-108255-1/"
     publisher: "PlayStation Support"
@@ -183,6 +193,23 @@ Keep PS5 system software and the GTA VI game update as **separate checks**, as d
 - If it keeps happening, use Sony's support route from the exact-code page. The reports do not establish a universal cause, a confirmed repair requirement or a GTA VI-specific fix. Do not erase saves or reset the console on the strength of a social post.
 
 This section does not recommend a factory reset, buying replacement hardware or paying for a repair. It also does not claim the problem affects every console, or that a new patch has resolved it. Keep earlier saves where possible and follow the [[guides/gta-6-tips-before-you-start#save-before-you-stop-playing|save-management guidance]], without treating a manual save as a guarantee against crashes or lost progress.
+
+## Sound out of sync with the picture?
+
+**Start by checking the audio path, not assuming you need a new patch.** Rockstar's [PS5 audio-desync article](https://support.rockstargames.com/articles/3ssEH8P4XHr2SSk2dlQR9a/troubleshooting-for-audio-desync-issues-on-playstation-5) and [Xbox Series X|S article](https://support.rockstargames.com/articles/6yXGnSzFIH0vrhicfSCuyP/troubleshooting-audio-desync-issues-on-xbox-series-x-or-s), both updated November 19 and checked November 22, give the following troubleshooting. Their wording covers Rockstar Games titles generally; it does not diagnose every GTA VI audio problem or announce a game fix. <span class="tag-confirmed">confirmed</span>
+
+1. Plug headphones directly into your DualSense or Xbox controller and check the sound against the picture. Alternatively, use the console's capture feature to record a clip.
+2. **Play any captured clip on a different device**, not the same television. Rockstar says that if either the headphones or the captured video has correctly timed audio, the delay is coming from the external TV configuration or audio hardware setup.
+3. For that external-delay case, Rockstar says enabling **Game Mode on the TV/display** and using the console setting below can sometimes help. This is conditional troubleshooting, not a guaranteed cure.
+
+| Console | Rockstar's console setting for external audio delay |
+| --- | --- |
+| PS5 | **Settings > Screen and Video > Video Output > Auto Low Latency Mode (ALLM) > Off** |
+| Xbox Series X\|S | **Profile & System > Settings > General > TV & Display Options > Video Modes > Allow Auto Low-Latency Mode**, with the box checked |
+
+**The ALLM advice is different on the two consoles.** Off on PS5 and allowed on Xbox is what the respective official articles say; do not copy one console's setting to the other. The articles do not establish a universal cause, a measured success rate or a newly released patch. We have not tested these steps ourselves. If audio is still out of sync through the controller headphones and in a clip viewed elsewhere, these external-delay steps do not establish the cause. Use the support route on the relevant article rather than treating a TV setting as a confirmed in-game fix.
+
+For separately reported build numbers, see the [[release/gta-6-day-one-patch|game-update guide]]. A console/display setting change is not a GTA VI title update, and audio timing trouble is separate from the PS5 application-crash code above.
 
 ## 5. Know your unlock time
 
