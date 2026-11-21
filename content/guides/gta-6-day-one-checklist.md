@@ -6,8 +6,8 @@ description: "GTA 6 launch checklist: redeem codes, clear storage, finish the pr
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-20
-verified: 2026-11-20
+updated: 2026-11-21
+verified: 2026-11-21
 weight: 1
 tags: ["guides", "beginner", "preload", "unlock-times", "release"]
 tldr: "Buy before Nov 20 to keep the Vintage Vice City Pack, **pre-load now** (open since Nov 10), clear about 250 GB, check the latest game update and PS5 system software, and leave the console in Rest Mode or Sleep. It unlocks at **midnight local store time on Nov 19**, which is 9 PM Nov 18 on the US West Coast. Every region: [[release/gta-6-release-time-by-country|unlock times by country]]."
@@ -34,6 +34,19 @@ faq:
   - q: "Does pre-loading let me play early?"
     a: "No. It only downloads the files. The game opens when your store region reaches midnight on Nov 19, starting with New Zealand at 11:00 UTC on Nov 18."
 sources:
+  - title: "PS5 error CE-108255-1"
+    url: "https://www.playstation.com/en-us/support/error-codes/ps5/ce-108255-1/"
+    publisher: "PlayStation Support"
+    date: "Checked Nov 21, 2026"
+    tier: "primary"
+  - title: "GTA VI PS5 application-crash reports"
+    url: "https://www.gamespot.com/articles/gta-6-is-crashing-on-some-ps5s-with-ce-108255-1-error-code/"
+    publisher: "GameSpot"
+    date: "Nov 20, 2026"
+  - title: "PS5 crash reports and limits of generic troubleshooting"
+    url: "https://www.gamesradar.com/games/grand-theft-auto/ps5-error-ce-108255-1-is-ruining-gta-6-for-some-players-and-rockstar-and-sony-arent-very-helpful-try-updating-your-game/"
+    publisher: "GamesRadar+"
+    date: "Nov 19, 2026"
   - title: "PlayStation service status"
     url: "https://status.playstation.com/"
     publisher: "PlayStation"
@@ -158,6 +171,18 @@ Pre-load opened Nov 10. Rockstar first announced Nov 12, then moved it earlier, 
 | Download complete but game still locked | Check your own store countdown against [[release/gta-6-release-time-by-country|regional unlock times]]. An unreached unlock time is different from a failed PSN connection. |
 
 Keep PS5 system software and the GTA VI game update as **separate checks**, as described above and in the [[release/gta-6-day-one-patch|patch guide]]. An error report does not establish a new game patch or a reason to erase and redownload the whole game. No recovery time is promised here.
+
+## PS5 crashing with CE-108255-1?
+
+**A game/application crash is not the same problem as a PSN login error.** [Sony's US support page for CE-108255-1](https://www.playstation.com/en-us/support/error-codes/ps5/ce-108255-1/) describes an error with the game/application, advises trying a game update and directs unresolved cases to PlayStation Repairs. That is generic guidance for this code, not a GTA VI-specific diagnosis or a promise that an update will fix every crash. <span class="tag-confirmed">confirmed</span>
+
+[GameSpot's November 20 report](https://www.gamespot.com/articles/gta-6-is-crashing-on-some-ps5s-with-ce-108255-1-error-code/) describes player accounts of repeated crashes or failure to load. [GamesRadar's November 19 report](https://www.gamesradar.com/games/grand-theft-auto/ps5-error-ce-108255-1-is-ruining-gta-6-for-some-players-and-rockstar-and-sony-arent-very-helpful-try-updating-your-game/) also gathers repeated-crash reports, including players who said updating, reinstalling or other troubleshooting did not help. These are reported experiences, **not a measured failure rate or proof that a particular PS5 model is defective**. <span class="tag-reported">reported</span>
+
+- Record the **exact code on your console**, the installed game/system versions and when the crash occurs. GamesRadar's headline uses CE-108255-1 while parts of its body use CE-108225-1; do not assume a similar-looking code has the same support steps.
+- Check the GTA VI game update and PS5 system software separately, as above. A green PSN tracker does not rule out a local application crash. The [[release/gta-6-day-one-patch|patch guide]] tracks version reports without inventing an official fix list.
+- If it keeps happening, use Sony's support route from the exact-code page. The reports do not establish a universal cause, a confirmed repair requirement or a GTA VI-specific fix. Do not erase saves or reset the console on the strength of a social post.
+
+This section does not recommend a factory reset, buying replacement hardware or paying for a repair. It also does not claim the problem affects every console, or that a new patch has resolved it. Keep earlier saves where possible and follow the [[guides/gta-6-tips-before-you-start#save-before-you-stop-playing|save-management guidance]], without treating a manual save as a guarantee against crashes or lost progress.
 
 ## 5. Know your unlock time
 
