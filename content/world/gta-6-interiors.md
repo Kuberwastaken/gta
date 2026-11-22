@@ -5,8 +5,8 @@ shortTitle: "Interiors"
 description: "Aaron Garbut says GTA 6 has 'an order of magnitude more interiors' than past Rockstar games. No count yet. Every named shop, gym, bar and garage, plus diving."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 13
 tags: ["world", "map", "gameplay"]
 tldr: "Aaron Garbut told Edge GTA 6 has **\"an order of magnitude more interiors\"** than Rockstar's previous games, each furnished to match its occupant. Rockstar has given no count. Previews say almost any shop can be robbed and many buildings have more than one exit."
@@ -33,6 +33,11 @@ faq:
   - q: "Can you buy houses in GTA 6?"
     a: "Not announced. The only owned space Rockstar names is the Shore Court garage near Ocean Beach, from its edition copy. Jason starts out living rent-free in a property owned by Brian Heder."
 sources:
+  - title: "Stephen Donkin on casino gambling and the map's future options"
+    url: "https://kotaku.com/gta-6s-map-contains-areas-that-could-be-used-in-the-future-says-rockstar-2000756338"
+    publisher: "Kotaku"
+    date: "Nov 18, 2026; checked Nov 22"
+    tier: "primary"
   - title: "GTA VI Edge Preview Reveals Huge New Details"
     url: "https://www.gtavice.net/news/gta-vi-edge-preview-reveals-huge-new-details-on-gameplay-police-relationships-and-more"
     publisher: "GTAVice.net"
@@ -108,3 +113,13 @@ A fridge-restocking system, judged too realistic, per Wikipedia citing Eurogamer
 ## Is the map denser than GTA 5?
 
 Garbut told Edge that roads were narrowed compared with GTA 5 <span class="tag-reported">reported</span>. Combined with the interiors claim, Rockstar is selling density per block as much as raw area. The size figures (about 2x GTA 5, 3x RDR2) are on [[world/gta-6-map-size|GTA 6 map size]]; the rest of the state is on the [[world/index|world hub]].
+
+## Can you gamble in the casinos, and does spare map space mean DLC?
+
+**A casino on the map is not proof of playable gambling.** In [Kotaku's November 18 direct interview](https://kotaku.com/gta-6s-map-contains-areas-that-could-be-used-in-the-future-says-rockstar-2000756338), reviewer Zack Zwiezen says the large casinos he checked could not be entered. That is his released-game observation, not our own testing or a building-by-building audit. <span class="tag-reported">reported</span>
+
+Rockstar VP of design **Stephen Donkin** explains that gambling did not fit Jason and Lucia's story or the balance the team wanted for the economy. That is the developer's stated reason, not a claim that every activity involving money has been removed. It also does not turn the casinos into a working income method. See [[gameplay/gta-6-activities-and-side-content|activities and side content]] and [[gameplay/gta-6-money-banks-and-fences|money and fences]]. <span class="tag-confirmed">confirmed</span> (developer statement in a direct interview)
+
+Donkin separately says the map was built for the long term, with a few areas leaving options if Rockstar has a future gameplay or narrative need. **He does not announce what those areas would be used for.** Kotaku's suggestions of expansions, updates or an online mode are the writer's possibilities, not a release plan supplied by Donkin. The interview gives no additional playable-area measurement, DLC schedule, price, access entitlement or promise that any currently closed building will open.
+
+Treat reserved design options as options. They do not establish a [[release/gta-6-gta-online-status|GTA VI online mode]] or turn visible scenery into a confirmed interior. Our [[world/gta-6-map-size|map-size guide]] keeps scale claims separate from access and density.

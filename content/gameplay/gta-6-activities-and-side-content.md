@@ -5,8 +5,8 @@ shortTitle: "Activities and side content"
 description: "GTA 6's 18 reported side activities, from scuba diving and hunting to gyms, tattoo parlors and circuit racing, plus how dates and workouts change Jason and Lucia."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-20
-verified: 2026-11-20
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 8
 tags: ["gameplay", "wildlife", "guides"]
 tldr: "Previews list 18 activities, including **fishing, hunting, scuba diving, skydiving, jet skis, basketball, mini-golf, pool, gyms, barbers, tattoo parlors and circuit racing**. Partner activities feed Jason and Lucia's relationship, and gyms change physique and stamina."
@@ -35,6 +35,11 @@ faq:
   - q: "How long is GTA 6 with side content?"
     a: "Rob Nelson reportedly put his playthrough at about 80 hours. Outlets disagree on whether that includes side content; some say it pushes past 100."
 sources:
+  - title: "Stephen Donkin on casino gambling and the map's future options"
+    url: "https://kotaku.com/gta-6s-map-contains-areas-that-could-be-used-in-the-future-says-rockstar-2000756338"
+    publisher: "Kotaku"
+    date: "Nov 18, 2026; checked Nov 22"
+    tier: "primary"
   - title: "Mike Jones and Mark Tennant on gameplay and ambient animation"
     url: "https://www.techradar.com/gaming/there-are-close-to-a-thousand-animation-sets-for-ambient-activities-how-rockstars-gameplay-animation-makes-gta-6-a-fully-living-and-breathing-world-from-breathtaking-foot-chases-to-details-like-how-characters-open-a-door"
     publisher: "TechRadar"
@@ -120,6 +125,12 @@ This does **not** supply an exact enterable-building count, a percentage of the 
 Nelson describes activities as extensions of the wider controls and physical simulation. He gives pool's physics and weightlifting's physical interaction as examples. Basketball has a specific limit: players can move around and shoot, but **cannot play full matches**. A basketball entry in the preview list above should not be read as a complete competitive basketball game.
 
 This interview explains selected inclusions and omissions, not an exhaustive list of everything removed during development. It supplies no release schedule for additions. For other unannounced systems, keep the [[leaks/index|leaks ledger]] separate from the playable-activity list.
+
+## Is casino gambling a playable activity?
+
+Not according to [Kotaku's November 18 direct interview and released-game observations](https://kotaku.com/gta-6s-map-contains-areas-that-could-be-used-in-the-future-says-rockstar-2000756338). The reviewer says the large casinos he checked could not be entered, while Rockstar's Stephen Donkin says gambling did not fit this story or its economic balance. A visible casino is not evidence of a usable gambling minigame. <span class="tag-reported">reported</span>
+
+Donkin's separate comment about leaving future map options open is not a gambling-update, expansion or online-mode announcement. The [[world/gta-6-interiors#can-you-gamble-in-the-casinos-and-does-spare-map-space-mean-dlc|interiors guide]] separates the developer's statement from the article's speculation. No claim here covers every building, a future release date or a tested money-making method.
 
 ## Can you fish, hunt and scuba dive?
 
