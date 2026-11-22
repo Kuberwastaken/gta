@@ -5,8 +5,8 @@ shortTitle: "Confirmed features list"
 description: "Every GTA 6 gameplay feature in graded tables: six wanted stars, heat, a 2+2 gun loadout, fuel, hurricanes, 170+ animals, story-gated switching, fences and apps."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-20
-verified: 2026-11-20
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 1
 tags: ["gameplay", "wanted-system", "weapons", "vehicles", "money"]
 tldr: "Rockstar itself confirms **two playable leads with story-gated switching**, an optional romance and radio on foot. Six wanted stars, a two-handgun, two-long-gun loadout, fuel, bank vs cash vs loot, 170+ animal species and hurricanes come from Rockstar staff via press, graded reported."
@@ -33,6 +33,11 @@ faq:
   - q: "Is GTA 6 multiplayer at launch?"
     a: "No. Rockstar's June 2026 pricing announcement called GTA 6 'a single-player experience', and no GTA 6 online mode has been announced."
 sources:
+  - title: "How Rockstar Made Every NPC Feel Alive in GTA 6"
+    url: "https://sea.ign.com/grand-theft-auto-vi-rumored-title/252295/how-rockstar-made-every-npc-feel-alive-in-gta-6"
+    publisher: "IGN (Kirk Mckeand)"
+    date: "Updated Nov 21, 2026; checked Nov 22"
+    tier: "primary"
   - title: "Mike Jones and Mark Tennant on gameplay and ambient animation"
     url: "https://www.techradar.com/gaming/there-are-close-to-a-thousand-animation-sets-for-ambient-activities-how-rockstars-gameplay-animation-makes-gta-6-a-fully-living-and-breathing-world-from-breathtaking-foot-chases-to-details-like-how-characters-open-a-door"
     publisher: "TechRadar"
@@ -237,6 +242,28 @@ Jones describes vaulting and climbing designed to preserve momentum, with variat
 | Momentum-preserving traversal | Jones describes variations in vaulting, climbing, chained jumps and landings | <span class="tag-confirmed">confirmed</span> (developer statement) |
 
 **Animation sets are not playable minigames.** Tennant's production count is not a count of side missions, unique NPCs, enterable buildings or hours of content. The interview also does not say every ambient event can be started by the player, that every rooftop is reachable, or that these details arrived in a new patch. For the separate playable-activity evidence and its limits, see [[gameplay/gta-6-activities-and-side-content|activities and side content]].
+
+## NPC personalities and background world design
+
+[IGN's direct Rockstar interviews](https://sea.ign.com/grand-theft-auto-vi-rumored-title/252295/how-rockstar-made-every-npc-feel-alive-in-gta-6), updated November 21, explain how background characters and places were designed to fit together. The developer statements are useful evidence of design intent, not our own test of every civilian or a newly released AI patch. <span class="tag-reported">reported</span>
+
+### What does a mapped-out drug network mean?
+
+**Steven Messinger, senior design director for the open world**, says the team established backstories even for details players might never have explained to them. His example is the gang compounds: Rockstar mapped where drugs originate, who transports them, their distribution between compounds and their eventual street-level buyers. He says players only see parts of that structure, while the team uses it as a consistent reference.
+
+That is narrower than saying every delivery is continuously simulated off-screen. The interview does not document a persistent supply-chain simulation, a player-run distribution business or a way to interrupt every stage. We have not traced the whole network in the game. Its value as evidence is that the world has an underlying design connecting details, not that every background explanation is a separate playable system.
+
+### Appearance, moods and reactions
+
+| Developer | What the interview establishes |
+| --- | --- |
+| Valmor Garcia, senior technical art director | NPCs have varied anatomy, faces and visual identities, with moods, personalities and dialogue; he describes their visual standard as comparable to the leads. |
+| Mark Tennant, vice president of animation | Different body sizes required animation-sharing work that could keep contact points aligned in vehicle interactions and grappling. |
+| Stephen Donkin, vice president of design | Encounters required considering competing inputs, including what happens when a player commits a crime while police are already dealing with someone else. |
+
+Donkin presents that police example as a set of design questions, not a complete priority rule. It does not establish that officers always abandon their first suspect, always chase the more serious offence, or can reliably be distracted for an escape. For the separately sourced pursuit rules, use [[gameplay/gta-6-wanted-system-and-heat|wanted system and heat]].
+
+The production details also do not provide a count of unique NPCs, a guarantee that every person has a permanent daily schedule, or a benchmark for CPU load or frame rate. The related [[world/gta-6-interiors|interiors]] and [[gameplay/gta-6-activities-and-side-content|activities]] guides separate world detail from things players can actually enter or start.
 
 ## Activities
 
