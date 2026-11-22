@@ -256,12 +256,12 @@
   },
   {
     "name": "Videotape",
-    "cheat": "Unknown",
+    "cheat": "↓ ↓ ↑ → → ↑ ← ← → ↓",
     "effect": "Old videotape appearance."
   },
   {
     "name": "Dark Mirror",
-    "cheat": "Unknown",
+    "cheat": "↓ ↓ ↑ → → ↑ ← ← → ←",
     "effect": "Darkens and flips the world upside down."
   },
   {
