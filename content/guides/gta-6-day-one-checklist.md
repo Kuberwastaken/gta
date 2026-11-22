@@ -10,7 +10,7 @@ updated: 2026-11-22
 verified: 2026-11-22
 weight: 1
 tags: ["guides", "beginner", "preload", "unlock-times", "release"]
-tldr: "Buy before Nov 20 to keep the Vintage Vice City Pack, **pre-load now** (open since Nov 10), clear about 250 GB, check the latest game update and PS5 system software, and leave the console in Rest Mode or Sleep. It unlocks at **midnight local store time on Nov 19**, which is 9 PM Nov 18 on the US West Coast. Every region: [[release/gta-6-release-time-by-country|unlock times by country]]."
+tldr: "The game is out. Check the latest game update and PS5 system software separately, preserve saves, and use the troubleshooting sections below if needed. **The free pre-November-20 bonus window has ended**; the Vintage Vice City Pack is now a separate paid add-on. Earlier launch-time and pre-load steps below are dated preparation guidance."
 facts:
   - k: "Unlock"
     v: "Midnight local store time, Nov 19, 2026"
@@ -21,19 +21,39 @@ facts:
   - k: "Pre-launch patch"
     v: "01.002.001 reported; check latest version"
   - k: "Pre-order pack cutoff"
-    v: "Purchases before Nov 20"
+    v: "Free offer closed; separate paid add-on now listed"
   - k: "Online mode"
     v: "None at launch"
 faq:
   - q: "What should I do before GTA 6 comes out?"
     a: "Clear about 250 GB, start the pre-load (open since Nov 10), check the latest game update, and check PS5 system software separately. Rest mode alone is not a readiness test."
   - q: "Do I still get the pre-order bonus if I buy on launch day?"
-    a: "Yes. Rockstar says the Vintage Vice City Pack covers all pre-orders and purchases before Nov 20. Xbox Wire puts the cutoff at 23:59:59 on Nov 19."
+    a: "The original offer covered qualifying launch-day orders before the cutoff. That purchase window has ended; new orders should not assume the pack or a free GTA+ month is included. The pack is now sold separately."
   - q: "Can I pre-load the physical copy?"
     a: "Yes. The box holds a download code, not a disc; redeem it on PS Store or Microsoft Store and the download starts. PS codes only work on an account in the same region."
   - q: "Does pre-loading let me play early?"
     a: "No. It only downloads the files. The game opens when your store region reaches midnight on Nov 19, starting with New Zealand at 11:00 UTC on Nov 18."
 sources:
+  - title: "Vintage Vice City Pack add-on (US)"
+    url: "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-CONTENTPACK00001"
+    publisher: "PlayStation Store"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
+  - title: "Vintage Vice City Pack add-on (US)"
+    url: "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi-vintage-vice-city-pack/9plvssh8849x"
+    publisher: "Xbox Store"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
+  - title: "Grand Theft Auto VI pre-order bonus FAQ"
+    url: "https://support.rockstargames.com/articles/11zWw5XQuGh1h9UDRE9nQs/grand-theft-auto-vi-pre-order-bonus-faq"
+    publisher: "Rockstar Games Support"
+    date: "Nov 19, 2026; checked Nov 22"
+    tier: "primary"
+  - title: "Vintage Vice City Pack and Ultimate add-ons"
+    url: "https://www.rockstargames.com/VI/add-ons/vintage-vice-city"
+    publisher: "Rockstar Games"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
   - title: "Troubleshooting for audio desync issues on PlayStation 5"
     url: "https://support.rockstargames.com/articles/3ssEH8P4XHr2SSk2dlQR9a/troubleshooting-for-audio-desync-issues-on-playstation-5"
     publisher: "Rockstar Games Support"
@@ -135,12 +155,14 @@ GTA VI unlocks at midnight local store time on Thursday, November 19, 2026, on P
 | Nov 18 | Mute spoiler keywords | New Zealand unlocks at 11:00 UTC; reviews are published |
 | Nov 18-19 | Check your console's store countdown | Your store region, not your clock, sets the unlock |
 
-## 1. Buy before November 20
+## 1. Original free-bonus deadline: now passed
+
+**November 22 update:** the free purchase window below is over. The Vintage Vice City Pack is separately listed at **$4.99 US** on both console stores; this is not a new free GTA+ month. Check your earlier order's entitlement before paying again. The [[release/gta-6-pre-order-bonuses#can-i-buy-the-vintage-vice-city-pack-separately-now|bonus guide]] has the official listings, contents and claim-information steps. The dated offer notes in this section record the earlier launch offer, not actions that can still meet its cutoff.
 
 US prices are $79.99 for Standard and $99.99 for Ultimate, which is digital only. Regional prices are on [[release/gta-6-price-and-editions|price and editions]]; the trade-offs are in [[guides/gta-6-which-edition-should-you-buy|which edition should you buy]].
 
-- [ ] Buy by Nov 19. Rockstar gives the Vintage Vice City Pack to "all pre-orders and purchases before Nov 20", digital or boxed. Xbox Wire's cutoff is 23:59:59 on Nov 19.
-- [ ] Buy digital if you want the free month of GTA+. Digital pre-orders on PS5 and Xbox get it; the box does not. It reportedly renews at about $8 a month, so note the date; see [[guides/gta-6-gta-plus-explained|GTA+ explained]].
+- Original offer, now closed: qualifying purchases before Nov 20 received the Vintage Vice City Pack. Rockstar described the offer as covering "all pre-orders and purchases before Nov 20", digital or boxed. Xbox Wire's cutoff is 23:59:59 on Nov 19.
+- Earlier eligible digital pre-orders on PS5 and Xbox had a separate free GTA+ month; the box did not. This is not a new-order offer. It reportedly renews at about $8 a month, so note the date; see [[guides/gta-6-gta-plus-explained|GTA+ explained]].
 - [ ] Skip Ultimate if unsure. Upgrading later costs the gap ($20, £20 or €20 on Xbox), though PlayStation hides the upgrade price until you own the game <span class="tag-reported">reported</span>.
 
 ## 2. Redeem your box code today

@@ -5,11 +5,11 @@ shortTitle: "Which edition to buy"
 description: "Standard is $79.99, Ultimate $99.99 and digital only, and the box is a download code. Upgrading later costs the $20 gap, so Standard digital suits most players."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-19
-verified: 2026-11-19
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 4
 tags: ["guides", "editions", "price", "physical"]
-tldr: "Buy **Standard digital ($79.99)** unless you already know you want Ultimate's extras: it gets the pre-order pack and the free GTA+ month, and the **Ultimate upgrade later costs the $20 gap**. Ultimate ($99.99) is digital only, and its 16 items unlock across the story anyway. The box copy is a download code and skips the GTA+ month."
+tldr: "Standard and Ultimate differ in their extra content, but **the free pre-order offers have ended**. Do not count the Vintage Vice City Pack or free GTA+ month as included with a new order today. The pack is separately listed at **$4.99 US**; check an earlier entitlement before buying it again. The box remains a download code, not a disc."
 facts:
   - k: "Standard (US)"
     v: "$79.99"
@@ -20,7 +20,7 @@ facts:
   - k: "Box copy"
     v: "Standard, download code, no disc"
   - k: "Pre-order pack"
-    v: "All editions, purchases before Nov 20"
+    v: "Earlier qualifying orders; now $4.99 US add-on"
   - k: "Free GTA+ month"
     v: "Digital pre-orders only"
 faq:
@@ -33,6 +33,26 @@ faq:
   - q: "How many people bought Ultimate?"
     a: "Sensor Tower estimates 89% of GTA VI pre-orders were the Ultimate Edition. That is a third-party estimate, not a Rockstar figure."
 sources:
+  - title: "Vintage Vice City Pack add-on (US)"
+    url: "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-CONTENTPACK00001"
+    publisher: "PlayStation Store"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
+  - title: "Vintage Vice City Pack add-on (US)"
+    url: "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi-vintage-vice-city-pack/9plvssh8849x"
+    publisher: "Xbox Store"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
+  - title: "Grand Theft Auto VI pre-order bonus FAQ"
+    url: "https://support.rockstargames.com/articles/11zWw5XQuGh1h9UDRE9nQs/grand-theft-auto-vi-pre-order-bonus-faq"
+    publisher: "Rockstar Games Support"
+    date: "Nov 19, 2026; checked Nov 22"
+    tier: "primary"
+  - title: "Vintage Vice City Pack and Ultimate add-ons"
+    url: "https://www.rockstargames.com/VI/add-ons/vintage-vice-city"
+    publisher: "Rockstar Games"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
   - title: "Ultimate Edition contents and upgrade rules"
     url: "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
     publisher: "Rockstar Support"
@@ -94,25 +114,27 @@ sources:
 related: ["release/gta-6-price-and-editions", "release/gta-6-pre-order-bonuses", "release/gta-6-physical-copy-no-disc", "guides/gta-6-gta-plus-explained"]
 ---
 
-Most players should buy the Standard edition digitally. At $79.99 it includes the Vintage Vice City Pack and a free month of GTA+, and if Leonida hooks you, the Ultimate upgrade costs the $20 difference. Buy Ultimate ($99.99) up front only if you already want its cars, businesses and weapons. Buy the box only for a gift or a retailer deal: it holds a download code, not a disc.
+**Post-launch buying update, November 22:** do not choose an edition on the assumption that a new order still gets the expired free purchase bonuses. The Vintage Vice City Pack is now a separate $4.99 US add-on on both official console stores. Earlier qualifying orders may already own it, so check the claim instructions in the [[release/gta-6-pre-order-bonuses|bonus guide]] before paying again. Standard versus Ultimate is a separate content choice; the boxed Standard copy still contains a download code, not a disc.
 
 Full prices by country are on [[release/gta-6-price-and-editions|price and editions]]; more buying help is in the [[guides/index|guides hub]].
 
 ## Standard vs Ultimate vs box
 
-| | Standard digital | Ultimate (digital only) | Standard box |
-| --- | --- | --- | --- |
-| US price | $79.99 | $99.99 | $79.99 |
-| UK / eurozone | £69.99 / €79.99 | £89.99 / €99.99 | Same as Standard |
-| Vintage Vice City Pack | Yes (before Nov 20) | Yes (before Nov 20) | Yes (before Nov 20) |
-| Free month of GTA+ | Yes (digital pre-order) | Yes (digital pre-order) | No |
-| 16 Ultimate items | No (upgrade available) | Yes | No (upgrade available) |
-| Disc | No | No | No, download code |
-| Resale | No | No | Unredeemed code only |
+|  | Standard digital | Ultimate (digital only) |
+| --- | --- | --- |
+| US price | $79.99 | $99.99 |
+| UK / eurozone | £69.99 / €79.99 | £89.99 / €99.99 |
+| Vintage Vice City Pack | Earlier offer only | Earlier offer only |
+| Free month of GTA+ | Earlier eligible order | Earlier eligible order |
+| 16 Ultimate items | No (upgrade available) | Yes |
+| Disc | No | No |
+| Resale | No | No |
+
+The boxed **Standard** copy has the same listed Standard prices ($79.99 US, £69.99 UK, €79.99 eurozone) and upgrade option, but uses a download code rather than a disc. Its earlier eligible purchases could get the Vintage pack, but the box did not include the digital GTA+ month. An unredeemed code can be transferred; a redeemed digital license is not a resellable disc.
 
 US prices are confirmed by Microsoft via Xbox Wire. UK and eurozone prices come from store listings read in October. <span class="tag-reported">reported</span>
 
-The Vintage Vice City Pack ('55 Vapid Stanier, Shore Court Garage, 1980s outfits and hairstyles, a tropical weapon skin) goes to "all pre-orders and purchases before Nov 20" on every edition. Xbox Wire puts the cutoff at 23:59:59 on Nov 19. Details on [[release/gta-6-pre-order-bonuses|pre-order bonuses]].
+The original Vintage Vice City Pack offer ('55 Vapid Stanier, Shore Court Garage, 1980s outfits and hairstyles, a tropical weapon skin) applied to "all pre-orders and purchases before Nov 20" on every edition. Xbox Wire put the cutoff at 23:59:59 on Nov 19. That free window has passed; the separate US add-on listing is $4.99, not a reason to rebuy the game or an already-owned pack. Details on [[release/gta-6-pre-order-bonuses|pre-order bonuses]].
 
 ## What does Ultimate add?
 

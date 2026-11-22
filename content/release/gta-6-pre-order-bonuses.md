@@ -2,21 +2,21 @@
 title: "GTA 6 pre-order bonuses: Vintage Vice City Pack and a free GTA+ month"
 seoTitle: "GTA 6 Pre-Order Bonuses: Vintage Vice City Pack, GTA+"
 shortTitle: "Pre-order bonuses"
-description: "Any GTA 6 copy bought before Nov 20 gets the Vintage Vice City Pack; eligible digital orders add a GTA+ month. Sony claim steps, renewal terms and platform cutoffs."
+description: "The free GTA 6 Vintage Vice City Pack offer ended Nov 19. The pack is now $4.99 on both US console stores. Contents, entitlement checks and earlier GTA+ claim terms."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-19
-verified: 2026-11-19
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 7
 tags: ["release", "editions", "gta-plus", "price"]
-tldr: "Every GTA 6 copy bought **before Nov 20, 2026**, boxed or digital, Standard or Ultimate, gets the **Vintage Vice City Pack**: a '55 Vapid Stanier, the Shore Court Garage, 1980s outfits and a tropical weapon skin. Digital pre-orders also get a free GTA+ month, which renews at the regular platform price unless canceled."
+tldr: "The **free purchase-bonus cutoff has passed**. The Vintage Vice City Pack now has a separate **$4.99 US listing** on PlayStation and Xbox, both dated November 20. If your earlier order qualified, check your existing bonus entitlement before paying again. The paid pack is not a new free GTA+ month."
 facts:
   - k: "Main bonus"
     v: "Vintage Vice City Pack"
   - k: "Who gets it"
-    v: "All editions, digital or boxed"
+    v: "Earlier qualifying purchases; now also a separate paid add-on"
   - k: "Deadline"
-    v: "Purchases before Nov 20, 2026"
+    v: "Free offer ended after Nov 19, 2026"
   - k: "Xbox cutoff"
     v: "23:59:59, Nov 19, 2026"
   - k: "Free GTA+ month"
@@ -25,7 +25,7 @@ facts:
     v: "180 days"
 faq:
   - q: "Do I still get the GTA 6 pre-order bonus if I buy on launch day?"
-    a: "Yes. Rockstar's wording covers 'all pre-orders and purchases before Nov 20', and Xbox Wire puts the cutoff at 23:59:59 on Nov 19."
+    a: "Launch-day orders within the original cutoff qualified. That is now a historical offer, not a bonus for a new purchase today. The pack is separately listed for $4.99 on both US console stores."
   - q: "What is in the Vintage Vice City Pack?"
     a: "A two-tone '55 Vapid Stanier, the Shore Court Garage near Ocean Beach, 1980s Vice City outfits and hairstyles for Jason and Lucia, and a tropical-pattern weapon skin."
   - q: "Does the physical copy get the free GTA+ month?"
@@ -35,6 +35,26 @@ faq:
   - q: "Does the free GTA+ month auto-renew?"
     a: "Sony confirms monthly renewal at the regular price after the free PS5 month. Check the next payment date when claiming and cancel before it if you do not want to pay."
 sources:
+  - title: "Vintage Vice City Pack add-on (US)"
+    url: "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-CONTENTPACK00001"
+    publisher: "PlayStation Store"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
+  - title: "Vintage Vice City Pack add-on (US)"
+    url: "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi-vintage-vice-city-pack/9plvssh8849x"
+    publisher: "Xbox Store"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
+  - title: "Grand Theft Auto VI pre-order bonus FAQ"
+    url: "https://support.rockstargames.com/articles/11zWw5XQuGh1h9UDRE9nQs/grand-theft-auto-vi-pre-order-bonus-faq"
+    publisher: "Rockstar Games Support"
+    date: "Nov 19, 2026; checked Nov 22"
+    tier: "primary"
+  - title: "Vintage Vice City Pack and Ultimate add-ons"
+    url: "https://www.rockstargames.com/VI/add-ons/vintage-vice-city"
+    publisher: "Rockstar Games"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI: purchase bonus and GTA+ redemption window"
     url: "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm"
     publisher: "Xbox Store"
@@ -75,13 +95,13 @@ sources:
 related: ["release/gta-6-price-and-editions", "guides/gta-6-gta-plus-explained", "guides/gta-6-which-edition-should-you-buy"]
 ---
 
-Every copy of GTA 6 bought before Nov 20, 2026 comes with the Vintage Vice City Pack, whatever the edition or format. That includes the boxed code and launch-day purchases. Digital pre-orders on PS5 and Xbox Series X|S also get a free month of GTA+. <span class="tag-confirmed">confirmed</span>
+The earlier offer gave qualifying GTA 6 purchases before November 20 the Vintage Vice City Pack, across editions and formats, with a separate GTA+ month for eligible digital orders. **That free purchase window has now closed.** On our November 22 check, both US console stores list the pack separately at $4.99; the original offer and existing claim rights should not be confused with a new purchase today. <span class="tag-confirmed">confirmed</span>
 
 Pre-orders opened at midnight local time on June 25, 2026. A fan wiki dates them to Sept 10 via PlayStation Direct; Sept 10 was actually the pre-order date for the Limited Edition DualSense controllers. <span class="tag-debunked">debunked</span>
 
 ## What is in the Vintage Vice City Pack?
 
-The contents below come from Consequence, VICE, gtasix.org and Xbox Wire. <span class="tag-reported">reported</span>
+The current [Xbox add-on listing](https://www.xbox.com/en-US/games/store/grand-theft-auto-vi-vintage-vice-city-pack/9plvssh8849x) and [Rockstar add-on page](https://www.rockstargames.com/VI/add-ons/vintage-vice-city) identify these contents. <span class="tag-confirmed">confirmed</span>
 
 | Item | Detail |
 | --- | --- |
@@ -94,13 +114,28 @@ Every item points back to the 2002 *Vice City*. Rockstar's other Vercetti refere
 
 ## What is the deadline?
 
-Rockstar says "all pre-orders and purchases before Nov 20". The Xbox Store says "prior to 19 November 2026 23:59:59". <span class="tag-confirmed">confirmed</span> Both include launch-day purchases within the applicable store cutoff. The Xbox listing does not name the time zone for its cutoff, so a late-night Nov 19 purchase is cutting it close.
+Rockstar described the offer as "all pre-orders and purchases before Nov 20". The earlier Xbox Store wording was "prior to 19 November 2026 23:59:59". <span class="tag-confirmed">confirmed</span> Both covered launch-day purchases within the applicable store cutoff. The earlier Xbox listing did not name its cutoff time zone; this is the historical offer, not a current purchase deadline.
 
-Rockstar has not said whether the pack will be sold separately after Nov 20.
+The original free-offer deadline is not a deadline to buy the paid add-on. It is now listed separately, as below.
+
+## Can I buy the Vintage Vice City Pack separately now?
+
+**Yes. Checked November 22, 2026:** both official US console listings show the pack at **$4.99**, with a release date of **November 20**. [Rockstar's GTA VI homepage](https://www.rockstargames.com/VI) now describes it as a purchasable add-on. <span class="tag-confirmed">confirmed</span>
+
+| Official US store | Listed price | What this establishes |
+| --- | --- | --- |
+| [PlayStation Store](https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-CONTENTPACK00001) | $4.99 | A separate PS5 add-on listing, dated November 20 |
+| [Xbox Store](https://www.xbox.com/en-US/games/store/grand-theft-auto-vi-vintage-vice-city-pack/9plvssh8849x) | $4.99 | A Series X\|S add-on requiring GTA VI, sold separately |
+
+These are **US listing prices**, not a final checkout total or a price promise for another region. We have not checked taxes, every local storefront or a particular account's ownership state. The add-on is not the base game or the Ultimate Edition Upgrade, and buying it is not a new digital-preorder GTA+ offer. Xbox says the items become available as Jason and Lucia's story progresses, so a purchase does not mean every item appears immediately.
+
+### Check an existing bonus before buying again
+
+If your earlier order qualified, check the entitlement rather than paying twice. Rockstar's [November 19 pre-order FAQ](https://support.rockstargames.com/articles/11zWw5XQuGh1h9UDRE9nQs/grand-theft-auto-vi-pre-order-bonus-faq) gives **Pause Menu > Store > select the pre-order bonus** to display claim information for available bonuses. That is a way to inspect the claim instructions, not a promise that every reward is instantly collectible. We have not accessed an owner's game account or reproduced the claim ourselves.
 
 ## Who gets the free GTA+ month, and how do you claim it?
 
-Digital pre-orders on PS5 and Xbox Series X|S qualify. The boxed copy does not. <span class="tag-confirmed">confirmed</span> (Xbox Wire; Rockstar Support as quoted)
+The earlier qualifying digital orders on PS5 and Xbox Series X|S had this separate membership offer. The boxed copy did not. The terms below describe redemption for those eligible orders, not a free month included with a new paid pack purchase. <span class="tag-confirmed">confirmed</span> (Xbox Wire; Rockstar Support as quoted)
 
 | Platform | Terms | Grade |
 | --- | --- | --- |

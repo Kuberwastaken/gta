@@ -6,8 +6,8 @@ description: "GTA 6 is $79.99 Standard or $99.99 Ultimate in the US, £69.99/£8
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-19
-verified: 2026-11-19
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 3
 tags: ["release", "price", "editions"]
 tldr: "GTA 6 costs **$79.99 Standard or $99.99 Ultimate** in the US (£69.99/£89.99 UK, €79.99/€99.99 eurozone). Ultimate is **digital only** and adds 16 items; Standard owners can upgrade later for the difference, $20/£20/€20 on Xbox."
@@ -38,6 +38,26 @@ faq:
   - q: "Can I upgrade GTA 6 Standard to Ultimate later?"
     a: "Yes. On Xbox the upgrade costs $20, £20 or €20. PlayStation hides the upgrade price until the game is in your library."
 sources:
+  - title: "Vintage Vice City Pack add-on (US)"
+    url: "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-CONTENTPACK00001"
+    publisher: "PlayStation Store"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
+  - title: "Vintage Vice City Pack add-on (US)"
+    url: "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi-vintage-vice-city-pack/9plvssh8849x"
+    publisher: "Xbox Store"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
+  - title: "Grand Theft Auto VI pre-order bonus FAQ"
+    url: "https://support.rockstargames.com/articles/11zWw5XQuGh1h9UDRE9nQs/grand-theft-auto-vi-pre-order-bonus-faq"
+    publisher: "Rockstar Games Support"
+    date: "Nov 19, 2026; checked Nov 22"
+    tier: "primary"
+  - title: "Vintage Vice City Pack and Ultimate add-ons"
+    url: "https://www.rockstargames.com/VI/add-ons/vintage-vice-city"
+    publisher: "Rockstar Games"
+    date: "Checked Nov 22, 2026"
+    tier: "primary"
   - title: "Ultimate Edition contents and upgrade rules"
     url: "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
     publisher: "Rockstar Support"
@@ -184,7 +204,7 @@ The upgrade, along with GTA+, is the likely reason the ESRB listing carries an "
 
 ## What comes with every edition?
 
-Every copy bought before Nov 20 gets the Vintage Vice City Pack, and digital pre-orders add a free GTA+ month that reportedly auto-renews at about $8. Contents and claim steps are on [[release/gta-6-pre-order-bonuses|pre-order bonuses]].
+The earlier free Vintage Vice City Pack offer covered qualifying purchases before Nov 20; that purchase window is closed. The pack now has a **$4.99 US** separate listing on both console stores. This is not the base game, an Ultimate upgrade or a new free GTA+ month. Check existing entitlement before buying twice. The earlier digital GTA+ offer and its platform-specific claim/renewal terms are separate. Contents, official store links and claim steps are on [[release/gta-6-pre-order-bonuses|pre-order bonuses]].
 
 ## Bundles, controllers and cloud
 
