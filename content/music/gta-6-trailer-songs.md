@@ -5,8 +5,8 @@ shortTitle: "Trailer songs"
 description: "Every song in the GTA 6 trailers: Tom Petty in Trailer 1, the Pointer Sisters in Trailer 2, six tracks in the Extended Look and Justice in the Launch Trailer."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 2
 tags: ["music", "trailers", "soundtrack"]
 tldr: "Trailer 1 uses **Tom Petty's 'Love Is a Long Road'**, Trailer 2 uses **the Pointer Sisters' 'Hot Together'**, the Extended Look features six licensed songs led by **Depeche Mode's 'People Are People'**, and the Launch Trailer debuts **Justice's 'Flower in a Hurricane'** with Tame Impala, SZA and King Gizzard. Full details per [[media/index|trailer]] below."
@@ -36,12 +36,12 @@ sources:
   - title: "The Music of Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI/music"
     publisher: "Rockstar Games"
-    date: "Fetched Nov 15, 2026"
+    date: "Checked Nov 22, 2026"
     tier: "primary"
   - title: "Grand Theft Auto VI Launch Trailer (video list)"
     url: "https://www.rockstargames.com/VI/launch-trailer"
     publisher: "Rockstar Games"
-    date: "Fetched Nov 15, 2026"
+    date: "Checked Nov 22, 2026"
     tier: "primary"
   - title: "What song is in Grand Theft Auto 6 trailer 2"
     url: "https://www.nme.com/news/gaming-news/what-song-grand-theft-auto-6-trailer-2-3860654"
@@ -110,7 +110,7 @@ Den of Geek spotted a rainbow "Petty Forever" sticker on a door near the end. It
 
 "Hot Together" by the Pointer Sisters (1986) carries most of [[media/gta-6-trailer-2|Trailer 2]], which dropped without warning on May 6, 2025, four days after the game slipped to May 2026. NME and Den of Geek both hear three more songs in shorter stretches, mostly as car radio: Wang Chung's "Everybody Have Fun Tonight", Zenglen's "Child Support" (some lists credit Zenglen & 5 Etwal) and Tammy Wynette's "Talkin' to Myself Again".
 
-Den of Geek took the Wynette track as an early sign of a country station. Seventeen months later Rockstar revealed Back Country Radio among the six confirmed [[music/gta-6-radio-stations|GTA 6 radio stations]]. Jay Ferguson's "Thunder Island" appears on some fan lists, but no credible outlet has confirmed it <span class="tag-rumour">rumour</span>.
+Den of Geek took the Wynette track as an early sign of a country station. Seventeen months later Rockstar revealed Back Country Radio among the original six previewed [[music/gta-6-radio-stations|GTA 6 radio stations]]. Jay Ferguson's "Thunder Island" appears on some fan lists, but no credible outlet has confirmed it <span class="tag-rumour">rumour</span>.
 
 ## What songs are in the GTA 6 Extended Look?
 

@@ -5,8 +5,8 @@ shortTitle: "Real Dimez"
 description: "Real Dimez are Bae-Luxe and Roxy, GTA 6's rap duo signed to Only Raw Records five years after a hit with DWNPLY. Their bio, pull quotes and stated influences."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-20
-verified: 2026-11-20
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 24
 tags: ["characters", "music", "vice-city", "phone"]
 tldr: "Real Dimez are **Bae-Luxe and Roxy**, high school friends who turned shaking down local dealers into **rap tracks and a social media following**. An early single with **DWNPLY** made them; five years later they are **signed to Only Raw Records**. Dazed says their story runs partly through **in-game viral posts**."
@@ -43,7 +43,7 @@ sources:
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
-    date: "Fetched Nov 15, 2026"
+    date: "Checked Nov 22, 2026"
     tier: "primary"
   - title: "GTAVI: An exclusive deep dive into the video game of the decade"
     url: "https://www.dazeddigital.com/life-culture/article/70859/1/gta-6-grand-theft-auto-vi-rockstar-exclusive-deep-dive-game-unparalleled-world"
@@ -96,7 +96,7 @@ Rockstar hasn't named a model. Rupert Humphries, Rockstar's SVP of narrative, to
 
 Dazed reports that the duo's "journey can be traced via in-game viral social media posts." Red Bull reports that the phone's Snapmatic app lets you follow accounts and watch NPC events and livestreams in real time. <span class="tag-reported">reported</span> Nobody has said you can follow Real Dimez on Snapmatic specifically. <span class="tag-speculation">speculation</span> More on the apps at [[gameplay/gta-6-phone-and-social-media|phone and social media]].
 
-Rockstar also hasn't said whether any Real Dimez song plays on in-game radio. The confirmed music is the six stations revealed on October 8 and *Grand Theft Auto VI: The Album*, 34 original tracks out November 19. See [[music/gta-6-radio-stations|radio stations]] and [[music/gta-6-soundtrack-album|the GTA 6 album]].
+Rockstar also hasn't said whether any Real Dimez song plays on in-game radio. The music coverage now includes seven Rockstar station-preview cards and *Grand Theft Auto VI: The Album*, 34 original tracks out November 19. See [[music/gta-6-radio-stations|radio stations]] and [[music/gta-6-soundtrack-album|the GTA 6 album]].
 
 ## How many official characters are there?
 

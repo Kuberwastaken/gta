@@ -5,11 +5,11 @@ shortTitle: "Justice score"
 description: "French duo Justice composed GTA 6's adaptive original score. The album is out Dec 11, 2026 with 30 tracks on CD and vinyl. Singles, formats and what is known."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 4
 tags: ["music", "soundtrack"]
-tldr: "**Justice** (Gaspard Augé and Xavier de Rosnay) composed GTA 6's adaptive original score. *Grand Theft Auto VI: Original Score* releases **December 11, 2026**, three weeks after the game, with **30 tracks** on CD and vinyl plus digital bonus tracks. Singles so far: 'Flower in a Hurricane' and 'Pusher'. Compare it with [[music/gta-6-soundtrack-album|The Album]]."
+tldr: "**Justice** (Gaspard Augé and Xavier de Rosnay) composed GTA 6's adaptive original score. *Grand Theft Auto VI: Original Score* releases **December 11, 2026**, three weeks after the game, with **30 tracks** on CD and vinyl plus digital bonus tracks. Rockstar currently lists three score singles: 'Starting from Zero', 'Flower in a Hurricane' and 'Pusher'. Compare it with [[music/gta-6-soundtrack-album|The Album]]."
 facts:
   - k: "Composer"
     v: "Justice (Gaspard Augé, Xavier de Rosnay)"
@@ -20,7 +20,7 @@ facts:
   - k: "Physical tracks"
     v: "30, plus digital bonus tracks"
   - k: "Singles"
-    v: "Flower in a Hurricane; Pusher (ft. Gesaffelstein)"
+    v: "Starting from Zero; Flower in a Hurricane; Pusher"
   - k: "Formats"
     v: "Digital, double CD, triple vinyl"
 faq:
@@ -31,14 +31,14 @@ faq:
   - q: "How many tracks are on the GTA 6 Justice score?"
     a: "Rockstar says the physical album has 30 tracks plus a number of digital bonus tracks. Wikipedia reports the digital edition runs to 50 tracks and about three hours."
   - q: "Is the Justice score the same as GTA 6: The Album?"
-    a: "No. The Album is 34 original songs by many artists, out Nov 19. The Original Score is Justice's instrumental and adaptive music for the game, out Dec 11. 'Flower in a Hurricane' is on both."
+    a: "No. The Album is 34 original songs by many artists, out Nov 19. The Original Score is Justice's instrumental and adaptive music for the game, out Dec 11. Starting from Zero and Flower in a Hurricane are currently listed for both releases."
   - q: "What is an adaptive score?"
     a: "Music that changes with what the player is doing. Rockstar says the compositions are 'dynamically tuned' to how players engage with the world, but has not explained the triggers."
 sources:
   - title: "The Music of Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI/music"
     publisher: "Rockstar Games"
-    date: "Fetched Nov 15, 2026"
+    date: "Checked Nov 22, 2026"
     tier: "primary"
   - title: "Justice are behind the 'Grand Theft Auto 6' soundtrack"
     url: "https://www.nme.com/news/gaming-news/grand-theft-auto-6-soundtrack-justice-album-gta-rockstar-tame-impala-3973238"
@@ -67,7 +67,7 @@ Justice, the French duo of Gaspard Augé and Xavier de Rosnay, wrote GTA 6's ori
 
 ## When was Justice announced for GTA 6?
 
-On October 15, 2026, with the [[media/gta-6-launch-trailer|Launch Trailer]], which premiered the Justice track "Flower in a Hurricane" featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard <span class="tag-confirmed">confirmed</span>. NME and Game Rant covered the reveal the same day. Two weeks later, on October 29, the score album was dated for December 11 and a second single, "Pusher" featuring Gesaffelstein, came out, per Wikipedia <span class="tag-reported">reported</span>. Rockstar's music page now lists both singles and the December date.
+On October 15, 2026, with the [[media/gta-6-launch-trailer|Launch Trailer]], which premiered the Justice track "Flower in a Hurricane" featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard <span class="tag-confirmed">confirmed</span>. NME and Game Rant covered the reveal the same day. Two weeks later, on October 29, the score album was dated for December 11 and a second single, "Pusher" featuring Gesaffelstein, came out, per Wikipedia <span class="tag-reported">reported</span>. On November 22, Rockstar's music page lists three singles, adding Starting from Zero featuring Michael McDonald to the two previously tracked here; the score album date is still December 11.
 
 ## What is an adaptive score?
 
@@ -86,16 +86,17 @@ De Rosnay told Billboard the duo was "given the freedom to explore as many thing
 | Limited triple crystal-clear vinyl | Sold on Rockstar's music page | <span class="tag-confirmed">confirmed</span> |
 | Labels | Ed Banger and Because Music | <span class="tag-reported">reported</span> |
 
-Rockstar's own wording is "30 tracks, along with a number of digital bonus tracks". The 50-track, three-hour digital figure and the Ed Banger and Because Music labels come from Wikipedia's score article. No track listing has been published, so the roughly 20 digital extras that figure implies are unnamed.
+Rockstar's own wording is "30 tracks, along with a number of digital bonus tracks". The 50-track, three-hour digital figure and the Ed Banger and Because Music labels come from Wikipedia's score article. Our current first-party check establishes three singles, not a full score-album tracklist, so the roughly 20 digital extras that figure implies are unnamed.
 
 ## The singles
 
-| Single | Featuring | Released | Also on |
-| --- | --- | --- | --- |
-| Flower in a Hurricane | Tame Impala, SZA, King Gizzard & The Lizard Wizard | Oct 15, 2026 | The Album |
-| Pusher | Gesaffelstein | Oct 29, 2026 | Score only |
+| Single | Featuring | Single date |
+| --- | --- | --- |
+| Starting from Zero | Michael McDonald | Listed on the Nov 22 check; separate single date not stated |
+| Flower in a Hurricane | Tame Impala, SZA, King Gizzard & The Lizard Wizard | Oct 15, 2026 |
+| Pusher | Gesaffelstein | Oct 29, 2026 |
 
-"Flower in a Hurricane" is the one track Rockstar lists on both the score and [[music/gta-6-soundtrack-album|GTA VI: The Album]]. Wikipedia puts it at 3:45, produced by Justice with Tame Impala's Kevin Parker <span class="tag-reported">reported</span>. Rockstar spells it "Flower", singular; Game Rant and a few others wrote "Flowers".
+Rockstar's November 22 page lists **Starting from Zero** featuring Michael McDonald, **Flower in a Hurricane** featuring Tame Impala, SZA and King Gizzard & The Lizard Wizard, and **Pusher** featuring Gesaffelstein as score singles. The first two also appear on [[music/gta-6-soundtrack-album|The Album]]. The current page does not supply a separate single-release date for Starting from Zero, so we do not infer one from its presence. <span class="tag-confirmed">confirmed</span>
 
 Billboard's Katie Bain wrote that "Pusher" recalls the Justice classics "Stress" and "Generator", with "darkly pummeling synths and pacing fit for an action sequence", as quoted by Wikipedia <span class="tag-reported">reported</span>.
 

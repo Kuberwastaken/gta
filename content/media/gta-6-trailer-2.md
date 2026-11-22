@@ -5,8 +5,8 @@ shortTitle: "Trailer 2"
 description: "GTA 6 Trailer 2 dropped unannounced on May 6, 2025. It runs 2:47, was captured in-game on PS5, and came with 70 screenshots and eight character profiles."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-16
-verified: 2026-11-15
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 4
 tags: ["trailers", "media", "characters"]
 tldr: "**GTA 6 Trailer 2** (2:47) arrived without warning on **May 6, 2025**, four days after the first delay. Rockstar said it was captured **entirely in-game on PS5**. It launched alongside 70 screenshots and the first official profiles for Jason, Lucia and six [[characters/index|supporting characters]]. Main song: **the Pointer Sisters' 'Hot Together'**."
@@ -38,12 +38,12 @@ sources:
   - title: "Grand Theft Auto VI Launch Trailer (video list with dates and runtimes)"
     url: "https://www.rockstargames.com/VI/launch-trailer"
     publisher: "Rockstar Games"
-    date: "Fetched Nov 15, 2026"
+    date: "Checked Nov 22, 2026"
     tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
-    date: "Fetched Nov 15, 2026"
+    date: "Checked Nov 22, 2026"
     tier: "primary"
   - title: "Grand Theft Auto 6's second trailer is here"
     url: "https://www.videogameschronicle.com/news/rockstar-has-released-a-new-grand-theft-auto-6-trailer/"
@@ -132,7 +132,7 @@ Den of Geek's breakdown spotted Jason's V-Rock T-shirt (Vice City's rock station
 
 | Hint in Trailer 2 | What we know now | Grade |
 | --- | --- | --- |
-| Tammy Wynette on the radio, a possible country station | Back Country Radio is one of six confirmed stations | <span class="tag-confirmed">confirmed</span> |
+| Tammy Wynette on the radio, a possible country station | Back Country Radio was among the original six previews; seven now appear on the music landing page | <span class="tag-confirmed">confirmed</span> |
 | Jason lifting weights, a possible fitness system | Diet, exercise and sleep visibly change both leads' bodies, per Dazed; Lucia bench-presses in the Extended Look | <span class="tag-confirmed">confirmed</span> |
 | Heavy focus on wildlife | Hunting and fishing hints followed in the Extended Look | <span class="tag-reported">reported</span> |
 | V-Rock T-shirt, a possible station revival | Not on Rockstar's station list so far | <span class="tag-rumour">rumour</span> |

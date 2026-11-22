@@ -5,8 +5,8 @@ shortTitle: "Timeline"
 description: "GTA 6 timeline, Feb 4, 2022 to Nov 19, 2026: the 'well underway' post, the 2022 hack, four trailers, two delays, the $79.99 price and launch week, each graded."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-22
+verified: 2026-11-22
 weight: 1
 tags: ["timeline", "trailers", "release"]
 tldr: "Rockstar confirmed GTA 6 was **'well underway' on February 4, 2022**. It launches **November 19, 2026** after **two delays**: Fall 2025 to May 26, 2026 (announced May 2, 2025), then to Nov 19 (announced Nov 6, 2025). The full dated record is below; the reasons are on [[timeline/gta-6-delays|the delays page]]."
@@ -43,7 +43,7 @@ sources:
   - title: "Grand Theft Auto VI Launch Trailer (video list with dates and runtimes)"
     url: "https://www.rockstargames.com/VI/launch-trailer"
     publisher: "Rockstar Games"
-    date: "Fetched Nov 15, 2026"
+    date: "Checked Nov 22, 2026"
     tier: "primary"
   - title: "GTA 6 is in active development and 'well underway', Rockstar confirms"
     url: "https://techradar.com/news/gta-6-is-in-active-development-and-well-underway-according-to-rockstar"
@@ -234,7 +234,7 @@ Studios, leads and budget are on [[timeline/gta-6-development-history|developmen
 - Trailer 1 views: YouTube's blog said 93M+ in 24 hours; Guinness certified 90,421,491. Both are official figures for the same 24 hours.
 - Trailer 2 views: Rockstar's 475M figure covers "all platforms" and its method was never disclosed. YouTube alone was about 65-85M by May 8, 2025, below Trailer 1's 24-hour YouTube mark.
 - Launch Trailer song: Rockstar's site and NME say "Flower in a Hurricane"; Game Rant and others write "Flowers".
-- The Album: 34 songs is confirmed as a count; the full tracklist comes from leaked vinyl packaging.
+- The Album: Rockstar now publishes all 34 tracks. The earlier packaging-based list is superseded by the November 22 first-party check in [[music/gta-6-soundtrack-album|the Album guide]].
 
 ## Start here
 
