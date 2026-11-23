@@ -1,38 +1,53 @@
 ---
-title: "GTA 6 pre-launch updates: 1.002.001 rollout and missing patch notes"
-seoTitle: "GTA 6 Update 1.002.001: Size, Rollout and Patch Notes"
+title: "GTA 6 update 01.002.002: November 23 rollout, sizes and patch-note limits"
+seoTitle: "GTA 6 Update 01.002.002: Size, Rollout and Patch Notes"
 shortTitle: "Day-one patch"
-description: "VICE reports a second GTA 6 pre-launch update on Nov 16: 01.002.001, about 602.5 MB on PS5 and 1.6 GB on Xbox. Rollout claims are not official patch notes."
+description: "GTA 6 update 01.002.002 on PS5 and 1.0.2.2 on Xbox is reported Nov 23, at 603.8 MB and 1.6 GB. No official fix list recovered; older updates kept separate."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-18
-verified: 2026-11-18
+updated: 2026-11-23
+verified: 2026-11-23
 weight: 14
 tags: ["release", "preload", "ps5", "xbox"]
-tldr: "VICE reports a **second pre-launch update on November 16**, labelled **01.002.001 on PS5**, at about **602.5 MB on PS5** and **1.6 GB on Xbox**. Its staged PS5 rollout timetable comes from data accounts, not Sony's own announcement. No official change list has been recovered. The earlier 1.002.000 update is separate."
+tldr: "A **November 23 post-launch update** is reported as **01.002.002 on PS5 / 1.0.2.2 on Xbox**, with downloads of **603.8 MB / about 1.6 GB**. VICE attributes the rollout details to Tex2. We found no official Rockstar change list in the checked Support listing, so crash fixes, exploit changes and performance improvements remain unconfirmed. Earlier pre-launch builds are below."
 facts:
   - k: "Version"
-    v: "01.002.001 on PS5 (reported)"
+    v: "01.002.002 PS5 / 1.0.2.2 Xbox (reported)"
   - k: "Rollout began"
-    v: "Mon, Nov 16, 2026 (reported)"
+    v: "Nov 23, 2026 (post-launch; reported)"
   - k: "PS5 size"
-    v: "~602.5 MB (second update; reported)"
+    v: "603.8 MB (Nov 23; reported)"
   - k: "Xbox size"
-    v: "~1.6 GB (second update; reported)"
+    v: "~1.6 GB (Nov 23; reported)"
   - k: "Patch notes"
-    v: "None from Rockstar"
+    v: "No official change list recovered, Nov 23"
   - k: "Mandatory"
     v: "Do not infer launch requirements from size"
 faq:
+  - q: "What is the latest reported GTA 6 update?"
+    a: "November 23 reports identify 01.002.002 on PS5 and 1.0.2.2 on Xbox, at 603.8 MB and about 1.6 GB respectively. We have not recovered an official change list or tested the build."
   - q: "Does GTA 6 have a day-one patch?"
     a: "Two pre-launch updates have been reported: 1.002.000 on Nov 13 and 01.002.001 on PS5 on Nov 16. VICE uses the day-one label; that does not establish a final launch build or official change list."
   - q: "How big is the GTA 6 day-one patch?"
     a: "VICE reports the second update at about 602.5 MB on PS5 and 1.6 GB on Xbox. The first was about 1.07 GB on PS5 and 2.18-2.2 GB on Xbox. Download sizes can differ by installed build."
   - q: "Why don't I have GTA 6 update 1.002 yet on PS5?"
-    a: "Sony staggered it: about half of users got it first and the rest roughly 11 hours later. Highlight the game, press Options and choose Check for Update."
+    a: "The older November 13 report described a half-first rollout. November 23 reporting describes a separate three-wave plan for 01.002.002. Neither is an account-specific guarantee. On PS5 use Options, Check for Update."
   - q: "What does GTA 6 update 1.002 change?"
     a: "Rockstar hasn't said. An insider called 'Text Funds 2' claims it touches story data, executables, levels, shaders and scripts. Nothing suggests it adds a 60 fps mode."
 sources:
+  - title: "GTA 6 Update 01.002.002 download and rollout report"
+    url: "https://www.vice.com/en/article/gta-6-update-01-002-002-patch-notes/"
+    publisher: "VICE (Brent Koepp)"
+    date: "Nov 23, 2026"
+  - title: "GTA 6 Update 01.002.002 download sizes and missing official notes"
+    url: "https://insider-gaming.com/gta-6-update-01-002-002-all-changes-download-size/"
+    publisher: "Insider Gaming"
+    date: "Nov 23, 2026"
+  - title: "Grand Theft Auto VI Support listing"
+    url: "https://support.rockstargames.com/VI"
+    publisher: "Rockstar Games Support"
+    date: "Checked Nov 23, 2026"
+    tier: "primary"
   - title: "GTA VI console preparation and system software"
     url: "https://www.playstation.com/en-us/support/games/gta-vi-support/"
     publisher: "PlayStation Support"
@@ -74,13 +89,36 @@ sources:
 related: ["release/gta-6-preload-and-file-size", "news/2026-11-13-gta-6-update-1-002", "guides/gta-6-day-one-checklist"]
 ---
 
+## November 23: post-launch update 01.002.002 / 1.0.2.2
+
+[VICE's November 23 report](https://www.vice.com/en/article/gta-6-update-01-002-002-patch-notes/) describes the first update since launch, identifying **01.002.002 on PS5** and **1.0.2.2 on Xbox Series X|S**. It attributes the download and staged-rollout information to **Tex2 (@TexFunz2)**. We read the outlet's reproduction, not a console download screen or the original social post. <span class="tag-reported">reported</span>
+
+| Platform | Reported version | Reported download |
+| --- | --- | --- |
+| PS5 / PS5 Pro | 01.002.002 | 603.8 MB |
+| Xbox Series X\|S | 1.0.2.2 | About 1.6 GB |
+
+[Insider Gaming](https://insider-gaming.com/gta-6-update-01-002-002-all-changes-download-size/) reports the same download sizes. These are download reports, not total install sizes or a guarantee for every installed build and region.
+
+### Why might the update not appear on PS5 yet?
+
+VICE reproduces a three-wave plan: roughly 33% initially, 66% around three hours later and all users around six hours after the rollout began. This is a **reported PS5 schedule**, not a Rockstar or Sony service guarantee. The report does not establish an exact start time for each account, an equivalent Xbox wave plan or that every player has received it at the time of our check. Check the console normally; do not change account regions or reinstall the base game just to force a wave.
+
+### What does the November 23 patch fix?
+
+**No official fix list was recovered in our November 23 check of [Rockstar's GTA VI Support listing](https://support.rockstargames.com/VI).** VICE and Insider Gaming also say official notes were unavailable when they published. That is narrower than a claim that Rockstar will never publish notes.
+
+Do not treat an article's list of existing bugs as the list of things this patch fixes. A changed executable or script archive also does not prove that crashes, audio desync, money exploits or save problems were fixed, that no content changed, or why Rockstar issued the update. We have not inspected game binaries or tested this build. No verified evidence here establishes a new frame-rate mode, and no fix or recovery time is promised.
+
+The [[guides/gta-6-day-one-checklist|checklist]] keeps game updates separate from PS5 system software and links the bounded troubleshooting guidance. Earlier November 13 and 16 builds remain below as history, not the latest reported version.
+
 ## PS5 system software is separate from the game patch
 
 The [November 18 post from @PS_Support_US](https://x.com/PS_Support_US/status/2122863683881619685), read at its original URL, says a PS5 system software update is required before playing GTA VI. The [@PlayStation account also shared that notice](https://x.com/PlayStation/status/2122870764760420863). [PCMag's hands-on check](https://uk.pcmag.com/games/168442/preloaded-gta-6-check-you-dont-need-any-extra-updates-before-playing) reports that its console had not installed the firmware while in rest mode. <span class="tag-reported">reported</span> Do not assume a completed game pre-load means the console is ready.
 
 [Sony's GTA VI support page](https://www.playstation.com/en-us/support/games/gta-vi-support/) separately directs players to **Settings > System > System Software > System Software Update and Settings** and says to keep system software up to date. It also lists automatic game updates and staying connected in rest mode as separate settings. <span class="tag-confirmed">confirmed</span> (Sony support guidance)
 
-Check the console's current system-update screen as well as GTA VI's game-update screen. **Firmware is not game update 01.002.001**. We are not assigning an unverified firmware version or promising that rest mode installs every update. No primary source recovered here explains a GTA-specific security purpose, so jailbreak and anti-piracy theories remain speculation.
+Check the console's current system-update screen as well as GTA VI's game-update screen. **Firmware is not a GTA VI game update such as 01.002.002**. We are not assigning an unverified firmware version or promising that rest mode installs every update. No primary source recovered here explains a GTA-specific security purpose, so jailbreak and anti-piracy theories remain speculation.
 
 ## November 16: a second pre-launch update is reported
 
@@ -119,9 +157,9 @@ Rockstar has said nothing. An insider posting as "Text Funds 2" claims the updat
 
 No verified change list establishes that this update adds a 60 fps mode. Reporting on Rockstar's November 10 console targets describes 30 fps, PS5 Pro included. Datamined 120 Hz output and PSSR v13.60 strings hint at a future 40 fps mode, unconfirmed. <span class="tag-rumour">rumour</span> See [[release/gta-6-ps5-pro-performance|PS5 Pro and performance]].
 
-## Could there still be another patch on Nov 19?
+## How do the launch and post-launch updates differ?
 
-Unknown. A second pre-launch update is now reported, but that does not establish the final launch build or rule out another release-day download. Leave automatic updates on and check again the evening before your [[release/gta-6-release-time-by-country|unlock time]], since a mandatory update at midnight eats into launch night.
+The November 13 and 16 downloads above were pre-launch updates. The November 23 report is a separate post-launch build. Their similar download sizes do not make them the same patch, and none of the reports alone supplies an official change list.
 
 ## What happened to the 50 GB day-one patch?
 
@@ -133,4 +171,4 @@ On PS5, highlight GTA VI, press Options and choose Check for Update. On Xbox, go
 
 ## What we're watching
 
-Patch notes for 1.002 or any launch-day update, and the first post-launch patch: whether it touches the 30 fps target or any of the [[gameplay/gta-6-gameplay-features-confirmed|confirmed gameplay systems]]. Back to the [[release/index|release hub]].
+Official notes for the reported November 23 build, later version reports and verified changes to the 30 fps target or any of the [[gameplay/gta-6-gameplay-features-confirmed|confirmed gameplay systems]]. Back to the [[release/index|release hub]].

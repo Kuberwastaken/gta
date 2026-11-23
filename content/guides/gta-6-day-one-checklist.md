@@ -6,8 +6,8 @@ description: "GTA 6 launch checklist: redeem codes, clear storage, finish the pr
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-22
-verified: 2026-11-22
+updated: 2026-11-23
+verified: 2026-11-23
 weight: 1
 tags: ["guides", "beginner", "preload", "unlock-times", "release"]
 tldr: "The game is out. Check the latest game update and PS5 system software separately, preserve saves, and use the troubleshooting sections below if needed. **The free pre-November-20 bonus window has ended**; the Vintage Vice City Pack is now a separate paid add-on. Earlier launch-time and pre-load steps below are dated preparation guidance."
@@ -18,8 +18,8 @@ facts:
     v: "Open since Nov 10 (NZ first)"
   - k: "Space needed"
     v: "Up to 212 GB (clear ~250 GB)"
-  - k: "Pre-launch patch"
-    v: "01.002.001 reported; check latest version"
+  - k: "Latest reported game update"
+    v: "01.002.002 PS5 / 1.0.2.2 Xbox, Nov 23"
   - k: "Pre-order pack cutoff"
     v: "Free offer closed; separate paid add-on now listed"
   - k: "Online mode"
@@ -186,7 +186,7 @@ Pre-load opened Nov 10. Rockstar first announced Nov 12, then moved it earlier, 
 
 - [ ] Start the download now. PS5 opened at midnight local time on Nov 10 (New Zealand first, 11:00 UTC Nov 9). Xbox opened at one worldwide moment: 12 a.m. GMT Nov 10, which was 7 PM ET on Nov 9.
 - [ ] Turn on auto-downloads (PS5) or automatic updates (Xbox) and leave the console in Rest Mode or Sleep <span class="tag-reported">reported</span>.
-- [ ] Check GTA VI for the latest game update, not just the first 1.002.000 patch. The second PS5 build **01.002.001** is reported at about 602.5 MB, with an approximately 1.6 GB Xbox update. Sizes depend on the installed build; the [[release/gta-6-day-one-patch|patch guide]] separates reported downloads from official change lists.
+- [ ] Check GTA VI for the latest game update. The November 23 post-launch build is reported as **01.002.002 on PS5 / 1.0.2.2 on Xbox**, about 603.8 MB / 1.6 GB. A staged PS5 rollout is reported; these are not official fix notes or proof that a specific crash or exploit is resolved. The [[release/gta-6-day-one-patch|patch guide]] separates this build from the earlier pre-launch updates.
 - [ ] **PS5: check system software separately.** Sony's [GTA VI support guide](https://www.playstation.com/en-us/support/games/gta-vi-support/) gives **Settings > System > System Software > System Software Update and Settings**. The original support-handle notice says a system update is required before play; see the [[release/gta-6-day-one-patch|firmware and game-patch distinction]]. A finished pre-load or a night in rest mode does not prove this check is done.
 - [ ] On PS5, Sony also lists **Settings > Saved Data and Game/App Settings > Automatic Updates > Auto-Install in Rest Mode**, plus **Settings > System > Power Saving > Features Available in Rest Mode > Stay Connected to the Internet**. Those settings help future downloads; still inspect pending updates before launch.
 
