@@ -1,15 +1,15 @@
 ---
-title: "GTA 6 update 01.002.002: November 23 rollout, sizes and patch-note limits"
+title: "GTA 6 update 01.002.002: November 23 fixes, sizes and rollout"
 seoTitle: "GTA 6 Update 01.002.002: Size, Rollout and Patch Notes"
 shortTitle: "Day-one patch"
-description: "GTA 6 update 01.002.002 on PS5 and 1.0.2.2 on Xbox is reported Nov 23, at 603.8 MB and 1.6 GB. No official fix list recovered; older updates kept separate."
+description: "Rockstar lists seven November 23 GTA 6 fixes, including autosave, progression calls, crashes and stuck weather. Reported versions, sizes and older patches kept separate."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-23
 verified: 2026-11-23
 weight: 14
 tags: ["release", "preload", "ps5", "xbox"]
-tldr: "A **November 23 post-launch update** is reported as **01.002.002 on PS5 / 1.0.2.2 on Xbox**, with downloads of **603.8 MB / about 1.6 GB**. VICE attributes the rollout details to Tex2. We found no official Rockstar change list in the checked Support listing, so crash fixes, exploit changes and performance improvements remain unconfirmed. Earlier pre-launch builds are below."
+tldr: "**Rockstar has now published seven November 23 fixes**: crashes, stuck weather, autosave, progression/unlock phone calls, losing the wanted level, the gym deadlift bar and partner bag handovers. Reports identify **01.002.002 on PS5 / 1.0.2.2 on Xbox**, at **603.8 MB / about 1.6 GB**. Official fixes and reported download details are kept separate; older pre-launch builds remain below."
 facts:
   - k: "Version"
     v: "01.002.002 PS5 / 1.0.2.2 Xbox (reported)"
@@ -20,12 +20,12 @@ facts:
   - k: "Xbox size"
     v: "~1.6 GB (Nov 23; reported)"
   - k: "Patch notes"
-    v: "No official change list recovered, Nov 23"
+    v: "7 official fixes published, Nov 23"
   - k: "Mandatory"
     v: "Do not infer launch requirements from size"
 faq:
   - q: "What is the latest reported GTA 6 update?"
-    a: "November 23 reports identify 01.002.002 on PS5 and 1.0.2.2 on Xbox, at 603.8 MB and about 1.6 GB respectively. We have not recovered an official change list or tested the build."
+    a: "November 23 reports identify 01.002.002 on PS5 and 1.0.2.2 on Xbox, at 603.8 MB and about 1.6 GB respectively. Rockstar has now published seven fixes in its November 23 launch-update notes. We have not tested the build."
   - q: "Does GTA 6 have a day-one patch?"
     a: "Two pre-launch updates have been reported: 1.002.000 on Nov 13 and 01.002.001 on PS5 on Nov 16. VICE uses the day-one label; that does not establish a final launch build or official change list."
   - q: "How big is the GTA 6 day-one patch?"
@@ -33,8 +33,13 @@ faq:
   - q: "Why don't I have GTA 6 update 1.002 yet on PS5?"
     a: "The older November 13 report described a half-first rollout. November 23 reporting describes a separate three-wave plan for 01.002.002. Neither is an account-specific guarantee. On PS5 use Options, Check for Update."
   - q: "What does GTA 6 update 1.002 change?"
-    a: "Rockstar hasn't said. An insider called 'Text Funds 2' claims it touches story data, executables, levels, shaders and scripts. Nothing suggests it adds a 60 fps mode."
+    a: "The November 23 notes list seven fixes including autosave, progression phone calls and crashes. Earlier November 13/16 builds are separate and do not gain a fix list retroactively. No new frame-rate mode is announced in the notes."
 sources:
+  - title: "Grand Theft Auto VI Launch Updates (PS5 / XBOX Series X|S)"
+    url: "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s"
+    publisher: "Rockstar Games Support"
+    date: "Nov 23, 2026; checked later the same day"
+    tier: "primary"
   - title: "GTA 6 Update 01.002.002 download and rollout report"
     url: "https://www.vice.com/en/article/gta-6-update-01-002-002-patch-notes/"
     publisher: "VICE (Brent Koepp)"
@@ -106,11 +111,25 @@ VICE reproduces a three-wave plan: roughly 33% initially, 66% around three hours
 
 ### What does the November 23 patch fix?
 
-**No official fix list was recovered in our November 23 check of [Rockstar's GTA VI Support listing](https://support.rockstargames.com/VI).** VICE and Insider Gaming also say official notes were unavailable when they published. That is narrower than a claim that Rockstar will never publish notes.
+**Later November 23 update:** [Rockstar's official launch-update article](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s), last updated November 23, now lists seven fixes. Our earlier same-day check found no notes in the Support listing; that status is now superseded. The first-party list confirms the changes below, while the version numbers and download sizes above remain attributed to console-update reporting. <span class="tag-confirmed">confirmed</span> (official patch notes)
 
-Do not treat an article's list of existing bugs as the list of things this patch fixes. A changed executable or script archive also does not prove that crashes, audio desync, money exploits or save problems were fixed, that no content changed, or why Rockstar issued the update. We have not inspected game binaries or tested this build. No verified evidence here establishes a new frame-rate mode, and no fix or recovery time is promised.
+| Area | What Rockstar says it fixed |
+| --- | --- |
+| Stability | Several issues that caused crashes |
+| Weather | Weather remaining unchanged for extended periods |
+| Autosave | An issue that prevented autosave from working correctly |
+| Phone calls | Several calls failing to trigger, including calls that progress the story or unlock mission content |
+| Wanted level | An issue that prevented the player from losing their wanted level |
+| Gym | An issue that prevented use of the deadlift bar |
+| Fences | Partners failing to hand over bags for sale to fences |
 
-The [[guides/gta-6-day-one-checklist|checklist]] keeps game updates separate from PS5 system software and links the bounded troubleshooting guidance. Earlier November 13 and 16 builds remain below as history, not the latest reported version.
+### What do the official notes not establish?
+
+Rockstar does **not name the affected missions, phone calls, crash codes or save states**. The notes do not say whether every already-affected save will recover automatically. A general crash fix is not a promise that every PS5 CE-108255-1 report is resolved; a phone-call fix is not proof that every progression blocker has the same cause.
+
+The autosave item confirms a bug fix, **not an announced redesign of every save trigger**. Keep checking the saved slot and use the [[guides/gta-6-tips-before-you-start#save-before-you-stop-playing|manual-save guidance]] rather than assuming every small activity now creates an autosave. We have not tested the update or recovered lost progress ourselves.
+
+The seven-item list announces no new frame-rate mode, audio-desync fix or money-exploit change. It also does not prove that an unlisted exploit still works, that no other code changed or why Rockstar issued this build. The [[guides/gta-6-day-one-checklist|checklist]] separates the game update from PS5 system software. Earlier November 13 and 16 builds remain below as history.
 
 ## PS5 system software is separate from the game patch
 
@@ -138,7 +157,7 @@ A console still showing the earlier version does not by itself mean your preload
 
 ## Earlier update: November 13
 
-GTA 6's first update, version 1.002.000, began rolling out on Friday, Nov 13, 2026, to consoles that had pre-loaded. It is about **1.07 GB on PS5** and about 2.18 to 2.2 GB on Xbox Series X|S, and it is reported as mandatory. <span class="tag-reported">reported</span> All of that comes from console download screens, because Rockstar has posted no patch notes and has not called it "the day-one patch". VICE and KeenGamer use that label. Our news write-up is at [[news/2026-11-13-gta-6-update-1-002|update 1.002]].
+GTA 6's first update, version 1.002.000, began rolling out on Friday, Nov 13, 2026, to consoles that had pre-loaded. It is about **1.07 GB on PS5** and about 2.18 to 2.2 GB on Xbox Series X|S, and it is reported as mandatory. <span class="tag-reported">reported</span> All of that comes from console download screens, because Rockstar had posted no notes for that build and had not called it "the day-one patch". VICE and KeenGamer use that label. Our news write-up is at [[news/2026-11-13-gta-6-update-1-002|update 1.002]].
 
 ## How big was the first update, 1.002.000?
 
@@ -153,13 +172,13 @@ The Xbox update is roughly twice the PS5 one, and nobody has explained the gap. 
 
 ## What was claimed about the first update?
 
-Rockstar has said nothing. An insider posting as "Text Funds 2" claims the update touches story data, executables, levels, shaders and scripts. <span class="tag-rumour">rumour</span> If accurate, that is a broad refresh of the pre-load build rather than new content.
+No official change list for that earlier build was recovered. An insider posting as "Text Funds 2" claims the update touches story data, executables, levels, shaders and scripts. <span class="tag-rumour">rumour</span> If accurate, that is a broad refresh of the pre-load build rather than new content.
 
 No verified change list establishes that this update adds a 60 fps mode. Reporting on Rockstar's November 10 console targets describes 30 fps, PS5 Pro included. Datamined 120 Hz output and PSSR v13.60 strings hint at a future 40 fps mode, unconfirmed. <span class="tag-rumour">rumour</span> See [[release/gta-6-ps5-pro-performance|PS5 Pro and performance]].
 
 ## How do the launch and post-launch updates differ?
 
-The November 13 and 16 downloads above were pre-launch updates. The November 23 report is a separate post-launch build. Their similar download sizes do not make them the same patch, and none of the reports alone supplies an official change list.
+The November 13 and 16 downloads above were pre-launch updates. The November 23 report is a separate post-launch build. Their similar download sizes do not make them the same patch, and the November 23 official notes should not be applied retroactively to those earlier builds.
 
 ## What happened to the 50 GB day-one patch?
 
@@ -171,4 +190,4 @@ On PS5, highlight GTA VI, press Options and choose Check for Update. On Xbox, go
 
 ## What we're watching
 
-Official notes for the reported November 23 build, later version reports and verified changes to the 30 fps target or any of the [[gameplay/gta-6-gameplay-features-confirmed|confirmed gameplay systems]]. Back to the [[release/index|release hub]].
+Later official notes, later version reports and verified changes to the 30 fps target or any of the [[gameplay/gta-6-gameplay-features-confirmed|confirmed gameplay systems]]. Back to the [[release/index|release hub]].

@@ -5,8 +5,8 @@ shortTitle: "Tips before you start"
 description: "GTA 6 tips from previews: police need a witness, pocket cash is lost on Wasted or Busted, loot needs a fence, and you carry two handguns and two long guns."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-20
-verified: 2026-11-20
+updated: 2026-11-23
+verified: 2026-11-23
 weight: 2
 tags: ["guides", "beginner", "wanted-system", "money", "weapons"]
 tldr: "Police only come if there is a witness, an alarm or a car tracker; **cash on hand is lost when you are Wasted or Busted**, so bank it; duffel-bag loot is worthless until a fence buys it; and you carry two handguns and two long guns, the rest in your car. Most of the numbered tips come from previews; the save and settings sections add released-game reporting."
@@ -37,6 +37,11 @@ faq:
   - q: "Is auto-aim on by default in GTA 6?"
     a: "No, previews report it is off by default, and recoil is heavier than GTA V. Turn it on in settings before your first mission if you play with lock-on."
 sources:
+  - title: "Grand Theft Auto VI Launch Updates (PS5 / XBOX Series X|S)"
+    url: "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s"
+    publisher: "Rockstar Games Support"
+    date: "Nov 23, 2026; checked later the same day"
+    tier: "primary"
   - title: "Autosave testing and manual-save restrictions"
     url: "https://kotaku.com/be-careful-with-auto-saving-in-gta-6-it-doesnt-happen-as-often-as-you-think-2000758487"
     publisher: "Kotaku"
@@ -100,6 +105,8 @@ Not set up yet? The [[guides/gta-6-day-one-checklist|day-one checklist]] comes f
 
 ## Save before you stop playing
 
+**November 23 update:** [Rockstar's official launch notes](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s) list an issue with autosave working incorrectly as fixed. <span class="tag-confirmed">confirmed</span> The notes do not describe a new autosave frequency, list every trigger or promise recovery of already-lost progress. The launch tests below remain dated observations, not a fresh test of the updated build. See the [[release/gta-6-day-one-patch#what-does-the-november-23-patch-fix|official fix list and its limits]].
+
 **Do not assume every free-roam errand has been saved.** [Kotaku's November 19 testing](https://kotaku.com/be-careful-with-auto-saving-in-gta-6-it-doesnt-happen-as-often-as-you-think-2000758487) found autosaves after main story missions and larger side missions, but not after every smaller activity. Its guide reports no autosave during a mission. [TechRadar's launch-day advice](https://www.techradar.com/live/news/gta-6-launch-day-november-19) also warns against relying only on sporadic autosaves. <span class="tag-reported">reported</span> These are the outlets' released-game observations, not our own tests or an exhaustive list of every autosave trigger.
 
 Before quitting:
@@ -118,7 +125,7 @@ GTA BOOM reports **no mission-replay menu in the launch game**. Its practical al
 
 ### Is lost progress always an autosave mistake?
 
-No. Kotaku separates its own autosave tests from online allegations that progress was lost even after a manual save. Those allegations do not establish how widespread a bug is, a single cause, or a verified recovery method. Manual saving reduces dependence on autosave; it is **not a guarantee against all reported save problems**. No fix or patch is promised here.
+No. Kotaku separates its own autosave tests from online allegations that progress was lost even after a manual save. Those allegations do not establish how widespread a bug is, a single cause, or a verified recovery method. Manual saving reduces dependence on autosave; it is **not a guarantee against all reported save problems**. The November 23 autosave fix does not establish that every reported loss has the same cause or that an overwritten save can be restored.
 
 A suspended console session is not a completed save, and it should not be the only copy of progress you care about. Separately, published cheat guides report that activating a cheat disables saving for that session. Save before experimenting, not after; the plain [cheat-code table](/cheats) lists inputs without changing that restriction.
 

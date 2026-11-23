@@ -34,6 +34,11 @@ faq:
   - q: "Does pre-loading let me play early?"
     a: "No. It only downloads the files. The game opens when your store region reaches midnight on Nov 19, starting with New Zealand at 11:00 UTC on Nov 18."
 sources:
+  - title: "Grand Theft Auto VI Launch Updates (PS5 / XBOX Series X|S)"
+    url: "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s"
+    publisher: "Rockstar Games Support"
+    date: "Nov 23, 2026; checked later the same day"
+    tier: "primary"
   - title: "Vintage Vice City Pack add-on (US)"
     url: "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-CONTENTPACK00001"
     publisher: "PlayStation Store"
@@ -186,7 +191,7 @@ Pre-load opened Nov 10. Rockstar first announced Nov 12, then moved it earlier, 
 
 - [ ] Start the download now. PS5 opened at midnight local time on Nov 10 (New Zealand first, 11:00 UTC Nov 9). Xbox opened at one worldwide moment: 12 a.m. GMT Nov 10, which was 7 PM ET on Nov 9.
 - [ ] Turn on auto-downloads (PS5) or automatic updates (Xbox) and leave the console in Rest Mode or Sleep <span class="tag-reported">reported</span>.
-- [ ] Check GTA VI for the latest game update. The November 23 post-launch build is reported as **01.002.002 on PS5 / 1.0.2.2 on Xbox**, about 603.8 MB / 1.6 GB. A staged PS5 rollout is reported; these are not official fix notes or proof that a specific crash or exploit is resolved. The [[release/gta-6-day-one-patch|patch guide]] separates this build from the earlier pre-launch updates.
+- [ ] Check GTA VI for the latest game update. The November 23 post-launch build is reported as **01.002.002 on PS5 / 1.0.2.2 on Xbox**, about 603.8 MB / 1.6 GB. A staged PS5 rollout is reported; Rockstar has since published seven official fixes, including crashes, autosave and progression calls. Those notes do not name every affected mission, crash code or existing save, and announce no exploit change. The [[release/gta-6-day-one-patch|patch guide]] separates this build from the earlier pre-launch updates.
 - [ ] **PS5: check system software separately.** Sony's [GTA VI support guide](https://www.playstation.com/en-us/support/games/gta-vi-support/) gives **Settings > System > System Software > System Software Update and Settings**. The original support-handle notice says a system update is required before play; see the [[release/gta-6-day-one-patch|firmware and game-patch distinction]]. A finished pre-load or a night in rest mode does not prove this check is done.
 - [ ] On PS5, Sony also lists **Settings > Saved Data and Game/App Settings > Automatic Updates > Auto-Install in Rest Mode**, plus **Settings > System > Power Saving > Features Available in Rest Mode > Stay Connected to the Internet**. Those settings help future downloads; still inspect pending updates before launch.
 
@@ -211,7 +216,7 @@ Keep PS5 system software and the GTA VI game update as **separate checks**, as d
 [GameSpot's November 20 report](https://www.gamespot.com/articles/gta-6-is-crashing-on-some-ps5s-with-ce-108255-1-error-code/) describes player accounts of repeated crashes or failure to load. [GamesRadar's November 19 report](https://www.gamesradar.com/games/grand-theft-auto/ps5-error-ce-108255-1-is-ruining-gta-6-for-some-players-and-rockstar-and-sony-arent-very-helpful-try-updating-your-game/) also gathers repeated-crash reports, including players who said updating, reinstalling or other troubleshooting did not help. These are reported experiences, **not a measured failure rate or proof that a particular PS5 model is defective**. <span class="tag-reported">reported</span>
 
 - Record the **exact code on your console**, the installed game/system versions and when the crash occurs. GamesRadar's headline uses CE-108255-1 while parts of its body use CE-108225-1; do not assume a similar-looking code has the same support steps.
-- Check the GTA VI game update and PS5 system software separately, as above. A green PSN tracker does not rule out a local application crash. The [[release/gta-6-day-one-patch|patch guide]] tracks version reports without inventing an official fix list.
+- Check the GTA VI game update and PS5 system software separately, as above. A green PSN tracker does not rule out a local application crash. The [[release/gta-6-day-one-patch|patch guide]] now links the official November 23 fixes, but their general crash entry does not identify this error code or guarantee recovery.
 - If it keeps happening, use Sony's support route from the exact-code page. The reports do not establish a universal cause, a confirmed repair requirement or a GTA VI-specific fix. Do not erase saves or reset the console on the strength of a social post.
 
 This section does not recommend a factory reset, buying replacement hardware or paying for a repair. It also does not claim the problem affects every console, or that a new patch has resolved it. Keep earlier saves where possible and follow the [[guides/gta-6-tips-before-you-start#save-before-you-stop-playing|save-management guidance]], without treating a manual save as a guarantee against crashes or lost progress.
@@ -259,4 +264,4 @@ Still unresolved at this Nov 19 update: a recovered official change list for the
 
 ## Before your first session ends
 
-- [ ] Read the [[guides/gta-6-tips-before-you-start#save-before-you-stop-playing|save-management steps]]. Published launch tests warn that smaller free-roam activities may not trigger autosave. Save manually when safe in free roam and check the saved slot before quitting. Do not treat console suspension as a completed save or assume there is a mission-replay menu.
+- [ ] Read the [[guides/gta-6-tips-before-you-start#save-before-you-stop-playing|save-management steps]]. Published launch tests warn that smaller free-roam activities may not trigger autosave. Rockstar lists an autosave bug fix on November 23, not a complete redesign of save triggers. Save manually when safe in free roam and check the saved slot before quitting. Do not treat console suspension as a completed save or assume there is a mission-replay menu.
