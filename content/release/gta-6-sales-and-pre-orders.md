@@ -1,16 +1,22 @@
 ---
-title: "GTA 6 sales and pre-orders: $1 billion estimates, store records and forecasts"
-seoTitle: "GTA 6 Pre-Orders and Sales: $1B, 10M+ and Forecasts"
+title: "GTA 6 sales: Take-Two reports $3.79 billion day one, 32.5 million pre-release units"
+seoTitle: "GTA 6 Sales: $3.79B Day One, 32.5M Pre-Release Units"
 shortTitle: "Sales and pre-orders"
-description: "Sensor Tower estimates $1.1B and 11.3M GTA 6 pre-orders as of Nov 10. Conflicting snapshots explained, with store records and Take-Two forecasts."
+description: "Take-Two reports $3.79B in GTA 6 day-one retail sales and 32.5M pre-release units. Company estimates, older analyst snapshots and net bookings kept separate."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-18
-verified: 2026-11-18
+updated: 2026-11-23
+verified: 2026-11-23
 weight: 16
 tags: ["release", "sales", "take-two"]
-tldr: "Sony and Microsoft both say GTA 6 is the **most pre-ordered game in their stores' history**. Take-Two gives no count; Sensor Tower's own Nov 17 post estimates $1.1B and 11.3M copies as of Nov 10. Older secondary snapshots disagree; CNBC relays 12M+ through Nov 13. Take-Two guides **$3.35–3.5B** in net bookings for the Oct–Dec launch quarter."
+tldr: "Take-Two's **November 20 release** reports **$3.79B in day-one retail sales**, based on company estimates through the end of November 19 worldwide, and **32.5M units sold pre-release**. Those are different measures, not figures to add together. Earlier Sensor Tower estimates and Take-Two net-bookings guidance remain dated context below."
 facts:
+  - k: "Day-one retail sales"
+    v: "$3.79B (company estimate)"
+  - k: "Pre-release units"
+    v: "32.5M (company disclosure)"
+  - k: "Sales cutoff"
+    v: "End of Nov 19 worldwide"
   - k: "PS Store"
     v: "Most pre-ordered game ever (Sony)"
   - k: "Microsoft Store"
@@ -27,16 +33,21 @@ facts:
     v: "$8.0-8.2B net bookings"
 faq:
   - q: "How many pre-orders does GTA 6 have?"
-    a: "Take-Two hasn't said. Sensor Tower's Nov 17 analyst post gives 11.3M copies and $1.1B as of Nov 10. CNBC relays over 12M through Nov 13. These are estimates, and the older secondary snapshots do not fully agree."
+    a: "Take-Two's November 20 release says GTA VI sold 32.5 million units pre-release. Earlier Sensor Tower snapshots were third-party estimates at earlier dates, not the company count."
   - q: "Is GTA 6 the most pre-ordered game ever?"
-    a: "Per store, yes: Sony and Microsoft both said so on Nov 11. Any cross-platform all-time record rests on Sensor Tower's estimates."
+    a: "Take-Two's November 20 release calls the 32.5M pre-release units a new record across all platforms. Sony and Microsoft also made their own store-record statements on November 11. These record claims are attributed to their issuers."
   - q: "How many copies will GTA 6 sell?"
     a: "Most first-year analyst forecasts sit between 31M (Wolfe Research) and 45M (Bank of America); Morningstar says 60-70M in FY27. GTA V sold 11.21M in its first 24 hours."
   - q: "Has GTA 6 made $1 billion?"
-    a: "Sensor Tower estimates $1.1B in worldwide console pre-order revenue as of Nov 10. That is third-party modeled revenue, not a company-confirmed sales result."
+    a: "Take-Two reports $3.79B in day-one retail sales, based on company estimates through the end of November 19 worldwide. Retail sales are not profit or Take-Two's reported net bookings."
   - q: "Did Take-Two's stock go up because of GTA 6?"
     a: "Shares rose about 8% after the Nov 9 report, even though quarterly bookings fell 18% and missed Take-Two's own guidance."
 sources:
+  - title: "Grand Theft Auto VI Shatters Entertainment Box Office Records"
+    url: "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records"
+    publisher: "Take-Two Interactive / Rockstar Games"
+    date: "Nov 20, 2026; checked Nov 23"
+    tier: "primary"
   - title: "GTA VI Breaks Record >$1B Pre-Order: dated analyst snapshot"
     url: "https://sensortower.com/blog/gta-vi-breaks-record-greater-than-1b-pre-order-or-sensor-tower-report"
     publisher: "Sensor Tower / Sam Aune"
@@ -95,9 +106,23 @@ related: ["release/gta-6-price-and-editions", "news/2026-11-09-take-two-q2-earni
 
 GTA 6 is the most pre-ordered game in the history of both console stores. On Nov 11, Sony called it "the most pre-ordered game in the history of PlayStation Store", and Microsoft called it "the most pre-ordered title of all time on the Microsoft Store". <span class="tag-confirmed">confirmed</span> (as reported by GamesRadar+ and PC Gamer)
 
-Take-Two has published no pre-order count. Unit and dollar totals discussed below are third-party estimates, mostly from Sensor Tower. Its own analyst post identifies Video Game Insights as the source, but the post does not expose enough method detail to reproduce the totals. A primary source for an estimate is still not a publisher sales disclosure.
+**November 23 update:** this guide previously said Take-Two had not published a count. We have now read its **November 20 release**, which reports 32.5 million pre-release units and $3.79 billion in day-one retail sales. The announcement is dated November 20, not today. Older analyst snapshots below are historical context, not the latest company result.
+
+## What are the official launch sales figures?
+
+[Take-Two's November 20 news release](https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records) reports the following. <span class="tag-confirmed">confirmed</span> (company disclosure, estimates)
+
+| Measure | Company figure | Scope |
+| --- | --- | --- |
+| Day-one retail sales | $3.79 billion | Company estimates through the end of November 19 worldwide |
+| Units sold pre-release | 32.5 million | A pre-release unit total, not a count of additional launch-day copies |
+| Record claim | Biggest entertainment launch; pre-release unit record across platforms | Take-Two's comparison, not an independent audit by this site |
+
+**Do not add pre-release units to the retail-sales dollars, derive a launch-day unit total by dividing by one edition's price, or treat the retail figure as net profit.** The release does not give a full platform split, a refund-adjusted methodology or a bridge from retail spending to Take-Two's accounting measures. It also does not supply a later cumulative total as of November 23.
 
 ## How many pre-orders does GTA 6 have?
+
+The current company disclosure is **32.5M pre-release units** above. These are the **earlier analyst snapshots**, preserved with their original dates and source limits.
 
 <span class="tag-reported">reported</span> (estimates)
 
@@ -122,7 +147,7 @@ A search snippet credited Sensor Tower with "$1.18B from 12M units", and another
 
 ## What has Take-Two said?
 
-No units, several superlatives. <span class="tag-confirmed">confirmed</span>
+The November 20 company figures above replace the earlier no-count position. **Before launch**, Take-Two used the following descriptions without supplying a unit count. <span class="tag-confirmed">confirmed</span> (historical statements)
 
 - Zelnick in the Nov 9 release: "The launch of Grand Theft Auto VI is ten days away and, with pre-orders continuing to reach unprecedented levels, we expect to deliver an historic year."
 - On the Nov 9 call, pre-orders were tracking "far in excess" of initial expectations, yet Take-Two declined to raise guidance or give FY28 guidance. Zelnick: "we still aren't ready to declare victory."
@@ -131,20 +156,22 @@ No units, several superlatives. <span class="tag-confirmed">confirmed</span>
 
 Back on Aug 7, Zelnick called pre-orders "unprecedented and astonishing" and added, "we haven't sold one unit yet."
 
-### The financials
+### The earlier financials and guidance
 
 | Period | Figure |
 | --- | --- |
 | FY26 (to Mar 2026) net bookings | $6.72B, up 19% |
 | Q2 FY27 (Jul–Sep 2026) net bookings | $1.60B, down 18%, below the $1.62–1.67B guide |
 | Q2 FY27 GAAP revenue / net loss | $1.50B / $54.0M ($0.29 a share) |
-| Q3 FY27 guide (Oct–Dec, launch quarter) | $3.35–3.5B net bookings vs ~$1.9B a year earlier; GAAP net income $250–276M |
-| FY27 net bookings guide | $8.0–8.2B, reiterated |
+| Nov 9 Q3 FY27 guide (Oct–Dec, launch quarter) | $3.35–3.5B net bookings vs ~$1.9B a year earlier; GAAP net income $250–276M |
+| Nov 9 FY27 net bookings guide | $8.0–8.2B, reiterated |
 | Marketing spend | Up 21% year on year, mostly in the December quarter |
 
 Shares rose about 8% after the Nov 9 report despite the bookings miss. <span class="tag-reported">reported</span> The quarter is broken down in [[news/2026-11-09-take-two-q2-earnings-gta-6|our Q2 earnings write-up]].
 
 ## How many copies will GTA 6 sell?
+
+These are earlier forecasts, not updated forecasts made after the November 20 company disclosure or realized totals.
 
 <span class="tag-reported">reported</span> (analyst forecasts)
 
@@ -171,4 +198,4 @@ Rockstar has not said. Head of publishing Jennifer Kolbe denied the budget excee
 
 ## What comes next
 
-The first company sales figures should follow the Nov 19 launch, and Take-Two's next report covers the Oct–Dec quarter its $3.35–3.5B guide applies to. Prices behind the estimates are on [[release/gta-6-price-and-editions|price and editions]]; the rest of launch week is on the [[release/index|release hub]].
+The first company launch figures are now available above. A later cumulative unit disclosure and the Oct–Dec financial report will answer different questions. The November 9 $3.35–3.5B quarterly net-bookings guide must not be compared one-for-one with $3.79B in consumer retail sales: they have different scope and accounting treatment. Prices behind the estimates are on [[release/gta-6-price-and-editions|price and editions]]; the rest of launch week is on the [[release/index|release hub]].

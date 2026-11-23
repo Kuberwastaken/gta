@@ -5,8 +5,8 @@ shortTitle: "Budget rumours"
 description: "GTA 6's budget is undisclosed. Rockstar's Jennifer Kolbe denied it topped $1.5B, which kills the $2B rumour. Roth estimates over $1B. Every figure graded."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-23
+verified: 2026-11-23
 weight: 10
 tags: ["take-two", "development", "rumours", "debunked"]
 tldr: "**Nobody outside Rockstar knows GTA 6's budget.** Rockstar's Jennifer Kolbe denied it **exceeded $1.5 billion** but gave no figure, so the $2B rumours are debunked. Analysts estimate **over $1B** (reported). Development history is on [[timeline/gta-6-development-history|the development timeline]]."
@@ -33,6 +33,11 @@ faq:
   - q: "How many people worked on GTA 6?"
     a: "Rockstar's headcount grew from about 2,441 to 4,711 across 12 offices during development, according to Wikipedia's reporting."
 sources:
+  - title: "Grand Theft Auto VI day-one retail sales, company estimates"
+    url: "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records"
+    publisher: "Take-Two Interactive / Rockstar Games"
+    date: "Nov 20, 2026; checked Nov 23"
+    tier: "primary"
   - title: "Take-Two Q2 FY2027 earnings release (8-K)"
     url: "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm"
     publisher: "Take-Two Interactive / SEC EDGAR"
@@ -91,7 +96,7 @@ Two hard numbers exist nearby. Rockstar told a UK court the 2022 hack cost it ab
 
 ## Will it earn the money back?
 
-On current estimates, within weeks. <span class="tag-speculation">speculation</span> Sensor Tower put pre-orders at about $1 billion and 10.31 million units by November 11. Niko Partners forecasts more than $1.2 billion in first-day sell-through, and DFC Intelligence $3.2 billion in the first year from 40 million copies. <span class="tag-reported">reported</span> (estimates) Take-Two's own December-quarter guidance is $3.35-3.5 billion in net bookings, against about $1.9 billion a year earlier. The forecasts are collected on [[release/gta-6-sales-and-pre-orders|sales and pre-orders]].
+Retail sales alone cannot establish when development and marketing costs were recouped. [Take-Two's November 20 release](https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records) reports $3.79 billion in day-one retail sales, based on company estimates through the end of November 19 worldwide, and 32.5 million pre-release units. <span class="tag-confirmed">confirmed</span> (company disclosure) That is consumer spending, not net profit or a disclosed development budget. Platform shares, marketing, distribution and other costs prevent a direct break-even calculation from these figures alone. The company disclosure, older forecasts and accounting limits are collected on [[release/gta-6-sales-and-pre-orders|sales and pre-orders]].
 
 ## What would flip it
 
