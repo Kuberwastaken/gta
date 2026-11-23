@@ -6,8 +6,8 @@ description: "Seven station previews now appear on Rockstar's GTA VI music page,
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-22
-verified: 2026-11-22
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 1
 tags: ["music", "radio", "soundtrack"]
 tldr: "Rockstar's current music page shows **seven station previews**, now including **Circoloco Records**. That is a preview-page count, not a verified total for the game. Spotify names more station playlists, including Stockyard FM and Vice City Rap Radio. See the [[music/index|music hub]] for listening links and the album/score distinction."
@@ -112,6 +112,6 @@ Yes. Rockstar's music page and Man of Many both say radio and podcasts play on f
 
 ## Are the trailer songs on the radio?
 
-Rockstar hasn't placed Tom Petty's "Love Is a Long Road" (Trailer 1) or the Pointer Sisters' "Hot Together" (Trailer 2) on any station. Justice's "Flower in a Hurricane" is on [[music/gta-6-soundtrack-album|The Album]], and Justice also wrote the [[music/gta-6-justice-score|adaptive score]]. Rockstar has not said whether the Album's 34 original songs play on the radio or which stations carry them.
+Rockstar hasn't placed Tom Petty's "Love Is a Long Road" (Trailer 1) or the Pointer Sisters' "Hot Together" (Trailer 2) on any station. Justice's "Flower in a Hurricane" is on [[music/gta-6-soundtrack-album|The Album]], and Justice also wrote the [[music/gta-6-justice-score|adaptive score]]. The [[music/gta-6-soundtrack-album|Album now has a 57-song Deluxe Edition]], but that tracklist alone does not assign every song to an in-game station or establish a complete radio library.
 
 This update does not claim a complete launch soundtrack or all station tracklists. For listening, use the [[music/gta-6-soundtrack-album#where-can-i-listen-on-spotify|official Spotify destination and playlist]]; its playlists may grow and are not a fixed archive. The [[music/index|music hub]] covers the album and score release dates.

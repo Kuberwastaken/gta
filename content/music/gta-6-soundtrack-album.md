@@ -1,20 +1,20 @@
 ---
-title: "GTA 6 soundtrack album: The Album tracklist, singles and release date"
-seoTitle: "GTA 6 Soundtrack Album: Tracklist, Singles, Release Date"
+title: "GTA 6 soundtrack album: all 57 Deluxe tracks and the original 34"
+seoTitle: "GTA 6 Album Deluxe: Full 57-Song Tracklist and Release Date"
 shortTitle: "The Album (soundtrack)"
-description: "Rockstar now lists all 34 GTA VI Album tracks. Read the official tracklist, compare the Justice score and radio, and find the official Spotify destination."
+description: "GTA VI: The Album Deluxe adds 23 bonus tracks to the original 34. Read Rockstar's full 57-song list, November 23 release details and score/radio distinctions."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-22
-verified: 2026-11-22
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 3
 tags: ["music", "soundtrack"]
-tldr: "Rockstar now publishes the full **34-track Album**, not just the ten pre-release singles. The list below follows its current music page, including Young Thug's **WAKIN UP FLEX**. Spotify also has an official GTA listening destination, separate from the [[music/gta-6-justice-score|Justice score album]] due December 11."
+tldr: "**The Album (Deluxe Edition)** adds **23 bonus tracks** to the original 34, for **57 songs**. Rockstar now lists tracks 1–57; the US Apple Music listing dates the Deluxe Edition **November 23**. The expanded Album is not a new game patch, a complete radio-song list or the separate Justice score album due December 11."
 facts:
   - k: "Release date"
-    v: "November 19, 2026"
+    v: "Deluxe: November 23, 2026"
   - k: "Tracks"
-    v: "34 original songs"
+    v: "34 original + 23 bonus = 57"
   - k: "Label"
     v: "Atlantic Records"
   - k: "Announced"
@@ -25,9 +25,9 @@ facts:
     v: "Digital, CD, standard and exclusive vinyl"
 faq:
   - q: "When does the GTA 6 soundtrack come out?"
-    a: "Grand Theft Auto VI: The Album releases on November 19, 2026, the same day as the game. Justice's separate Original Score album follows on December 11."
+    a: "The original 34-song Album was announced for November 19, while release listings and reporting date it November 20. The Deluxe Edition is dated November 23 on Apple Music. Justice's separate score album follows December 11."
   - q: "How many songs are on GTA 6: The Album?"
-    a: "34 original tracks, per Rockstar's music page. Rockstar now publishes the full tracklist on its music page."
+    a: "The original edition has 34 tracks. The Deluxe Edition adds 23 for 57 total, and Rockstar lists all 57 titles and artists."
   - q: "Is Dua Lipa on the GTA 6 soundtrack?"
     a: "Yes. Rockstar's current music page lists Go Easy by Dua Lipa on the 34-track Album. This is now first-party confirmation, not just the earlier packaging report."
   - q: "Is the GTA 6 album the same as the radio?"
@@ -35,6 +35,15 @@ faq:
   - q: "Is there a physical GTA 6 soundtrack?"
     a: "Yes. Rockstar lists CD and vinyl formats. This is a format summary, not a current stock, price or shipping check. Several outlets noted the irony that the album gets physical formats while the game's boxed edition has no disc."
 sources:
+  - title: "The Album Deluxe release and original edition date"
+    url: "https://www.billboard.com/music/music-news/gta-6-album-deluxe-offset-travis-scott-slayyyter-anitta-1236387752/"
+    publisher: "Billboard (Michael Saponara)"
+    date: "Nov 23, 2026"
+  - title: "Grand Theft Auto VI: The Album (Deluxe Edition)"
+    url: "https://music.apple.com/us/album/grand-theft-auto-vi-the-album-deluxe-edition/6837496123"
+    publisher: "Apple Music (US listing)"
+    date: "Nov 23, 2026; checked Nov 24"
+    tier: "primary"
   - title: "The Grand Theft Auto VI Experience Arrives on Spotify"
     url: "https://newsroom.spotify.com/2026-11-20/grand-theft-auto-vi-spotify/"
     publisher: "Spotify"
@@ -43,7 +52,7 @@ sources:
   - title: "The Music of Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI/music"
     publisher: "Rockstar Games"
-    date: "Checked Nov 22, 2026"
+    date: "Checked Nov 24, 2026"
     tier: "primary"
   - title: "Announcing Grand Theft Auto VI: The Album, Coming November 19"
     url: "https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19"
@@ -60,9 +69,15 @@ sources:
     date: "Nov 9, 2026"
 related: ["music/gta-6-justice-score", "music/gta-6-radio-stations", "music/gta-6-trailer-songs"]
 ---
-*Grand Theft Auto VI: The Album* contains 34 original songs. On our November 22 check, [Rockstar's music page](https://www.rockstargames.com/VI/music) lists every track and artist with listening links. That replaces this page's pre-release reliance on a reported packaging list. <span class="tag-confirmed">confirmed</span>
+**November 24 update:** [Rockstar's music page](https://www.rockstargames.com/VI/music) now lists the **Deluxe Edition**, adding **23 bonus tracks** to the original 34. Its numbered list runs from 1 to 57. This is a November 23 album release discovered in this check, not a new announcement dated November 24. <span class="tag-confirmed">confirmed</span>
 
-Rockstar pitches it as "34 original tracks that capture the electric energy of Grand Theft Auto VI's world of Vice City and Leonida". It is a separate product from the in-game radio, which mostly plays licensed catalog songs (see [[music/gta-6-radio-stations|every radio station]]), and from the [[music/gta-6-justice-score|Justice score]], due December 11.
+The [US Apple Music release listing](https://music.apple.com/us/album/grand-theft-auto-vi-the-album-deluxe-edition/6837496123) gives **November 23, 2026**, **57 songs** and **2 hours 55 minutes**. That runtime and date belong to this album listing, not the length of the game's music library. We checked the listing, not playback for every region or account.
+
+The Album is separate from [[music/gta-6-radio-stations|in-game radio]] and the [[music/gta-6-justice-score|Justice score album]] due December 11. Album availability does not identify where a track plays in-game, announce a new station or establish that music was added to the game by the November 23 patch.
+
+### Which album release date should I use?
+
+The original Newswire announcement named November 19. [Billboard's November 23 report](https://www.billboard.com/music/music-news/gta-6-album-deluxe-offset-travis-scott-slayyyter-anitta-1236387752/) dates the original edition to November 20; the Deluxe Edition's Apple Music listing is dated November 23. Keep the announced date, actual release reporting and Deluxe date distinct rather than treating all three as one event. The tables below preserve the original 34 and then list the 23 additions.
 
 ## When was the GTA 6 album announced?
 
@@ -89,7 +104,7 @@ These ten were the pre-release singles tracked on this page; the current page no
 
 ## What is the full GTA 6 album tracklist?
 
-**Checked November 22:** the following order, titles and artist credits come directly from [Rockstar's music page](https://www.rockstargames.com/VI/music). All 34 rows are now first-party confirmed. This is not a claim that we listened to every track or checked every streaming service. <span class="tag-confirmed">confirmed</span>
+**Rechecked November 24:** the following order, titles and artist credits come directly from [Rockstar's music page](https://www.rockstargames.com/VI/music). These are the original 34 tracks, still numbered 1–34 on the current Deluxe listing. This is not a claim that we listened to every track or checked every streaming service. <span class="tag-confirmed">confirmed</span>
 
 | # | Track | Artist |
 | --- | --- | --- |
@@ -130,6 +145,40 @@ These ten were the pre-release singles tracked on this page; the current page no
 
 The official title for track 16 is **WAKIN UP FLEX**. This corrects the earlier packaging-based title on this page. The official page also lists **Starting from Zero** and **Flower in a Hurricane** in its Justice score singles section, so those two currently overlap with The Album. The score album's December 11 date is separate from the availability of these individual songs.
 
+## What are the 23 Deluxe Edition bonus tracks?
+
+The following **tracks 35–57** follow Rockstar's current order and credits, checked November 24. Artist spellings and capitalization follow that first-party list rather than shorter press summaries. <span class="tag-confirmed">confirmed</span>
+
+| # | Track | Artist |
+| --- | --- | --- |
+| 35 | Burn This Shit Down | Travis Scott |
+| 36 | INTERNET $TAR | Slayyyter |
+| 37 | Interesting | The Dare |
+| 38 | Touch & Go | Anitta |
+| 39 | I JUST CAME TO POP IT | Offset |
+| 40 | RCKSTRL!VING | HXG, tana & Quavo |
+| 41 | Cookin | 21 Savage |
+| 42 | Got Dat | Pooh Shiesty |
+| 43 | Don Da Da | Young Nudy |
+| 44 | CASHOUT | SoFaygo |
+| 45 | Cooties (Remix) | Real Dimez x Sexyy Red |
+| 46 | 50 Bands (feat. Flo Milli) | Latto |
+| 47 | Tèt Kale Bobis | Kodak Black & Michaël Brun |
+| 48 | FLA Flow (feat. 454) | Denzel Curry |
+| 49 | You Move Me | NEIL FRANCES |
+| 50 | Don’t Play Around | CHRIS STASSY & KETTAMA |
+| 51 | NIGHTMARE | HEALTH |
+| 52 | Mutual Death Warrant | Power Trip |
+| 53 | Granforma | Overmono |
+| 54 | Windsor Drop | Overmono |
+| 55 | Eighty Eight Comet | Overmono |
+| 56 | Banshee | Overmono |
+| 57 | Welcome to Leonida | Overmono |
+
+The final five tracks are credited to Overmono. This does not replace the separate Justice album's announced December 11 release. In particular, **Power Trip** is both an artist name on track 52 and JENNIE's track title at number 21; they are different entries.
+
+No claim here assigns these tracks to story scenes, named missions or particular radio stations. The Deluxe album's existence also does not mean a previously purchased CD or vinyl contains all 57 tracks. The physical formats below describe the earlier offers; we have not checked new Deluxe physical products, stock, prices or shipping.
+
 ## Is the GTA 6 soundtrack on vinyl and CD?
 
 Yes. Rockstar's page sells a standard vinyl, an exclusive vinyl and a CD. Wikipedia reports that a limited liquid-filled vinyl sold out almost immediately and resold for more than $440 <span class="tag-reported">reported</span>. IGN, GameSpot and the BBC all noted that the album gets physical formats while the game's [[release/gta-6-physical-copy-no-disc|boxed edition has no disc]], only a download code.
@@ -145,6 +194,6 @@ The [[music/index|music hub]] separates The Album, radio and the Justice score. 
 Spotify's [November 20 announcement](https://newsroom.spotify.com/2026-11-20/grand-theft-auto-vi-spotify/) introduces a GTA editorial destination in **33 markets**, collecting soundtrack music, score selections, trailer music and franchise history. It includes **over 20 radio-station and mixtape playlists** that Spotify says will fill out as players discover more music. That is not a promise of a complete in-game song archive. <span class="tag-confirmed">confirmed</span>
 
 - [Open the official Spotify destination](https://spotify.link/grandtheftauto), linked by Spotify itself.
-- [Open the linked Grand Theft Auto Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6RSJAsEDz7H), which we opened and checked. It mixes music beyond the 34-track Album, so its playlist length is not the Album's track count.
+- [Open the linked Grand Theft Auto Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6RSJAsEDz7H), which we opened and checked on November 22. It mixes music beyond an individual Album edition, so its playlist length is not the Album's track count.
 
 The announcement does not list the 33 markets. We have not verified availability for every country, account or subscription tier. A live playlist can change; no fixed playlist runtime or song count is promised here. The December 11 [[music/gta-6-justice-score|score album]] remains a separate release, even though some score singles are already available.

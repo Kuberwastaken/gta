@@ -5,8 +5,8 @@ shortTitle: "Justice score"
 description: "French duo Justice composed GTA 6's adaptive original score. The album is out Dec 11, 2026 with 30 tracks on CD and vinyl. Singles, formats and what is known."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-22
-verified: 2026-11-22
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 4
 tags: ["music", "soundtrack"]
 tldr: "**Justice** (Gaspard Augé and Xavier de Rosnay) composed GTA 6's adaptive original score. *Grand Theft Auto VI: Original Score* releases **December 11, 2026**, three weeks after the game, with **30 tracks** on CD and vinyl plus digital bonus tracks. Rockstar currently lists three score singles: 'Starting from Zero', 'Flower in a Hurricane' and 'Pusher'. Compare it with [[music/gta-6-soundtrack-album|The Album]]."
@@ -31,7 +31,7 @@ faq:
   - q: "How many tracks are on the GTA 6 Justice score?"
     a: "Rockstar says the physical album has 30 tracks plus a number of digital bonus tracks. Wikipedia reports the digital edition runs to 50 tracks and about three hours."
   - q: "Is the Justice score the same as GTA 6: The Album?"
-    a: "No. The Album is 34 original songs by many artists, out Nov 19. The Original Score is Justice's instrumental and adaptive music for the game, out Dec 11. Starting from Zero and Flower in a Hurricane are currently listed for both releases."
+    a: "No. The Album began with 34 songs; its November 23 Deluxe Edition adds 23 for 57 total. The Original Score is Justice's instrumental and adaptive music for the game, out Dec 11. Starting from Zero and Flower in a Hurricane are currently listed for both releases."
   - q: "What is an adaptive score?"
     a: "Music that changes with what the player is doing. Rockstar says the compositions are 'dynamically tuned' to how players engage with the world, but has not explained the triggers."
 sources:

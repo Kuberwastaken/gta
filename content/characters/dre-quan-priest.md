@@ -5,8 +5,8 @@ shortTitle: "Dre'Quan Priest"
 description: "Dre'Quan Priest is GTA 6's would-be music mogul, an ex-dealer who co-runs Only Raw Records with Boobie Ike and just signed Real Dimez. His bio, quotes and role."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-20
-verified: 2026-11-20
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 23
 tags: ["characters", "vice-city", "music", "story"]
 tldr: "Dre'Quan Priest is **'more of a hustler than a gangster'**, a former street dealer whose goal was always music. He co-runs **Only Raw Records** with Boobie Ike, has just **signed Real Dimez**, and still books acts into Boobie's strip club for now. No trailer scene of him has been reported."
@@ -35,6 +35,11 @@ faq:
   - q: "Who voices Dre'Quan?"
     a: "Rockstar credits Naiqui Macabroad as Dre’Quan."
 sources:
+  - title: "The Music of Grand Theft Auto VI: Deluxe tracklist"
+    url: "https://www.rockstargames.com/VI/music"
+    publisher: "Rockstar Games"
+    date: "Checked Nov 24, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI official credits"
     url: "https://www.rockstargames.com/VI/credits"
     publisher: "Rockstar Games"
@@ -95,7 +100,7 @@ On spelling: Rockstar writes Dre'Quan with an apostrophe. Game Rant and some oth
 
 ## Will Only Raw music be on the GTA 6 soundtrack?
 
-Rockstar hasn't said. Its real-world release, *Grand Theft Auto VI: The Album*, has 34 original tracks out November 19, and none has been tied to Only Raw or Real Dimez. See [[music/gta-6-soundtrack-album|the GTA 6 album]] and [[music/gta-6-radio-stations|radio stations]].
+The earlier claim that no Album track was tied to Real Dimez is now superseded: Rockstar lists **Cooties (Remix)** by **Real Dimez x Sexyy Red** at number 45 on the Deluxe Album. The album credit does not by itself establish an Only Raw release contract, a station placement or a mission connection. See [[music/gta-6-soundtrack-album|the GTA 6 album]] and [[music/gta-6-radio-stations|radio stations]].
 
 ## Who voices Dre'Quan?
 
