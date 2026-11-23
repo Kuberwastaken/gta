@@ -5,8 +5,8 @@ shortTitle: "Activities and side content"
 description: "GTA 6's 18 reported side activities, from scuba diving and hunting to gyms, tattoo parlors and circuit racing, plus how dates and workouts change Jason and Lucia."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-22
-verified: 2026-11-22
+updated: 2026-11-23
+verified: 2026-11-23
 weight: 8
 tags: ["gameplay", "wildlife", "guides"]
 tldr: "Previews list 18 activities, including **fishing, hunting, scuba diving, skydiving, jet skis, basketball, mini-golf, pool, gyms, barbers, tattoo parlors and circuit racing**. Partner activities feed Jason and Lucia's relationship, and gyms change physique and stamina."
@@ -24,6 +24,8 @@ facts:
   - k: "Playtime"
     v: "About 80 hours with optional content (reported)"
 faq:
+  - q: "Do GTA 6 discoveries depend on returning to a place?"
+    a: "Rockstar exploration designer Ghyan Koehne told Game8 that some content needs repeat visits or nighttime, and some locations tell stories over visits separated by days. The interview gives no universal timer and does not say every place changes."
   - q: "What activities are in GTA 6?"
     a: "Previews list basketball, kayaking, mini-golf, pool, scuba diving, skydiving, base-jumping, jet skis, fishing, hunting, backyard wrestling, shooting ranges, gyms, zoo visits, barbers, salons, tattoo parlors and circuit racing."
   - q: "Can you go to the gym in GTA 6?"
@@ -35,6 +37,11 @@ faq:
   - q: "How long is GTA 6 with side content?"
     a: "Rob Nelson reportedly put his playthrough at about 80 hours. Outlets disagree on whether that includes side content; some say it pushes past 100."
 sources:
+  - title: "Ghyan Koehne on layered exploration and ambient discoveries"
+    url: "https://game8.co/articles/latest/gta-6-has-enough-secrets-and-content-for-years-to-come-rockstar-says"
+    publisher: "Game8 (Lawrence Serafico)"
+    date: "Nov 23, 2026"
+    tier: "primary"
   - title: "Stephen Donkin on casino gambling and the map's future options"
     url: "https://kotaku.com/gta-6s-map-contains-areas-that-could-be-used-in-the-future-says-rockstar-2000756338"
     publisher: "Kotaku"
@@ -96,6 +103,23 @@ The reported activity list for GTA 6 runs to 18 entries: fishing, hunting, scuba
 ## Ambient activity is not a minigame count
 
 In [TechRadar's November 20 direct interview](https://www.techradar.com/gaming/there-are-close-to-a-thousand-animation-sets-for-ambient-activities-how-rockstars-gameplay-animation-makes-gta-6-a-fully-living-and-breathing-world-from-breathtaking-foot-chases-to-details-like-how-characters-open-a-door), Rockstar animation VP **Mark Tennant** describes close to a thousand ambient animation sets, plus hundreds of bespoke one-off events and custom sequences. <span class="tag-confirmed">confirmed</span> (developer statement) These support the background world, including people at work and spending time together. They are **not a claim of a thousand playable side activities**, a quest total or a completion-time estimate. The [[gameplay/gta-6-gameplay-features-confirmed#movement-and-ambient-animation|movement and animation section]] separates those production details from the activity list below.
+
+## Why might a place change when you return?
+
+[Game8's November 23 direct interview](https://game8.co/articles/latest/gta-6-has-enough-secrets-and-content-for-years-to-come-rockstar-says) adds a different kind of side content to the activity list. **Ghyan Koehne, Rockstar's Senior Design Director of Exploration & Ambient Content**, describes discoveries with different conditions: some only need an observant first visit, while others need a return visit or a particular time of day. <span class="tag-reported">reported</span> (developer interview)
+
+| Discovery pattern | Koehne's explanation | Limit |
+| --- | --- | --- |
+| First visit | Some content is present at one location for the player to notice | Not every visible detail starts a quest |
+| Return or night visit | Some content appears on a later visit or at night | No universal timer or reset interval supplied |
+| Evolving location | A place can tell its story over visits separated by days | Not a promise that every location changes daily |
+| Linked discoveries | Investigating one place can lead to other places and encounters | No total count or complete route list supplied |
+
+Koehne also distinguishes interactions with particular NPCs from discoveries that involve the environment. That is a useful reason not to treat **one quiet visit as a complete survey of a place**. It does not establish that waiting a fixed number of hours will trigger something, or that every closed door, background person or unusual object hides playable content.
+
+The interview describes the team's aim of keeping discoveries available for months and potentially years. That is **an exploration-design goal**, not a measured completion time, a promise of years of unique missions, a live-service schedule or an announcement of future DLC. These discoveries are also separate from the animation-set production count above and the list of playable sports below.
+
+This section leaves out the article's named secrets and encounter solutions. It covers how Rockstar describes discovery, without giving routes, rewards or story examples. See [[world/gta-6-interiors|interiors]] for the separate question of what can actually be entered, and [[guides/gta-6-how-long-to-beat|how long to beat]] for the limits of playtime estimates.
 
 ## What activities are in GTA 6?
 

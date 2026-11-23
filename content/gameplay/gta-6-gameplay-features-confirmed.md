@@ -277,7 +277,7 @@ The production details also do not provide a count of unique NPCs, a guarantee t
 | Gyms, barbers, salons, tattoo parlors, zoo | <span class="tag-reported">reported</span> |
 | Pet (or scold) dogs | <span class="tag-reported">reported</span> |
 
-Details: [[gameplay/gta-6-activities-and-side-content|activities and side content]].
+Details: [[gameplay/gta-6-activities-and-side-content|activities and side content]]. For the separate November 23 developer explanation of discoveries that depend on repeat visits, nighttime or evolving locations, see [[gameplay/gta-6-activities-and-side-content#why-might-a-place-change-when-you-return|layered exploration]]. These conditions are not an activity count, universal respawn timer or future-DLC announcement.
 
 ## What Rockstar hasn't confirmed
 
