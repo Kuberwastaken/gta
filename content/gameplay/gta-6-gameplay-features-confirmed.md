@@ -5,8 +5,8 @@ shortTitle: "Confirmed features list"
 description: "Every GTA 6 gameplay feature in graded tables: six wanted stars, heat, a 2+2 gun loadout, fuel, hurricanes, 170+ animals, story-gated switching, fences and apps."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-22
-verified: 2026-11-22
+updated: 2026-11-23
+verified: 2026-11-23
 weight: 1
 tags: ["gameplay", "wanted-system", "weapons", "vehicles", "money"]
 tldr: "Rockstar itself confirms **two playable leads with story-gated switching**, an optional romance and radio on foot. Six wanted stars, a two-handgun, two-long-gun loadout, fuel, bank vs cash vs loot, 170+ animal species and hurricanes come from Rockstar staff via press, graded reported."
@@ -140,6 +140,8 @@ Rockstar's own pages confirm two playable leads with switching, an optional roma
 | Story length | About 80 hours with optional content (Nelson) | <span class="tag-reported">reported</span> |
 
 Details: [[gameplay/gta-6-character-switching|character switching]], [[gameplay/gta-6-criminal-profile|Criminal Profile]], [[characters/jason-and-lucia-relationship|the relationship]].
+
+For Rockstar's November 22 explanation of partner dialogue linking open-world play with formal missions, see [[gameplay/gta-6-character-switching#how-does-having-a-partner-change-mission-design|partner mission design]]. That design aim is not a promise of unrestricted switching or multiplayer co-op.
 
 ## Police and wanted system
 
