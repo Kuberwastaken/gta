@@ -69,6 +69,14 @@ sources:
     url: "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI:_An_Extended_Look"
     publisher: "Wikipedia"
     date: "Read Nov 15, 2026"
+  - title: "GTA 6 100% Completion Checklist & Guide"
+    url: "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/"
+    publisher: "PowerPyx"
+    date: "Read Nov 19, 2026"
+  - title: "GTA 6 Kenton Treasure Diving Guide"
+    url: "https://mandylucia.com/kenton-treasure-diving"
+    publisher: "MandyLucia"
+    date: "Read Nov 19, 2026"
 related: ["gameplay/gta-6-phone-and-social-media", "gameplay/gta-6-wanted-system-and-heat", "guides/gta-6-tips-before-you-start"]
 ---
 
@@ -93,6 +101,12 @@ A fence is the buyer who converts loot into money. Red Bull and VICE report thre
 Almost any shop, plus armored vans, per previews <span class="tag-reported">reported</span>. Safes give you three options: find the code somewhere in the world, buy the code, or blow the door, which is faster but can damage what's inside. After a shop job, police may hold a perimeter around it. The response rules are on [[gameplay/gta-6-wanted-system-and-heat|the wanted system and heat]].
 
 Banks sit at the center of the story. [[characters/raul-bautista|Raul Bautista]]'s official bio calls him "a seasoned bank robber always on the hunt for talent" <span class="tag-confirmed">confirmed</span>, and in the [[media/gta-6-extended-look|Extended Look]] Jason and Lucia drive the getaway on one of his jobs before he invites them into his crew <span class="tag-reported">reported</span>.
+
+## When can you start earning money from treasure diving?
+
+[PowerPyx's completion guide](https://www.powerpyx.com/gta-6-100-completion-checklist-guide/) places Kenton Rees's first treasure-diving jobs after the Chapter 1 mission Island Dreams. Wait for the green KR marker in Key Lento. Kenton marks wrecks with purple chest icons, and you turn in recovered sets at his shop <span class="tag-reported">reported</span>.
+
+[MandyLucia's treasure-diving guide](https://mandylucia.com/kenton-treasure-diving) compares published payout estimates for early finds and full sets. The reports use different milestones, so check what a set pays in your own save before planning around a fixed reward <span class="tag-reported">reported</span>.
 
 ## Do story missions cost money?
 
