@@ -2,15 +2,19 @@
 title: "GTA 6 sales: Take-Two reports $3.79 billion day one, 32.5 million pre-release units"
 seoTitle: "GTA 6 Sales: $3.79B Day One, 32.5M Pre-Release Units"
 shortTitle: "Sales and pre-orders"
-description: "Take-Two reports $3.79B in GTA 6 day-one retail sales and 32.5M pre-release units. Company estimates, older analyst snapshots and net bookings kept separate."
+description: "Sony reports 39M+ unique GTA 6 PS5 players through Nov 22. Compare that player metric with Take-Two's $3.79B day-one retail sales and 32.5M pre-release units."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-23
-verified: 2026-11-23
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 16
 tags: ["release", "sales", "take-two"]
-tldr: "Take-Two's **November 20 release** reports **$3.79B in day-one retail sales**, based on company estimates through the end of November 19 worldwide, and **32.5M units sold pre-release**. Those are different measures, not figures to add together. Earlier Sensor Tower estimates and Take-Two net-bookings guidance remain dated context below."
+tldr: "Take-Two's **November 20 release** reports **$3.79B in day-one retail sales**, based on company estimates through the end of November 19 worldwide, and **32.5M units sold pre-release**. Those are different measures, not figures to add together. Sony separately reports **39M+ unique PS5 players** and **683M hours** for November 19–22. Players are not copies sold. Earlier analyst estimates remain dated context below."
 facts:
+  - k: "PS5 unique players"
+    v: "39M+, Nov 19–22 (SIE data)"
+  - k: "PS5 gameplay hours"
+    v: "683M, Nov 19–22 (SIE data)"
   - k: "Day-one retail sales"
     v: "$3.79B (company estimate)"
   - k: "Pre-release units"
@@ -32,6 +36,8 @@ facts:
   - k: "FY27 guide"
     v: "$8.0-8.2B net bookings"
 faq:
+  - q: "Did GTA 6 sell 39 million copies on PS5?"
+    a: "Sony reports more than 39 million unique PS5 players for November 19–22, not copies sold. The post does not supply a unit-sales conversion, Xbox total or numeric concurrent-player peak."
   - q: "How many pre-orders does GTA 6 have?"
     a: "Take-Two's November 20 release says GTA VI sold 32.5 million units pre-release. Earlier Sensor Tower snapshots were third-party estimates at earlier dates, not the company count."
   - q: "Is GTA 6 the most pre-ordered game ever?"
@@ -43,6 +49,11 @@ faq:
   - q: "Did Take-Two's stock go up because of GTA 6?"
     a: "Shares rose about 8% after the Nov 9 report, even though quarterly bookings fell 18% and missed Take-Two's own guidance."
 sources:
+  - title: "GTA VI launch-window PlayStation records and engagement"
+    url: "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/"
+    publisher: "PlayStation Blog / Tim Turi, Sony Interactive Entertainment"
+    date: "Nov 23, 2026; checked Nov 24"
+    tier: "primary"
   - title: "Grand Theft Auto VI Shatters Entertainment Box Office Records"
     url: "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records"
     publisher: "Take-Two Interactive / Rockstar Games"
@@ -119,6 +130,26 @@ GTA 6 is the most pre-ordered game in the history of both console stores. On Nov
 | Record claim | Biggest entertainment launch; pre-release unit record across platforms | Take-Two's comparison, not an independent audit by this site |
 
 **Do not add pre-release units to the retail-sales dollars, derive a launch-day unit total by dividing by one edition's price, or treat the retail figure as net profit.** The release does not give a full platform split, a refund-adjusted methodology or a bridge from retail spending to Take-Two's accounting measures. It also does not supply a later cumulative total as of November 23.
+
+## What did Sony report about PS5 players and records?
+
+**November 24 update:** [Sony's November 23 PlayStation Blog post](https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/), written by SIE's Tim Turi, reports engagement and records for the **launch window from November 19 through November 22, 2026**. The footnote says every figure is based on **SIE internal data**. This is a dated platform disclosure discovered in this check, not a new November 24 sales count. <span class="tag-confirmed">confirmed</span> (platform disclosure)
+
+| Measure | Sony's report | Scope and limit |
+| --- | --- | --- |
+| Unique players | More than 39 million | PS5 players in the stated launch window, not copies sold |
+| Gameplay | 683 million cumulative hours | PS5 total, not story length or time to finish |
+| Average playtime | 17.4 hours per player | Sony's reported average, not a campaign runtime |
+| Concurrency | A new PlayStation record across multiplayer, free-to-play and single-player titles | No numeric peak or timestamp supplied |
+| Launch comparison | Biggest game launch in PlayStation history | Sony's platform record claim; the post does not define a unit-sales ranking |
+
+Sony also reports its largest single-day count of newly connected PS5 consoles outside end-of-year holidays, and says GTA VI was the first game played on **70% of new PS5 consoles** since the game's launch. It supplies **no console-unit total** in the post. Those hardware-engagement claims are not proof that GTA VI alone caused every new connection or sale.
+
+### Why is 39 million players not 39 million sales?
+
+Sony labels the measure **unique players**, not purchases or sold units, and does not provide a method for converting players to copies. Do not add it to Take-Two's pre-release units, divide it by an older analyst platform split, derive an Xbox total or multiply it by one edition's price. The dates, platform scope and units differ.
+
+The disclosure also does not give a numerical simultaneous-player peak, a worldwide all-platform player total or a new cumulative retail-revenue result. It is useful evidence of PS5 engagement during a four-day window, separate from the November 19 retail-sales cutoff above. We have not independently audited SIE's data.
 
 ## How many pre-orders does GTA 6 have?
 
