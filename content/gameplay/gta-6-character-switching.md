@@ -5,8 +5,8 @@ shortTitle: "Character switching"
 description: "You can switch between Jason and Lucia in GTA 6, even mid-chase, but not anytime: Rob Nelson told Famitsu switching is restricted by story progress. The rules."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-24
-verified: 2026-11-24
+updated: 2026-11-25
+verified: 2026-11-25
 weight: 6
 tags: ["gameplay", "jason", "lucia", "characters"]
 tldr: "You can switch between Jason and Lucia, including from the driver's seat to the passenger seat mid-chase. **Not at any time**, though: Rob Nelson told Famitsu switching is 'restricted depending on the progression of the story', and some missions lock you to one lead."
@@ -22,6 +22,8 @@ facts:
   - k: "Four leads?"
     v: "Considered and rejected"
 faq:
+  - q: "Is GTA 6 meant to be easier than GTA 4 or GTA 5?"
+    a: "Rob Nelson told Destructoid that Rockstar aimed between GTA 4, which it found punishing in places, and GTA 5, which it considered too easy for some. He also describes harder open-world content. This is a design target, not a new difficulty mode or a guarantee about every mission."
   - q: "Can you switch between Jason and Lucia at any time?"
     a: "No. Rob Nelson told Famitsu that switching is 'restricted depending on the progression of the story'. Red Bull's 'at any time' line conflicts with him, and we side with Nelson."
   - q: "Can you play as Lucia in GTA 6?"
@@ -33,6 +35,11 @@ faq:
   - q: "Does GTA 6 have more than two protagonists?"
     a: "No. GTA 5 had three. Rockstar considered four for GTA 6 and dropped the idea because each lead would get less screen time."
 sources:
+  - title: "Rob Nelson and Scott Mitchell on mission difficulty and fail states"
+    url: "https://www.destructoid.com/gta-6-dev-interview-on-rails-story-easy/"
+    publisher: "Destructoid (Scott Duwe)"
+    date: "Nov 24, 2026; checked Nov 25"
+    tier: "primary"
   - title: "David Hynd on mission freedom and fewer failure states"
     url: "https://www.techradar.com/gaming/the-team-embraced-more-of-an-open-ended-design-philosophy-on-this-project-gta-6-dev-says-rockstar-added-fewer-mission-fails-for-players-experimenting-and-wanted-to-encourage-players-to-do-what-felt-right-to-them-for-their-particular-playstyle"
     publisher: "TechRadar (Rob Dwiar)"
@@ -118,6 +125,16 @@ Hynd says Rockstar used more of its regular mechanics, AI and systems within mis
 | Rules intended to carry between mission and free-roam play | Removal of story gates, character locks or other mission-specific limits |
 
 These are the developer's design aims, not our own test of every mission. The notes do not list all failure conditions, explain a new difficulty option or announce a patch. More freedom in how to tackle a job is also different from choosing either lead at every point: the story-gated switching rules above still apply. For separately reported pursuit behavior, see [[gameplay/gta-6-wanted-system-and-heat|wanted system and heat]].
+
+## Why can story missions feel more forgiving?
+
+In [Scott Duwe's November 24 Destructoid interview](https://www.destructoid.com/gta-6-dev-interview-on-rails-story-easy/), **Rob Nelson, head of development**, says Rockstar considered a large audience with different abilities. He describes GTA IV as too punishing in places and GTA V as too easy for some players, with GTA VI aiming between them. This is a **design target**, not a measured difficulty ranking or a promise that every player will find the same challenge. <span class="tag-reported">reported</span> (developer statement)
+
+Nelson says designers can initially make missions too hard because they know enemy positions so well, then need to adjust them for other players. He also points to some **open-world content, including compounds and fronts**, as places where Rockstar could offer more difficulty. That does not establish a universal harder-than-story rule, an unlock requirement, a reward multiplier or a new selectable difficulty setting.
+
+**Scott Mitchell, design producer for missions and story flow**, says the team tried not to overuse failure states or restrict mechanics such as stealth, while retaining cinematic action sequences. This complements Hynd's comments above: more room to experiment does not mean the game has abandoned directed story sequences, failure conditions or character locks.
+
+Duwe's impression that checkpoints and fail states can feel generous is the reviewer's assessment, separate from the developers' account of their intent. Neither is our own test of every mission. The interview announces no patch, altered checkpoint spacing, mission-replay menu or change to the separately reported [[guides/gta-6-tips-before-you-start|save and replay limits]].
 
 ## What does each character keep separately?
 

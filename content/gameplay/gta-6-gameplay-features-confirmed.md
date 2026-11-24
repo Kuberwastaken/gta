@@ -5,8 +5,8 @@ shortTitle: "Confirmed features list"
 description: "Every GTA 6 gameplay feature in graded tables: six wanted stars, heat, a 2+2 gun loadout, fuel, hurricanes, 170+ animals, story-gated switching, fences and apps."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-24
-verified: 2026-11-24
+updated: 2026-11-25
+verified: 2026-11-25
 weight: 1
 tags: ["gameplay", "wanted-system", "weapons", "vehicles", "money"]
 tldr: "Rockstar itself confirms **two playable leads with story-gated switching**, an optional romance and radio on foot. Six wanted stars, a two-handgun, two-long-gun loadout, fuel, bank vs cash vs loot, 170+ animal species and hurricanes come from Rockstar staff via press, graded reported."
@@ -33,6 +33,11 @@ faq:
   - q: "Is GTA 6 multiplayer at launch?"
     a: "No. Rockstar's June 2026 pricing announcement called GTA 6 'a single-player experience', and no GTA 6 online mode has been announced."
 sources:
+  - title: "Rob Nelson and Scott Mitchell on mission difficulty and fail states"
+    url: "https://www.destructoid.com/gta-6-dev-interview-on-rails-story-easy/"
+    publisher: "Destructoid (Scott Duwe)"
+    date: "Nov 24, 2026; checked Nov 25"
+    tier: "primary"
   - title: "Ben Lyons on vehicle simulation and aircraft physics"
     url: "https://www.techradar.com/gaming/gta-6-technical-director-explains-how-rockstar-completely-rewrote-the-vehicle-simulation-for-believability-and-how-unique-aircraft-offered-a-higher-fidelity-experience-every-gta-is-an-evolution-from-the-last"
     publisher: "TechRadar (Rob Dwiar)"
@@ -252,6 +257,8 @@ This is a production account, not a new physics patch, an aircraft inventory or 
 In TechRadar's November 23 developer notes, **David Hynd, vice president of technology**, says Rockstar reduced mission failures for experimentation and used more regular mechanics and AI inside missions. The aim was to support different approaches and make rules learned outside missions useful within them. <span class="tag-reported">reported</span> (developer statement)
 
 This is not a claim that mission failures are gone, that every objective accepts every approach or that story-gated character switching has been removed. See the [[gameplay/gta-6-character-switching#does-experimenting-still-cause-a-mission-failure|mission-design explanation and limits]] for the direct source and the distinction between more freedom and unrestricted play.
+
+In Destructoid's November 24 interview, Rob Nelson also describes aiming between GTA IV and V in difficulty, with some open-world content offering more challenge. Scott Mitchell says the team tried to avoid overusing failure states while retaining cinematic sequences. <span class="tag-reported">reported</span> (developer statements) These are design aims, not new difficulty modes or a patch. See [[gameplay/gta-6-character-switching#why-can-story-missions-feel-more-forgiving|story difficulty and its limits]].
 
 ## Movement and ambient animation
 
