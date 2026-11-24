@@ -5,8 +5,8 @@ shortTitle: "Release and buying"
 description: "GTA 6 launches Nov 19, 2026 on PS5 and Xbox Series X|S at midnight store time: $79.99 or $99.99, up to 212 GB, 30 fps, and a download code instead of a disc."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 1
 tags: ["release", "unlock-times", "price", "platforms"]
 tldr: "GTA 6 launches **Thursday, Nov 19, 2026** on PS5 and Xbox Series X|S, unlocking at **midnight local store time** (9 PM PT on Nov 18 in the US). It costs $79.99 / $99.99, needs up to 212 GB, targets 30 fps on every console, and the boxed copy is a code, not a disc."
@@ -18,6 +18,16 @@ faq:
   - q: "Is GTA 6 on PC?"
     a: "Not at launch, and not announced. GamesBeat reported on Oct 13, 2026, citing four unnamed sources, a Q1 2027 target that Rockstar has not confirmed."
 sources:
+  - title: "GTA VI product listing: PS5 and PS Portal cloud support"
+    url: "https://store.playstation.com/en-us/concept/10000730/"
+    publisher: "PlayStation Store (US)"
+    date: "Checked Nov 24, 2026"
+    tier: "primary"
+  - title: "GTA 6 owners can stream to PS5 and PS Portal with Premium"
+    url: "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium"
+    publisher: "Push Square (Sammy Barker)"
+    date: "Nov 24, 2026"
+    tier: "primary"
   - title: "Grand Theft Auto VI regional pre-load and release times on PlayStation 5 and XBOX Series X|S"
     url: "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s"
     publisher: "Rockstar Games Support"
@@ -65,7 +75,7 @@ Three things. Finish the pre-load, open since Nov 10, with up to 212 GB free. In
 - [[release/gta-6-physical-copy-no-disc|Physical copy: no disc]]: what's in the box and the used-code reports.
 - [[release/gta-6-collectors-box|Collector's Box]]: $399.99 of merch, game not included.
 - [[release/gta-6-ps5-pro-performance|PS5 Pro and performance]]: 30 fps, PSSR and ray-traced shadows.
-- [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud gaming]]: native on Series S, Xbox One via the cloud.
+- [[release/gta-6-xbox-series-s-and-cloud-gaming|Series S and cloud gaming]]: native on Series S, Xbox One via the cloud. The current US PlayStation listing also supports PS5 and PS Portal cloud streaming with Premium, separate from Remote Play and catalogue inclusion. See the guide for the source and account/region limits.
 - [[release/gta-6-pc-release-date|PC release date]]: unannounced; the Q1 2027 report.
 - [[release/gta-6-switch-2|Switch 2]]: no announcement, and what Nintendo said.
 - [[release/gta-6-reviews-and-review-embargo|Reviews and embargo]]: the reported Nov 18 date.

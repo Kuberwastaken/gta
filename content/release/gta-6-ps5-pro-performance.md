@@ -5,8 +5,8 @@ shortTitle: "PS5 Pro and performance"
 description: "GTA 6 targets 30 fps on consoles. DF measures Xbox resolutions and Series S frame drops; PS5 Pro adds PSSR and ray-traced shadows. See the testing caveats."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-19
-verified: 2026-11-19
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 5
 tags: ["release", "performance", "ps5", "platforms"]
 tldr: "GTA 6 targets **30 fps on every console, PS5 Pro included**, with no 60 fps, 40 fps or performance mode at launch (Rockstar, Nov 10). The Pro adds **PSSR upscaling and ray-traced shadows**. Rockstar has now told Kotaku not to expect a higher-frame-rate mode on current consoles. Digital Foundry now measures about 1440p internally on Series X and 720p on Series S; these are test samples, not official fixed specifications."
@@ -33,8 +33,18 @@ faq:
   - q: "Will GTA 6 get a 40 fps or 60 fps patch?"
     a: "Do not expect one on current consoles. Kotaku directly asked Rockstar about future 40 or 60 fps modes; Marc Chambers says even the PS5 Pro CPU is not powerful enough for the complex simulation at higher frame rates. This is a current-console developer position, not a benchmark or an announcement about PC or future hardware."
   - q: "Can I play GTA 6 on PlayStation Portal?"
-    a: "Yes, through Remote Play from your own PS5, per The Shortcut. Quality depends on your home network."
+    a: "Yes. Remote Play uses your own PS5. The current US PlayStation listing also supports PS5 and PS Portal cloud streaming with Premium; Push Square reports that you must own the game and it is not included in the Premium catalogue. Availability and eligibility need checking on your account."
 sources:
+  - title: "GTA VI product listing: PS5 and PS Portal cloud support"
+    url: "https://store.playstation.com/en-us/concept/10000730/"
+    publisher: "PlayStation Store (US)"
+    date: "Checked Nov 24, 2026"
+    tier: "primary"
+  - title: "GTA 6 owners can stream to PS5 and PS Portal with Premium"
+    url: "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium"
+    publisher: "Push Square (Sammy Barker)"
+    date: "Nov 24, 2026"
+    tier: "primary"
   - title: "Future performance modes: direct Rockstar response"
     url: "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979"
     publisher: "Kotaku (Zack Zwiezen)"
@@ -188,9 +198,11 @@ Chambers also explicitly identifies **ray-traced reflections and global illumina
 
 Notebookcheck's earlier 120 Hz output and PSSR-file references remain file-based reports, not proof of a hidden or forthcoming 40 fps mode. Patch downloads without official notes likewise do not establish a new mode; see [[release/gta-6-day-one-patch|patch and firmware tracking]].
 
-## Remote Play and PC
+## PlayStation Portal, cloud streaming and PC
 
-Remote Play is supported, so you can stream from your own PS5 to a PlayStation Portal, per The Shortcut. <span class="tag-reported">reported</span>
+The [current US PlayStation product listing](https://store.playstation.com/en-us/concept/10000730/), checked November 24, supports **PS5 and PS Portal cloud streaming with Premium** as well as Remote Play. <span class="tag-confirmed">confirmed</span> [Push Square](https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium) reports a working UK PS5 test and says GTA VI still requires ownership: it is not part of the Premium catalogue. <span class="tag-reported">reported</span>
+
+Cloud streaming runs from Sony's servers. **Remote Play uses your own PS5**, so they are different routes. The listing does not promise PS5 Pro rendering, a higher frame rate or a particular cloud resolution. The local-console performance measurements on this page do not measure streaming quality or latency. See the [[release/gta-6-xbox-series-s-and-cloud-gaming#can-i-cloud-stream-gta-6-on-ps5-or-ps-portal|cloud and Remote Play comparison]] for access limits. We have not tested every account or region.
 
 There is no PC version, so there are no PC specs. GamesBeat reported a Q1 2027 PC target on Oct 13, citing four unnamed sources. <span class="tag-reported">reported</span> Any "GTA 6 PC requirements" list is invented, and any "GTA 6 PC download" is malware. See [[release/gta-6-pc-release-date|GTA 6 PC release date]] and the rest of the [[release/index|release hub]].
 

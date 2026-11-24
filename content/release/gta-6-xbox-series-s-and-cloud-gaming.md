@@ -5,11 +5,11 @@ shortTitle: "Series S and cloud gaming"
 description: "GTA 6 targets 30 fps on Series S, with measured drops. Xbox One uses paid-game cloud access from 1 AM ET Nov 19; PC/browser streaming is not offered."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-18
-verified: 2026-11-18
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 9
 tags: ["release", "xbox", "platforms", "performance"]
-tldr: "GTA 6 runs **natively on Xbox Series S** at the same 30 fps target as Series X, but Digital Foundry now finds more frequent drops on Series S. Xbox One owners can stream it through **Xbox Cloud Gaming from 1 AM ET on Nov 19**, an hour after the native US unlock, but only if they buy the game. It is not in Game Pass, and PC or browser streaming is not available at launch."
+tldr: "GTA 6 runs **natively on Xbox Series S** at the same 30 fps target as Series X, but Digital Foundry now finds more frequent drops on Series S. Xbox One owners can stream it through **Xbox Cloud Gaming from 1 AM ET on Nov 19**, an hour after the native US unlock, but only if they buy the game. It is not in Game Pass, and PC or browser streaming is not available at launch. **PlayStation now also lists PS5 and PS Portal cloud streaming with Premium**; that is separate from Xbox access and is not a PS4 version."
 facts:
   - k: "Series S"
     v: "Native, 30 fps target"
@@ -33,8 +33,20 @@ faq:
   - q: "Can I stream GTA 6 on PC through Xbox Cloud?"
     a: "No. Dexerto reports that Xbox's Matthew Ball confirmed there is no PC or browser streaming at launch."
   - q: "Can I play GTA 6 on PS4?"
-    a: "No. There is no PS4 version and no PlayStation cloud option. PS5 owners can only stream from their own console via Remote Play."
+    a: "No PS4 version is announced. PlayStation now lists cloud streaming for PS5 and PS Portal with Premium, not PS4. Remote Play from your own PS5 is a separate option."
+  - q: "Can I cloud-stream GTA 6 on PlayStation Portal?"
+    a: "The current US PlayStation listing supports PS5 and PS Portal cloud streaming with Premium. Push Square reports a working UK PS5 test, says you must own the game and notes it is not included in the Premium catalogue. This is different from Remote Play from your own PS5."
 sources:
+  - title: "GTA VI product listing: PS5 and PS Portal cloud support"
+    url: "https://store.playstation.com/en-us/concept/10000730/"
+    publisher: "PlayStation Store (US)"
+    date: "Checked Nov 24, 2026"
+    tier: "primary"
+  - title: "GTA 6 owners can stream to PS5 and PS Portal with Premium"
+    url: "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium"
+    publisher: "Push Square (Sammy Barker)"
+    date: "Nov 24, 2026"
+    tier: "primary"
   - title: "Xbox Series X and S tech review"
     url: "https://www.youtube.com/watch?v=F3lxGD8HX2k"
     publisher: "Digital Foundry"
@@ -98,7 +110,8 @@ Xbox One owners can play through Xbox Cloud Gaming from 1 AM ET on Nov 19, 2026.
 | Xbox Series S | Native | 30 fps target; DF measures ~720p internally, with frequent dips |
 | Xbox One | Xbox Cloud Gaming only | Series S settings; from 1 AM ET Nov 19 |
 | PC / browser | Not at launch | No cloud streaming to PC |
-| PS4 | Not supported | No version, no cloud option |
+| PS5 / PS Portal cloud | Listed by PlayStation Store | Premium required; game ownership separate |
+| PS4 | No announced native version | The PlayStation cloud listing names PS5 and PS Portal, not PS4 |
 
 Official resolution specifications remain separate from independent measurements. [Digital Foundry's November 18 Xbox tech review](https://www.youtube.com/watch?v=F3lxGD8HX2k) measures **about 720p internally on Series S**, compared with about 1440p on Series X in sampled shots. This supersedes our earlier blanket description of Series S figures as guesses. <span class="tag-reported">reported</span> (independent testing)
 
@@ -145,7 +158,21 @@ Microsoft calls GTA VI "the most pre-ordered title of all time on the Microsoft 
 
 ## Can I play GTA 6 on PS4?
 
-No. Rockstar lists PS5 and Xbox Series X|S only, and Sony has no cloud option for it. PS5 owners can stream from their own console with Remote Play, for example to a PlayStation Portal. <span class="tag-reported">reported</span>
+There is no announced native PS4 version. The newer PlayStation cloud listing below names **PS5 and PS Portal**, not PS4. Our earlier statement that Sony had no cloud option is now out of date; that does not make GTA VI a PS4 release.
+
+## Can I cloud-stream GTA 6 on PS5 or PS Portal?
+
+**Yes, the current US PlayStation Store listing supports it with Premium.** On our November 24 check, [the official GTA VI product page](https://store.playstation.com/en-us/concept/10000730/) explicitly lists PS5 and PS Portal cloud streaming as supported only with a Premium subscription. <span class="tag-confirmed">confirmed</span>
+
+[Push Square's November 24 report](https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium) says Sammy Barker tested it successfully on a PS5 in the UK. He reports that this was not available at launch, that players still need to own the game and that GTA VI has **not joined the PS Plus Premium catalogue**. The report's UK test is not our own service test or proof that every account and region has access. <span class="tag-reported">reported</span>
+
+| Route | Where the game runs | Access distinction |
+| --- | --- | --- |
+| PlayStation cloud streaming | Sony's servers, streamed to PS5 or PS Portal | Premium required; the game purchase is separate, not catalogue inclusion |
+| PS5 Remote Play | Your own PS5, streamed to another device such as Portal | A separate route using your console, not proof of cloud entitlement |
+| Xbox Cloud Gaming | Xbox cloud hardware at Series S settings, per Xbox Wire | Separate Xbox ownership and cloud-access terms; not a PlayStation entitlement |
+
+The Sony listing does not add PS4, PC or browser support. Neither source here establishes a GTA VI cloud resolution, frame-rate mode, input-lag result or PS5 Pro rendering profile. Our local-console benchmarks must not be read as cloud benchmarks. Before paying for access, check the game's stream option and eligibility on your account; the US listing and one UK test do not establish worldwide availability.
 
 ## What we're watching
 
