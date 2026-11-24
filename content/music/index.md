@@ -2,17 +2,17 @@
 title: "GTA 6 music: radio stations, trailer songs, The Album and the Justice score"
 seoTitle: "GTA 6 Music: Radio Stations, Soundtrack and Trailer Songs"
 shortTitle: "Music and radio"
-description: "GTA VI music after launch: seven official station previews, the 57-song Deluxe Album, three Justice score singles and the official Spotify listening destination."
+description: "GTA VI music: Billboard reports 23 stations and 800-plus songs. Compare seven official previews, the 57-song Deluxe Album, Justice score and Spotify links."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-24
 verified: 2026-11-24
 weight: 1
 tags: ["music", "radio", "soundtrack"]
-tldr: "The **Deluxe Album** now has 57 listed songs, the original 34 plus 23 bonus tracks. Rockstar's landing page has **seven radio previews**, not a complete station count, and lists **three Justice singles** ahead of the December 11 score album. Spotify's November 20 GTA destination adds station playlists and franchise music history."
+tldr: "The **Deluxe Album** now has 57 listed songs, the original 34 plus 23 bonus tracks. Billboard reports **23 stations** and Pavlovich says **800-plus songs**; Rockstar has **seven selected radio previews** and lists **three Justice singles** ahead of the December 11 score album. Spotify's November 20 GTA destination adds station playlists and franchise music history."
 facts:
   - k: "Radio stations revealed"
-    v: "7 preview cards; not a full in-game count"
+    v: "23 reported; 7 official preview cards"
   - k: "The Album"
     v: "57 Deluxe tracks, Nov 23, 2026"
   - k: "Original score"
@@ -23,10 +23,15 @@ faq:
   - q: "Who made the GTA 6 soundtrack?"
     a: "Justice composed the original score. GTA VI: The Album began with 34 songs and now has a 57-song Deluxe Edition, with music from artists including Travis Scott, Cardi B, Morgan Wallen and Tove Lo. The radio mostly plays licensed music."
   - q: "How many radio stations does GTA 6 have?"
-    a: "Rockstar currently previews seven, including Circoloco Records. This is not the complete in-game count. Spotify separately announces over 20 station and mixtape playlists; playlists are not a station census."
+    a: "Billboard's November 23 interview feature reports 23 stations: 21 music and two talk. Rockstar previews seven selected stations; Spotify's over 20 station and mixtape playlists are a different measure."
   - q: "When does the GTA 6 soundtrack release?"
     a: "The original Album was announced for November 19 and reported released November 20; its Deluxe Edition is dated November 23. Justice's Original Score album follows on December 11, 2026."
 sources:
+  - title: "Rockstar and Justice on GTA VI's music: direct interviews"
+    url: "https://www.billboard.com/music/features/gta-6-radio-songs-soundtrack-justice-billboard-cover-1236386805/"
+    publisher: "Billboard (Carl Lamarre and Katie Bain)"
+    date: "Nov 23, 2026; checked Nov 24"
+    tier: "primary"
   - title: "Grand Theft Auto VI: The Album (Deluxe Edition)"
     url: "https://music.apple.com/us/album/grand-theft-auto-vi-the-album-deluxe-edition/6837496123"
     publisher: "Apple Music (US listing)"
@@ -51,6 +56,8 @@ sources:
 GTA 6's music comes in three separate releases. The in-game radio plays mostly licensed songs on stations hosted by celebrity DJs. *GTA VI: The Album* began with 34 original songs; its November 23 Deluxe Edition adds 23, for 57 total. Justice's adaptive *Original Score* plays in the game from day one, with its own album on December 11.
 
 ## How many radio stations are in GTA 6?
+
+[Billboard's November 23 direct-interview feature](https://www.billboard.com/music/features/gta-6-radio-songs-soundtrack-justice-billboard-cover-1236386805/) reports **23 stations: 21 music and two talk**. Rockstar music VP Ivan Pavlovich separately puts the game at **over 800 songs**. These are attributed counts, not this site's own credits or station-menu audit. See the [[music/gta-6-radio-stations#what-does-the-billboard-music-interview-add|interview evidence and limits]]. <span class="tag-reported">reported</span>
 
 The music landing page rechecked November 24 has **seven station-preview cards**, including Circoloco Records with DJ Seth and DJ Antonio. That updates the earlier six-preview list without establishing a complete station total. The [[music/gta-6-radio-stations|radio guide]] separates preview cards, the older Edge count and Spotify's larger playlist offering. <span class="tag-confirmed">confirmed</span>
 

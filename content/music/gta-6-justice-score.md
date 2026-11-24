@@ -29,16 +29,21 @@ faq:
   - q: "When does the GTA 6 score come out?"
     a: "December 11, 2026, on streaming, CD and vinyl. That is three weeks after the game's November 19 launch. The score plays in the game from day one."
   - q: "How many tracks are on the GTA 6 Justice score?"
-    a: "Rockstar says the physical album has 30 tracks plus a number of digital bonus tracks. Wikipedia reports the digital edition runs to 50 tracks and about three hours."
+    a: "Rockstar says the physical album has 30 tracks plus a number of digital bonus tracks. Billboard's November 23 direct interview describes 50 pieces for the score, without a full format-by-format list. That is not proof of a particular runtime or 50 tracks on each physical edition."
   - q: "Is the Justice score the same as GTA 6: The Album?"
     a: "No. The Album began with 34 songs; its November 23 Deluxe Edition adds 23 for 57 total. The Original Score is Justice's instrumental and adaptive music for the game, out Dec 11. Starting from Zero and Flower in a Hurricane are currently listed for both releases."
   - q: "What is an adaptive score?"
     a: "Music that changes with what the player is doing. Rockstar says the compositions are 'dynamically tuned' to how players engage with the world, but has not explained the triggers."
 sources:
+  - title: "Rockstar and Justice on GTA VI's music: direct interviews"
+    url: "https://www.billboard.com/music/features/gta-6-radio-songs-soundtrack-justice-billboard-cover-1236386805/"
+    publisher: "Billboard (Carl Lamarre and Katie Bain)"
+    date: "Nov 23, 2026; checked Nov 24"
+    tier: "primary"
   - title: "The Music of Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI/music"
     publisher: "Rockstar Games"
-    date: "Checked Nov 22, 2026"
+    date: "Checked Nov 24, 2026"
     tier: "primary"
   - title: "Justice are behind the 'Grand Theft Auto 6' soundtrack"
     url: "https://www.nme.com/news/gaming-news/grand-theft-auto-6-soundtrack-justice-album-gta-rockstar-tame-impala-3973238"
@@ -73,7 +78,19 @@ On October 15, 2026, with the [[media/gta-6-launch-trailer|Launch Trailer]], whi
 
 Music that responds to play rather than running as a fixed track. Rockstar's description is "expansive compositions all dynamically tuned to the different ways players engage with the world" <span class="tag-confirmed">confirmed</span>, and it bills Justice as "Grammy Award winners". That is the full extent of Rockstar's explanation. It hasn't said what triggers changes, whether missions and free roam behave differently, or how the score and the [[music/gta-6-radio-stations|radio]] share the mix in a car.
 
-De Rosnay told Billboard the duo was "given the freedom to explore as many things as we needed to, musically speaking", as quoted on Wikipedia's score page <span class="tag-reported">reported</span>.
+The newer direct interview below adds production detail, but does not provide a complete trigger map or technical implementation guide.
+
+## What did Justice say about making the score?
+
+In [Billboard's November 23 direct interview](https://www.billboard.com/music/features/gta-6-radio-songs-soundtrack-justice-billboard-cover-1236386805/), **Xavier de Rosnay** describes scoring portions of the game and revisiting them as Rockstar rewrote or moved material. He says the score needed to cover different places, situations and people rather than settling on one central sound. <span class="tag-reported">reported</span> (composer interview)
+
+Rockstar's references included Justice's earlier work, especially *Audio, Video, Disco*, and a direction to keep a sense of fun. Justice describe drawing on their own musical style and their view of Miami through 1980s screen culture. That is a production account, not evidence that every location has a fixed musical genre or that the score has a player-selectable mode.
+
+The feature discusses collaboration with **Gesaffelstein** and **Michael McDonald**, already named on the official singles. It also describes the use of song stems in some gameplay sequences. We leave out which sequences and where individual songs appear. Neither that reporting nor Rockstar's adaptive-score description specifies every gameplay trigger, crossfade rule or runtime behavior.
+
+### Is the score 30 tracks or 50 pieces?
+
+Billboard describes the score as **50 pieces of music**. Rockstar's current product page still says **30 tracks plus a number of digital bonus tracks**, with the album due **December 11**. Keep the reporting and product wording separate: the interview does not supply a complete 50-row release list or establish that every CD and vinyl has 50 tracks. We have not counted unreleased files or verified an exact digital runtime.
 
 ## GTA 6 Justice score: formats and tracks
 
@@ -81,12 +98,12 @@ De Rosnay told Billboard the duo was "given the freedom to explore as many thing
 | --- | --- | --- |
 | Physical (CD, vinyl) | 30 tracks | <span class="tag-confirmed">confirmed</span> |
 | Digital | 30 tracks plus "a number of digital bonus tracks" | <span class="tag-confirmed">confirmed</span> |
-| Digital track count | 50 tracks, about 3 hours | <span class="tag-reported">reported</span> |
+| Interview scope | 50 pieces, per Billboard's November 23 feature; no full format-specific list | <span class="tag-reported">reported</span> |
 | Double CD | Sold on Rockstar's music page | <span class="tag-confirmed">confirmed</span> |
 | Limited triple crystal-clear vinyl | Sold on Rockstar's music page | <span class="tag-confirmed">confirmed</span> |
 | Labels | Ed Banger and Because Music | <span class="tag-reported">reported</span> |
 
-Rockstar's own wording is "30 tracks, along with a number of digital bonus tracks". The 50-track, three-hour digital figure and the Ed Banger and Because Music labels come from Wikipedia's score article. Our current first-party check establishes three singles, not a full score-album tracklist, so the roughly 20 digital extras that figure implies are unnamed.
+Rockstar's own wording is "30 tracks, along with a number of digital bonus tracks". The older 50-track, roughly three-hour digital claim came through Wikipedia. The newer Billboard interview supports a 50-piece description, but not that exact runtime or a complete digital tracklist. The label attribution above retains its earlier Wikipedia route. Our first-party check establishes three singles, not every score-album track or bonus title.
 
 ## The singles
 
@@ -102,6 +119,6 @@ Billboard's Katie Bain wrote that "Pusher" recalls the Justice classics "Stress"
 
 ## Why does the score come out after the game?
 
-Rockstar hasn't said. The Album ships with the game on November 19 and the score follows on December 11. One search summary in our research applied the December 11 date to the radio stations. That is wrong: the stations are in the game at launch, and December 11 is the score album only <span class="tag-debunked">debunked</span>.
+Rockstar hasn't said. The original Album was announced for November 19 and reported released November 20; the score album follows on December 11. One search summary in our research applied the December 11 date to the radio stations. That is wrong: the stations are in the game at launch, and December 11 is the score album only <span class="tag-debunked">debunked</span>.
 
-Justice also play *Grand Theft Auto VI: The Festival* at Mana Wynwood, Miami, on November 21, 2026, alongside Travis Scott, Cardi B and Metro Boomin <span class="tag-confirmed">confirmed</span>. The festival and every other music date are on the [[timeline/index|timeline]] and the [[music/index|music hub]].
+Justice were announced for *Grand Theft Auto VI: The Festival* at Mana Wynwood, Miami, on November 21, 2026, alongside Travis Scott, Cardi B and Metro Boomin <span class="tag-confirmed">confirmed</span>. That earlier announced bill is not a fresh check of event footage or every actual performer. The festival and other music dates are on the [[timeline/index|timeline]] and the [[music/index|music hub]].
