@@ -204,7 +204,7 @@ The [current US PlayStation product listing](https://store.playstation.com/en-us
 
 Cloud streaming runs from Sony's servers. **Remote Play uses your own PS5**, so they are different routes. The listing does not promise PS5 Pro rendering, a higher frame rate or a particular cloud resolution. The local-console performance measurements on this page do not measure streaming quality or latency. See the [[release/gta-6-xbox-series-s-and-cloud-gaming#can-i-cloud-stream-gta-6-on-ps5-or-ps-portal|cloud and Remote Play comparison]] for access limits. We have not tested every account or region.
 
-There is no PC version, so there are no PC specs. GamesBeat reported a Q1 2027 PC target on Oct 13, citing four unnamed sources. <span class="tag-reported">reported</span> Any "GTA 6 PC requirements" list is invented, and any "GTA 6 PC download" is malware. See [[release/gta-6-pc-release-date|GTA 6 PC release date]] and the rest of the [[release/index|release hub]].
+There is no PC version, so there are no PC specs. GamesBeat reported a Q1 2027 PC target on Oct 13, citing four unnamed sources. <span class="tag-reported">reported</span> Any "GTA 6 PC requirements" list is invented, and unofficial installers should not be trusted. The newer reported Xbox-build leak and black-screen PC boot attempt do not establish a playable PC port. See [[release/gta-6-pc-release-date|GTA 6 PC release date]] and the rest of the [[release/index|release hub]].
 
 ## What we're watching
 

@@ -6,8 +6,8 @@ description: "Over 50 GTA 6 leaks and rumours from 2022 to launch week, each gra
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-21
-verified: 2026-11-21
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 1
 tags: ["leaks", "rumours", "debunked", "timeline"]
 tldr: "The best GTA 6 call came from a reporter: Bloomberg's July 2022 story on a Latina co-lead in a fictional Miami. **$100 base price, PC at launch, online at launch, 60fps and a 2027 delay are all debunked.** The credible open item is a **Q1 2027 PC version** ([[leaks/gta-6-pc-at-launch-rumour|PC rumour]])."
@@ -34,8 +34,12 @@ faq:
   - q: "Will GTA 6 be delayed again?"
     a: "Take-Two said on Nov 9, 2026 that the game is finished and not being delayed. Claims of a 2027 slip are debunked."
   - q: "Did CyberLeek release the full GTA 6 game?"
-    a: "No. CyberLeek posted clips and a map image in August and October 2026, then told Kotaku it would not release the full build or more footage."
+    a: "GameSpot reports an Xbox-build release on Nov 24, superseding the earlier refusal. Files are not authenticated here, and a reported PC boot attempt ending at a black screen is not a playable PC port."
 sources:
+  - title: "Xbox-build leak report and unofficial PC boot attempt"
+    url: "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/"
+    publisher: "GameSpot (Darryn Bonthuys)"
+    date: "Nov 24, 2026; 3:23 AM PST"
   - title: "Grand Theft Auto VI official credits"
     url: "https://www.rockstargames.com/VI/credits"
     publisher: "Rockstar Games"
@@ -208,7 +212,7 @@ Grades follow our [[about/how-we-grade|grading system]]: <span class="tag-confir
 | Trailer 1 lands Dec 5, 2023 | Rockstar's own schedule | <span class="tag-confirmed">confirmed</span> | Dec 4, 2023 (leak forced it out about 15 hours early) | [[media/gta-6-trailer-1|Trailer 1]] |
 | A cinematic "Trailer 3" in summer 2026 | Forbes and others, Jun-Jul 2026 | <span class="tag-debunked">debunked</span> | Oct 15, 2026 (timing wrong; Extended Look came Aug 27) | [[media/gta-6-launch-trailer|Launch trailer]] |
 | Launch Trailer hit 47M YouTube views in 3 days | One fan site | <span class="tag-rumour">rumour</span> | open | [[media/gta-6-launch-trailer|Launch trailer]] |
-| CyberLeek will release the full build | CyberLeek | <span class="tag-debunked">debunked</span> | Oct 14, 2026 (withdrawn) | [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek]] |
+| An Xbox-build release attributed to CyberLeek | GameSpot | <span class="tag-reported">reported</span> | Nov 24, 2026; files not authenticated here | [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek]] |
 | A 34-song album tracklist with Dua Lipa, Lana Del Rey | Aggregator posts | <span class="tag-rumour">rumour</span> | due Nov 19 | [[music/gta-6-soundtrack-album|The Album]] |
 | PS5 dev kit photos from Rockstar San Diego | Reddit, Jan 2025 | <span class="tag-reported">reported</span> | no Rockstar comment | [[timeline/gta-6-development-history|Development]] |
 | Fired UK staff leaked secrets on Discord | Rockstar and Take-Two, Oct 2025 | <span class="tag-reported">reported</span> | disputed by the IWGB; tribunal pending | [[timeline/rockstar-uk-firings-and-union|Firings]] |
@@ -231,10 +235,10 @@ The PC date is the most credible open item. GamesBeat's Q1 2027 report is <span 
 | Sep 18, 2022 | 90+ clips (about 50 min) of early footage on GTAForums | Rockstar confirmed the intrusion next day; Arion Kurtaj got an indefinite hospital order in Dec 2023; retrial listed for Nov 9, 2026, no outcome reported by Nov 15 |
 | Dec 4, 2023 | Trailer 1, as a low-quality copy on X | Rockstar posted the real one about 15 hours early ([Gamepressure](https://www.gamepressure.com/newsroom/gta-6-trailer-now-available-leak-forced-rockstar-games-to-release/z36508)) |
 | Jan 2025 | Photos of a PS5 dev kit running the game, reportedly taken at Rockstar San Diego in 2021 | No Rockstar comment |
-| Aug 18 to Oct 8, 2026 | CyberLeek: 16+ clips, a map image, a 24-minute video | Rockstar: "heartbreaking for our team"; no full build ([[leaks/gta-6-cyberleek-2026-leaks|CyberLeek]]) |
+| Aug 18 to Oct 8, 2026 | CyberLeek: 16+ clips, a map image, a 24-minute video | Rockstar: "heartbreaking for our team"; later build claim tracked separately ([[leaks/gta-6-cyberleek-2026-leaks|CyberLeek]]) |
 | Nov 12-14, 2026 | Collector's Box map poster, after a box was reportedly sold early in Manchester | New place names, reported |
 
-The Kurtaj case is covered on the [[timeline/gta-6-2022-leak|2022 leak page]]. We describe leaks; we do not link to leaked footage or files, and any "GTA 6 PC download" is malware.
+The Kurtaj case is covered on the [[timeline/gta-6-2022-leak|2022 leak page]]. We describe leaks; we do not link to leaked footage or files, and advise against unofficial installers or crypto-wallet requests. A reported console-build leak does not establish a safe or playable PC port.
 
 ## After November 19
 
@@ -242,7 +246,7 @@ The credits now settle the profiled-character actor IDs. County names and other 
 
 ## Start here
 
-- [[leaks/gta-6-cyberleek-2026-leaks|The CyberLeek leaks]]: what the 2026 leaker posted, what Rockstar said, and the build that never came.
+- [[leaks/gta-6-cyberleek-2026-leaks|The CyberLeek leaks]]: what the 2026 leaker posted, what Rockstar said, and the dated Xbox-build report, without file links.
 - [[leaks/gta-6-pc-at-launch-rumour|PC at launch]]: consoles only on Nov 19, and the GamesBeat Q1 2027 report.
 - [[leaks/gta-6-100-dollar-price-rumour|The $100 price rumour]]: $20 high on Standard, right on Ultimate.
 - [[leaks/gta-6-online-at-launch-rumour|Online at launch]]: single-player only, plus the 2027 and 32-player claims.

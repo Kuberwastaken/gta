@@ -6,8 +6,8 @@ description: "GTA 6 launch checklist: redeem codes, clear storage, finish the pr
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-23
-verified: 2026-11-23
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 1
 tags: ["guides", "beginner", "preload", "unlock-times", "release"]
 tldr: "The game is out. Check the latest game update and PS5 system software separately, preserve saves, and use the troubleshooting sections below if needed. **The free pre-November-20 bonus window has ended**; the Vintage Vice City Pack is now a separate paid add-on. Earlier launch-time and pre-load steps below are dated preparation guidance."
@@ -248,7 +248,7 @@ Rockstar's wording is "midnight local time on November 19, 2026, in all regions"
 
 ## 6. Know what you're getting
 
-The game runs at 30 fps on every console, PS5 Pro included, with no performance mode at launch; Pro adds PSSR and ray-traced shadows ([[release/gta-6-ps5-pro-performance|PS5 Pro performance]]). There is no online mode: Rockstar calls GTA VI "a single player experience", and GTA Online on GTA V keeps running ([[release/gta-6-gta-online-status|GTA Online status]]). There is no PC version, and any "GTA 6 PC download" is fake or malware; a Q1 2027 PC date is a GamesBeat report <span class="tag-reported">reported</span> ([[release/gta-6-pc-release-date|PC release date]]). The box has no paper map; Rockstar's [official media page](https://www.rockstargames.com/VI/media) now offers a printable one <span class="tag-confirmed">confirmed</span> ([[guides/gta-6-printable-map|printable map]]).
+The game runs at 30 fps on every console, PS5 Pro included, with no performance mode at launch; Pro adds PSSR and ray-traced shadows ([[release/gta-6-ps5-pro-performance|PS5 Pro performance]]). There is no online mode: Rockstar calls GTA VI "a single player experience", and GTA Online on GTA V keeps running ([[release/gta-6-gta-online-status|GTA Online status]]). There is no PC version, and unofficial installers should not be trusted; the newer Xbox-build report does not establish a playable PC port; a Q1 2027 PC date is a GamesBeat report <span class="tag-reported">reported</span> ([[release/gta-6-pc-release-date|PC release date]]). The box has no paper map; Rockstar's [official media page](https://www.rockstargames.com/VI/media) now offers a printable one <span class="tag-confirmed">confirmed</span> ([[guides/gta-6-printable-map|printable map]]).
 
 ## 7. Dodge spoilers on Nov 18
 

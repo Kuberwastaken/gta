@@ -2,14 +2,14 @@
 title: "GTA 6 PC release date: not announced, but a Q1 2027 report"
 seoTitle: "GTA 6 PC Release Date: Not Announced, Q1 2027 Report"
 shortTitle: "PC release date"
-description: "GTA 6 has no PC version on Nov 19 and none is announced. GamesBeat's four sources point to Q1 2027. No PC cloud streaming either, and every PC download is fake."
+description: "No official GTA 6 PC release is announced. Separate the Q1 2027 report from a reported Xbox-build leak and black-screen PC boot attempt, not a playable port."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 10
 tags: ["release", "pc", "platforms", "rumours"]
-tldr: "**GTA 6 is not on PC on Nov 19**, and Rockstar has announced no PC version, store page or specs. GamesBeat reported on Oct 13, 2026, citing four unnamed sources, that **PC is planned for Q1 2027**. Xbox Cloud Gaming does not stream it to PC, and any \"GTA 6 PC download\" is malware."
+tldr: "**GTA 6 is not on PC on Nov 19**, and Rockstar has announced no PC version, store page or specs. GamesBeat reported on Oct 13, 2026, citing four unnamed sources, that **PC is planned for Q1 2027**. Xbox Cloud Gaming does not stream it to PC, and unofficial downloads are not an official PC release."
 facts:
   - k: "PC at launch"
     v: "No"
@@ -29,10 +29,14 @@ faq:
   - q: "Can I play GTA 6 on PC through Xbox Cloud Gaming?"
     a: "No. Cloud streaming covers Xbox One and Series X|S consoles only. Dexerto reports Xbox's Matthew Ball confirmed there is no PC or browser option."
   - q: "Are GTA 6 PC downloads real?"
-    a: "No. No PC build exists, so every download, crack, installer or beta key is fake. Malware and crypto wallet drainers are circulating under the GTA 6 name."
+    a: "There is no official PC release. GameSpot reports an Xbox-build leak and an unofficial PC boot attempt that stops at a black screen, not a verified playable port. Do not run unofficial installers or connect a crypto wallet to obtain access."
   - q: "What are the GTA 6 PC system requirements?"
     a: "There are none. Rockstar has published no PC specs, so any requirements list is made up."
 sources:
+  - title: "Xbox-build leak report and unofficial PC boot attempt"
+    url: "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/"
+    publisher: "GameSpot (Darryn Bonthuys)"
+    date: "Nov 24, 2026; 3:23 AM PST"
   - title: "We guessed late 2027 for GTA 6 on PC. A report says Q1 2027"
     url: "https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html"
     publisher: "PCWorld"
@@ -86,9 +90,21 @@ On the Aug 7, 2026 earnings call, Zelnick said PC can now be "40% or 50%" of sal
 
 No. Cloud support at launch covers Xbox One and Xbox Series X|S consoles only, starting 1 AM ET on Nov 19. The fan aggregator gta6times reported on Oct 7 that PC streaming was off the table, and Dexerto reports Xbox's Matthew Ball confirmed it. <span class="tag-reported">reported</span> Details are on the [[release/gta-6-xbox-series-s-and-cloud-gaming|cloud gaming page]].
 
-## Every "GTA 6 PC download" is fake
+## Does the reported Xbox-build leak mean GTA 6 is playable on PC?
 
-No PC build exists. A download, crack, "early access installer" or "beta key" for GTA 6 on PC is malware, and crypto wallet drainers are spreading under the GTA 6 name. <span class="tag-reported">reported</span> Do not run a GTA 6 .exe from outside an official store, and do not connect a wallet to any "GTA 6" site. The leaked footage from the [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek clips]] is not a playable build either, and CyberLeek told Kotaku on Oct 14 it would not release the build.
+**No playable PC port is established by this report.** [GameSpot's November 24 article](https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/), by Darryn Bonthuys, reports an Xbox-build release attributed to CyberLeek and an unofficial PC boot attempt described through Eurogamer. GameSpot says the attempt reaches a black screen after starting. We have not downloaded, authenticated or run the files, and do not link to them. <span class="tag-reported">reported</span>
+
+| Evidence | What it does not prove |
+| --- | --- |
+| GameSpot reports an Xbox-build release | An official PC build, verified file contents or a safe download |
+| A reported boot attempt stops at a black screen | Playable missions, stable gameplay, compatibility or performance |
+| A group's reported one-week goal | A reliable release date or a Rockstar commitment |
+
+A console build is not a released PC port. The group's confidence and the article's suggestion that this could pressure Rockstar are not evidence that the official schedule has changed. The older **Q1 2027** report remains separate and unconfirmed. Rockstar's [current out-now page](https://www.rockstargames.com/VI/out-now), rechecked November 24, names PS5 and Xbox Series X|S, not PC.
+
+**November 24 correction:** our earlier blanket wording that no build existed to leak and every purported file was necessarily fake or malware went beyond what we could verify. The accurate safety advice is to avoid unofficial installers and wallet requests, not to pretend we have inspected every file. There is no official PC release established here. See the [[leaks/gta-6-cyberleek-2026-leaks#what-changed-in-the-november-24-build-report|dated leak-report update]] and [[about/corrections|corrections log]].
+
+Do not run a purported GTA VI executable from an unofficial source or connect a crypto wallet to get access. A leak claim, boot clip or promised deadline does not establish safety, legitimacy or a working game. We provide no download links, setup steps or file mirrors.
 
 ## What will the PC system requirements be?
 

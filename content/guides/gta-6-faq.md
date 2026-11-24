@@ -5,8 +5,8 @@ shortTitle: "GTA 6 FAQ"
 description: "35 sourced GTA 6 answers: midnight store-time unlock, $79.99 price, 212 GB size, no disc, 30 fps only, no PC or online at launch, ratings and story length."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-21
-verified: 2026-11-21
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 3
 tags: ["guides", "release", "beginner", "unlock-times", "price"]
 tldr: "GTA VI launches **Nov 19, 2026** on PS5 and Xbox Series X|S at midnight local store time (midnight ET for the whole US store). It costs $79.99 (Ultimate $99.99), needs up to 212 GB, runs at 30 fps, and has **no disc, no online mode and no PC version** at launch."
@@ -27,7 +27,7 @@ faq:
   - q: "What time does GTA 6 come out?"
     a: "Midnight local store time on Nov 19, 2026. The whole US store opens at midnight Eastern, which is 9 PM Pacific on Nov 18. New Zealand is first, at 11:00 UTC on Nov 18."
   - q: "Is GTA 6 on PC?"
-    a: "No. GamesBeat reported on Oct 13 that a PC version is targeted for Q1 2027; Rockstar did not comment. Any 'GTA 6 PC download' is fake or malware."
+    a: "No. GamesBeat reported on Oct 13 that a PC version is targeted for Q1 2027; Rockstar did not comment. Avoid unofficial installers and wallet requests; a reported console-build leak is not a verified playable PC port."
   - q: "Does GTA 6 have online multiplayer?"
     a: "Not at launch. Rockstar calls GTA VI 'a single player experience' and has announced no online mode or date. GTA Online on GTA V keeps running."
   - q: "Is there a GTA 6 disc?"
@@ -255,7 +255,7 @@ ESRB M (Mature 17+) and PEGI 18; R18+ in Australia, CERO Z in Japan and 19+ in S
 
 ### Are GTA 6 PC downloads real?
 
-No. There is no PC version, and fake "GTA 6 PC download" files and crypto wallet drainers are circulating <span class="tag-reported">reported</span>.
+There is no official PC release. The [[release/gta-6-pc-release-date#does-the-reported-xbox-build-leak-mean-gta-6-is-playable-on-pc|PC guide]] separates the November 24 Xbox-build report and black-screen boot attempt from a playable PC port. Avoid unofficial installers and wallet requests; we have not authenticated files.
 
 ### How do I avoid spoilers?
 

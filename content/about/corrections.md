@@ -5,8 +5,8 @@ shortTitle: "Corrections"
 description: "How GTA VI Wire fixes errors and dates its corrections, including the Nov 20 heat-system correction, Nov 19 bonus corrections and Nov 18 weapon-wheel correction."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-20
-verified: 2026-11-20
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 3
 tags: ["news", "leaks", "rockstar"]
 tldr: "We fix factual errors fast, say what changed and date it here. The log includes the **November 20 heat-system correction**, **November 19 bonus corrections** and **November 18 weapon-wheel correction**. Grade changes are tracked separately on each page and in the [[leaks/index|leaks ledger]]."
@@ -77,6 +77,7 @@ We do not silently delete mistakes.
 
 | Date | Page | What changed |
 | --- | --- | --- |
+| Nov 24, 2026 | [[release/gta-6-pc-release-date|PC guide]], [[leaks/gta-6-pc-at-launch-rumour|PC rumour]] and [[leaks/gta-6-cyberleek-2026-leaks|CyberLeek tracker]] | Removed the unsupported blanket claims that no build could exist to leak, every file was necessarily malware and the full-build threat was permanently debunked. GameSpot now reports an Xbox-build release and a black-screen PC boot attempt. Files are not authenticated here; no official or playable PC release is established. |
 | Nov 20, 2026 | [[gameplay/gta-6-gameplay-features-confirmed|Gameplay features]] | Removed the stale no-weapon-wheel claim from the master table and FAQ, carrying through the Nov 18 first-hours correction. [TechRadar](https://www.techradar.com/gaming/gta-6-review) and [The Verge](https://www.theverge.com/games/1035801/grand-theft-auto-6-review) describe the wheel in released-game reviews. A limited loadout does not imply there is no selection wheel. |
 | Nov 20, 2026 | [[gameplay/gta-6-wanted-system-and-heat|Wanted system]], [[guides/gta-6-tips-before-you-start|Tips]], [[gameplay/gta-6-vehicles|Vehicles]], [[gameplay/gta-6-gameplay-features-confirmed|Gameplay features]] and [[gameplay/gta-6-money-banks-and-fences|Money]] | Narrowed the claim that Pay 'n' Spray clears the entire wanted level. Red Bull described vehicle wanted status; [Engadget's launch guide](https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/) separates the vehicle clue, other identifying details and regional heat. No universal reset or cooldown timer is promised. |
 | Nov 19, 2026 | [[guides/gta-6-gta-plus-explained|GTA+ explained]] and [[release/gta-6-pre-order-bonuses|Pre-order bonuses]] | Corrected the claim that GTA+ did nothing in GTA VI story mode. [Rockstar's live VI page](https://www.rockstargames.com/VI) advertises optional benefits for Jason and Lucia. Detailed perks remain attributed reporting; conflicting cancellation and progression claims are not treated as settled. |

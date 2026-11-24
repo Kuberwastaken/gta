@@ -2,14 +2,14 @@
 title: "The CyberLeek GTA 6 leaks of 2026: what happened, graded"
 seoTitle: "CyberLeek GTA 6 Leaks 2026: What Happened, Graded"
 shortTitle: "CyberLeek leaks"
-description: "CyberLeek posted 16+ GTA 6 clips and a full map image Aug 18-26, 2026, then a 24-minute video Oct 8. Rockstar called it heartbreaking. The full build never came."
+description: "The GTA VI CyberLeek timeline, graded: 2026 clips, Rockstar response and a Nov 24 Xbox-build report. No file links or verified playable PC port."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 5
 tags: ["leaks", "map", "rumours", "timeline"]
-tldr: "**CyberLeek** posted at least 16 GTA 6 clips and a map image from Aug 18-26, 2026, then a 24-minute video on Oct 8. **Rockstar acknowledged the leaks** but verified no specifics, and the threatened **full build never came**. Leaked county names are on the [[world/gta-6-leaked-map-and-counties|leaked map page]]."
+tldr: "**CyberLeek** posted at least 16 GTA 6 clips and a map image from Aug 18-26, 2026, then a 24-minute video on Oct 8. **Rockstar acknowledged the leaks** but verified no specifics, and a **November 24 report now describes an Xbox-build release**. That is not a verified playable PC port. Leaked county names are on the [[world/gta-6-leaked-map-and-counties|leaked map page]]."
 facts:
   - k: "First wave"
     v: "Aug 18-26, 2026"
@@ -22,17 +22,21 @@ facts:
   - k: "Legal action"
     v: "Take-Two subpoenas (Discord, Microsoft, X)"
   - k: "Full build released"
-    v: "No"
+    v: "Xbox-build release reported Nov 24; not independently checked"
 faq:
   - q: "What is CyberLeek?"
     a: "An anonymous account that posted GTA 6 gameplay clips and an image of the full Leonida map in August 2026, and a roughly 24-minute video in October 2026. Its identity has not been made public."
   - q: "Did Rockstar confirm the CyberLeek footage was real?"
     a: "Rockstar acknowledged the leaks on Aug 26, 2026, calling them 'heartbreaking for our team', but it did not verify any specific clip or the map."
   - q: "Did CyberLeek leak the full game?"
-    a: "No. CyberLeek told Kotaku on Oct 14, 2026 that it would not release the full build or more footage, and none had appeared by Nov 15."
+    a: "GameSpot reports an Xbox-build release on November 24, superseding the earlier October refusal. We have not authenticated the files. Its reported PC boot attempt ends at a black screen, not a verified playable PC port."
   - q: "Is the leaked GTA 6 map accurate?"
     a: "Unknown. GTABase thinks it may come from a 2023 build, and the November Collector's Box poster agrees on Lummox County but differs elsewhere. The in-game map on Nov 19 settles it."
 sources:
+  - title: "Xbox-build leak report and unofficial PC boot attempt"
+    url: "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/"
+    publisher: "GameSpot (Darryn Bonthuys)"
+    date: "Nov 24, 2026; 3:23 AM PST"
   - title: "Rockstar Games issues GTA 6 leaks statement and game update after Cyberleek shares footage"
     url: "https://www.ladbible.com/entertainment/gaming/rockstar-gta-leaks-grand-theft-auto-155567-20260826"
     publisher: "LADbible"
@@ -68,7 +72,7 @@ sources:
 related: ["world/gta-6-leaked-map-and-counties", "timeline/gta-6-2022-leak", "leaks/index"]
 ---
 
-CyberLeek is the anonymous account behind the biggest GTA 6 leaks of 2026: at least 16 gameplay videos and an image of the full Leonida map between August 18 and 26, then a roughly 24-minute video on October 8. That it leaked real material is <span class="tag-reported">reported</span>, since Rockstar acknowledged the leaks but never verified a specific clip. Its threat to release the full build is <span class="tag-debunked">debunked</span>.
+CyberLeek is the anonymous account behind the biggest GTA 6 leaks of 2026: at least 16 gameplay videos and an image of the full Leonida map between August 18 and 26, then a roughly 24-minute video on October 8. That it leaked real material is <span class="tag-reported">reported</span>, since Rockstar acknowledged the leaks but never verified a specific clip. The October refusal to release a build is now historical: GameSpot reports an Xbox-build release on November 24, without establishing a playable PC port. <span class="tag-reported">reported</span>
 
 We describe what was reported. We do not link to or host leaked footage.
 
@@ -80,7 +84,16 @@ We describe what was reported. We do not link to or host leaked footage.
 | Aug 26, 2026 | Rockstar statement on the leaks | <span class="tag-confirmed">confirmed</span> |
 | Aug 27, 2026 | Rockstar's official "An Extended Look" premieres on Netflix | <span class="tag-confirmed">confirmed</span> |
 | Oct 8, 2026 | "An Extended Leek", about 24 minutes, including nudity and a debug menu | <span class="tag-reported">reported</span> |
-| Oct 14, 2026 | CyberLeek tells Kotaku it will not release the full build or more footage | <span class="tag-reported">reported</span> |
+| Oct 14, 2026 | CyberLeek tells Kotaku it will not release the full build or more footage; historical statement, not a permanent guarantee | <span class="tag-reported">reported</span> |
+| Nov 24, 2026 | GameSpot reports an Xbox-build release and an unofficial PC boot attempt ending at a black screen | <span class="tag-reported">reported</span> |
+
+## What changed in the November 24 build report?
+
+[Darryn Bonthuys reports for GameSpot](https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/) that CyberLeek released an Xbox build. The article describes an unofficial PC boot attempt, via Eurogamer, that starts and then reaches a black screen. It also relays a group's goal of making a playable version within a week. **A group's target is not a verified result or a release date.** <span class="tag-reported">reported</span>
+
+We have not downloaded, authenticated or run any files. This report does not establish their contents, safety or a playable PC port, and it does not announce an official PC version. We do not link to files, mirrors, servers or setup instructions. The [[release/gta-6-pc-release-date#does-the-reported-xbox-build-leak-mean-gta-6-is-playable-on-pc|PC guide]] separates the claim from official platform support.
+
+**November 24 correction:** calling the earlier build threat permanently debunked was too strong. The October refusal remains a dated statement; the newer release claim is reported, not independently confirmed here. The unrelated sales claims and predictions about Rockstar's response in the GameSpot article are not evidence used for this update.
 
 ## Motive and money
 
@@ -109,7 +122,7 @@ The official Collector's Box poster that leaked November 12-14 also shows "Lummo
 | CyberLeek leaked real GTA 6 material | <span class="tag-reported">reported</span> (Rockstar acknowledged leaks, not specifics) |
 | The map shows the final county layout | <span class="tag-rumour">rumour</span> |
 | The footage is from the launch build | <span class="tag-rumour">rumour</span> (likely older) |
-| CyberLeek will release the full build | <span class="tag-debunked">debunked</span> |
+| An Xbox build was released, per GameSpot Nov 24 | <span class="tag-reported">reported</span>, files not authenticated here |
 | CyberLeek's no-disc complaint | <span class="tag-confirmed">confirmed</span> (code in box) |
 
 ## What would flip it
