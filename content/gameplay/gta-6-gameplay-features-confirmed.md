@@ -24,6 +24,8 @@ facts:
   - k: "Map"
     v: "About 2x GTA 5 (reported)"
 faq:
+  - q: "Can you reduce the HUD in GTA 6?"
+    a: "TechRadar's November 24 report describes minimizing HUD elements with a D-pad button. It does not specify the direction, a complete settings list or whether every element can be hidden, so this is not an exact control guide."
   - q: "What gameplay features are confirmed for GTA 6?"
     a: "First-party: Jason and Lucia as playable leads, story-gated switching, an optional romance, diet and exercise changing bodies, and radio and podcasts on foot. Nearly everything else is reported via previews."
   - q: "Why are most GTA 6 features graded 'reported' and not 'confirmed'?"
@@ -33,6 +35,11 @@ faq:
   - q: "Is GTA 6 multiplayer at launch?"
     a: "No. Rockstar's June 2026 pricing announcement called GTA 6 'a single-player experience', and no GTA 6 online mode has been announced."
 sources:
+  - title: "Stuart Petri on the HUD and UI design"
+    url: "https://www.techradar.com/gaming/gta-6-dev-says-rockstar-evolved-the-hud-by-pushing-the-design-language-forward-keeping-the-player-immersed-while-keeping-the-heritage-of-gta-the-game-is-what-matters-most-and-the-ui-is-there-to-serve-that-experience"
+    publisher: "TechRadar (Rob Dwiar)"
+    date: "Nov 24, 2026; checked Nov 25"
+    tier: "primary"
   - title: "Rob Nelson and Scott Mitchell on mission difficulty and fail states"
     url: "https://www.destructoid.com/gta-6-dev-interview-on-rails-story-easy/"
     publisher: "Destructoid (Scott Duwe)"
@@ -259,6 +266,14 @@ In TechRadar's November 23 developer notes, **David Hynd, vice president of tech
 This is not a claim that mission failures are gone, that every objective accepts every approach or that story-gated character switching has been removed. See the [[gameplay/gta-6-character-switching#does-experimenting-still-cause-a-mission-failure|mission-design explanation and limits]] for the direct source and the distinction between more freedom and unrestricted play.
 
 In Destructoid's November 24 interview, Rob Nelson also describes aiming between GTA IV and V in difficulty, with some open-world content offering more challenge. Scott Mitchell says the team tried to avoid overusing failure states while retaining cinematic sequences. <span class="tag-reported">reported</span> (developer statements) These are design aims, not new difficulty modes or a patch. See [[gameplay/gta-6-character-switching#why-can-story-missions-feel-more-forgiving|story difficulty and its limits]].
+
+## Can you reduce HUD clutter?
+
+[TechRadar's November 24 developer notes](https://www.techradar.com/gaming/gta-6-dev-says-rockstar-evolved-the-hud-by-pushing-the-design-language-forward-keeping-the-player-immersed-while-keeping-the-heritage-of-gta-the-game-is-what-matters-most-and-the-ui-is-there-to-serve-that-experience), reported by Rob Dwiar, quote **Stuart Petri, vice president of art for 2D/UI design**, on updating the interface while retaining familiar GTA elements: the Pricedown font, mini-map, wanted stars and Wasted screen. Petri describes an interface that should be available when needed without distracting from the world. <span class="tag-reported">reported</span> (developer statement)
+
+The article also describes using **a D-pad button to minimize UI elements**, or showing more information such as the map, wallet, status bars and buffs. That interaction is the article's description, separate from Petri's broader design comments. It does **not** name the D-pad direction, give a full settings path or establish that every element can be hidden independently. We have not tested the controls on either console.
+
+This is a design explanation and a reported display option, not a new patch, a complete accessibility-options audit, a performance improvement or proof of an entirely HUD-free mode. The [[gameplay/gta-6-phone-and-social-media|phone guide]] covers the separately reported in-game apps; reducing HUD clutter does not establish different phone controls or remove mission restrictions.
 
 ## Movement and ambient animation
 
