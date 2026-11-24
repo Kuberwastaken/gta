@@ -2,14 +2,14 @@
 title: "GTA 6 soundtrack album: all 57 Deluxe tracks and the original 34"
 seoTitle: "GTA 6 Album Deluxe: Full 57-Song Tracklist and Release Date"
 shortTitle: "The Album (soundtrack)"
-description: "GTA VI: The Album Deluxe adds 23 bonus tracks to the original 34. Read Rockstar's full 57-song list, November 23 release details and score/radio distinctions."
+description: "Rockstar lists 57 GTA VI Deluxe Album tracks. Compare the full list with four reported iTunes-exclusive additions and the separate score and radio."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-24
-verified: 2026-11-24
+updated: 2026-11-25
+verified: 2026-11-25
 weight: 3
 tags: ["music", "soundtrack"]
-tldr: "**The Album (Deluxe Edition)** adds **23 bonus tracks** to the original 34, for **57 songs**. Rockstar now lists tracks 1–57; the US Apple Music listing dates the Deluxe Edition **November 23**. The expanded Album is not a new game patch, a complete radio-song list or the separate Justice score album due December 11."
+tldr: "**The Album (Deluxe Edition)** adds **23 bonus tracks** to the original 34, for **57 songs**. Rockstar now lists tracks 1–57; the US Apple Music listing dates the Deluxe Edition **November 23**. Billboard separately reports **four iTunes-exclusive additions**, for 61, on November 24; the first-party pages checked here still show 57. The expanded Album is not a new game patch, a complete radio-song list or the separate Justice score album due December 11."
 facts:
   - k: "Release date"
     v: "Deluxe: November 23, 2026"
@@ -27,7 +27,7 @@ faq:
   - q: "When does the GTA 6 soundtrack come out?"
     a: "The original 34-song Album was announced for November 19, while release listings and reporting date it November 20. The Deluxe Edition is dated November 23 on Apple Music. Justice's separate score album follows December 11."
   - q: "How many songs are on GTA 6: The Album?"
-    a: "The original edition has 34 tracks. The Deluxe Edition adds 23 for 57 total, and Rockstar lists all 57 titles and artists."
+    a: "Rockstar lists 34 original tracks plus 23 Deluxe additions, for 57. Billboard reports four more iTunes-exclusive songs on November 24, for 61; the Rockstar page and US Apple Deluxe listing checked here still show 57. We have not verified the specific 61-track storefront offer."
   - q: "Is Dua Lipa on the GTA 6 soundtrack?"
     a: "Yes. Rockstar's current music page lists Go Easy by Dua Lipa on the 34-track Album. This is now first-party confirmation, not just the earlier packaging report."
   - q: "Is the GTA 6 album the same as the radio?"
@@ -35,6 +35,14 @@ faq:
   - q: "Is there a physical GTA 6 soundtrack?"
     a: "Yes. Rockstar lists CD and vinyl formats. This is a format summary, not a current stock, price or shipping check. Several outlets noted the irony that the album gets physical formats while the game's boxed edition has no disc."
 sources:
+  - title: "Four reported iTunes-exclusive Album additions"
+    url: "https://www.billboard.com/music/rb-hip-hop/grand-theft-auto-6-album-adds-more-songs-itunes-exclusive-1236387736/"
+    publisher: "Billboard (Michael Saponara)"
+    date: "Nov 24, 2026; checked Nov 25"
+  - title: "Four more Album songs reported exclusive to iTunes"
+    url: "https://www.complex.com/music/a/backwoodsaltar/grand-theft-auto-vi-album-more-songs"
+    publisher: "Complex (Joe Price)"
+    date: "Nov 24, 2026; checked Nov 25"
   - title: "The Album Deluxe release and original edition date"
     url: "https://www.billboard.com/music/music-news/gta-6-album-deluxe-offset-travis-scott-slayyyter-anitta-1236387752/"
     publisher: "Billboard (Michael Saponara)"
@@ -178,6 +186,21 @@ The following **tracks 35–57** follow Rockstar's current order and credits, ch
 The final five tracks are credited to Overmono. This does not replace the separate Justice album's announced December 11 release. In particular, **Power Trip** is both an artist name on track 52 and JENNIE's track title at number 21; they are different entries.
 
 No claim here assigns these tracks to story scenes, named missions or particular radio stations. The Deluxe album's existence also does not mean a previously purchased CD or vinyl contains all 57 tracks. The physical formats below describe the earlier offers; we have not checked new Deluxe physical products, stock, prices or shipping.
+
+## What are the four reported iTunes-exclusive songs?
+
+**November 25 source check:** [Billboard's November 24 report](https://www.billboard.com/music/rb-hip-hop/grand-theft-auto-6-album-adds-more-songs-itunes-exclusive-1236387736/), by Michael Saponara, says four more songs were released exclusively on iTunes that day, taking that reported edition to **61 tracks**. [Complex's November 24 report](https://www.complex.com/music/a/backwoodsaltar/grand-theft-auto-vi-album-more-songs), by Joe Price, also reports four additions exclusive to iTunes. <span class="tag-reported">reported</span>
+
+| Track | Artist | Source status |
+| --- | --- | --- |
+| Sensimilla | 100 gecs | Named by Billboard |
+| There Is Only Us | Favored Nations | Named by Billboard |
+| Hotel Alphonso | Joe Armon-Jones | Named by Billboard |
+| Playa Rosa | Alex Frankel | Named by Billboard |
+
+**Keep the editions separate.** In this check, [Rockstar's music page](https://www.rockstargames.com/VI/music) still ends at track 57, while the [US Apple Music Deluxe listing](https://music.apple.com/us/album/grand-theft-auto-vi-the-album-deluxe-edition/6837496123) still says 57 songs and 2 hours 55 minutes. We have not recovered and verified a specific 61-track iTunes purchase page, its price, runtime or regional availability. Those first-party pages do not disprove the press report, but they do not independently verify its storefront offer either.
+
+The four rows above are therefore a **separate reported addition**, not invented official track numbers 58–61 or a replacement for the first-party Deluxe list. An iTunes purchase exclusive is not a promise that every Apple Music subscriber or other streaming service receives the songs. No physical reissue, new in-game music patch, radio-station assignment or change to the December 11 Justice score release follows from this report. The articles' chart ambitions and projections are not chart results.
 
 ## Is the GTA 6 soundtrack on vinyl and CD?
 

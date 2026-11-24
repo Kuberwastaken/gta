@@ -5,8 +5,8 @@ shortTitle: "Music and radio"
 description: "GTA VI music: Billboard reports 23 stations and 800-plus songs. Compare seven official previews, the 57-song Deluxe Album, Justice score and Spotify links."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-24
-verified: 2026-11-24
+updated: 2026-11-25
+verified: 2026-11-25
 weight: 1
 tags: ["music", "radio", "soundtrack"]
 tldr: "The **Deluxe Album** now has 57 listed songs, the original 34 plus 23 bonus tracks. Billboard reports **23 stations** and Pavlovich says **800-plus songs**; Rockstar has **seven selected radio previews** and lists **three Justice singles** ahead of the December 11 score album. Spotify's November 20 GTA destination adds station playlists and franchise music history."
@@ -70,6 +70,9 @@ Tom Petty's "Love Is a Long Road" in [[media/gta-6-trailer-1|Trailer 1]] (Decemb
 ## What is the difference between The Album and the score?
 
 The Album began with 34 original songs by many artists. **Rockstar now lists all 57 Deluxe titles and artists**, adding 23 bonus tracks to that original edition. The [[music/gta-6-soundtrack-album|Album guide]] follows that current order, including the corrected Young Thug title.
+
+Billboard separately reports four iTunes-exclusive additions on November 24, for 61 tracks in that reported edition. Rockstar's page and the US Apple Deluxe listing still show 57 in our November 25 check. The [[music/gta-6-soundtrack-album#what-are-the-four-reported-itunes-exclusive-songs|Album guide's dated note]] lists the four reported songs and the unverified storefront limits; this is not a general streaming or physical-edition upgrade. <span class="tag-reported">reported</span>
+
 
 The score is Justice's adaptive music, with its album still dated **December 11**. Rockstar currently lists **Starting from Zero**, **Flower in a Hurricane** and **Pusher** as score singles. The first two also appear on The Album, so the earlier claim of only one shared track is stale. See the [[music/gta-6-justice-score|Justice score guide]] for the distinction between available singles and the later album.
 
