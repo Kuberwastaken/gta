@@ -5,8 +5,8 @@ shortTitle: "Phone and social media"
 description: "GTA 6's phone has Snapmatic, BuckMe banking, the Waink car scanner, RydeMe rides and Scooter Bros. Jason and Lucia can't post publicly; they're fugitives."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 5
 tags: ["phone", "gameplay", "money"]
 tldr: "Previews name five GTA 6 phone apps: Snapmatic (social feed), BuckMe (banking), Waink (car scanner), RydeMe (ride-hailing) and Scooter Bros (vehicle delivery). **Jason and Lucia can't post publicly because they're fugitives**, but they can DM photos to each other."
@@ -31,10 +31,15 @@ faq:
   - q: "What is Snapmatic in GTA 6?"
     a: "An Instagram and TikTok parody whose feed shows NPC events and livestreams happening in the world in real time."
   - q: "What does the Waink app do?"
-    a: "It scans a car before you steal it: security tier, tracker, registration cost and resale value."
+    a: "Previews describe car checks for security tier, tracker, registration cost and resale value. PC Gamer’s released-game guide also describes Waink It poster scans that unlock two radio playlists; one set is access-gated."
   - q: "Can you listen to the radio on your phone in GTA 6?"
     a: "Yes. Rockstar says radio and podcasts play on foot through the phone, a first for the series."
 sources:
+  - title: "GTA 6 unique playlists and poster scanning: hands-on guide"
+    url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/"
+    publisher: "PC Gamer (Andrea Shearon; contributions Christopher Livingston)"
+    date: "Nov 21, 2026; checked Nov 24"
+    tier: "primary"
   - title: "GTA 6 gameplay: Key details that you might have missed"
     url: "https://www.redbull.com/us-en/gta-6-gameplay-details"
     publisher: "Red Bull"
@@ -95,6 +100,12 @@ No public posts. Snapmatic is a window onto Leonida rather than a megaphone: you
 Rockstar treats influencer culture as a core target, and its official bios show it <span class="tag-confirmed">confirmed</span>. The [[characters/real-dimez|Real Dimez]] turned shaking down local dealers into money "via spicy rap tracks and a relentless social media presence", and Dazed reports their arc "can be traced via in-game viral social media posts" <span class="tag-reported">reported</span>. [[characters/cal-hampton|Cal Hampton]] spends his evenings "snooping on Coast Guard comms with a few beers and some private browser tabs open."
 
 Trailer 1 set the tone by recreating real Florida viral clips, such as the alligator wandering into a convenience store <span class="tag-reported">reported</span>. More on [[media/gta-6-easter-eggs-in-trailers|trailer easter eggs]].
+
+## Can the phone unlock radio playlists?
+
+[PC Gamer's November 21 hands-on guide](https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/) describes **Waink It** notifications and poster scans that unlock **The Sniper of La Perle** and **The Vault Radio**. The former needs four scans; the latter needs one. One of the four posters is in a story-gated location, so this is not a claim that every scan is available at the start. <span class="tag-reported">reported</span>
+
+This adds a reported scanning use beyond the earlier car checks. It does not prove a real-world phone app, a Spotify sign-in requirement or that every object can be scanned. The [[music/gta-6-radio-stations#are-some-radio-playlists-locked-at-the-start|radio guide]] separates the unlock evidence from station totals and links to the detailed walkthrough. We have not tested the triggers on every save or patch.
 
 ## What do BuckMe and Waink do?
 

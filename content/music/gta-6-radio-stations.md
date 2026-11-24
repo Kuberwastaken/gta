@@ -35,9 +35,16 @@ faq:
     a: "Yes. Flash FM returns from GTA Vice City as a pop station hosted by Robyn and Alex. Rockstar calls it 'The Vice City institution'."
   - q: "Can you listen to the radio on foot in GTA 6?"
     a: "Yes, through the phone. Rockstar says it is a series first. Podcasts play the same way."
+  - q: "Are all GTA 6 radio playlists unlocked from the start?"
+    a: "No, according to PC Gamer’s released-game guide. It reports that The Sniper of La Perle and The Vault Radio unlock through in-game poster scans with the phone. One poster is access-gated, so this is not a promise that both are immediately available on a new save."
   - q: "Are V-Rock and Emotion 98.3 in GTA 6?"
     a: "Not confirmed. Wikipedia lists them as returning, but that rests on leaks and press reports. Neither appears on Rockstar's music page."
 sources:
+  - title: "GTA 6 unique playlists and poster scanning: hands-on guide"
+    url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/"
+    publisher: "PC Gamer (Andrea Shearon; contributions Christopher Livingston)"
+    date: "Nov 21, 2026; checked Nov 24"
+    tier: "primary"
   - title: "Rockstar and Justice on GTA VI's music: direct interviews"
     url: "https://www.billboard.com/music/features/gta-6-radio-songs-soundtrack-justice-billboard-cover-1236386805/"
     publisher: "Billboard (Carl Lamarre and Katie Bain)"
@@ -121,6 +128,21 @@ The original six previews below retain their previously checked song samples. St
 Spotify's first-party November 20 announcement separately confirms the Bad Bunny/RaiNao, Morgan Wallen/Lana Del Rey and Robyn/Alex Consani host pairings. That is stronger than the earlier press attribution for those particular names; other persona-to-artist mappings above retain their earlier press sourcing.
 
 Cocoteo FM's tagline is "El party que nunca se apaga", and the original six previews remain the historical basis for the sampled songs listed above. Back Country Radio is billed as "airboat-ready", and Den of Geek called it the first dedicated country station since San Andreas after Tammy Wynette showed up in the [[music/gta-6-trailer-songs|Trailer 2 radio snippets]]. Dufrene, who voices Mud Dog Mike, is Lana Del Rey's husband, per Man of Many. AfroBank FM signs off its blurb with "Turn up the gbedu." The Chamber's blurb opens "Crushing metal has landed in Leonida", and Slayer play their own "Raining Blood" on it.
+
+## Are some radio playlists locked at the start?
+
+**Yes, according to PC Gamer's released-game guide.** [Andrea Shearon's November 21 guide, with contributions from Christopher Livingston](https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/), describes two playlists unlocked by scanning posters with the phone's **Waink It** app. This is hands-on reporting, not a Rockstar unlock checklist or our own test of every save. <span class="tag-reported">reported</span>
+
+| Playlist | Reported unlock | Access limit |
+| --- | --- | --- |
+| The Sniper of La Perle | Scan four posters around La Perle and Crosstown; PC Gamer describes a 22-track Kodak Black playlist | One poster is inside a location that becomes accessible through story progress, so finding the other three is not enough |
+| The Vault Radio | Scan one poster at The Vault nightclub | PC Gamer locates it on the back wall beyond the entrance corridor; we have not checked every save state |
+
+The guide says the phone gives a nearby-scan notification and describes the shops appearing on its writer's map while driving around. That is useful evidence of how discovery works, not a guarantee that every marker appears at a fixed distance or that every poster is accessible as soon as free roam opens. Its [full walkthrough](https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/) includes location images and the specific access requirement; it contains more detail than this summary.
+
+PC Gamer also reports that these unlocks count toward **100% completion**. We have not independently audited the completion checklist or tested whether a patch changes the triggers. A playlist being locked does not mean an audio bug is preventing playback, and these are in-game scans, not real-world QR codes or Spotify-account links.
+
+Keep this separate from the counts above: two reported unlockable playlists must not simply be added to Billboard's 23-station figure, since the sources do not use a shared counting method. They are not two extra soundtrack albums or a complete released-game station inventory. The [[gameplay/gta-6-phone-and-social-media#can-the-phone-unlock-radio-playlists|phone guide]] covers the scanning use alongside the earlier car-scanner reports.
 
 ## Which old stations are coming back?
 
