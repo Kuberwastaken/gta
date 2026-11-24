@@ -33,6 +33,11 @@ faq:
   - q: "Is GTA 6 multiplayer at launch?"
     a: "No. Rockstar's June 2026 pricing announcement called GTA 6 'a single-player experience', and no GTA 6 online mode has been announced."
 sources:
+  - title: "Ben Lyons on vehicle simulation and aircraft physics"
+    url: "https://www.techradar.com/gaming/gta-6-technical-director-explains-how-rockstar-completely-rewrote-the-vehicle-simulation-for-believability-and-how-unique-aircraft-offered-a-higher-fidelity-experience-every-gta-is-an-evolution-from-the-last"
+    publisher: "TechRadar (Rob Dwiar)"
+    date: "Nov 24, 2026"
+    tier: "primary"
   - title: "David Hynd on mission freedom and fewer failure states"
     url: "https://www.techradar.com/gaming/the-team-embraced-more-of-an-open-ended-design-philosophy-on-this-project-gta-6-dev-says-rockstar-added-fewer-mission-fails-for-players-experimenting-and-wanted-to-encourage-players-to-do-what-felt-right-to-them-for-their-particular-playstyle"
     publisher: "TechRadar (Rob Dwiar)"
@@ -235,6 +240,12 @@ Details: [[gameplay/gta-6-money-banks-and-fences|money and fences]], [[gameplay/
 | Floods, surfing physics | Unconfirmed | <span class="tag-rumour">rumour</span> |
 
 Details: [[world/gta-6-map-size|map size]], [[world/gta-6-interiors|interiors]], [[world/gta-6-wildlife-and-animals|wildlife]], [[world/gta-6-weather-and-hurricanes|weather]].
+
+## Vehicle simulation and aircraft physics
+
+In TechRadar's November 24 developer notes, **Ben Lyons, technical director for physics**, describes rebuilding simulation across vehicle types. Aircraft simulate individual airfoils, propellers, control surfaces and different engine types, with weather and damage affecting behavior. <span class="tag-reported">reported</span> (developer statement)
+
+This is a production account, not a new physics patch, an aircraft inventory or a flight-performance benchmark. See the [[gameplay/gta-6-vehicles#what-did-rockstar-change-in-the-vehicle-simulation|vehicle simulation explanation]] for the direct source and limits. The statement does not establish storm frequency or exact failure and recovery rules.
 
 ## Mission freedom and failure states
 

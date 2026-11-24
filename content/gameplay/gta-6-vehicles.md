@@ -5,8 +5,8 @@ shortTitle: "Vehicles"
 description: "Rockstar names seven GTA 6 vehicles, from the '95 Grotti Cheetah to Jason's Vapid Ganado. Plus fan IDs, security-tier car theft, fuel and the Waink app."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-20
-verified: 2026-11-20
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 3
 tags: ["vehicles", "gameplay", "editions"]
 tldr: "Rockstar names **the '95 Grotti Cheetah, '55 Vapid Stanier, Vapid Ganado, Dinka Enduro, Crest Kayak, Shitzu Squalo and '67 Vapid Dominator Buggy**. Previews add security tiers for car theft, fuel, trunk storage and the Waink app. There is no official vehicle count."
@@ -32,9 +32,16 @@ faq:
     a: "Yes, per previews. Cars have a fuel gauge, you refuel by holding a button for about 10 seconds, and engine health is tracked."
   - q: "Can you keep stolen cars in GTA 6?"
     a: "Previews say yes: you can register a stolen car for a fee. The Waink app shows the registration cost and resale value first."
+  - q: "Does weather affect aircraft in GTA 6?"
+    a: "Technical director for physics Ben Lyons tells TechRadar that aircraft simulate individual airfoils, propellers, control surfaces and engine types, affected by turbulence, clouds and weather. He also describes variable damage effects. This is a developer account, not a tested failure threshold or forecast for every flight."
   - q: "What is the Grotti Cheetah based on?"
     a: "Fans read Grotti as Ferrari, so the '95 Cheetah as a Ferrari homage. Rockstar has never stated real-world equivalents for its brands."
 sources:
+  - title: "Ben Lyons on vehicle simulation and aircraft physics"
+    url: "https://www.techradar.com/gaming/gta-6-technical-director-explains-how-rockstar-completely-rewrote-the-vehicle-simulation-for-believability-and-how-unique-aircraft-offered-a-higher-fidelity-experience-every-gta-is-an-evolution-from-the-last"
+    publisher: "TechRadar (Rob Dwiar)"
+    date: "Nov 24, 2026"
+    tier: "primary"
   - title: "GTA 6 police and the Heat system"
     url: "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/"
     publisher: "Engadget"
@@ -128,6 +135,24 @@ Yes. Fuel gauges return and refuelling means holding a button for about 10 secon
 The practical adjustment is to leave more braking room while learning a car and keep a repair buffer, rather than assume GTA V muscle memory will transfer unchanged. A repair observation also does not independently verify every preview claim above about fuel, security tiers or registration.
 
 In the same outlet's direct interview, **Rob Nelson says pouring engine coolant into a car was an example of a maintenance interaction the team did not include**. <span class="tag-confirmed">confirmed</span> (developer statement in an interview) Detailed driving therefore does not mean every real-world maintenance chore is simulated. That distinction belongs with the [[gameplay/gta-6-activities-and-side-content|wider design approach to side activities]], not an unsupported claim that vehicle upkeep has disappeared.
+
+## What did Rockstar change in the vehicle simulation?
+
+In [TechRadar's November 24 developer notes](https://www.techradar.com/gaming/gta-6-technical-director-explains-how-rockstar-completely-rewrote-the-vehicle-simulation-for-believability-and-how-unique-aircraft-offered-a-higher-fidelity-experience-every-gta-is-an-evolution-from-the-last), **Ben Lyons, technical director for physics**, says Rockstar rewrote the simulation for every vehicle type to add detail and make handling more believable. This is a developer's account of production work, separate from the released-game review above and not a newly delivered physics patch. <span class="tag-reported">reported</span>
+
+Lyons says members of the team built and raced cars after GTA V, learning about setup, modification, tire failures and crashes. They also raced dirt bikes to better understand two wheels versus four and on-road versus off-road behavior. That explains the experience informing the work; it does not turn GTA VI into a racing simulator or establish that every real-world adjustment is available to the player.
+
+### How do aircraft respond to weather and damage?
+
+Lyons describes aircraft simulation in terms of **individual airfoils, propellers and control surfaces**, along with different engine types. He says turbulence, clouds and weather can affect these systems, and that damage or a part breaking can produce more varied behavior for the player to counter. <span class="tag-reported">reported</span> (developer statement)
+
+| What the developer describes | What remains unverified here |
+| --- | --- |
+| Simulation rebuilt across vehicle types | A quantified improvement, identical handling across models or a full technical specification |
+| Aircraft parts and engine types simulated individually | An exact damage threshold, complete failure list or guaranteed recovery input |
+| Turbulence, clouds and weather affecting aircraft | Storm frequency, every aircraft's behavior in every condition or a universal crash rule |
+
+The comments do not provide a full aircraft roster, ownership rules, a tuning-menu inventory or performance benchmarks. They also do not say every component has a visible damage indicator. The [[world/gta-6-weather-and-hurricanes|weather guide]] covers the separately sourced storm reports and patch fixes; a flight-physics description is not a forecast of how often those conditions occur. We have not flight-tested every model or patch.
 
 ## What other vehicle systems are reported?
 
