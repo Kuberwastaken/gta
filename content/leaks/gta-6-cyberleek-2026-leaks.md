@@ -33,6 +33,10 @@ faq:
   - q: "Is the leaked GTA 6 map accurate?"
     a: "Unknown. GTABase thinks it may come from a 2023 build, and the November Collector's Box poster agrees on Lummox County but differs elsewhere. The in-game map on Nov 19 settles it."
 sources:
+  - title: "Private unofficial PC project: limited in-game claim and authenticity caveat"
+    url: "https://www.dsogaming.com/news/grand-theft-auto-6-unofficial-pc-port-cgbj-now-reaches-in-game/"
+    publisher: "DSOGaming (John Papadopoulos)"
+    date: "Nov 24, 2026; checked 20:08 IST"
   - title: "Xbox-build leak report and unofficial PC boot attempt"
     url: "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/"
     publisher: "GameSpot (Darryn Bonthuys)"
@@ -92,6 +96,8 @@ We describe what was reported. We do not link to or host leaked footage.
 [Darryn Bonthuys reports for GameSpot](https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/) that CyberLeek released an Xbox build. The article describes an unofficial PC boot attempt, via Eurogamer, that starts and then reaches a black screen. It also relays a group's goal of making a playable version within a week. **A group's target is not a verified result or a release date.** <span class="tag-reported">reported</span>
 
 We have not downloaded, authenticated or run any files. This report does not establish their contents, safety or a playable PC port, and it does not announce an official PC version. We do not link to files, mirrors, servers or setup instructions. The [[release/gta-6-pc-release-date#does-the-reported-xbox-build-leak-mean-gta-6-is-playable-on-pc|PC guide]] separates the claim from official platform support.
+
+**Later November 24 claim:** [DSOGaming reports](https://www.dsogaming.com/news/grand-theft-auto-6-unofficial-pc-port-cgbj-now-reaches-in-game/) that a private project called CGBJ reaches limited in-game interaction, with missing lighting and poor performance. The author explicitly warns that the footage could be fake. We grade that progress claim <span class="tag-rumour">rumour</span>, not an authenticated playable port. The earlier black-screen report remains a dated account, not a universal limit on every later claim. No project files, code, footage or instructions were accessed for this update. The [[release/gta-6-pc-release-date#later-november-24-claim-limited-in-game-interaction-not-verified-here|PC guide]] separates the newer claim and its limits.
 
 **November 24 correction:** calling the earlier build threat permanently debunked was too strong. The October refusal remains a dated statement; the newer release claim is reported, not independently confirmed here. The unrelated sales claims and predictions about Rockstar's response in the GameSpot article are not evidence used for this update.
 

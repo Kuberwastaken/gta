@@ -2,7 +2,7 @@
 title: "GTA 6 PC release date: not announced, but a Q1 2027 report"
 seoTitle: "GTA 6 PC Release Date: Not Announced, Q1 2027 Report"
 shortTitle: "PC release date"
-description: "No official GTA 6 PC release is announced. Separate the Q1 2027 report from a reported Xbox-build leak and black-screen PC boot attempt, not a playable port."
+description: "No official GTA 6 PC release is announced. Separate the Q1 2027 report from a reported Xbox-build leak and black-screen PC boot attempt, not a verified playable port."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-24
@@ -33,6 +33,10 @@ faq:
   - q: "What are the GTA 6 PC system requirements?"
     a: "There are none. Rockstar has published no PC specs, so any requirements list is made up."
 sources:
+  - title: "Private unofficial PC project: limited in-game claim and authenticity caveat"
+    url: "https://www.dsogaming.com/news/grand-theft-auto-6-unofficial-pc-port-cgbj-now-reaches-in-game/"
+    publisher: "DSOGaming (John Papadopoulos)"
+    date: "Nov 24, 2026; checked 20:08 IST"
   - title: "Xbox-build leak report and unofficial PC boot attempt"
     url: "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/"
     publisher: "GameSpot (Darryn Bonthuys)"
@@ -99,6 +103,12 @@ No. Cloud support at launch covers Xbox One and Xbox Series X|S consoles only, s
 | GameSpot reports an Xbox-build release | An official PC build, verified file contents or a safe download |
 | A reported boot attempt stops at a black screen | Playable missions, stable gameplay, compatibility or performance |
 | A group's reported one-week goal | A reliable release date or a Rockstar commitment |
+
+### Later November 24 claim: limited in-game interaction, not verified here
+
+A [newer DSOGaming report by John Papadopoulos](https://www.dsogaming.com/news/grand-theft-auto-6-unofficial-pc-port-cgbj-now-reaches-in-game/) says a private project called **CGBJ** can reach an in-game state with controller movement, NPC interaction and the menu. The same article describes missing lighting and poor performance, says the project has no public download and explicitly warns that the footage **could be fake**. Its mention of another account's claimed verification is not an independent authentication by this site. <span class="tag-rumour">rumour</span>
+
+That means the earlier GameSpot black-screen account should not be read as the latest claimed ceiling for every project. It does **not** establish a verified playable PC port, complete missions, stability, safe files, a public release or a changed Rockstar schedule. We have not watched or authenticated the underlying footage or accessed the projects. We link only to the reporting, not its code, file or setup destinations.
 
 A console build is not a released PC port. The group's confidence and the article's suggestion that this could pressure Rockstar are not evidence that the official schedule has changed. The older **Q1 2027** report remains separate and unconfirmed. Rockstar's [current out-now page](https://www.rockstargames.com/VI/out-now), rechecked November 24, names PS5 and Xbox Series X|S, not PC.
 
