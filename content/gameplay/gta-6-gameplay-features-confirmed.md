@@ -5,8 +5,8 @@ shortTitle: "Confirmed features list"
 description: "Every GTA 6 gameplay feature in graded tables: six wanted stars, heat, a 2+2 gun loadout, fuel, hurricanes, 170+ animals, story-gated switching, fences and apps."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-23
-verified: 2026-11-23
+updated: 2026-11-24
+verified: 2026-11-24
 weight: 1
 tags: ["gameplay", "wanted-system", "weapons", "vehicles", "money"]
 tldr: "Rockstar itself confirms **two playable leads with story-gated switching**, an optional romance and radio on foot. Six wanted stars, a two-handgun, two-long-gun loadout, fuel, bank vs cash vs loot, 170+ animal species and hurricanes come from Rockstar staff via press, graded reported."
@@ -33,6 +33,11 @@ faq:
   - q: "Is GTA 6 multiplayer at launch?"
     a: "No. Rockstar's June 2026 pricing announcement called GTA 6 'a single-player experience', and no GTA 6 online mode has been announced."
 sources:
+  - title: "David Hynd on mission freedom and fewer failure states"
+    url: "https://www.techradar.com/gaming/the-team-embraced-more-of-an-open-ended-design-philosophy-on-this-project-gta-6-dev-says-rockstar-added-fewer-mission-fails-for-players-experimenting-and-wanted-to-encourage-players-to-do-what-felt-right-to-them-for-their-particular-playstyle"
+    publisher: "TechRadar (Rob Dwiar)"
+    date: "Nov 23, 2026; checked Nov 24"
+    tier: "primary"
   - title: "How Rockstar Made Every NPC Feel Alive in GTA 6"
     url: "https://sea.ign.com/grand-theft-auto-vi-rumored-title/252295/how-rockstar-made-every-npc-feel-alive-in-gta-6"
     publisher: "IGN (Kirk Mckeand)"
@@ -230,6 +235,12 @@ Details: [[gameplay/gta-6-money-banks-and-fences|money and fences]], [[gameplay/
 | Floods, surfing physics | Unconfirmed | <span class="tag-rumour">rumour</span> |
 
 Details: [[world/gta-6-map-size|map size]], [[world/gta-6-interiors|interiors]], [[world/gta-6-wildlife-and-animals|wildlife]], [[world/gta-6-weather-and-hurricanes|weather]].
+
+## Mission freedom and failure states
+
+In TechRadar's November 23 developer notes, **David Hynd, vice president of technology**, says Rockstar reduced mission failures for experimentation and used more regular mechanics and AI inside missions. The aim was to support different approaches and make rules learned outside missions useful within them. <span class="tag-reported">reported</span> (developer statement)
+
+This is not a claim that mission failures are gone, that every objective accepts every approach or that story-gated character switching has been removed. See the [[gameplay/gta-6-character-switching#does-experimenting-still-cause-a-mission-failure|mission-design explanation and limits]] for the direct source and the distinction between more freedom and unrestricted play.
 
 ## Movement and ambient animation
 
