@@ -2,15 +2,19 @@
 title: "GTA 6 sales: Take-Two reports $3.79 billion day one, 32.5 million pre-release units"
 seoTitle: "GTA 6 Sales: $3.79B Day One, 32.5M Pre-Release Units"
 shortTitle: "Sales and pre-orders"
-description: "Sony reports 39M+ unique GTA 6 PS5 players through Nov 22. Compare that player metric with Take-Two's $3.79B day-one retail sales and 32.5M pre-release units."
+description: "Alinea estimates 44.9M GTA 6 copies through Nov 22. Separate analyst sell-through from Take-Two retail sales and Sony unique-player metrics."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-24
 verified: 2026-11-24
 weight: 16
 tags: ["release", "sales", "take-two"]
-tldr: "Take-Two's **November 20 release** reports **$3.79B in day-one retail sales**, based on company estimates through the end of November 19 worldwide, and **32.5M units sold pre-release**. Those are different measures, not figures to add together. Sony separately reports **39M+ unique PS5 players** and **683M hours** for November 19–22. Players are not copies sold. Earlier analyst estimates remain dated context below."
+tldr: "Take-Two's **November 20 release** reports **$3.79B in day-one retail sales**, based on company estimates through the end of November 19 worldwide, and **32.5M units sold pre-release**. Those are different measures, not figures to add together. Sony separately reports **39M+ unique PS5 players** and **683M hours** for November 19–22. Players are not copies sold. Alinea separately estimates **44.9M sold-through copies** and **$4B+** for November 19–22. That is a third-party estimate, not a newer company total; older forecasts below are historical."
 facts:
+  - k: "Alinea weekend sell-through"
+    v: "44.9M copies (estimate, Nov 22)"
+  - k: "Alinea four-day revenue"
+    v: "$4B+ (estimate, Nov 19–22)"
   - k: "PS5 unique players"
     v: "39M+, Nov 19–22 (SIE data)"
   - k: "PS5 gameplay hours"
@@ -36,6 +40,8 @@ facts:
   - k: "FY27 guide"
     v: "$8.0-8.2B net bookings"
 faq:
+  - q: "Did GTA 6 sell 45 million copies in four days?"
+    a: "Alinea Analytics estimates 44.9 million sold-through copies through November 22, excluding unsold retail inventory. This is a third-party estimate, not a Take-Two or Rockstar four-day disclosure, and it is separate from Sony unique-player figures."
   - q: "Did GTA 6 sell 39 million copies on PS5?"
     a: "Sony reports more than 39 million unique PS5 players for November 19–22, not copies sold. The post does not supply a unit-sales conversion, Xbox total or numeric concurrent-player peak."
   - q: "How many pre-orders does GTA 6 have?"
@@ -43,12 +49,17 @@ faq:
   - q: "Is GTA 6 the most pre-ordered game ever?"
     a: "Take-Two's November 20 release calls the 32.5M pre-release units a new record across all platforms. Sony and Microsoft also made their own store-record statements on November 11. These record claims are attributed to their issuers."
   - q: "How many copies will GTA 6 sell?"
-    a: "Most first-year analyst forecasts sit between 31M (Wolfe Research) and 45M (Bank of America); Morningstar says 60-70M in FY27. GTA V sold 11.21M in its first 24 hours."
+    a: "Older pre-launch forecasts are preserved below, not current results or revised post-launch calls. Alinea estimates 44.9M sold-through copies through Nov 22; Take-Two separately disclosed 32.5M pre-release units. Their scope and dates differ."
   - q: "Has GTA 6 made $1 billion?"
     a: "Take-Two reports $3.79B in day-one retail sales, based on company estimates through the end of November 19 worldwide. Retail sales are not profit or Take-Two's reported net bookings."
   - q: "Did Take-Two's stock go up because of GTA 6?"
     a: "Shares rose about 8% after the Nov 9 report, even though quarterly bookings fell 18% and missed Take-Two's own guidance."
 sources:
+  - title: "GTA 6 launch-weekend sell-through and engagement estimates"
+    url: "https://alineaanalytics.substack.com/p/gta-6-sells-449m-copies-makes-40b"
+    publisher: "Alinea Insight / Rhys Elliott, Alinea Analytics"
+    date: "Nov 23, 2026; checked Nov 24"
+    tier: "primary"
   - title: "GTA VI launch-window PlayStation records and engagement"
     url: "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/"
     publisher: "PlayStation Blog / Tim Turi, Sony Interactive Entertainment"
@@ -129,7 +140,23 @@ GTA 6 is the most pre-ordered game in the history of both console stores. On Nov
 | Units sold pre-release | 32.5 million | A pre-release unit total, not a count of additional launch-day copies |
 | Record claim | Biggest entertainment launch; pre-release unit record across platforms | Take-Two's comparison, not an independent audit by this site |
 
-**Do not add pre-release units to the retail-sales dollars, derive a launch-day unit total by dividing by one edition's price, or treat the retail figure as net profit.** The release does not give a full platform split, a refund-adjusted methodology or a bridge from retail spending to Take-Two's accounting measures. It also does not supply a later cumulative total as of November 23.
+**Do not add pre-release units to the retail-sales dollars, derive a launch-day unit total by dividing by one edition's price, or treat the retail figure as net profit.** The release does not give a full platform split, a refund-adjusted methodology or a bridge from retail spending to Take-Two's accounting measures. It also does not supply a launch-weekend cumulative total. The third-party estimate below is not an update issued by Take-Two.
+
+## Did GTA 6 sell 44.9 million copies in its first weekend?
+
+**November 24 source check:** [Rhys Elliott's November 23 Alinea Insight post](https://alineaanalytics.substack.com/p/gta-6-sells-449m-copies-makes-40b) estimates **44.9 million sold-through copies** by the end of November 22, excluding unsold retail inventory. It also estimates **more than $4 billion in revenue from sold-through copies** over November 19–22. These are **Alinea Analytics estimates**, not a Rockstar or Take-Two four-day disclosure. <span class="tag-reported">reported</span> (third-party estimates)
+
+| Measure | Alinea estimate | Scope and limit |
+| --- | --- | --- |
+| Sold-through copies | 44.9 million | Through November 22; excludes unsold retail inventory |
+| PS5 copies | 33.7 million (75.1%) | Estimated share of that same total |
+| Xbox Series X\|S copies | 11.2 million (24.9%) | Estimated share of that same total |
+| Revenue | More than $4 billion | Four-day sold-through revenue estimate, not profit or net bookings |
+| Daily active players | About 40.8 million | People who played on November 22, not simultaneous players or copies sold |
+
+The post puts about 76% of that Sunday's daily active players on PS5. That share measures **players**, while 75.1% above measures estimated **copies**. Neither is Sony's separate four-day unique-player disclosure below. A daily count, a multi-day unique-player count and a unit total cannot be added together or treated as interchangeable.
+
+Do not add the 44.9 million to Take-Two's 32.5 million pre-release units: the later cumulative estimate is not a count of additional purchases after launch. Nor should subtracting figures from different issuers become a verified post-launch sales calculation. We have read Alinea's account, not independently audited its model, raw panel or retail coverage. Its PC and Online timing expectations are speculation, not release announcements.
 
 ## What did Sony report about PS5 players and records?
 
@@ -229,4 +256,4 @@ Rockstar has not said. Head of publishing Jennifer Kolbe denied the budget excee
 
 ## What comes next
 
-The first company launch figures are now available above. A later cumulative unit disclosure and the Oct–Dec financial report will answer different questions. The November 9 $3.35–3.5B quarterly net-bookings guide must not be compared one-for-one with $3.79B in consumer retail sales: they have different scope and accounting treatment. Prices behind the estimates are on [[release/gta-6-price-and-editions|price and editions]]; the rest of launch week is on the [[release/index|release hub]].
+The first company launch figures are now available above. Alinea's later cumulative estimate above is not a new company disclosure. A later Take-Two unit disclosure and the Oct–Dec financial report will answer different questions. The November 9 $3.35–3.5B quarterly net-bookings guide must not be compared one-for-one with $3.79B in consumer retail sales: they have different scope and accounting treatment. Prices behind the estimates are on [[release/gta-6-price-and-editions|price and editions]]; the rest of launch week is on the [[release/index|release hub]].

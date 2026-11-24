@@ -82,6 +82,6 @@ Three things. Finish the pre-load, open since Nov 10, with up to 212 GB free. In
 - [[release/gta-6-age-rating|Age rating]]: ESRB M, PEGI 18 and 21+ in the Gulf.
 - [[release/gta-6-day-one-patch|Day-one patch]]: update 1.002.000.
 - [[release/gta-6-gta-online-status|GTA Online status]]: single-player only at launch.
-- [[release/gta-6-sales-and-pre-orders|Sales and pre-orders]]: Take-Two's retail-sales disclosure, Sony's November 19–22 PS5 player metrics and dated analyst estimates.
+- [[release/gta-6-sales-and-pre-orders|Sales and pre-orders]]: Take-Two's retail-sales disclosure, Alinea's separately labelled launch-weekend sell-through estimate and Sony's PS5 player metrics. These are different measures, not totals to add together.
 
 For the story and the map, go to [[characters/index|the characters]] and [[world/index|Leonida]]. Short answers are in the [[guides/gta-6-faq|GTA 6 FAQ]].
