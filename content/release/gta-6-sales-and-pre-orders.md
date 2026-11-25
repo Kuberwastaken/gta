@@ -2,15 +2,17 @@
 title: "GTA 6 sales: Take-Two reports $3.79 billion day one, 32.5 million pre-release units"
 seoTitle: "GTA 6 Sales: $3.79B Day One, 32.5M Pre-Release Units"
 shortTitle: "Sales and pre-orders"
-description: "Alinea estimates 44.9M GTA 6 copies through Nov 22. Separate analyst sell-through from Take-Two retail sales and Sony unique-player metrics."
+description: "GTA 6 weekend estimates differ: Alinea 44.9M, Sensor Tower 47.8M via Forbes. Separate analyst estimates, company retail sales and Sony players."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-24
-verified: 2026-11-24
+updated: 2026-11-25
+verified: 2026-11-25
 weight: 16
 tags: ["release", "sales", "take-two"]
-tldr: "Take-Two's **November 20 release** reports **$3.79B in day-one retail sales**, based on company estimates through the end of November 19 worldwide, and **32.5M units sold pre-release**. Those are different measures, not figures to add together. Sony separately reports **39M+ unique PS5 players** and **683M hours** for November 19–22. Players are not copies sold. Alinea separately estimates **44.9M sold-through copies** and **$4B+** for November 19–22. That is a third-party estimate, not a newer company total; older forecasts below are historical."
+tldr: "Take-Two's **November 20 release** reports **$3.79B in day-one retail sales**, based on company estimates through the end of November 19 worldwide, and **32.5M units sold pre-release**. Those are different measures, not figures to add together. Sony separately reports **39M+ unique PS5 players** and **683M hours** for November 19–22. Players are not copies sold. Alinea separately estimates **44.9M sold-through copies** and **$4B+** for November 19–22. Sensor Tower separately estimates **47.8M copies by the same Sunday**, via Forbes. Different estimators are not a sales-growth series or a newer company total; older forecasts below are historical."
 facts:
+  - k: "Sensor Tower weekend copies"
+    v: "47.8M (estimate via Forbes, Nov 22)"
   - k: "Alinea weekend sell-through"
     v: "44.9M copies (estimate, Nov 22)"
   - k: "Alinea four-day revenue"
@@ -40,6 +42,8 @@ facts:
   - k: "FY27 guide"
     v: "$8.0-8.2B net bookings"
 faq:
+  - q: "Did GTA 6 sell 47.8 million copies in its launch weekend?"
+    a: "Sensor Tower estimates 47.8 million by Sunday November 22, according to Forbes reporting. Alinea separately estimates 44.9 million sold-through copies for that weekend. Neither is a new Take-Two disclosure, and the difference is not verified sales growth."
   - q: "Did GTA 6 sell 45 million copies in four days?"
     a: "Alinea Analytics estimates 44.9 million sold-through copies through November 22, excluding unsold retail inventory. This is a third-party estimate, not a Take-Two or Rockstar four-day disclosure, and it is separate from Sony unique-player figures."
   - q: "Did GTA 6 sell 39 million copies on PS5?"
@@ -55,6 +59,11 @@ faq:
   - q: "Did Take-Two's stock go up because of GTA 6?"
     a: "Shares rose about 8% after the Nov 9 report, even though quarterly bookings fell 18% and missed Take-Two's own guidance."
 sources:
+  - title: "Sensor Tower launch-weekend estimates reported to Forbes"
+    url: "https://finance.yahoo.com/media-advertising/articles/gta-vi-sold-47-million-204825980.html"
+    publisher: "Forbes / Conor Murray, syndicated by Yahoo Finance"
+    date: "Nov 24, 2026; checked Nov 25"
+    tier: "secondary"
   - title: "GTA 6 launch-weekend sell-through and engagement estimates"
     url: "https://alineaanalytics.substack.com/p/gta-6-sells-449m-copies-makes-40b"
     publisher: "Alinea Insight / Rhys Elliott, Alinea Analytics"
@@ -158,6 +167,22 @@ The post puts about 76% of that Sunday's daily active players on PS5. That share
 
 Do not add the 44.9 million to Take-Two's 32.5 million pre-release units: the later cumulative estimate is not a count of additional purchases after launch. Nor should subtracting figures from different issuers become a verified post-launch sales calculation. We have read Alinea's account, not independently audited its model, raw panel or retail coverage. Its PC and Online timing expectations are speculation, not release announcements.
 
+## Why do Alinea and Sensor Tower give different weekend sales totals?
+
+**November 25 source check:** [Conor Murray's November 24 Forbes report, syndicated by Yahoo Finance](https://finance.yahoo.com/media-advertising/articles/gta-vi-sold-47-million-204825980.html), says Sensor Tower estimates **47.8 million copies by Sunday, November 22**. That differs from Alinea's **44.9 million sold-through copies** for the same launch weekend. These are two third-party estimates, not successive official counts. <span class="tag-reported">reported</span> (analyst estimates)
+
+| Source | Reported weekend result | What it establishes |
+| --- | --- | --- |
+| Alinea's own November 23 post | 44.9M sold-through copies; explicitly excludes unsold retail inventory | Alinea's estimate through the weekend, with its stated sell-through scope |
+| Sensor Tower data shared with Forbes, November 24 report | 47.8M copies by Sunday | A separate model's estimate, read through the reporting rather than verified as a current tracker reading |
+| Take-Two's November 20 release | $3.79B day-one retail sales; 32.5M pre-release units | Different measures and cutoff; no cumulative weekend unit total in that release |
+
+The reports do not provide enough comparable methodology to reconcile the two weekend estimates or decide which is closer to actual sales. Do not average them into a new number, subtract them to claim extra sales, apply Alinea's platform split to Sensor Tower's total, or describe the higher estimate as a Take-Two revision. Sensor Tower's [own tracker](https://sensortower.com/grand-theft-auto-VI/sales-tracker) again exposed no readable totals in our check; the figure above is explicitly **via Forbes**, not our tracker measurement.
+
+Forbes also relays Sensor Tower estimates that **37% of players had spent more than 20 hours** in the game by Sunday evening, including **7% over 40 hours**. Alinea's post puts about **20% over 20 hours**. The difference is another reason not to splice the models together or treat their player panels as a census. Neither percentage establishes the campaign's length.
+
+The report associates the launch with lower daily activity in competing games compared with the preceding 30 days. Those short-window estimates are not evidence that every lost session moved to GTA VI or that those players have permanently left another game. We have not independently audited either analyst's underlying model or raw data.
+
 ## What did Sony report about PS5 players and records?
 
 **November 24 update:** [Sony's November 23 PlayStation Blog post](https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/), written by SIE's Tim Turi, reports engagement and records for the **launch window from November 19 through November 22, 2026**. The footnote says every figure is based on **SIE internal data**. This is a dated platform disclosure discovered in this check, not a new November 24 sales count. <span class="tag-confirmed">confirmed</span> (platform disclosure)
@@ -197,7 +222,7 @@ The current company disclosure is **32.5M pre-release units** above. These are t
 
 Do not subtract these rows to calculate daily sales, combine them into a growth chart, or silently treat publication date as the date of the estimate. We preserve the older reports as dated claims and now link the analyst's own account directly. Sensor Tower's live tracker did not expose readable current totals in our check, so newer figures repeated elsewhere are not promoted here as verified tracker readings.
 
-Sensor Tower also calls its Nov 10 snapshot the largest pre-launch total on record. That is the firm's comparative claim, not a cross-platform record independently certified by Rockstar. Its forecasts of attention moving away from other games are forecasts, not observed post-launch results.
+Sensor Tower also calls its Nov 10 snapshot the largest pre-launch total on record. That is the firm's comparative claim, not a cross-platform record independently certified by Rockstar. The pre-launch post's forecasts of attention moving away from other games remain forecasts; the later Forbes report above separately relays post-launch engagement estimates.
 
 The older Nov 11 platform split gives PlayStation about 75%, or 7.73M units worth about $751M, and Xbox about 2.58M units worth about $250M. Sensor Tower also estimates 89% of pre-orders are the $99.99 Ultimate Edition. <span class="tag-reported">reported</span> The numbers hang together: $1.0B over 10.31M units is about $97 a copy, close to an Ultimate-heavy mix. <span class="tag-speculation">speculation</span>
 
