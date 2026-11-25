@@ -5,8 +5,8 @@ shortTitle: "Age rating"
 description: "GTA 6 is rated ESRB M (Mature 17+), PEGI 18, CERO Z, R18+ in Australia, 19+ in Korea and 21+ in Saudi Arabia and the UAE. Descriptors and the deleted PEGI text."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-25
+verified: 2026-11-25
 weight: 13
 tags: ["release", "rating"]
 tldr: "GTA 6 is rated **ESRB M (Mature 17+)** in North America and **PEGI 18** in Europe, 18+ in Germany, Japan, Australia and Brazil, 19+ in South Korea and 21+ in Saudi Arabia and the UAE. The ESRB listing has an In-Game Purchases notice but no \"Users Interact\" label, which fits a game with no online mode at launch."
@@ -24,6 +24,8 @@ facts:
   - k: "South Korea"
     v: "19+ (adults only)"
 faq:
+  - q: "Is GTA 6 different in Australia and New Zealand?"
+    a: "IGN and The Sydney Morning Herald report that the Australian version lacks an optional cocaine-inventory stamina-buff mechanic. Reports also cover New Zealand, with IGN qualifying that part as reported. This is not a complete regional-content audit or a new ratings-board order."
   - q: "What is GTA 6 rated?"
     a: "ESRB M (Mature 17+) in the US and Canada and PEGI 18 in Europe. South Korea's GCRB rated it 19+ on Oct 16, and Saudi Arabia and the UAE rate it 21+."
   - q: "Why is GTA 6 rated M?"
@@ -33,6 +35,19 @@ faq:
   - q: "Does GTA 6 have microtransactions? Why does the rating say In-Game Purchases?"
     a: "Rob Nelson of Rockstar North told Kinda Funny in late August 2026 that single-player has no real-money purchases. The notice most likely covers the $20 Ultimate upgrade and GTA+."
 sources:
+  - title: "GTA VI Australian classification record"
+    url: "https://www.classification.gov.au/titles/grand-theft-auto-vi-12"
+    publisher: "Australian Classification"
+    date: "Aug 27, 2026; checked Nov 25"
+    tier: "primary"
+  - title: "Australian and New Zealand regional-content reporting"
+    url: "https://pk.ign.com/grand-theft-auto-vi-rumored-title/264505/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz"
+    publisher: "IGN / Luke Reilly"
+    date: "Nov 25, 2026"
+  - title: "Australian regional-content comparison and board response"
+    url: "https://www.smh.com.au/technology/video-games/weed-yes-coke-no-aussies-are-playing-a-censored-version-of-gta-vi-20261125-p61h1j.html"
+    publisher: "The Sydney Morning Herald / David Swan and Vince Rugari"
+    date: "Nov 25, 2026"
   - title: "Grand Theft Auto VI (ESRB rating)"
     url: "https://www.esrb.org/ratings/41627/grand-theft-auto-vi/"
     publisher: "ESRB"
@@ -83,7 +98,7 @@ Vice Atlas compiled these listings and links each board's database. <span class=
 | PEGI (Europe, UK) | 18 | Drugs, sex, violence; In-Game Purchases | ~Oct 1–2, 2026 |
 | USK (Germany) | 18 | Explicit violence, drugs, criminal role models | Xbox Sep 13, PS5 Oct 13 |
 | CERO (Japan) | Z (18+) | Crime, violence | By Oct 18 |
-| Australia | R18+ | Drug use, high-impact violence, sex scenes | — |
+| Australia | R18+ | Drug use, high-impact violence, sex scenes | Aug 27, 2026 (board record) |
 | New Zealand | R18 | — | — |
 | Brazil (ClassInd) | 18 | — | Ordinance Oct 8, gazette Oct 9 |
 | South Korea (GCRB) | 19+ (adults only) | — | Oct 16 |
@@ -109,10 +124,24 @@ PEGI's long-form content description went up around Oct 1 to 2 and was then dele
 
 One fan site reports a pegi.info search returning "No results found" on Nov 12, which may just reflect the pulled listing. The PEGI 18 rating itself, with its In-Game Purchases notice, is widely reported. <span class="tag-reported">reported</span>
 
+## Is the Australian or New Zealand version different?
+
+**November 25 reporting:** [IGN's Luke Reilly](https://pk.ign.com/grand-theft-auto-vi-rumored-title/264505/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz) and [The Sydney Morning Herald's David Swan and Vince Rugari](https://www.smh.com.au/technology/video-games/weed-yes-coke-no-aussies-are-playing-a-censored-version-of-gta-vi-20261125-p61h1j.html) report a specific regional difference: the Australian version lacks the optional cocaine-inventory mechanic that gives a temporary stamina buff. Their coverage also extends to New Zealand, though IGN explicitly qualifies the NZ version as **reported**. <span class="tag-reported">reported</span>
+
+This is narrower than saying all drug content was removed. IGN says other drug-use depictions remain in the Australian game. The Herald interviewed Lance McDonald about his comparison with an American player's footage; we have not independently tested regional copies. Nor have we established a full list of edits, checked every platform or verified which account, disc or installation conditions determine a player's regional build. Do not treat these reports as instructions to change account regions or buy the game again.
+
+| Evidence | What it does and does not show |
+| --- | --- |
+| [Australian Classification's official record](https://www.classification.gov.au/titles/grand-theft-auto-vi-12) | R18+ classification dated August 27; describes interactive marijuana and white-powder use. That does not identify every mechanic or prove all regional builds match. |
+| IGN and the Herald's November 25 reporting | Describes a missing optional inventory/stamina mechanic, not a new rating, recall or complete ban |
+| Classification Board response to the Herald | The board says it does not cut or modify content or direct others to do so; variations are a developer matter. That is not a board order to remove this feature. |
+
+The Herald says Rockstar was contacted for comment, but supplies no Rockstar response. The reports connect the difference to Australia's restrictions on drug use linked to rewards; that does not establish that New Zealand imposed the same requirement or that the change was made after classification. A mature rating alone was never proof either of cuts or of identical worldwide content. Keep the official rating and these reported build differences separate.
+
 ## Is GTA 6 OK for kids?
 
 No board thinks so. The lowest rating anywhere is the ESRB's 17+, and most boards set 18. Xbox also bars restricted child accounts from the free GTA+ month that comes with digital pre-orders. <span class="tag-confirmed">confirmed</span> For what the content actually involves, from drug-running in [[world/leonida-keys|the Keys]] to the [[gameplay/gta-6-phone-and-social-media|social-media satire]], see [[gameplay/gta-6-gameplay-features-confirmed|confirmed gameplay features]].
 
 ## What we're watching
 
-Whether PEGI republishes its full listing, and whether any region requires cuts. A censored cut of the Extended Look appeared in China on Aug 31, 2026, but no Chinese rating for the game has been reported. Back to the [[release/index|release hub]].
+Whether PEGI republishes its full listing, and whether Rockstar or repeatable regional tests clarify the reported differences above. A censored cut of the Extended Look appeared in China on Aug 31, 2026, but no Chinese rating for the game has been reported. Back to the [[release/index|release hub]].
