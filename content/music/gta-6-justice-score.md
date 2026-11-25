@@ -5,8 +5,8 @@ shortTitle: "Justice score"
 description: "French duo Justice composed GTA 6's adaptive original score. The album is out Dec 11, 2026 with 30 tracks on CD and vinyl. Singles, formats and what is known."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-24
-verified: 2026-11-24
+updated: 2026-11-26
+verified: 2026-11-26
 weight: 4
 tags: ["music", "soundtrack"]
 tldr: "**Justice** (Gaspard Augé and Xavier de Rosnay) composed GTA 6's adaptive original score. *Grand Theft Auto VI: Original Score* releases **December 11, 2026**, three weeks after the game, with **30 tracks** on CD and vinyl plus digital bonus tracks. Rockstar currently lists three score singles: 'Starting from Zero', 'Flower in a Hurricane' and 'Pusher'. Compare it with [[music/gta-6-soundtrack-album|The Album]]."
@@ -33,8 +33,13 @@ faq:
   - q: "Is the Justice score the same as GTA 6: The Album?"
     a: "No. The Album began with 34 songs; its November 23 Deluxe Edition adds 23 for 57 total. The Original Score is Justice's instrumental and adaptive music for the game, out Dec 11. Starting from Zero and Flower in a Hurricane are currently listed for both releases."
   - q: "What is an adaptive score?"
-    a: "Music that changes with what the player is doing. Rockstar says the compositions are 'dynamically tuned' to how players engage with the world, but has not explained the triggers."
+    a: "Music that responds to play. Alastair MacGregor tells Final Weapon that GTA VI uses non-linear composition and real-time sequencing, mixing and processing based on player choices and actions. It is a developer account, not a complete trigger map or a benchmark."
 sources:
+  - title: "Alastair MacGregor on non-linear adaptive score technology"
+    url: "https://finalweapon.net/2026/11/25/gta-6-interview-rockstar-games-world-design-music-combat/"
+    publisher: "Final Weapon / Noah Hunter"
+    date: "Nov 25, 2026; checked Nov 26"
+    tier: "primary"
   - title: "Rockstar and Justice on GTA VI's music: direct interviews"
     url: "https://www.billboard.com/music/features/gta-6-radio-songs-soundtrack-justice-billboard-cover-1236386805/"
     publisher: "Billboard (Carl Lamarre and Katie Bain)"
@@ -76,9 +81,23 @@ On October 15, 2026, with the [[media/gta-6-launch-trailer|Launch Trailer]], whi
 
 ## What is an adaptive score?
 
-Music that responds to play rather than running as a fixed track. Rockstar's description is "expansive compositions all dynamically tuned to the different ways players engage with the world" <span class="tag-confirmed">confirmed</span>, and it bills Justice as "Grammy Award winners". That is the full extent of Rockstar's explanation. It hasn't said what triggers changes, whether missions and free roam behave differently, or how the score and the [[music/gta-6-radio-stations|radio]] share the mix in a car.
+Music that responds to play rather than running as a fixed track. Rockstar's description is "expansive compositions all dynamically tuned to the different ways players engage with the world" <span class="tag-confirmed">confirmed</span>, and it bills Justice as "Grammy Award winners". That is the official product-page description; the November 25 developer interview below now adds an account of how the technology changed. Neither source gives a complete trigger map or explains every interaction with the [[music/gta-6-radio-stations|radio]] mix in a car.
 
-The newer direct interview below adds production detail, but does not provide a complete trigger map or technical implementation guide.
+The interviews below separate the technology behind the adaptive score from the composers' production process and the album release.
+
+## How does GTA VI adapt the score during play?
+
+**November 25 developer account:** in [Final Weapon's pre-launch Q&A, published by Noah Hunter](https://finalweapon.net/2026/11/25/gta-6-interview-rockstar-games-world-design-music-combat/), **Alastair MacGregor, vice president of audio**, says personalization was the goal for music accompanying both the story and the open world. He names collaboration with **Justice and Overmono**. <span class="tag-reported">reported</span> (developer interview)
+
+MacGregor says Rockstar replaced its traditional **multi-stem system**, which limited harmonic progression and song structure, with a **non-linear approach to composition, asset production and playback**. In his account, the game sequences, mixes and processes the score in real time in response to player choices and actions. This adds technical context to the older description of music being dynamically tuned to play.
+
+| What the interview establishes | What it does not establish |
+| --- | --- |
+| Rockstar describes a change from its traditional multi-stem score approach to non-linear composition and playback | That no stems are used anywhere in the game, including licensed songs |
+| The score is sequenced, mixed and processed during play | Exact trigger conditions, transition timing, latency, memory use or console performance |
+| MacGregor names Justice and Overmono in the collaboration | A complete per-track credit list, an additional album or a revised release date |
+
+The separate Billboard account below describes song stems used in some sequences. That is not necessarily the same layer as the reactive score technology MacGregor discusses, so neither statement cancels out the other. We have not inspected game files or measured the audio system. This is a production explanation, **not a November 25 audio patch**, a new player-selectable music mode or evidence that the physical album's 30-track listing has changed. No song placements or story examples are needed here.
 
 ## What did Justice say about making the score?
 
