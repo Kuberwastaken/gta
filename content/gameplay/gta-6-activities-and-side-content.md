@@ -5,8 +5,8 @@ shortTitle: "Activities and side content"
 description: "GTA 6's 18 reported side activities, from scuba diving and hunting to gyms, tattoo parlors and circuit racing, plus how dates and workouts change Jason and Lucia."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-23
-verified: 2026-11-23
+updated: 2026-11-25
+verified: 2026-11-25
 weight: 8
 tags: ["gameplay", "wildlife", "guides"]
 tldr: "Previews list 18 activities, including **fishing, hunting, scuba diving, skydiving, jet skis, basketball, mini-golf, pool, gyms, barbers, tattoo parlors and circuit racing**. Partner activities feed Jason and Lucia's relationship, and gyms change physique and stamina."
@@ -24,6 +24,8 @@ facts:
   - k: "Playtime"
     v: "About 80 hours with optional content (reported)"
 faq:
+  - q: "Why is tennis missing from GTA 6?"
+    a: "PC Games' November 25 interview with Rob Nelson and Scott Mitchell reports that tennis was planned but its implementation did not meet the team's standard. The report describes a development decision, not a promised tennis update."
   - q: "Do GTA 6 discoveries depend on returning to a place?"
     a: "Rockstar exploration designer Ghyan Koehne told Game8 that some content needs repeat visits or nighttime, and some locations tell stories over visits separated by days. The interview gives no universal timer and does not say every place changes."
   - q: "What activities are in GTA 6?"
@@ -37,6 +39,11 @@ faq:
   - q: "How long is GTA 6 with side content?"
     a: "Rob Nelson reportedly put his playthrough at about 80 hours. Outlets disagree on whether that includes side content; some say it pushes past 100."
 sources:
+  - title: "Rob Nelson and Scott Mitchell on activities considered and omitted"
+    url: "https://www.pcgames.de/GTA-6-Spiel-55239/News/Rob-Nelson-Interview-Features-Aktivitaeten-Rockstar-1561016/"
+    publisher: "PC Games / Michael Grünwald"
+    date: "Nov 25, 2026"
+    tier: "primary"
   - title: "Ghyan Koehne on layered exploration and ambient discoveries"
     url: "https://game8.co/articles/latest/gta-6-has-enough-secrets-and-content-for-years-to-come-rockstar-says"
     publisher: "Game8 (Lawrence Serafico)"
@@ -149,6 +156,20 @@ This does **not** supply an exact enterable-building count, a percentage of the 
 Nelson describes activities as extensions of the wider controls and physical simulation. He gives pool's physics and weightlifting's physical interaction as examples. Basketball has a specific limit: players can move around and shoot, but **cannot play full matches**. A basketball entry in the preview list above should not be read as a complete competitive basketball game.
 
 This interview explains selected inclusions and omissions, not an exhaustive list of everything removed during development. It supplies no release schedule for additions. For other unannounced systems, keep the [[leaks/index|leaks ledger]] separate from the playable-activity list.
+
+## Why were tennis and other planned interactions left out?
+
+**November 25 interview:** [PC Games' Michael Grünwald spoke with Rob Nelson and Scott Mitchell](https://www.pcgames.de/GTA-6-Spiel-55239/News/Rob-Nelson-Interview-Features-Aktivitaeten-Rockstar-1561016/) during the outlet's review period. The German-language report says **tennis was planned**, but the implementation did not meet Rockstar's standard, while activities such as mini-golf made the finished game. This adds to the separate VGC explanation of omitted darts and bowling above. <span class="tag-reported">reported</span> (direct interview account)
+
+| Interaction discussed in PC Games | Reported production decision |
+| --- | --- |
+| Tennis minigame | Planned, but its implementation did not satisfy the team |
+| Crawling, furnishing the protagonists' home and crafting items | Considered, then left out; the account says some ideas did not fit the story or gameplay |
+| Cinema and theatre visits | Omitted because Rockstar did not consider them interactive enough |
+
+These are our English paraphrases of the outlet's account, not verbatim English developer quotations. The report does not assign the same reason to every cut, give a complete removed-feature inventory, or say how far each idea reached in development. It also does not announce their return through a patch, DLC or an online mode. A considered home-furnishing system is not evidence of a working property-purchase system; see [[world/gta-6-interiors|interiors and property claims]].
+
+Nelson also points to the protagonists' relationship as a feature the team values, and the article connects the quieter character moments to lessons from Red Dead Redemption 2. That explains the stated design approach, not a measured playtime or a promise that every activity changes the relationship. Our [[characters/jason-and-lucia-relationship|relationship guide]] keeps the supported systems separate.
 
 ## Is casino gambling a playable activity?
 
