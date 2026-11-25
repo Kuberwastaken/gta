@@ -5,8 +5,8 @@ shortTitle: "Collector's Box"
 description: "The $399.99 GTA 6 Collector's Box (£349.99, €399.99) holds 11 items, from a Macca figure to Oakley Frogskins, but no game. One per account, Rockstar Store only."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-21
-verified: 2026-11-21
+updated: 2026-11-25
+verified: 2026-11-25
 weight: 8
 tags: ["release", "editions", "physical", "price"]
 tldr: "The GTA 6 Collector's Box, **The Goodtime State – Vice City Collection**, costs **$399.99 and does not include the game**. Rockstar Store only, one per account, 18+, shipping from Nov 19 with no free shipping. Its 11 items include a Macca the Gator figure, Oakley Frogskins and the Leonida map poster that leaked on Nov 12."
@@ -26,6 +26,8 @@ facts:
   - k: "Ships"
     v: "From Nov 19, 2026"
 faq:
+  - q: "Are official GTA 6 Panini trading cards coming?"
+    a: "Panini America's November 24 announcement names a separate licensed GTA VI: Sports Trading Card Collection for December 2026. The announcement gives box-average inserts and rare parallels, but no exact date, price or country-by-country availability. It is not part of the eleven-item Collector's Box list."
   - q: "Does the GTA 6 Collector's Edition include the game?"
     a: "No. Rockstar's listing says the game is 'sold separately'. Box plus Standard is $479.98 in the US, plus shipping."
   - q: "Where can I buy the GTA 6 Collector's Box?"
@@ -35,6 +37,11 @@ faq:
   - q: "What is in the GTA 6 Collector's Box?"
     a: "Eleven items: a Macca the Gator figure, Oakley Frogskins, a Leonida Keys bag, a New Era 9FORTY cap, a Macca tray, a shot glass, a swizzle spoon, a keychain, 9 pins, 9 stickers and a map poster."
 sources:
+  - title: "GTA VI: Sports Trading Card Collection announcement"
+    url: "https://blog.paniniamerica.net/panini-and-rockstar-games-announce-grand-theft-auto-vi-trading-card-collection/"
+    publisher: "Panini America"
+    date: "Nov 24, 2026; checked Nov 25"
+    tier: "primary"
   - title: "GTA 6 Collector's Edition Revealed"
     url: "https://www.vice.com/en/article/gta-6-collectors-edition-price-items-pre-order/"
     publisher: "VICE"
@@ -106,6 +113,21 @@ Macca is the star of *Macca & Friends*, a cartoon on in-game TV; his background 
 There are no in-game items or codes in the box that anyone has reported. The $20 step from Standard to Ultimate is the route to in-game extras (16 of them).
 
 The standard boxed game has no paper map at all. Rockstar now offers an [official printable map download](https://www.rockstargames.com/VI/media). <span class="tag-confirmed">confirmed</span> The earlier reported $0.99 physical offer is separate; current stock and checkout terms were not checked here. See the [[guides/gta-6-printable-map|printable map guide]].
+
+## Is the Panini trading-card collection part of this box?
+
+**No. It is a separate announced collection.** [Panini America's November 24 announcement](https://blog.paniniamerica.net/panini-and-rockstar-games-announce-grand-theft-auto-vi-trading-card-collection/), checked November 25, describes a partnership with Rockstar Games for the licensed **GTA VI: Sports Trading Card Collection**, planned for **December 2026**. It brings the game's collectible sports cards into a physical set. It is not a new game edition, an addition to the eleven-item box above or a game-access entitlement. <span class="tag-confirmed">confirmed</span> (Panini announcement)
+
+| Detail | What Panini announces |
+| --- | --- |
+| Release window | December 2026, without an exact day in the announcement |
+| Four-pack box inserts | On average: two Rookies, one Retro, one Illustrated and four Special Silvers |
+| Other parallels | Silver, Pink, Teal and Light Blue |
+| Rare numbered Legend parallels | Bronze numbered to 49, Silver to 25 and 1-of-1 Gold |
+
+The insert figures are **averages**, not a guarantee that each box has that exact mix. Numbered parallels are not a published probability of pulling one, a total print-run figure or evidence of resale value. Panini's release does not state a complete checklist, cards per pack, price, shipping terms or country-by-country availability. Its broader international distribution network does not establish that this collection will be sold in every country.
+
+This page is an announcement summary, not a live stock or pre-order check. We have not ordered a box or verified a checkout. Use Panini's own announcement for the source and wait for product-specific terms before treating a date, price or regional seller listing as settled. The [[release/gta-6-price-and-editions|game editions]] remain separate purchases.
 
 ## How did the box leak the map?
 
