@@ -5,8 +5,8 @@ shortTitle: "PC release date"
 description: "No official GTA 6 PC release is announced. Separate the Q1 2027 report from a reported Xbox-build leak and black-screen PC boot attempt, not a verified playable port."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-24
-verified: 2026-11-24
+updated: 2026-11-25
+verified: 2026-11-25
 weight: 10
 tags: ["release", "pc", "platforms", "rumours"]
 tldr: "**GTA 6 is not on PC on Nov 19**, and Rockstar has announced no PC version, store page or specs. GamesBeat reported on Oct 13, 2026, citing four unnamed sources, that **PC is planned for Q1 2027**. Xbox Cloud Gaming does not stream it to PC, and unofficial downloads are not an official PC release."
@@ -24,6 +24,8 @@ facts:
   - k: "Who announces it"
     v: "Rockstar, per Zelnick"
 faq:
+  - q: "Was the unofficial GTA 6 Leonida PC project taken down?"
+    a: "GitHub's published November 24 DMCA record says it processed a takedown against a network of 3,007 repositories. The notice claims to represent Take-Two. Publication is not a court ruling, an authentication of every allegation or proof that the project was playable."
   - q: "Is GTA 6 coming to PC?"
     a: "Not at launch, and not officially. GamesBeat's Oct 13, 2026 report, based on four unnamed sources, says Q1 2027, meaning January to March. Rockstar did not respond."
   - q: "Can I play GTA 6 on PC through Xbox Cloud Gaming?"
@@ -33,6 +35,16 @@ faq:
   - q: "What are the GTA 6 PC system requirements?"
     a: "There are none. Rockstar has published no PC specs, so any requirements list is made up."
 sources:
+  - title: "November 24 DMCA notice and GitHub network-processing annotation"
+    url: "https://github.com/github/dmca/blob/master/2026/11/2026-11-24-take-two.md"
+    publisher: "GitHub DMCA archive; notice claims Take-Two authorship"
+    date: "Nov 24, 2026; checked Nov 25"
+    tier: "primary"
+  - title: "What GitHub's publication of a DMCA notice establishes"
+    url: "https://github.com/github/dmca/"
+    publisher: "GitHub"
+    date: "Checked Nov 25, 2026"
+    tier: "primary"
   - title: "Private unofficial PC project: limited in-game claim and authenticity caveat"
     url: "https://www.dsogaming.com/news/grand-theft-auto-6-unofficial-pc-port-cgbj-now-reaches-in-game/"
     publisher: "DSOGaming (John Papadopoulos)"
@@ -115,6 +127,22 @@ A console build is not a released PC port. The group's confidence and the articl
 **November 24 correction:** our earlier blanket wording that no build existed to leak and every purported file was necessarily fake or malware went beyond what we could verify. The accurate safety advice is to avoid unofficial installers and wallet requests, not to pretend we have inspected every file. There is no official PC release established here. See the [[leaks/gta-6-cyberleek-2026-leaks#what-changed-in-the-november-24-build-report|dated leak-report update]] and [[about/corrections|corrections log]].
 
 Do not run a purported GTA VI executable from an unofficial source or connect a crypto wallet to get access. A leak claim, boot clip or promised deadline does not establish safety, legitimacy or a working game. We provide no download links, setup steps or file mirrors.
+
+## What does the Leonida GitHub takedown establish?
+
+**November 25 source check:** GitHub's [published November 24 DMCA record](https://github.com/github/dmca/blob/master/2026/11/2026-11-24-take-two.md) has a platform annotation stating that it processed a takedown against an **entire network of 3,007 repositories**. That is the network total, not 3,007 separately developed PC ports or 3,007 additional forks on top of the parent project. <span class="tag-confirmed">confirmed</span> (GitHub's processing record)
+
+The notice identifies the **Leonida** project and claims to come from Take-Two's IP Enforcement Team. It alleges copyright infringement and a breach of Rockstar's terms. Those are the submitter's claims, not a legal judgment by this site or independent authentication of the sender. We have read the published legal record, not retrieved the project, its files, mirrors or setup instructions.
+
+| Record | Limit |
+| --- | --- |
+| GitHub says the notice was processed across the network | Does not establish that every unofficial PC effort has disappeared or remains inaccessible today |
+| Notice alleges the project uses or facilitates unauthorized GTA VI material | Allegations are not an adjudicated infringement finding |
+| Project is described as an Xbox-to-PC recompilation effort | Does not prove playable missions, stable performance, safe downloads or any official PC-release date |
+
+GitHub's [archive explanation](https://github.com/github/dmca/) explicitly says that publishing a notice does not establish that the identified content was unlawful or that the named user did anything wrong; GitHub does not endorse the notice's assertions. Keep the platform's reported processing action separate from the notice's identity claim and allegations.
+
+This record does not authenticate the separate private CGBJ footage claim above, announce a Rockstar PC version, or justify predicting that a port is imminent. Rockstar's [out-now page](https://www.rockstargames.com/VI/out-now), rechecked November 25, still names PS5 and Xbox Series X|S. Our links here are to GitHub's legal archive and the official platform page, not the targeted code or alternative downloads.
 
 ## What will the PC system requirements be?
 
