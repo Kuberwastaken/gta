@@ -5,8 +5,8 @@ shortTitle: "Tips before you start"
 description: "GTA 6 tips from previews: police need a witness, pocket cash is lost on Wasted or Busted, loot needs a fence, and you carry two handguns and two long guns."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-23
-verified: 2026-11-23
+updated: 2026-11-25
+verified: 2026-11-25
 weight: 2
 tags: ["guides", "beginner", "wanted-system", "money", "weapons"]
 tldr: "Police only come if there is a witness, an alarm or a car tracker; **cash on hand is lost when you are Wasted or Busted**, so bank it; duffel-bag loot is worthless until a fence buys it; and you carry two handguns and two long guns, the rest in your car. Most of the numbered tips come from previews; the save and settings sections add released-game reporting."
@@ -27,7 +27,7 @@ faq:
   - q: "How do you save in GTA 6?"
     a: "Kotaku's testing describes pause menu > Game > Save while safely in free roam. Saving is unavailable during missions, combat or a police pursuit. Check the save before quitting rather than assuming recent free-roam activity triggered autosave."
   - q: "Can you replay completed GTA 6 missions?"
-    a: "GTA BOOM reports that the launch game has no mission-replay menu. Its tested alternative is loading a manual save made beforehand; this is not a promise of a later replay feature."
+    a: "Scott Butchard told Kotaku that Rockstar does not currently support mission replay, because it felt disconnected from the story and diminished players' choices. A prior manual save is a separately reported fallback, not a replay menu or a promise of future support."
   - q: "How does the wanted system work in GTA 6?"
     a: "Six stars, up from GTA V's five. Police only respond to a witness, an alarm or a stolen-car tracker, and a Pay 'n' Spray repairs the car and addresses its vehicle clue, not every identifying detail or regional heat."
   - q: "Do you lose money when you die in GTA 6?"
@@ -37,6 +37,11 @@ faq:
   - q: "Is auto-aim on by default in GTA 6?"
     a: "No, previews report it is off by default, and recoil is heavier than GTA V. Turn it on in settings before your first mission if you play with lock-on."
 sources:
+  - title: "Scott Butchard on why GTA VI does not currently support mission replay"
+    url: "https://kotaku.com/gta-6-ditched-mission-replay-because-it-felt-at-odds-with-the-story-2001000335"
+    publisher: "Kotaku / Ethan Gach"
+    date: "Nov 25, 2026; pre-launch email response"
+    tier: "primary"
   - title: "Grand Theft Auto VI Launch Updates (PS5 / XBOX Series X|S)"
     url: "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s"
     publisher: "Rockstar Games Support"
@@ -122,6 +127,10 @@ Before quitting:
 ### Can you replay a completed mission?
 
 GTA BOOM reports **no mission-replay menu in the launch game**. Its practical alternative is loading a manual save made before the mission. Keep that limitation in mind before starting a long section, rather than assuming a GTA V-style replay list will let you revisit it later. The report is not an announcement of future replay support or New Game+.
+
+**November 25 developer explanation:** [Kotaku's Ethan Gach publishes a pre-launch email response from senior design director Scott Butchard](https://kotaku.com/gta-6-ditched-mission-replay-because-it-felt-at-odds-with-the-story-2001000335). Butchard says Rockstar considered mission replay early in development but **does not currently support it**. He explains that replaying missions outside the ongoing game felt disconnected from the story and diminished the choices players had made. <span class="tag-confirmed">confirmed</span> (developer statement published by Kotaku)
+
+That strengthens the earlier menu-check report above, without turning the omission into a newly removed feature or a November 25 patch change. The word **currently** is not a promise to add replay later, nor a permanent guarantee that it can never return. Kotaku's speculation about future PC mods is the writer's, not a Rockstar announcement. Loading an earlier manual save also returns you to that save's state; it is not selective replay while preserving all later progress. This explanation gives no new save-slot count, recovery method or New Game+ announcement.
 
 ### Is lost progress always an autosave mistake?
 
