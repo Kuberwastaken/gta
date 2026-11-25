@@ -5,11 +5,11 @@ shortTitle: "Weather and hurricanes"
 description: "Yes. Rockstar told Game Informer GTA 6 has tropical storms and seasonal hurricanes, localized rain and lasting puddles. Frequency and damage are not disclosed."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-17
-verified: 2026-11-17
+updated: 2026-11-25
+verified: 2026-11-25
 weight: 12
 tags: ["weather", "world", "rumours"]
-tldr: "**Yes, GTA 6 has tropical storms and seasonal hurricanes**, Rockstar told Game Informer on Sep 29, 2026. Rain is localized and puddles persist after it stops. A new Weather Channel collaboration quotes Rockstar on localized, persistent weather and shows rain, sea fog and a tropical storm. Hurricane frequency and damage remain undisclosed."
+tldr: "**Yes, GTA 6 has tropical storms and seasonal hurricanes**, Rockstar told Game Informer on Sep 29, 2026. Rain is localized and puddles persist after it stops. A new Weather Channel collaboration quotes Rockstar on localized, persistent weather and shows rain, sea fog and a tropical storm. Kotaku now reports rain and fog from its own play; Rockstar's November 23 notes fix weather staying unchanged for extended periods. Hurricane frequency and damage remain undisclosed."
 facts:
   - k: "Hurricanes"
     v: "Yes, seasonal (reported)"
@@ -24,6 +24,8 @@ facts:
   - k: "Floods, surfing"
     v: "Unconfirmed"
 faq:
+  - q: "Why is it not raining in my GTA 6 game?"
+    a: "Rockstar's November 23 notes say it fixed weather staying unchanged for extended periods. Kotaku's Zack Zwiezen separately reports localized rain and fog from his own play, including flying into and out of a rainstorm. Dry skies alone do not identify a bug, a fixed rain timer or a chapter gate."
   - q: "Does GTA 6 have hurricanes?"
     a: "Yes. Rockstar told Game Informer on September 29, 2026 that the game has tropical storms and seasonal hurricanes, settling one of the oldest GTA 6 rumours."
   - q: "Can hurricanes destroy things in GTA 6?"
@@ -33,6 +35,16 @@ faq:
   - q: "Does GTA 6 have a day-night cycle?"
     a: "Yes, and it runs longer than before. Aaron Garbut told Edge the cycle is extended, with longer sunsets."
 sources:
+  - title: "Hands-on rainstorms, fog and localized weather report"
+    url: "https://kotaku.com/yes-despite-what-some-say-online-there-are-thunderstorms-in-gta-6-2001000112"
+    publisher: "Kotaku (Zack Zwiezen)"
+    date: "Nov 24, 2026; checked Nov 25"
+    tier: "primary"
+  - title: "Grand Theft Auto VI Launch Updates"
+    url: "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s"
+    publisher: "Rockstar Games Support"
+    date: "Updated Nov 23, 2026; checked Nov 25"
+    tier: "primary"
   - title: "Weather Channel: Rockstar weather statement and six screenshot thread"
     url: "https://x.com/weatherchannel/status/2122429589326798848"
     publisher: "The Weather Channel / Rockstar Games"
@@ -83,7 +95,21 @@ Everything below is from Game Informer's exclusive, except the last row, which A
 | Rainbows | Appear in the right light |
 | Day-night cycle | Longer than before, with extended sunsets (Garbut, Edge) |
 
-Localized rain is the practical change: weather becomes something you can see coming across the map and drive out of, rather than a state that flips everywhere at once <span class="tag-speculation">speculation</span>.
+Localized rain was a preview claim; Kotaku's later flight observation below supplies a concrete example of entering and leaving a rainstorm. It does not establish an exact weather schedule for every part of the map. <span class="tag-reported">reported</span>
+
+## Why might it not be raining in my game?
+
+**November 25 source check:** [Rockstar's November 23 launch-update notes](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s) say the update fixed weather staying unchanged for extended periods. That is a specific acknowledged issue, not a promise of constant rain, a fixed storm timer or a cure for every weather complaint. The [[release/gta-6-day-one-patch|patch tracker]] separates these official notes from reported console build numbers. <span class="tag-confirmed">confirmed</span> (official patch notes)
+
+In [Kotaku's November 24 report](https://kotaku.com/yes-despite-what-some-say-online-there-are-thunderstorms-in-gta-6-2001000112), **Zack Zwiezen says he saw rainstorms and fog during his own pre-release play**. He describes flying from sunshine into dark clouds and rain, then leaving the rain behind. That is a hands-on observation of **localized weather**, beyond the earlier promotional screenshots, but not our own test of a save or console version. <span class="tag-reported">reported</span> (journalist's play experience)
+
+| Evidence | What it supports | What it does not establish |
+| --- | --- | --- |
+| Official stuck-weather fix | Rockstar addressed weather remaining unchanged too long | Every dry spell was a bug, or every save is now fixed |
+| Kotaku's flight observation | Rain can occur in one area while another is sunny | A fixed route, storm frequency or map-wide forecast |
+| Other players' dry-weather complaints relayed in the article | Some people still report little rain | A reproduced post-patch defect, failure rate or diagnosed cause |
+
+The article also discusses a possible early-story weather restriction, but does not establish it. We are **not** treating a chapter threshold as an unlock rule or recommending story progress as a guaranteed weather fix. Rain and fog observations also do not verify hurricane destruction, flooding or every storm type in the previews below. Check the installed update, but do not infer a broken save merely from clear skies.
 
 ## The Weather Channel's six new weather screenshots
 
