@@ -24,6 +24,8 @@ facts:
   - k: "Map"
     v: "About 2x GTA 5 (reported)"
 faq:
+  - q: "Does GTA 6 offer larger text or sprint-control options?"
+    a: "Sam Grosset names larger font size, a more minimal screen and a sprint-control tweak in TechRadar's November 25 developer notes. The article does not give exact menu paths, values or a complete options list; we have not tested these settings on either console."
   - q: "Can you reduce the HUD in GTA 6?"
     a: "TechRadar's November 24 report describes minimizing HUD elements with a D-pad button. It does not specify the direction, a complete settings list or whether every element can be hidden, so this is not an exact control guide."
   - q: "What gameplay features are confirmed for GTA 6?"
@@ -35,6 +37,11 @@ faq:
   - q: "Is GTA 6 multiplayer at launch?"
     a: "No. Rockstar's June 2026 pricing announcement called GTA 6 'a single-player experience', and no GTA 6 online mode has been announced."
 sources:
+  - title: "Sam Grosset on accessibility options and UI design"
+    url: "https://www.techradar.com/gaming/gta-6-dev-says-accessibility-is-considered-from-the-outset-and-making-a-game-for-diverse-needs-enables-us-to-create-better-games-for-everyone-we-create-inclusive-intuitive-and-immersive-experiences-for-every-player"
+    publisher: "TechRadar (Rob Dwiar)"
+    date: "Nov 25, 2026"
+    tier: "primary"
   - title: "Stuart Petri on the HUD and UI design"
     url: "https://www.techradar.com/gaming/gta-6-dev-says-rockstar-evolved-the-hud-by-pushing-the-design-language-forward-keeping-the-player-immersed-while-keeping-the-heritage-of-gta-the-game-is-what-matters-most-and-the-ui-is-there-to-serve-that-experience"
     publisher: "TechRadar (Rob Dwiar)"
@@ -274,6 +281,14 @@ In Destructoid's November 24 interview, Rob Nelson also describes aiming between
 The article also describes using **a D-pad button to minimize UI elements**, or showing more information such as the map, wallet, status bars and buffs. That interaction is the article's description, separate from Petri's broader design comments. It does **not** name the D-pad direction, give a full settings path or establish that every element can be hidden independently. We have not tested the controls on either console.
 
 This is a design explanation and a reported display option, not a new patch, a complete accessibility-options audit, a performance improvement or proof of an entirely HUD-free mode. The [[gameplay/gta-6-phone-and-social-media|phone guide]] covers the separately reported in-game apps; reducing HUD clutter does not establish different phone controls or remove mission restrictions.
+
+### What accessibility options does the developer name?
+
+**November 25 addendum:** in [new developer notes sent to TechRadar](https://www.techradar.com/gaming/gta-6-dev-says-accessibility-is-considered-from-the-outset-and-making-a-game-for-diverse-needs-enables-us-to-create-better-games-for-everyone-we-create-inclusive-intuitive-and-immersive-experiences-for-every-player), **Sam Grosset, associate UI director for UI/UX design**, names **larger font size**, a **more minimal screen experience** and **a change to sprinting controls** as examples of player options. This adds specific examples to Petri's design discussion above. <span class="tag-reported">reported</span> (developer statement)
+
+Grosset says accessibility was considered from the outset and describes testing and iteration. These are the team's account of its process and aims, not an independent finding that every player's needs are met. The article does not provide font-size values, a menu walkthrough, an exact sprint setting or a complete remapping and assistive-feature list. We have not tested these options on either console, and the statement announces no patch or new settings rollout.
+
+Grosset also describes the in-hand phone as a change intended to keep the player in the character's perspective. That is UI design context, not a new app, a separate phone-control recipe or evidence of full screen-reader support. See the [[gameplay/gta-6-phone-and-social-media|phone and app guide]] for separately sourced functionality.
 
 ## Movement and ambient animation
 
