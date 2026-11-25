@@ -5,11 +5,11 @@ shortTitle: "Jason and Lucia relationship"
 description: "Jason and Lucia's romance is optional and can fall apart, Rob Nelson says, but they stay partners in crime. Switching, marriage and ending claims, graded."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-26
+verified: 2026-11-26
 weight: 5
 tags: ["jason", "lucia", "story", "characters"]
-tldr: "Jason and Lucia start out wanting to be together, but **the romance is 'yours to keep or yours to lose'** (Rob Nelson to Edge). If it fades, **they stay partners in crime**. Rockstar has **not** said whether the relationship changes the ending, and Nelson would not say whether they can marry."
+tldr: "Jason and Lucia start out wanting to be together, but **the romance is 'yours to keep or yours to lose'** (Rob Nelson to Edge). If it fades, **they stay partners in crime**. Nelson's November 25 Critical Hits interview names the relationship among the factors in the result, and Nelson would not say whether they can marry."
 facts:
   - k: "Framing"
     v: "'A Bonnie and Clyde-type narrative' (Rockstar)"
@@ -20,7 +20,7 @@ facts:
   - k: "Marriage"
     v: "Not confirmed or denied"
   - k: "Effect on ending"
-    v: "Not confirmed by Rockstar"
+    v: "One of several factors (Nelson)"
   - k: "Character switching"
     v: "Yes, but story-gated"
 faq:
@@ -31,12 +31,17 @@ faq:
   - q: "Can Jason and Lucia get married?"
     a: "Unknown. Nelson declined to confirm or deny it in the Edge preview."
   - q: "Does the relationship change the ending of GTA 6?"
-    a: "Rockstar has not said. Red Bull reported it will shape the story's course and ending, but other outlets note Rockstar never stated that, so treat it as unconfirmed."
+    a: "Nelson now names the relationship among several factors in Critical Hits' November 25 interview. This updates the earlier uncertainty, without supplying a formula or making it the only factor."
   - q: "Can you switch between Jason and Lucia at any time?"
     a: "No. Switching is supported, but Nelson told Famitsu it is restricted at times depending on story progression. Some missions allow free switching and others lock you to one character."
   - q: "Do Jason and Lucia die at the end?"
-    a: "Nobody outside Rockstar knows. Endings where they die in a Bonnie and Clyde-style shootout are fan theory only."
+    a: "This guide does not describe story outcomes. Do not treat old fan theories as evidence; the November 25 developer interview discusses multiple factors without supplying a complete outcome formula here."
 sources:
+  - title: "Rob Nelson direct interview, Portuguese publication"
+    url: "https://criticalhits.com.br/games/rob-nelson-da-rockstar-fala-a-critical-hits-sobre-o-tom-de-gta-6-os-dois-protagonistas-o-ritmo-da-campanha-e-os-finais/"
+    publisher: "Critical Hits / Eric Arrache"
+    date: "Nov 25, 2026; checked Nov 26"
+    tier: "primary"
   - title: "Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI"
     publisher: "Rockstar Games"
@@ -98,7 +103,7 @@ sources:
 related: ["characters/jason-duval", "characters/lucia-caminos", "gameplay/gta-6-character-switching"]
 ---
 
-Jason and Lucia's romance is optional and can die. Rockstar North's Rob Nelson told Edge the couple start out "wanting to be together... but as the game progresses, it's yours to keep or yours to lose." If it fades, the two stay partners in crime. Rockstar has not said whether any of this changes the ending, and Nelson would not say whether they can marry.
+Jason and Lucia's romance is optional and can die. Rockstar North's Rob Nelson told Edge the couple start out "wanting to be together... but as the game progresses, it's yours to keep or yours to lose." If it fades, the two stay partners in crime. Nelson's November 25 Critical Hits interview now names the relationship among the factors in the result, and Nelson would not say whether they can marry.
 
 ## Is GTA 6 a Bonnie and Clyde story?
 
@@ -133,11 +138,11 @@ On the in-game Snapmatic app, the pair cannot post publicly because they are fug
 
 ## Does the relationship change the ending?
 
-Rockstar has not said. Red Bull reported the relationship "will shape the story's course and ending." <span class="tag-reported">reported</span> Neonsect and other guides point out that Rockstar never said so, and none of Nelson's on-record quotes mention the ending. Treat any ending impact as unconfirmed. No ending count has been published either.
+The earlier uncertainty is outdated. In [Critical Hits' November 25 Portuguese-language interview](https://criticalhits.com.br/games/rob-nelson-da-rockstar-fala-a-critical-hits-sobre-o-tom-de-gta-6-os-dois-protagonistas-o-ritmo-da-campanha-e-os-finais/), Rob Nelson names the relationship alongside the Criminal Profile, savings and decisions as factors in the result. <span class="tag-reported">reported</span> (English paraphrase of the published interview). This is not a full formula or a claim that romance alone determines it. We leave outcome details and requirements out of this guide. See the [[gameplay/gta-6-criminal-profile|Criminal Profile guide]] for the related source update.
 
 Separately, each character has a [[gameplay/gta-6-criminal-profile|Criminal Profile]] running from Professional to Irredeemable that reportedly affects the story. <span class="tag-reported">reported</span> (Edge, Red Bull)
 
-Endings where the pair die in a Bonnie and Clyde-style shootout, or kill each other, are fan theory covered by Sportskeeda. <span class="tag-rumour">rumour</span> So is "Jason betrays Lucia."
+Older outcome theories are not evidence. This page does not reproduce or grade story outcomes.
 
 ## Can you switch between Jason and Lucia at any time?
 
@@ -160,4 +165,4 @@ Rockstar has given no runtime. Nelson reportedly told The New York Times his pla
 
 ## Open questions
 
-The ending, marriage, and how much the closeness scale changes missions. Reviews are reportedly embargoed until November 18. Back to [[characters/index|all GTA 6 characters]].
+Marriage, exact relationship thresholds and a complete account of mission effects remain unresolved here. Back to [[characters/index|all GTA 6 characters]].

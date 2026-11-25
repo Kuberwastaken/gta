@@ -5,8 +5,8 @@ shortTitle: "Character switching"
 description: "You can switch between Jason and Lucia in GTA 6, even mid-chase, but not anytime: Rob Nelson told Famitsu switching is restricted by story progress. The rules."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-25
-verified: 2026-11-25
+updated: 2026-11-26
+verified: 2026-11-26
 weight: 6
 tags: ["gameplay", "jason", "lucia", "characters"]
 tldr: "You can switch between Jason and Lucia, including from the driver's seat to the passenger seat mid-chase. **Not at any time**, though: Rob Nelson told Famitsu switching is 'restricted depending on the progression of the story', and some missions lock you to one lead."
@@ -35,6 +35,11 @@ faq:
   - q: "Does GTA 6 have more than two protagonists?"
     a: "No. GTA 5 had three. Rockstar considered four for GTA 6 and dropped the idea because each lead would get less screen time."
 sources:
+  - title: "Rob Nelson clarifies discussion of four protagonists"
+    url: "https://criticalhits.com.br/games/rob-nelson-da-rockstar-fala-a-critical-hits-sobre-o-tom-de-gta-6-os-dois-protagonistas-o-ritmo-da-campanha-e-os-finais/"
+    publisher: "Critical Hits / Eric Arrache"
+    date: "Nov 25, 2026; checked Nov 26"
+    tier: "primary"
   - title: "Rob Nelson and Scott Mitchell on mission difficulty and fail states"
     url: "https://www.destructoid.com/gta-6-dev-interview-on-rails-story-easy/"
     publisher: "Destructoid (Scott Duwe)"
@@ -142,7 +147,9 @@ Per previews, each lead has their own [[gameplay/gta-6-criminal-profile|Criminal
 
 ## Why only two protagonists?
 
-Rockstar tried the idea of four and dropped it. Nelson told Famitsu that more leads would mean less time with each, which makes emotional investment harder <span class="tag-confirmed">confirmed</span>. The leaked names "Billy and Kai" are tied to that four-lead talk; neither is confirmed <span class="tag-reported">reported</span>. See [[leaks/gta-6-four-protagonists-rumour|the four protagonists rumour]].
+Rockstar discussed four leads, but that is not evidence of a developed four-character version. Nelson told Famitsu that more leads would mean less time with each, which makes emotional investment harder <span class="tag-confirmed">confirmed</span>. The leaked names "Billy and Kai" are tied to that four-lead talk; neither is confirmed <span class="tag-reported">reported</span>. See [[leaks/gta-6-four-protagonists-rumour|the four protagonists rumour]].
+
+**November 25 clarification:** [Nelson tells Critical Hits](https://criticalhits.com.br/games/rob-nelson-da-rockstar-fala-a-critical-hits-sobre-o-tom-de-gta-6-os-dois-protagonistas-o-ritmo-da-campanha-e-os-finais/) that the team never really began with four developed characters. Four was an early possibility discussed after GTA V's three; the two-lead relationship emerged while the story and cast were still taking shape. This is an English paraphrase of the Portuguese interview, not a claim that two finished protagonists were cut. <span class="tag-reported">reported</span>
 
 ## Does switching affect the relationship?
 

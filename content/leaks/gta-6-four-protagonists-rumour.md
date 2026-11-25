@@ -5,8 +5,8 @@ shortTitle: "Four protagonists rumour"
 description: "GTA 6 has two playable leads, Jason and Lucia. Rob Nelson told Famitsu Rockstar weighed four and cut the idea to keep players invested. Billy and Kai stay unconfirmed."
 status: "debunked"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-26
+verified: 2026-11-26
 weight: 6
 tags: ["characters", "jason", "lucia", "rumours", "debunked"]
 tldr: "**Debunked.** GTA 6 has **two protagonists, Jason and Lucia**. Rockstar North's Rob Nelson told Famitsu the team considered four and rejected it. The leaked names \"Billy and Kai\" are unconfirmed. Meet the leads on [[characters/index|all characters]]."
@@ -31,6 +31,11 @@ faq:
   - q: "Can you switch between Jason and Lucia at any time?"
     a: "Switching is restricted by story progression, according to Nelson. One outlet reported free switching, but we prefer the Rockstar developer's account."
 sources:
+  - title: "Rob Nelson clarifies discussion of four protagonists"
+    url: "https://criticalhits.com.br/games/rob-nelson-da-rockstar-fala-a-critical-hits-sobre-o-tom-de-gta-6-os-dois-protagonistas-o-ritmo-da-campanha-e-os-finais/"
+    publisher: "Critical Hits / Eric Arrache"
+    date: "Nov 25, 2026; checked Nov 26"
+    tier: "primary"
   - title: "Only in Leonida"
     url: "https://www.rockstargames.com/VI/only-in-leonida"
     publisher: "Rockstar Games"
@@ -68,6 +73,8 @@ The first credible reporting pointed the other way. Jason Schreier's Bloomberg s
 Rockstar North co-head Rob Nelson settled it in a Famitsu interview: "This game is the story of Jason and Lucia." He said the team considered four protagonists and rejected the idea because more leads would mean less time with each and weaker emotional investment, per [GTAVice.net's translation](https://www.gtavice.net/news/gta-6-famitsus-full-rob-nelson-interview-translated-into-english) published September 9, 2026. <span class="tag-confirmed">confirmed</span>
 
 Rockstar's [Only in Leonida](https://www.rockstargames.com/VI/only-in-leonida) page agrees. As of November 15 it still carries the same eight bio entries it got in May 2025, covering nine people, and only Jason and Lucia are playable. <span class="tag-confirmed">confirmed</span> Every official video from Trailer 1 to the October 15 [[media/gta-6-launch-trailer|Launch Trailer]] is built around the pair; the launch trailer centres on Jason's army past and their romance.
+
+**November 25 clarification:** [Nelson tells Critical Hits](https://criticalhits.com.br/games/rob-nelson-da-rockstar-fala-a-critical-hits-sobre-o-tom-de-gta-6-os-dois-protagonistas-o-ritmo-da-campanha-e-os-finais/) that the team never really started with four developed characters. Four was a possibility discussed after GTA V's three while the story and cast were still taking shape. This is an English paraphrase of the Portuguese interview. Considering an option is not evidence that two finished protagonists were cut, and it does not authenticate the leaked names. <span class="tag-reported">reported</span>
 
 ## Why the rumour survived
 
