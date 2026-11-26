@@ -6,8 +6,8 @@ description: "GTA 6 launch checklist: redeem codes, clear storage, finish the pr
 status: "mixed"
 published: 2026-11-15
 popular: true
-updated: 2026-11-24
-verified: 2026-11-24
+updated: 2026-11-27
+verified: 2026-11-27
 weight: 1
 tags: ["guides", "beginner", "preload", "unlock-times", "release"]
 tldr: "The game is out. Check the latest game update and PS5 system software separately, preserve saves, and use the troubleshooting sections below if needed. **The free pre-November-20 bonus window has ended**; the Vintage Vice City Pack is now a separate paid add-on. Earlier launch-time and pre-load steps below are dated preparation guidance."
@@ -33,7 +33,21 @@ faq:
     a: "Yes. The box holds a download code, not a disc; redeem it on PS Store or Microsoft Store and the download starts. PS codes only work on an account in the same region."
   - q: "Does pre-loading let me play early?"
     a: "No. It only downloads the files. The game opens when your store region reaches midnight on Nov 19, starting with New Zealand at 11:00 UTC on Nov 18."
+  - q: "Does the November 23 patch fix the character-switch progression lock?"
+    a: "Not for everyone, according to post-patch player reports covered by GameRant on November 26. Rockstar's notes list progression phone-call fixes but do not name this separate character-switch problem. Keep earlier manual saves; reported workarounds are not guaranteed recoveries."
 sources:
+  - title: "Post-patch character-switch progression lock reports"
+    url: "https://gamerant.com/gta-6-patch-jason-grayed-out-cant-switch-bug/"
+    publisher: "GameRant, Sarah Fields"
+    date: "Nov 26, 2026"
+  - title: "Reported progression lock and an affected GAMINGbible colleague"
+    url: "https://www.gamingbible.com/news/gta-6-missing-persons-softlock-glitch-838670-20261123"
+    publisher: "GAMINGbible, Olly Smith"
+    date: "Nov 23, 2026"
+  - title: "Character-switch bug reports and community workarounds"
+    url: "https://www.polygon.com/gta-6-soft-lock-bug-chapter-3-game-breaking/"
+    publisher: "Polygon, Elijah Gonzalez"
+    date: "Nov 25, 2026"
   - title: "Grand Theft Auto VI Launch Updates (PS5 / XBOX Series X|S)"
     url: "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s"
     publisher: "Rockstar Games Support"
@@ -220,6 +234,28 @@ Keep PS5 system software and the GTA VI game update as **separate checks**, as d
 - If it keeps happening, use Sony's support route from the exact-code page. The reports do not establish a universal cause, a confirmed repair requirement or a GTA VI-specific fix. Do not erase saves or reset the console on the strength of a social post.
 
 This section does not recommend a factory reset, buying replacement hardware or paying for a repair. It also does not claim the problem affects every console, or that a new patch has resolved it. Keep earlier saves where possible and follow the [[guides/gta-6-tips-before-you-start#save-before-you-stop-playing|save-management guidance]], without treating a manual save as a guarantee against crashes or lost progress.
+
+## Character switching greyed out and story progress blocked?
+
+**November 27 check, without plot outcomes:** [GameRant's November 26 report](https://gamerant.com/gta-6-patch-jason-grayed-out-cant-switch-bug/) describes players unable to switch back to Jason while controlling Lucia, leaving no available story mission they can start. Some say the problem persisted after **01.002.002**. [GAMINGbible reported on November 23](https://www.gamingbible.com/news/gta-6-missing-persons-softlock-glitch-838670-20261123) that one of its own colleagues was affected. This is a reported progression lock, not our own reproduction or a measured failure rate. <span class="tag-reported">reported</span>
+
+It is separate from a crash or a story phone call simply arriving late. [Rockstar's November 23 notes](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s), rechecked November 27, list phone-call and autosave fixes but do **not name this character-switch lock**. That omission alone would not prove the bug persists; the post-patch accounts are the evidence for that narrower claim. We have not verified that every report has the same cause.
+
+| Situation | What the available evidence supports |
+| --- | --- |
+| You can still progress | Keep separate earlier manual saves instead of overwriting every slot. They may preserve a way back if a later save becomes blocked; they do not prevent the bug. |
+| You are already blocked and have an earlier save | GameRant and Polygon describe players recovering by loading a save from before the affected side activity. This can lose progress, requires a suitable earlier save and has not worked for everyone. Keep the blocked save separately rather than overwriting it. |
+| You have no suitable earlier save | Some players report that a contact call or another available Lucia/duo mission restored switching; others report failure. These are unverified community workarounds, not a dependable recovery procedure. |
+| You need to report it | Record the installed game version, platform, active character and last completed activity for Rockstar Support. Do not delete saves or reset your console based on a social workaround. |
+
+<details>
+<summary>Show the reported trigger, with a chapter number and side-activity name but no plot outcome</summary>
+
+The reports concern **Chapter 3** and the **Missing Persons** side activity. GAMINGbible describes a restricted-switching period in which completing that activity can leave control with Lucia while Jason remains unavailable. GameRant and [Polygon's November 25 report](https://www.polygon.com/gta-6-soft-lock-bug-chapter-3-game-breaking/) also associate the lock with this activity. If you have not reached it, keep an earlier manual save and consider leaving the activity until normal switching is available. That is a precaution drawn from reports, not a verified prevention method or proof that all players will be affected.
+
+</details>
+
+We are not adopting claims that Rockstar closes every support ticket, that a particular internal script flag is the cause, or that there is a guaranteed patch date. The source articles contain more mission details than this spoiler-light summary. For general saving precautions, see [[guides/gta-6-tips-before-you-start#save-before-you-stop-playing|save management]]; for the official fix list, see [[release/gta-6-day-one-patch|the patch guide]].
 
 ## Sound out of sync with the picture?
 

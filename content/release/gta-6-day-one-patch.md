@@ -5,8 +5,8 @@ shortTitle: "Day-one patch"
 description: "Rockstar lists seven November 23 GTA 6 fixes, including autosave, progression calls, crashes and stuck weather. Reported versions, sizes and older patches kept separate."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-23
-verified: 2026-11-23
+updated: 2026-11-27
+verified: 2026-11-27
 weight: 14
 tags: ["release", "preload", "ps5", "xbox"]
 tldr: "**Rockstar has now published seven November 23 fixes**: crashes, stuck weather, autosave, progression/unlock phone calls, losing the wanted level, the gym deadlift bar and partner bag handovers. Reports identify **01.002.002 on PS5 / 1.0.2.2 on Xbox**, at **603.8 MB / about 1.6 GB**. Official fixes and reported download details are kept separate; older pre-launch builds remain below."
@@ -35,6 +35,10 @@ faq:
   - q: "What does GTA 6 update 1.002 change?"
     a: "The November 23 notes list seven fixes including autosave, progression phone calls and crashes. Earlier November 13/16 builds are separate and do not gain a fix list retroactively. No new frame-rate mode is announced in the notes."
 sources:
+  - title: "Post-patch character-switch progression lock reports"
+    url: "https://gamerant.com/gta-6-patch-jason-grayed-out-cant-switch-bug/"
+    publisher: "GameRant, Sarah Fields"
+    date: "Nov 26, 2026"
   - title: "Grand Theft Auto VI Launch Updates (PS5 / XBOX Series X|S)"
     url: "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s"
     publisher: "Rockstar Games Support"
@@ -124,6 +128,8 @@ VICE reproduces a three-wave plan: roughly 33% initially, 66% around three hours
 | Fences | Partners failing to hand over bags for sale to fences |
 
 ### What do the official notes not establish?
+
+**November 27 follow-up:** [GameRant reported on November 26](https://gamerant.com/gta-6-patch-jason-grayed-out-cant-switch-bug/) that some players still had a character-switch progression lock after installing this update. That is a reported remaining problem, not a newly announced patch or proof that the phone-call fixes failed. The [[guides/gta-6-day-one-checklist#character-switching-greyed-out-and-story-progress-blocked|spoiler-light troubleshooting section]] separates reported symptoms, save precautions and uncertain community workarounds. The official notes were rechecked November 27 and still carry the November 23 list. <span class="tag-reported">reported</span>
 
 Rockstar does **not name the affected missions, phone calls, crash codes or save states**. The notes do not say whether every already-affected save will recover automatically. A general crash fix is not a promise that every PS5 CE-108255-1 report is resolved; a phone-call fix is not proof that every progression blocker has the same cause.
 
