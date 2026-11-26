@@ -2,11 +2,11 @@
 title: "GTA+ explained: the free month with GTA 6, what it does and how to cancel"
 seoTitle: "GTA+ Explained: The Free GTA 6 Month and How It Works"
 shortTitle: "GTA+ explained"
-description: "GTA+ now has optional GTA 6 story-mode benefits. Reported perks, unresolved expiry terms, the free-month offer, renewal and cancellation steps."
+description: "GTA+ story benefits, renewal and cancellation, plus 2K's limited NBA 2K27 access offer, member discount and later bonus pack, with dates and limits kept separate."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-19
-verified: 2026-11-19
+updated: 2026-11-27
+verified: 2026-11-27
 weight: 7
 tags: ["guides", "gta-plus", "gta-online", "editions"]
 tldr: "Digital GTA VI pre-orders on PS5 and Xbox include **one free month of GTA+**, Rockstar's GTA Online membership. Rockstar now advertises optional GTA VI story-mode benefits; detailed perks and expiry caveats are below. Redeem it on Xbox within 180 days (PS5 until Mar 31, 2027), and cancel before it **renews at your platform's regular monthly price**."
@@ -32,9 +32,21 @@ faq:
     a: "Sony confirms the PS5 offer continues monthly at the regular price until canceled. Read the payment date shown when claiming; cancel in subscription management before that date if you do not want to pay."
   - q: "Does GTA+ do anything in GTA 6?"
     a: "Yes. Rockstar now advertises optional benefits for Jason and Lucia. Launch reporting describes a car and garage, transport perks, store discounts and increased vehicle sale value. The detailed cancellation treatment is disputed, so do not assume every reward is permanent."
+  - q: "Does GTA+ include NBA 2K27's Vice City Edition?"
+    a: "2K announces temporary NBA 2K27 Standard Edition access for GTA+ members on PS5 and Xbox Series X|S from November 27, 2026 until January 15, 2027 at 11 AM ET. That is not permanent ownership or the separately sold Vice City Edition and its Season 3 Pro Pass. A separate GTA+ bonus pack starts December 17."
   - q: "Do boxed copies get the free GTA+ month?"
     a: "No. Xbox Wire and Rockstar Support, as quoted, limit it to digital pre-orders. Sony also counts eligible PS Store digital purchases made through Nov 19."
 sources:
+  - title: "NBA 2K27 Season 3 Courtside Report"
+    url: "https://nba.2k.com/2k27/courtside-report/season-3/"
+    publisher: "2K / Visual Concepts"
+    date: "Nov 16, 2026; checked Nov 27"
+    tier: "primary"
+  - title: "Vice City Comes to NBA 2K27 in Season 3"
+    url: "https://newsroom.2k.com/news/vice-city-comes-to-nbar-2k27-in-season-3"
+    publisher: "2K Newsroom"
+    date: "Nov 16, 2026; checked Nov 27"
+    tier: "primary"
   - title: "GTA VI: optional GTA+ benefits for Jason and Lucia"
     url: "https://www.rockstargames.com/VI"
     publisher: "Rockstar Games"
@@ -107,6 +119,25 @@ The table above covers GTA Online and the games catalogue. It is not the complet
 ### Does it include GTA Online on PC?
 
 Sources disagree. GameSpot says GTA Online access through GTA+ is console-only, while Rockstar's page lists PC benefits. PC members may get the perks without the online-access part, but we could not confirm that wording on Rockstar's page. <span class="tag-speculation">speculation</span> GTA VI has no PC version, so this matters only for GTA V players.
+
+## NBA 2K27 Vice City crossover: what GTA+ includes
+
+**November 27 source check:** 2K's [Season 3 Courtside Report](https://nba.2k.com/2k27/courtside-report/season-3/) and [November 16 announcement](https://newsroom.2k.com/news/vice-city-comes-to-nbar-2k27-in-season-3) set out a limited GTA+ offer alongside NBA 2K27's Vice City-themed Season 3. This is content and access for **NBA 2K27**, not a GTA VI basketball mode, new GTA VI mission or announcement of GTA VI multiplayer. <span class="tag-confirmed">confirmed</span> (publisher announcement)
+
+| Offer | Announced window | What it includes and excludes |
+| --- | --- | --- |
+| GTA+ play access | November 27, 2026 to January 15, 2027, 11 AM ET | NBA 2K27 **Standard Edition**, including access to Season 3, for GTA+ members on **PS5 and Xbox Series X\|S**, at no additional cost. This is temporary membership access, not permanent ownership. |
+| GTA+ purchase discount | The same November 27-January 15 window | **20% off Standard Edition** on the platform linked to the GTA+ membership. 2K says it cannot be combined with other offers or discounts. It is not a discount promise for every edition. |
+| GTA+ Bonus Pack | December 17, 2026 to March 31, 2027, noon ET | A Vice City-styled blue Boat Hat and Oversized T-Shirt, 30 Skill Boosts (5 Games), and 15 Gatorade Boosts (5 Games). Requires NBA 2K27 access and an NBA 2K Account to redeem and use. It does not begin with the November play-access window. |
+| Separately sold Vice City Edition | November 27, 2026 to January 15, 2027, 11 AM ET | A different digital edition with the Season 3 Pro Pass, Vice City T-Shirt and specified boosts. The GTA+ Standard access offer does not include this edition or its Pro Pass. |
+
+For readers in India, **January 15 at 11 AM ET is January 15 at 9:30 PM IST**. The separate **March 31 noon ET** bonus redemption cutoff is also **9:30 PM IST on March 31**, because the US daylight-saving offset differs. 2K gives November 27 as the start date but does not specify an exact activation hour in these announcements. We have not tested entitlement on an account, so a local calendar date alone does not establish that a download button has appeared.
+
+The Vice City Edition is announced for PS5, Xbox Series X|S, Nintendo Switch 2 and PC. **That broader sales-platform list does not expand the GTA+ access offer to PC or Switch 2.** 2K also says the Vice City Edition is unavailable in Belgium, Brazil and South Korea. Do not apply that edition-specific exclusion as a complete country list for every membership offer.
+
+The two official pages distinguish the themed Season 3 environment and rewards from the paid Pro Pass and Hall of Fame Pass. Premium passes are separate purchases requiring the base game, internet and an NBA 2K account; their extra rewards are earned through gameplay. No claim here promises every themed reward immediately or without a paid pass. Some detailed premium reward levels differ between the two publisher pages, so this guide does not reproduce a combined level-by-level list.
+
+**GTA+ still renews monthly.** At no additional cost within a paid membership is not an unconditional free copy. Check your platform's entitlement, price and next renewal date before claiming or buying. The temporary play window ends before the bonus-pack redemption deadline; a later pack deadline does not extend game access. No purchase or subscription change is needed to read this guide.
 
 ## Who gets the free month?
 
