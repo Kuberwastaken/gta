@@ -5,8 +5,8 @@ shortTitle: "Confirmed features list"
 description: "Every GTA 6 gameplay feature in graded tables: six wanted stars, heat, a 2+2 gun loadout, fuel, hurricanes, 170+ animals, story-gated switching, fences and apps."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-25
-verified: 2026-11-25
+updated: 2026-11-26
+verified: 2026-11-26
 weight: 1
 tags: ["gameplay", "wanted-system", "weapons", "vehicles", "money"]
 tldr: "Rockstar itself confirms **two playable leads with story-gated switching**, an optional romance and radio on foot. Six wanted stars, a two-handgun, two-long-gun loadout, fuel, bank vs cash vs loot, 170+ animal species and hurricanes come from Rockstar staff via press, graded reported."
@@ -24,6 +24,8 @@ facts:
   - k: "Map"
     v: "About 2x GTA 5 (reported)"
 faq:
+  - q: "How does GTA 6 model NPC dialogue and world audio?"
+    a: "Alastair MacGregor tells TechRadar that Rockstar built a system for dialogue dynamic range and propagation through space, and captured speakers and room acoustics for music playback. These are developer production statements, not our own listening tests or exact audibility rules."
   - q: "Does GTA 6 offer larger text or sprint-control options?"
     a: "Sam Grosset names larger font size, a more minimal screen and a sprint-control tweak in TechRadar's November 25 developer notes. The article does not give exact menu paths, values or a complete options list; we have not tested these settings on either console."
   - q: "Can you reduce the HUD in GTA 6?"
@@ -37,6 +39,11 @@ faq:
   - q: "Is GTA 6 multiplayer at launch?"
     a: "No. Rockstar's June 2026 pricing announcement called GTA 6 'a single-player experience', and no GTA 6 online mode has been announced."
 sources:
+  - title: "Alastair MacGregor on dialogue propagation and world sound"
+    url: "https://www.techradar.com/gaming/we-built-an-entirely-new-system-for-this-game-to-capture-dialogue-dynamic-range-and-model-how-it-propagates-through-space-gta-6-dev-explains-the-intricacies-of-leonidas-sound-design-that-creates-a-sense-of-deep-immersion"
+    publisher: "TechRadar / Rob Dwiar"
+    date: "Nov 26, 2026"
+    tier: "primary"
   - title: "Sam Grosset on accessibility options and UI design"
     url: "https://www.techradar.com/gaming/gta-6-dev-says-accessibility-is-considered-from-the-outset-and-making-a-game-for-diverse-needs-enables-us-to-create-better-games-for-everyone-we-create-inclusive-intuitive-and-immersive-experiences-for-every-player"
     publisher: "TechRadar (Rob Dwiar)"
@@ -341,3 +348,20 @@ Details: [[gameplay/gta-6-activities-and-side-content|activities and side conten
 ## What Rockstar hasn't confirmed
 
 GTA Online at launch: Rockstar calls GTA 6 "a single-player experience"; see [[release/gta-6-gta-online-status|GTA Online status]]. Property: garages are reported, buying homes or businesses is not. Hurricanes: frequency and gameplay effects were not disclosed. Full weapon and vehicle lists: none published, and fan databases disagree (one lists 176 vehicles). We re-grade these tables after the Nov 19 launch; for day one, read [[guides/gta-6-tips-before-you-start|tips before you start]] or go back to the [[gameplay/index|gameplay hub]].
+
+
+## How does GTA VI model dialogue and world sound?
+
+**November 26 developer account:** [TechRadar's Rob Dwiar publishes notes supplied by Rockstar](https://www.techradar.com/gaming/we-built-an-entirely-new-system-for-this-game-to-capture-dialogue-dynamic-range-and-model-how-it-propagates-through-space-gta-6-dev-explains-the-intricacies-of-leonidas-sound-design-that-creates-a-sense-of-deep-immersion) in which **Alastair MacGregor, vice president of audio**, describes a system built for dialogue dynamic range and propagation through space. He says this helps NPC speech sound part of the surrounding environment rather than sitting above it. <span class="tag-reported">reported</span> (developer statement)
+
+MacGregor also describes simulating music from different devices and spaces, from passing cars to beach speakers and clubs. The team recorded **dozens of speakers in an anechoic chamber** and captured acoustic responses from real spaces, including its office lift. That is a production method for varying playback acoustics, not a claim that every in-game speaker has a unique recording or that players can select those responses.
+
+| Detail in the account | What remains unmeasured here |
+| --- | --- |
+| Dialogue dynamic range and spatial propagation | Exact audibility distance, loudness values and performance cost |
+| Fragments of conversation can carry farther with wind | A fixed wind-to-distance formula or a reliable listening tactic |
+| Music playback reflects different devices and spaces | A complete list of acoustic presets or identical output on every console and sound setup |
+
+These statements describe Rockstar's design and intended effect, **not our own headphone comparison, accessibility audit or reproduced audio benchmark**. The article does not give an audio-settings walkthrough, certify a specific surround format or announce a new sound patch. It does not prove that NPC dialogue is generated live rather than authored and recorded.
+
+World-audio propagation is separate from the [[music/gta-6-justice-score#how-does-gta-vi-adapt-the-score-during-play|non-linear adaptive score]] described in another MacGregor interview. Radio content and playback on foot are covered by the [[music/gta-6-radio-stations|radio guide]]; light interacting with fog and clouds is a separate [[world/gta-6-weather-and-hurricanes#how-do-lighting-fog-and-clouds-interact|world-lighting system]]. No story dialogue or song placements are needed to explain these distinctions.
