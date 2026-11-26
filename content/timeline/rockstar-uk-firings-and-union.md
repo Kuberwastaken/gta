@@ -2,14 +2,14 @@
 title: "Rockstar UK firings and union vote: what happened and where it stands"
 seoTitle: "Rockstar Firings and Union Vote: What Happened to GTA 6 Devs"
 shortTitle: "UK firings and union"
-description: "Rockstar fired 31 UK staff on Oct 30, 2025, citing Discord leaks; the IWGB says union-busting. Glasgow tribunal closings Nov 17-18, union ballot Nov 12-26."
+description: "Rockstar's UK union recognition ballot failed on Nov 26, 2026: 75.3% against, 24.7% for. The IWGB continues organizing; the separate dismissal tribunal awaits judgment."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-26
+verified: 2026-11-26
 weight: 5
 tags: ["rockstar", "development", "news"]
-tldr: "On **October 30, 2025**, Rockstar fired **31 UK staff**, mostly at Rockstar North, citing gross misconduct and leaks on a Discord server. The **IWGB** union says the server was a private union channel and calls it union-busting. A Glasgow tribunal has been hearing the case since September 2026, and a **union recognition ballot runs November 12-26, 2026**. Take-Two says none of it is linked to the [[timeline/gta-6-delays|November 2025 delay]]."
+tldr: "Rockstar's UK **union recognition ballot failed on November 26, 2026**: **1,163 voted against** the agreement and **381 for**, with reported turnout of **93.2%**. The IWGB says it will keep organizing without formal recognition. This is separate from the disputed **October 2025 firings**: the Glasgow employment tribunal has finished closing submissions and **judgment is pending**, according to IGN. The ballot is not a ruling on those dismissals."
 facts:
   - k: "Firings"
     v: "October 30, 2025"
@@ -20,21 +20,35 @@ facts:
   - k: "Union"
     v: "IWGB (Independent Workers' Union of Great Britain)"
   - k: "Tribunal"
-    v: "Glasgow, from Sep 10, 2026"
+    v: "Judgment pending, per IGN on Nov 26, 2026"
   - k: "Recognition ballot"
-    v: "Nov 12-26, 2026, about 1,600 eligible"
+    v: "Nov 26 result: 75.3% against, 24.7% for"
+  - k: "Ballot participation"
+    v: "1,544 voters; 93.2% turnout (reported)"
 faq:
   - q: "Why did Rockstar fire 31 employees?"
     a: "Rockstar and Take-Two say the staff committed gross misconduct by sharing confidential information on a Discord server. The IWGB union says the server was a private union channel and the firings were union-busting."
   - q: "Did the firings delay GTA 6?"
     a: "Take-Two says no. The firings came on October 30, 2025 and the second delay on November 6, 2025; Take-Two said they were unrelated."
   - q: "Is there a union at Rockstar?"
-    a: "Not a recognized one yet. A recognition ballot of about 1,600 UK staff runs from November 12 to 26, 2026. Rockstar's Jennifer Kolbe said: 'if they want a union, they will have a union.'"
+    a: "Rockstar workers have an IWGB union, but the proposed formal recognition agreement failed in the November 12-26, 2026 ballot. Reporting on November 26 records 1,163 votes against and 381 for. The IWGB says workers will continue organizing without the agreement."
   - q: "What happened at the Rockstar tribunal?"
-    a: "The IWGB's case opened in Glasgow on September 10, 2026 and was extended. Rockstar failed to strike out the blacklisting allegations. Closing submissions are expected on November 17-18, 2026."
+    a: "The dismissal case is separate from the recognition ballot. IGN reported on November 26, 2026 that closing submissions had ended and judgment was pending. The vote does not decide whether the dismissals were lawful."
   - q: "Did the fired Rockstar staff get paid?"
     a: "A UK employment judge denied them interim relief, meaning continued pay until the case is decided, on January 12, 2026, per Bloomberg."
 sources:
+  - title: "Rockstar Games Issues Statement as Union Vote Fails"
+    url: "https://in.ign.com/grand-theft-auto-vi/278022/rockstar-games-issues-statement-as-union-vote-fails"
+    publisher: "IGN, Wesley Yin-Poole"
+    date: "Nov 26, 2026"
+  - title: "Rockstar UK staff vote against union recognition deal"
+    url: "https://www.standard.co.uk/business/business-news/rockstar-iwgb-edinburgh-glasgow-b1306569.html"
+    publisher: "The Standard, Neil Pooran"
+    date: "Nov 26, 2026"
+  - title: "Rockstar workers vote against recognition deal; IWGB will keep organizing"
+    url: "https://www.gamesradar.com/games/grand-theft-auto/following-gta-6-release-rockstar-workers-vote-against-union-recognition-deal-but-those-in-favor-vow-to-keep-fighting/"
+    publisher: "GamesRadar+, Catherine Lewis"
+    date: "Nov 26, 2026"
   - title: "Rockstar workers vote on union recognition as GTA VI launch looms"
     url: "https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319"
     publisher: "The Register"
@@ -74,7 +88,26 @@ sources:
 related: ["timeline/gta-6-delays", "timeline/gta-6-development-history", "news/2026-11-15-gta-6-launch-week-briefing"]
 ---
 
-On **October 30, 2025**, Rockstar fired **31 UK employees**, most at Rockstar North in Edinburgh and some at Rockstar Toronto. Rockstar and Take-Two say the staff committed gross misconduct by leaking confidential information on a Discord server <span class="tag-confirmed">confirmed</span> as the company's position. The **IWGB** union says the server was a private union channel and calls the firings union-busting <span class="tag-reported">reported</span>. In launch week, the tribunal is at closing submissions and about 1,600 UK staff are voting on union recognition.
+On **October 30, 2025**, Rockstar fired **31 UK employees**, most at Rockstar North in Edinburgh and some at Rockstar Toronto. Rockstar and Take-Two say the staff committed gross misconduct by leaking confidential information on a Discord server <span class="tag-confirmed">confirmed</span> as the company's position. The **IWGB** union says the server was a private union channel and calls the firings union-busting <span class="tag-reported">reported</span>. In the separate recognition ballot, UK staff voted against the proposed agreement on November 26, 2026. The dismissal case is awaiting judgment, per IGN's reporting that day.
+
+## November 26 update: recognition agreement rejected
+
+The November 12-26 ballot ended without a recognition agreement. [IGN](https://in.ign.com/grand-theft-auto-vi/278022/rockstar-games-issues-statement-as-union-vote-fails), [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/following-gta-6-release-rockstar-workers-vote-against-union-recognition-deal-but-those-in-favor-vow-to-keep-fighting/) and [The Standard](https://www.standard.co.uk/business/business-news/rockstar-iwgb-edinburgh-glasgow-b1306569.html) reported the result on November 26 <span class="tag-reported">reported</span>.
+
+| Ballot measure | Reported result |
+| --- | --- |
+| Against the recognition agreement | 1,163 votes, 75.3% |
+| In favour of the agreement | 381 votes, 24.7% |
+| Participating employees | 1,544 across Rockstar's UK sites |
+| Turnout | 93.2% |
+
+These are the reported ballot figures, not a count of every Rockstar worker worldwide or a survey of views on the dismissal case. IGN lists participating UK sites in Edinburgh, Leeds, Lincoln, Dundee and London.
+
+The IWGB says workers can keep organizing and exercising union rights, but the failed agreement means Rockstar will not be formally committed to regular meetings with union representatives. Its priorities still include pay transparency, contractual overtime pay, and protections concerning AI and layoffs. Those are the union's stated aims, not newly agreed employment terms.
+
+Rockstar publishing head Jennifer Kolbe said the result supported the company's existing direct relationship with staff, in statements supplied to the reporting outlets. The IWGB said it would continue trying to win colleagues' support. Both are the parties' positions, not this site's assessment of workplace conditions.
+
+**The tribunal remains a separate process.** IGN reports that closing submissions have ended and judgment is pending. The ballot does not establish whether the 2025 dismissals were lawful, end the tribunal, or reinstate anyone. This update replaces our earlier description of the ballot as still underway.
 
 ## What happened on October 30, 2025?
 
@@ -103,14 +136,14 @@ Take-Two says no. The [[timeline/gta-6-delays|second delay]], to November 19, 20
 | During hearing | Rockstar fails to strike out the blacklisting allegations | <span class="tag-reported">reported</span> |
 | Oct 27, 2026 | A recognition ballot is agreed after four months of talks | <span class="tag-reported">reported</span> |
 | Nov 12, 2026 | The ballot opens, with about 1,600 eligible staff | <span class="tag-reported">reported</span> |
-| Nov 17-18, 2026 | Closing submissions expected at the tribunal | <span class="tag-reported">reported</span> |
-| Nov 26, 2026 | The ballot closes | <span class="tag-reported">reported</span> |
+| Nov 17-18, 2026 | Scheduled closing submissions at the tribunal; IGN reported on Nov 26 that submissions had ended and judgment was pending | <span class="tag-reported">reported</span> |
+| Nov 26, 2026 | Recognition agreement rejected: 1,163 against, 381 for; reported turnout 93.2% | <span class="tag-reported">reported</span> |
 
 ## Is Rockstar getting a union?
 
-It could have one a week after launch. The recognition ballot covers about 1,600 UK staff and runs November 12 to 26, 2026, per The Register. A yes vote would make it the largest recognized union in the UK games industry <span class="tag-reported">reported</span>.
+The proposed recognition agreement did not pass. The UK ballot ran November 12-26, 2026; the result and the IWGB's plans to continue organizing are set out above. A union can exist and organize without winning this formal recognition agreement. The result is not a vote by all Rockstar employees globally.
 
-Rockstar's head of publishing, Jennifer Kolbe, told The Register: "We go where the team goes. So if they want a union, they will have a union" <span class="tag-confirmed">confirmed</span>. Rockstar is still defending the dismissals at the Glasgow tribunal at the same time.
+Before the ballot, Rockstar's Jennifer Kolbe told The Register that the company would follow staff wishes on recognition. Her November 26 statement welcomed the result, while the IWGB said it would keep working for support. Neither statement settles the separate dismissal claims.
 
 ## Other workplace reports in 2026
 
@@ -120,8 +153,8 @@ Rockstar has cited security before: its February 2024 return-to-office order was
 
 ## What we're watching
 
-- Tribunal closing submissions on November 17-18, and the ruling after.
-- The ballot result after November 26.
-- Whether any fired staff are reinstated.
+- The tribunal judgment, which IGN reported as pending on November 26.
+- Any further recognition talks or organizing developments after the failed ballot.
+- Whether any fired staff are reinstated through a separate decision or agreement.
 
 Outcomes will go here and on the [[timeline/index|GTA 6 timeline]]. The rest of launch week is in the [[news/2026-11-15-gta-6-launch-week-briefing|launch week briefing]].
