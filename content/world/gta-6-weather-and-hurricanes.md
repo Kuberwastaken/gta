@@ -5,8 +5,8 @@ shortTitle: "Weather and hurricanes"
 description: "Yes. Rockstar told Game Informer GTA 6 has tropical storms and seasonal hurricanes, localized rain and lasting puddles. Frequency and damage are not disclosed."
 status: "reported"
 published: 2026-11-15
-updated: 2026-11-25
-verified: 2026-11-25
+updated: 2026-11-26
+verified: 2026-11-26
 weight: 12
 tags: ["weather", "world", "rumours"]
 tldr: "**Yes, GTA 6 has tropical storms and seasonal hurricanes**, Rockstar told Game Informer on Sep 29, 2026. Rain is localized and puddles persist after it stops. A new Weather Channel collaboration quotes Rockstar on localized, persistent weather and shows rain, sea fog and a tropical storm. Kotaku now reports rain and fog from its own play; Rockstar's November 23 notes fix weather staying unchanged for extended periods. Hurricane frequency and damage remain undisclosed."
@@ -24,6 +24,8 @@ facts:
   - k: "Floods, surfing"
     v: "Unconfirmed"
 faq:
+  - q: "How does GTA 6 lighting respond to the world?"
+    a: "Owen Shepherd tells Final Weapon that opening doors and destroying more lights can change interior lighting, while local lights, fog and clouds interact. This is a developer production account, not a new patch, universal destructibility rule or measured console benchmark."
   - q: "Why is it not raining in my GTA 6 game?"
     a: "Rockstar's November 23 notes say it fixed weather staying unchanged for extended periods. Kotaku's Zack Zwiezen separately reports localized rain and fog from his own play, including flying into and out of a rainstorm. Dry skies alone do not identify a bug, a fixed rain timer or a chapter gate."
   - q: "Does GTA 6 have hurricanes?"
@@ -35,6 +37,11 @@ faq:
   - q: "Does GTA 6 have a day-night cycle?"
     a: "Yes, and it runs longer than before. Aaron Garbut told Edge the cycle is extended, with longer sunsets."
 sources:
+  - title: "Owen Shepherd on dynamic lighting and atmosphere"
+    url: "https://finalweapon.net/2026/11/25/gta-6-interview-rockstar-games-world-design-music-combat/"
+    publisher: "Final Weapon / Noah Hunter"
+    date: "Nov 25, 2026; checked Nov 26"
+    tier: "primary"
   - title: "Hands-on rainstorms, fog and localized weather report"
     url: "https://kotaku.com/yes-despite-what-some-say-online-there-are-thunderstorms-in-gta-6-2001000112"
     publisher: "Kotaku (Zack Zwiezen)"
@@ -135,6 +142,20 @@ The six image posts make the statement more concrete:
 *The tropical-storm scene near the Rusty Anchor. Image: Rockstar Games via The Weather Channel / GamesRadar+.*
 
 The original thread and all six captions were checked directly. These are promotional stills, not new playable footage: they do **not** establish hurricane destruction, flood simulation, weather frequency, a real-time forecast service, or measured frame rates. "This morning" in the captions is the fictional forecast's framing, not a schedule of weather players will encounter at launch. More image sources are on [[media/gta-6-screenshots-and-galleries|screenshots and galleries]].
+
+## How do lighting, fog and clouds interact?
+
+**November 25 developer account:** in [Final Weapon's pre-launch Q&A, published by Noah Hunter](https://finalweapon.net/2026/11/25/gta-6-interview-rockstar-games-world-design-music-combat/), **Owen Shepherd, vice president of art for lighting and rendering**, describes building lighting systems that could respond to the world rather than a single fixed look. He says the direction evolved during development. <span class="tag-reported">reported</span> (developer interview)
+
+| Example Shepherd describes | What the example supports |
+| --- | --- |
+| Players can destroy more lights; opening a door changes a dark motel room | Interior lighting can respond to player actions and the global illumination system |
+| Streetlights warm up, apartment lights come on, and businesses later turn lights off | Night lighting has timed and animated variation beyond the sun moving |
+| Clouds shadow the atmosphere, small lights illuminate fog, and city lights illuminate clouds | Local light and the volumetric atmosphere affect one another |
+
+Shepherd links the atmospheric work to the volumetric system built for Red Dead Redemption 2, then expanded for GTA VI. This is a developer's explanation of the design, **not our own comparison of rendered frames**, a numerical graphics benchmark or a new lighting patch. His examples do not mean every light is destructible, every building is enterable, every switch is interactive or every light follows the same schedule.
+
+The interview also does not provide a storm timer, a hurricane-unlock rule, flood behavior or a claim that all console rendering modes are identical. Keep those questions separate from the [[release/gta-6-ps5-pro-performance|console performance guide]] and the separately sourced weather observations above. The [[music/gta-6-justice-score#how-does-gta-vi-adapt-the-score-during-play|adaptive-score explanation]] covers a different system discussed in the same interview.
 
 ## Can hurricanes destroy things in GTA 6?
 
