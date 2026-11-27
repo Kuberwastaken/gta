@@ -2,11 +2,11 @@
 title: "GTA 6 on Xbox Series S, Xbox One and Xbox Cloud Gaming"
 seoTitle: "GTA 6 Xbox Series S and Cloud Gaming: Xbox One, Game Pass"
 shortTitle: "Series S and cloud gaming"
-description: "GTA 6 targets 30 fps on Series S, with measured drops. Xbox One uses paid-game cloud access from 1 AM ET Nov 19; PC/browser streaming is not offered."
+description: "GTA 6 on Series S and Xbox One cloud: Digital Foundry measures low added lag in a wired test but uneven frame delivery. Ownership and access remain separate."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-24
-verified: 2026-11-24
+updated: 2026-11-27
+verified: 2026-11-27
 weight: 9
 tags: ["release", "xbox", "platforms", "performance"]
 tldr: "GTA 6 runs **natively on Xbox Series S** at the same 30 fps target as Series X, but Digital Foundry now finds more frequent drops on Series S. Xbox One owners can stream it through **Xbox Cloud Gaming from 1 AM ET on Nov 19**, an hour after the native US unlock, but only if they buy the game. It is not in Game Pass, and PC or browser streaming is not available at launch. **PlayStation now also lists PS5 and PS Portal cloud streaming with Premium**; that is separate from Xbox access and is not a PS4 version."
@@ -24,6 +24,8 @@ facts:
   - k: "PC/browser cloud"
     v: "No, not at launch"
 faq:
+  - q: "How much input lag does GTA 6 add over Xbox Cloud Gaming?"
+    a: "Digital Foundry measured 184.5ms end-to-end through Xbox One cloud versus 175.2ms locally on Series S, roughly 9ms extra in its wired fibre setup. That is not 9ms total latency or a promise for every connection. The cloud test also found worse frame pacing."
   - q: "Can I play GTA 6 on Xbox One?"
     a: "Only through Xbox Cloud Gaming, from 1 AM ET on Nov 19, 2026, at Series S settings. You must own the game; there is no native Xbox One version."
   - q: "Is GTA 6 on Game Pass?"
@@ -37,6 +39,11 @@ faq:
   - q: "Can I cloud-stream GTA 6 on PlayStation Portal?"
     a: "The current US PlayStation listing supports PS5 and PS Portal cloud streaming with Premium. Push Square reports a working UK PS5 test, says you must own the game and notes it is not included in the Premium catalogue. This is different from Remote Play from your own PS5."
 sources:
+  - title: "GTA 6 on Xbox One Tested: The Power of the Cloud Delivers, Save for One Big Issue"
+    url: "https://www.digitalfoundry.net/features/gta-6-on-xbox-one-tested-the-power-of-the-cloud-delivers-save-for-one-big-issue"
+    publisher: "Digital Foundry / William Judd"
+    date: "Nov 26, 2026; checked Nov 27"
+    tier: "primary"
   - title: "GTA VI product listing: PS5 and PS Portal cloud support"
     url: "https://store.playstation.com/en-us/concept/10000730/"
     publisher: "PlayStation Store (US)"
@@ -122,6 +129,27 @@ The test finds much of the core visual technology retained, including strand hai
 If you already own a Series S, this is a warning about the tested experience, not a reason to assume it cannot run the game. If you are buying hardware specifically for GTA VI, compare the measured performance before treating the cheapest native console as an equivalent experience. See the [[release/gta-6-ps5-pro-performance|performance guide]] for the targets, measurements and limitations.
 
 These are **local console tests**, not cloud latency or service-quality measurements. Xbox Wire's cloud-settings description does not prove an identical rendered frame rate or end-to-end latency for a streamed session. Network, service hardware and display conditions need their own evidence.
+
+## What did Digital Foundry measure on Xbox One cloud?
+
+**November 27 source check:** [Digital Foundry's November 26 Xbox One cloud test](https://www.digitalfoundry.net/features/gta-6-on-xbox-one-tested-the-power-of-the-cloud-delivers-save-for-one-big-issue), written up by William Judd, supplies the streaming measurements that the earlier local-console review above could not. It compares the streamed Series S version on Xbox One S with local Series S play. These are **the outlet's measurements**, not our own service test or Microsoft's performance guarantee. <span class="tag-reported">reported</span> (independent testing)
+
+| Area | Digital Foundry's result | What it does not establish |
+| --- | --- | --- |
+| End-to-end input latency | 184.5ms through cloud versus 175.2ms locally on Series S, about 9ms extra | Not 9ms total latency, zero lag, or a prediction for every connection |
+| Rendered frame rate | Broadly comparable to Series S in tested play, typically in the 20s to 30fps | Not a locked 30fps service or a new 60fps mode |
+| Frame delivery | Cloud adds uneven 16.7ms and 50ms frames around the expected 33.3ms intervals | Similar average frame rates do not mean equally smooth delivery |
+| Stream quality | Limited compression artefacts in the test; the top 1440p stream option reached up to 37Mbps | Stream resolution is not native rendering resolution; observed bitrate is not a minimum connection requirement |
+
+The latency figures came from **Ethernet, a high-speed fibre connection and a wired controller**. Location, network conditions, controller and display can change the result. Even in that favourable setup, the game's substantial local input delay remains: a small streaming penalty does not make the total response time small.
+
+Frame pacing is a separate concern from input lag. Frames arriving at uneven intervals can make motion look less smooth even when the average count resembles local Series S play. DF says it reported this to Microsoft, which was looking into it. Its suggestion that this might be latency mitigation is a hypothesis, **not a confirmed cause or an announced fix**. The article also notes crackling audio in both its cloud experience and local Series S, not a cloud-only defect.
+
+The report identifies a Series S rendering profile, with a roughly 720p base image upscaled to 1080p, and separately discusses a 1440p stream option. Those are different stages of the image pipeline. Do not call the stream native 1440p or use its bitrate to promise a particular picture on every account.
+
+DF says unnamed sources told it Microsoft runs one GTA VI instance per blade, rather than the two virtual Series S instances used in its general account of the service. That remains **source-based reporting**, not our inspection of Microsoft's servers or an official capacity disclosure. The article's power and bandwidth explanation for not serving the Series X version is speculation.
+
+For an Xbox One owner, this is evidence that cloud play can be usable under the tested conditions, with frame-delivery compromises. It is not a native Xbox One port. If you already have Series S or X, DF recommends local play. Game ownership, cloud entitlement, regional access and any paid hours still need their own checks; this performance test does not validate a particular price or subscription offer.
 
 ## Will GTA 6 fit on a 512 GB Series S?
 
