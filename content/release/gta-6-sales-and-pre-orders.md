@@ -2,15 +2,17 @@
 title: "GTA 6 sales: Take-Two reports $3.79 billion day one, 32.5 million pre-release units"
 seoTitle: "GTA 6 Sales: $3.79B Day One, 32.5M Pre-Release Units"
 shortTitle: "Sales and pre-orders"
-description: "GTA 6 sales by source: Take-Two's day one, differing weekend estimates, Sony players and NielsenIQ's £32m UK boxed/code-in-box launch revenue."
+description: "GTA 6 sales by source: Alinea estimates 53M copies and $4.7B after one week. Compare company day-one figures, weekend models, Sony players and UK retail."
 status: "mixed"
 published: 2026-11-15
 updated: 2026-11-27
 verified: 2026-11-27
 weight: 16
 tags: ["release", "sales", "take-two"]
-tldr: "Take-Two's **November 20 release** reports **$3.79B in day-one retail sales**, based on company estimates through the end of November 19 worldwide, and **32.5M units sold pre-release**. Those are different measures, not figures to add together. Sony separately reports **39M+ unique PS5 players** and **683M hours** for November 19–22. Players are not copies sold. Alinea separately estimates **44.9M sold-through copies** and **$4B+** for November 19–22. Sensor Tower separately estimates **47.8M copies by the same Sunday**, via Forbes. Different estimators are not a sales-growth series or a newer company total; older forecasts below are historical."
+tldr: "Take-Two's **November 20 release** reports **$3.79B in day-one retail sales**, based on company estimates through the end of November 19 worldwide, and **32.5M units sold pre-release**. Those are different measures, not figures to add together. Sony separately reports **39M+ unique PS5 players** and **683M hours** for November 19–22. Players are not copies sold. Alinea's **November 27 week-one report** estimates **53M copies and $4.7B**, after its earlier **44.9M sold-through copies** and **$4B+** for November 19–22. Sensor Tower separately estimates **47.8M copies by the same Sunday**, via Forbes. Different estimators are not a sales-growth series or a newer company total; older forecasts below are historical."
 facts:
+  - k: "Alinea week-one copies / revenue"
+    v: "53M / $4.7B (Nov 27 estimate)"
   - k: "UK boxed/code-in-box revenue"
     v: "£32M, Nov 19–21 (NielsenIQ estimate)"
   - k: "Sensor Tower weekend copies"
@@ -44,6 +46,8 @@ facts:
   - k: "FY27 guide"
     v: "$8.0-8.2B net bookings"
 faq:
+  - q: "Did GTA 6 sell 53 million copies in a week?"
+    a: "Alinea Analytics estimates 53 million copies and $4.7 billion after a week on the market in its November 27 report, with 75.7% of copies on PS5. These are analyst estimates, not a new Rockstar or Take-Two sales disclosure, and must not be added to earlier cumulative totals."
   - q: "How much did GTA 6 make at UK physical retail?"
     a: "NielsenIQ estimates £32 million in UK boxed and code-in-a-box revenue during the November 19–21 launch period. Its panel excludes digital storefront sales. The game ranks No.17 by first-week boxed revenue since 1995, a revenue ranking rather than a worldwide unit-sales total."
   - q: "Did GTA 6 sell 47.8 million copies in its launch weekend?"
@@ -57,12 +61,17 @@ faq:
   - q: "Is GTA 6 the most pre-ordered game ever?"
     a: "Take-Two's November 20 release calls the 32.5M pre-release units a new record across all platforms. Sony and Microsoft also made their own store-record statements on November 11. These record claims are attributed to their issuers."
   - q: "How many copies will GTA 6 sell?"
-    a: "Older pre-launch forecasts are preserved below, not current results or revised post-launch calls. Alinea estimates 44.9M sold-through copies through Nov 22; Take-Two separately disclosed 32.5M pre-release units. Their scope and dates differ."
+    a: "Older pre-launch forecasts are preserved below, not current results or revised post-launch calls. Alinea's Nov 27 week-one report estimates 53M copies; Take-Two separately disclosed 32.5M pre-release units. Their scope and dates differ."
   - q: "Has GTA 6 made $1 billion?"
     a: "Take-Two reports $3.79B in day-one retail sales, based on company estimates through the end of November 19 worldwide. Retail sales are not profit or Take-Two's reported net bookings."
   - q: "Did Take-Two's stock go up because of GTA 6?"
     a: "Shares rose about 8% after the Nov 9 report, even though quarterly bookings fell 18% and missed Take-Two's own guidance."
 sources:
+  - title: "Grand Theft Auto 6, a week in: week-one estimates"
+    url: "https://alineaanalytics.substack.com/p/grand-theft-auto-6-a-week-in"
+    publisher: "Alinea Insight / Rhys Elliott, Alinea Analytics"
+    date: "Nov 27, 2026; checked Nov 27"
+    tier: "primary"
   - title: "GTA VI sends UK games retail sales soaring 99% to £142m in launch week"
     url: "https://nielseniq.com/global/en/news-center/2026/gta-vi-sends-uk-games-retail-sales-soaring-99-to-142m-in-launch-week/"
     publisher: "NielsenIQ"
@@ -163,6 +172,28 @@ GTA 6 is the most pre-ordered game in the history of both console stores. On Nov
 | Record claim | Biggest entertainment launch; pre-release unit record across platforms | Take-Two's comparison, not an independent audit by this site |
 
 **Do not add pre-release units to the retail-sales dollars, derive a launch-day unit total by dividing by one edition's price, or treat the retail figure as net profit.** The release does not give a full platform split, a refund-adjusted methodology or a bridge from retail spending to Take-Two's accounting measures. It also does not supply a launch-weekend cumulative total. The third-party estimate below is not an update issued by Take-Two.
+
+## What does Alinea estimate after GTA 6's first week?
+
+**November 27 update:** [Rhys Elliott's week-one Alinea Insight report](https://alineaanalytics.substack.com/p/grand-theft-auto-6-a-week-in) estimates **53 million copies sold** and **$4.7 billion in revenue** after a week on the market. These are **Alinea Analytics estimates**, not a new Rockstar or Take-Two disclosure, and we have not independently audited the model or underlying transactions. <span class="tag-reported">reported</span> (third-party estimates)
+
+| Measure | Alinea's November 27 report | Scope and limit |
+| --- | --- | --- |
+| Copies sold | 53 million | Cumulative week-one estimate, not 53 million additional copies after the weekend |
+| Revenue | $4.7 billion | Analyst revenue estimate, not profit or Take-Two net bookings |
+| PS5 share | 75.7% of estimated copies | Unit share within Alinea's model, not Sony's unique-player count |
+| Xbox share / copies | 24.3%; about 13 million | Same report and model, not Microsoft's platform disclosure |
+| Longer playtime | Nearly 7M players over 50 hours; around 250K over 100 hours | Estimated engagement thresholds, not completion counts or a required campaign length |
+
+The post also puts the United States at **33.5% of estimated PS5 copies**. That is not a share of all-platform sales. Its opening total is described as a week-one result; the **November 19–25** dates appear explicitly in its separate comparison of other games below. We do not assign a more precise hour or timezone cutoff to the 53 million figure than the post provides.
+
+The earlier 44.9 million weekend estimate remains below as a dated snapshot. **Do not add it to 53 million**, combine it with Sensor Tower's separate 47.8 million model, or subtract Take-Two's pre-release count to claim verified new purchases. Alinea's newer post gives Xbox a 25.2% share for November 22, while its earlier post used 24.9%. The public posts do not reconcile that difference, so this guide preserves each dated account rather than presenting every percentage as one consistent historical series.
+
+### Did GTA 6 reduce spending on other games?
+
+Alinea also examines **11 selected recent premium releases on PlayStation**, none in PS Plus at the time according to its account. Their combined estimated revenue fell **24%, from $19.8M to $15.0M**, in the November 19–25 comparison week. Excluding *Phantom Blade Zero*, which it identifies as an outlier, the remaining ten fell **12%, from $13.4M to $11.8M**.
+
+That is **a selected sample, not all PlayStation spending or the global games market**. Elliott explicitly notes normal post-release sales decay, changing prices and Black Friday discounts. Some sampled games grew. The comparison does not isolate how much GTA VI caused, establish that every lost purchase moved to it, or prove a permanent decline. The post's explanations involving new-console buyers and co-marketing remain the analyst's interpretation, not a controlled causal test or a new hardware-unit disclosure.
 
 ## Did GTA 6 sell 44.9 million copies in its first weekend?
 
