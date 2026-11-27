@@ -5,8 +5,8 @@ shortTitle: "The Album (soundtrack)"
 description: "Rockstar lists 57 GTA VI Deluxe Album tracks. Compare the full list with four reported iTunes-exclusive additions and the separate score and radio."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-25
-verified: 2026-11-25
+updated: 2026-11-28
+verified: 2026-11-28
 weight: 3
 tags: ["music", "soundtrack"]
 tldr: "**The Album (Deluxe Edition)** adds **23 bonus tracks** to the original 34, for **57 songs**. Rockstar now lists tracks 1–57; the US Apple Music listing dates the Deluxe Edition **November 23**. Billboard separately reports **four iTunes-exclusive additions**, for 61, on November 24; the first-party pages checked here still show 57. The expanded Album is not a new game patch, a complete radio-song list or the separate Justice score album due December 11."
@@ -24,6 +24,8 @@ facts:
   - k: "Formats"
     v: "Digital, CD, standard and exclusive vinyl"
 faq:
+  - q: "Did the GTA 6 soundtrack reach number one?"
+    a: "The Official Aotearoa Charts reports the soundtrack at No.1 on its Top 40 Albums Chart on November 28, 2026, its first video-game album chart-topper. Separately, Spotify lists Flower in a Hurricane at No.1 on Weekly Top Songs Global for November 20–26. These are different territories and chart types, not worldwide album sales totals."
   - q: "When does the GTA 6 soundtrack come out?"
     a: "The original 34-song Album was announced for November 19, while release listings and reporting date it November 20. The Deluxe Edition is dated November 23 on Apple Music. Justice's separate score album follows December 11."
   - q: "How many songs are on GTA 6: The Album?"
@@ -35,6 +37,16 @@ faq:
   - q: "Is there a physical GTA 6 soundtrack?"
     a: "Yes. Rockstar lists CD and vinyl formats. This is a format summary, not a current stock, price or shipping check. Several outlets noted the irony that the album gets physical formats while the game's boxed edition has no disc."
 sources:
+  - title: "Grand Theft Auto takes chequered flag"
+    url: "https://aotearoamusiccharts.co.nz/news/grand-theft-auto-takes-chequered-flag"
+    publisher: "Official Aotearoa Music Charts"
+    date: "Nov 28, 2026; checked Nov 28"
+    tier: "primary"
+  - title: "Weekly Top Songs Global, November 20–26, 2026"
+    url: "https://charts.spotify.com/charts/view/regional-global-weekly/latest"
+    publisher: "Spotify Charts"
+    date: "Chart window Nov 20–26; checked Nov 28, 2026"
+    tier: "primary"
   - title: "Four reported iTunes-exclusive Album additions"
     url: "https://www.billboard.com/music/rb-hip-hop/grand-theft-auto-6-album-adds-more-songs-itunes-exclusive-1236387736/"
     publisher: "Billboard (Michael Saponara)"
@@ -201,6 +213,22 @@ No claim here assigns these tracks to story scenes, named missions or particular
 **Keep the editions separate.** In this check, [Rockstar's music page](https://www.rockstargames.com/VI/music) still ends at track 57, while the [US Apple Music Deluxe listing](https://music.apple.com/us/album/grand-theft-auto-vi-the-album-deluxe-edition/6837496123) still says 57 songs and 2 hours 55 minutes. We have not recovered and verified a specific 61-track iTunes purchase page, its price, runtime or regional availability. Those first-party pages do not disprove the press report, but they do not independently verify its storefront offer either.
 
 The four rows above are therefore a **separate reported addition**, not invented official track numbers 58–61 or a replacement for the first-party Deluxe list. An iTunes purchase exclusive is not a promise that every Apple Music subscriber or other streaming service receives the songs. No physical reissue, new in-game music patch, radio-station assignment or change to the December 11 Justice score release follows from this report. The articles' chart ambitions and projections are not chart results.
+
+## Which music charts has GTA 6 topped?
+
+**November 28 source check:** two first-party chart pages now document results, rather than the earlier chart ambitions mentioned above. Keep the **album, song, territory and measurement window** separate. <span class="tag-confirmed">confirmed</span> (chart-publisher disclosures)
+
+| Publisher and chart | Result | Scope |
+| --- | --- | --- |
+| Official Aotearoa Top 40 Albums | GTA VI soundtrack at No.1 | The publisher's November 28 report calls this its first No.1 album from a video game, not a first across every country's charts |
+| Official Aotearoa Hot 40 | Flower In A Hurricane at No.1 | Hot 40 is not the main Top 40 Singles Chart; that chart's No.1 is Jamie Miller's Babydoll in the same report |
+| Spotify Weekly Top Songs Global | Flower In A Hurricane at No.1; Suzuki at No.8 | The page explicitly covers November 20–26, 2026, not lifetime streams or the global albums chart |
+
+The [Official Aotearoa Charts' November 28 announcement](https://aotearoamusiccharts.co.nz/news/grand-theft-auto-takes-chequered-flag) identifies the **soundtrack** as its album winner. It does not give a format-by-format sales total or resolve the 57-track versus reported iTunes-exclusive edition question above. Its video-game first belongs to **that chart's history**, not a worldwide first-ever claim.
+
+[Spotify's weekly global song page](https://charts.spotify.com/charts/view/regional-global-weekly/latest), checked November 28, credits Flower In A Hurricane to Justice, Tame Impala, SZA, Grand Theft Auto VI and King Gizzard & The Lizard Wizard. A song from the [[music/gta-6-justice-score|Original Score]] charting before December 11 does not mean the full score album has been released early. The linked **latest** chart rolls forward; the November 20–26 window is the dated result recorded here.
+
+RockstarINTEL separately [reports 33,742,904 weekly streams, a global album No.1 and a No.9 artist-profile ranking](https://rockstarintel.com/grand-theft-auto-vi-become-a-spotify-top-10-artist-whilst-dominating-the-charts/). The readable Spotify song page checked here establishes the song positions and dates, not all those additional figures. This guide does not promote them to independently verified album or artist-chart results, convert streams into unique listeners or sales, or infer a new in-game station or story placement.
 
 ## Is the GTA 6 soundtrack on vinyl and CD?
 
