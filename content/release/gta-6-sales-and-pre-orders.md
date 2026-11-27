@@ -2,15 +2,17 @@
 title: "GTA 6 sales: Take-Two reports $3.79 billion day one, 32.5 million pre-release units"
 seoTitle: "GTA 6 Sales: $3.79B Day One, 32.5M Pre-Release Units"
 shortTitle: "Sales and pre-orders"
-description: "GTA 6 weekend estimates differ: Alinea 44.9M, Sensor Tower 47.8M via Forbes. Separate analyst estimates, company retail sales and Sony players."
+description: "GTA 6 sales by source: Take-Two's day one, differing weekend estimates, Sony players and NielsenIQ's £32m UK boxed/code-in-box launch revenue."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-25
-verified: 2026-11-25
+updated: 2026-11-27
+verified: 2026-11-27
 weight: 16
 tags: ["release", "sales", "take-two"]
 tldr: "Take-Two's **November 20 release** reports **$3.79B in day-one retail sales**, based on company estimates through the end of November 19 worldwide, and **32.5M units sold pre-release**. Those are different measures, not figures to add together. Sony separately reports **39M+ unique PS5 players** and **683M hours** for November 19–22. Players are not copies sold. Alinea separately estimates **44.9M sold-through copies** and **$4B+** for November 19–22. Sensor Tower separately estimates **47.8M copies by the same Sunday**, via Forbes. Different estimators are not a sales-growth series or a newer company total; older forecasts below are historical."
 facts:
+  - k: "UK boxed/code-in-box revenue"
+    v: "£32M, Nov 19–21 (NielsenIQ estimate)"
   - k: "Sensor Tower weekend copies"
     v: "47.8M (estimate via Forbes, Nov 22)"
   - k: "Alinea weekend sell-through"
@@ -42,6 +44,8 @@ facts:
   - k: "FY27 guide"
     v: "$8.0-8.2B net bookings"
 faq:
+  - q: "How much did GTA 6 make at UK physical retail?"
+    a: "NielsenIQ estimates £32 million in UK boxed and code-in-a-box revenue during the November 19–21 launch period. Its panel excludes digital storefront sales. The game ranks No.17 by first-week boxed revenue since 1995, a revenue ranking rather than a worldwide unit-sales total."
   - q: "Did GTA 6 sell 47.8 million copies in its launch weekend?"
     a: "Sensor Tower estimates 47.8 million by Sunday November 22, according to Forbes reporting. Alinea separately estimates 44.9 million sold-through copies for that weekend. Neither is a new Take-Two disclosure, and the difference is not verified sales growth."
   - q: "Did GTA 6 sell 45 million copies in four days?"
@@ -59,6 +63,15 @@ faq:
   - q: "Did Take-Two's stock go up because of GTA 6?"
     a: "Shares rose about 8% after the Nov 9 report, even though quarterly bookings fell 18% and missed Take-Two's own guidance."
 sources:
+  - title: "GTA VI sends UK games retail sales soaring 99% to £142m in launch week"
+    url: "https://nielseniq.com/global/en/news-center/2026/gta-vi-sends-uk-games-retail-sales-soaring-99-to-142m-in-launch-week/"
+    publisher: "NielsenIQ"
+    date: "Nov 26, 2026; checked Nov 27"
+    tier: "primary"
+  - title: "No disc, no problem: GTA 6 is the biggest physical game launch since 2019"
+    url: "https://www.thegamebusiness.com/p/no-disc-no-problem-gta-6-is-the-biggest"
+    publisher: "The Game Business / Christopher Dring"
+    date: "Nov 26, 2026; checked Nov 27"
   - title: "Sensor Tower launch-weekend estimates reported to Forbes"
     url: "https://finance.yahoo.com/media-advertising/articles/gta-vi-sold-47-million-204825980.html"
     publisher: "Forbes / Conor Murray, syndicated by Yahoo Finance"
@@ -202,6 +215,33 @@ Sony also reports its largest single-day count of newly connected PS5 consoles o
 Sony labels the measure **unique players**, not purchases or sold units, and does not provide a method for converting players to copies. Do not add it to Take-Two's pre-release units, divide it by an older analyst platform split, derive an Xbox total or multiply it by one edition's price. The dates, platform scope and units differ.
 
 The disclosure also does not give a numerical simultaneous-player peak, a worldwide all-platform player total or a new cumulative retail-revenue result. It is useful evidence of PS5 engagement during a four-day window, separate from the November 19 retail-sales cutoff above. We have not independently audited SIE's data.
+
+## What did GTA VI earn at UK boxed retail?
+
+**November 27 source check:** [NielsenIQ's November 26 release](https://nielseniq.com/global/en/news-center/2026/gta-vi-sends-uk-games-retail-sales-soaring-99-to-142m-in-launch-week/) estimates **£32 million in GTA VI physical sales** during the **November 19–21** launch period. Its definition includes **boxed software and code-in-a-box games sold through retailers**, not just games containing a disc. It excludes purchases from digital storefronts such as PlayStation Store, Xbox Store and Nintendo eShop. <span class="tag-reported">reported</span> (NielsenIQ retail-panel estimates)
+
+| Measure | NielsenIQ figure | Scope and limit |
+| --- | --- | --- |
+| GTA VI boxed/code-in-box revenue | £32 million | UK launch period, November 19–21; not all UK channels or worldwide revenue |
+| Share of weekly physical software revenue | About 74% | GTA VI's share of the UK physical-software market that week, not its global platform share |
+| GTA VI first-week sales on launch day | 88% | NIQ's reported share within its retail measure, not 88% of all worldwide purchases |
+| Historical rank | No.17 by first-week boxed revenue since 1995 | GTA V is No.1 and GTA IV No.11 in this revenue comparison |
+| All boxed software | About £43 million, up 409% week on week | All games in the covered UK retail market, not GTA VI alone |
+| Combined games retail | £142 million, up 99% week on week | Physical/code-in-box software, console hardware and gaming accessories combined |
+
+NIQ describes these as estimates for the total traditional UK retail market, based on its retailer panel. The reporting week is **November 15–21, 2026**, with GTA VI's three-day launch period ending November 21. Black Friday falls in the following reporting week, so this is not a Black Friday sales result. We have read the issuer's methodology notes, not audited the underlying retailer data.
+
+### Why do reports say biggest physical launch since 2019?
+
+[Christopher Dring's November 26 report for The Game Business](https://www.thegamebusiness.com/p/no-disc-no-problem-gta-6-is-the-biggest) compares **copies**, saying the last UK game to sell that many in its first week was **FIFA 20 in September 2019**. NIQ's own release instead ranks **boxed revenue** and identifies **FIFA 19 in 2018** as the most recent title above GTA VI on that measure. These are differently worded comparisons with different metrics. This guide does not merge them into one record claim or infer an exact UK unit total from the £32 million figure.
+
+The Game Business also reports more than one million boxed copies in France over three days and a Spanish physical-launch record. Those are its separately attributed regional reports, not numbers supplied in the UK NIQ release or a basis for extrapolating worldwide sales.
+
+### What do the hardware increases establish?
+
+NIQ reports **PS5 sales up 46%** and **Xbox Series sales up 75%** week on week, alongside a **38% increase in console hardware sales overall**. These are growth rates from different baselines, not console-unit totals or evidence that Xbox outsold PS5. The release also reports accessory demand increases. They show a retail uplift around launch, not proof that every extra purchase was caused only by GTA VI.
+
+Do not add the £142 million market total to GTA VI's £32 million: the former includes the latter and covers hardware and accessories as well. Neither should be added to Take-Two's worldwide day-one disclosure or used as a new cumulative company sales figure. The dates, channels, currencies and issuers differ.
 
 ## How many pre-orders does GTA 6 have?
 
