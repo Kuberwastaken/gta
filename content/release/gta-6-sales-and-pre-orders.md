@@ -2,11 +2,11 @@
 title: "GTA 6 sales: Take-Two reports $3.79 billion day one, 32.5 million pre-release units"
 seoTitle: "GTA 6 Sales: $3.79B Day One, 32.5M Pre-Release Units"
 shortTitle: "Sales and pre-orders"
-description: "GTA 6 sales by source: Alinea estimates 53M copies and $4.7B after one week. Compare company day-one figures, weekend models, Sony players and UK retail."
+description: "GTA 6 sales by source: Alinea estimates 53M copies and $4.7B after one week. Compare company day-one figures, weekend models, Sony players, UK retail and Japan charts."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-27
-verified: 2026-11-27
+updated: 2026-11-28
+verified: 2026-11-28
 weight: 16
 tags: ["release", "sales", "take-two"]
 tldr: "Take-Two's **November 20 release** reports **$3.79B in day-one retail sales**, based on company estimates through the end of November 19 worldwide, and **32.5M units sold pre-release**. Those are different measures, not figures to add together. Sony separately reports **39M+ unique PS5 players** and **683M hours** for November 19–22. Players are not copies sold. Alinea's **November 27 week-one report** estimates **53M copies and $4.7B**, after its earlier **44.9M sold-through copies** and **$4B+** for November 19–22. Sensor Tower separately estimates **47.8M copies by the same Sunday**, via Forbes. Different estimators are not a sales-growth series or a newer company total; older forecasts below are historical."
@@ -46,6 +46,8 @@ facts:
   - k: "FY27 guide"
     v: "$8.0-8.2B net bookings"
 faq:
+  - q: "How many copies did GTA 6 sell in Japan at launch?"
+    a: "Famitsu estimates 200,759 PS5 retail copies in its November 16–22, 2026 chart, where GTA VI ranks No.1. Gematsu identifies the release as code-in-a-box. This is a Japanese retail estimate, not all digital-store purchases, an all-platform Japanese total or a new worldwide company disclosure."
   - q: "Did GTA 6 sell 53 million copies in a week?"
     a: "Alinea Analytics estimates 53 million copies and $4.7 billion after a week on the market in its November 27 report, with 75.7% of copies on PS5. These are analyst estimates, not a new Rockstar or Take-Two sales disclosure, and must not be added to earlier cumulative totals."
   - q: "How much did GTA 6 make at UK physical retail?"
@@ -67,6 +69,16 @@ faq:
   - q: "Did Take-Two's stock go up because of GTA 6?"
     a: "Shares rose about 8% after the Nov 9 report, even though quarterly bookings fell 18% and missed Take-Two's own guidance."
 sources:
+  - title: "Japan weekly estimated software and hardware sales, November 16–22"
+    url: "https://www.famitsu.com/article/202611/95209"
+    publisher: "Famitsu"
+    date: "Nov 26, 2026; checked Nov 28"
+    tier: "primary"
+  - title: "Famitsu Sales: 11/16/26–11/22/26"
+    url: "https://www.gematsu.com/2026/11/famitsu-sales-11-16-26-11-22-26"
+    publisher: "Gematsu / Sal Romano"
+    date: "Nov 26, 2026; checked Nov 28"
+    tier: "secondary"
   - title: "Grand Theft Auto 6, a week in: week-one estimates"
     url: "https://alineaanalytics.substack.com/p/grand-theft-auto-6-a-week-in"
     publisher: "Alinea Insight / Rhys Elliott, Alinea Analytics"
@@ -273,6 +285,21 @@ The Game Business also reports more than one million boxed copies in France over
 NIQ reports **PS5 sales up 46%** and **Xbox Series sales up 75%** week on week, alongside a **38% increase in console hardware sales overall**. These are growth rates from different baselines, not console-unit totals or evidence that Xbox outsold PS5. The release also reports accessory demand increases. They show a retail uplift around launch, not proof that every extra purchase was caused only by GTA VI.
 
 Do not add the £142 million market total to GTA VI's £32 million: the former includes the latter and covers hardware and accessories as well. Neither should be added to Take-Two's worldwide day-one disclosure or used as a new cumulative company sales figure. The dates, channels, currencies and issuers differ.
+
+## How did GTA 6 launch at Japanese retail?
+
+**November 28 source check:** [Famitsu's November 26 weekly chart](https://www.famitsu.com/article/202611/95209) puts GTA VI for PS5 at **No.1 with an estimated 200,759 copies** for **November 16–22, 2026**. The game launched on Thursday, November 19, so its opening sales fall within the final four calendar days of that reporting week. [Gematsu's chart translation](https://www.gematsu.com/2026/11/famitsu-sales-11-16-26-11-22-26) identifies the release as **code-in-a-box sold at retail**, not a disc edition. <span class="tag-reported">reported</span> (Famitsu estimates)
+
+| Measure | Japan, November 16–22 | What it counts |
+| --- | --- | --- |
+| GTA VI PS5 opening sales | 200,759; No.1 in the software chart | Estimated retail copies, not all Japanese digital-store purchases |
+| PS5-family hardware | 41,472 consoles | Sum of standard PS5, Digital Edition and Pro rows |
+| PS5 Digital Edition | 40,362 consoles | About 97.3% of the PS5-family total, not GTA VI's digital-sales share |
+| Nintendo Switch 2 hardware | 36,817 consoles | Same territory and reporting week; a hardware comparison, not game sales |
+
+Famitsu's software-chart note combines **packaged software, download cards and console-preinstalled versions**. It does not turn a retail box containing a download code into a PlayStation Store purchase. This result is not an all-channel or all-platform Japanese GTA VI total, a count of discs, or a new Rockstar sales disclosure. Do not add it to Alinea's worldwide cumulative estimates or Take-Two's earlier company figures.
+
+The hardware total above is calculated from Famitsu's **79 standard PS5 + 40,362 Digital Edition + 1,031 Pro**. That family total exceeds Switch 2 for this week, but the chart alone does not establish a first-ever record, a lasting market reversal or how many consoles GTA VI caused people to buy. Digital Edition hardware share also cannot reveal which GTA edition those buyers chose or whether each bought the game. These Japanese unit estimates are separate from the UK retail revenue and growth rates above.
 
 ## How many pre-orders does GTA 6 have?
 
