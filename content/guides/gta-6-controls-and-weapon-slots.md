@@ -2,17 +2,17 @@
 title: "GTA 6 controls and weapon slots: loadout, aiming, Focus and switching"
 seoTitle: "GTA 6 Controls and Weapon Slots: Loadout, Aim and Focus"
 shortTitle: "Controls and weapon slots"
-description: "No weapon wheel: GTA 6 gives you two handguns and two long guns, the rest stay in your car. Auto-aim is off by default. Rockstar hasn't published a button map."
+description: "GTA 6 controls: preview loadout and aiming reports, developer-named font, HUD and sprint options, and what this guide has not verified in a console menu."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-15
-verified: 2026-11-15
+updated: 2026-11-28
+verified: 2026-11-28
 weight: 9
 tags: ["guides", "weapons", "gameplay", "beginner"]
-tldr: "Rockstar has **not published a control layout**. Previews report the weapon wheel is replaced by a **loadout of two handguns and two long guns**, extra guns ride in your vehicle, auto-aim is off by default, and a slow-motion Focus mode highlights weak points. Jason and Lucia swap via a character wheel when the story allows it."
+tldr: "This guide does **not yet verify a complete console button map**. Previews report the weapon wheel is replaced by a **loadout of two handguns and two long guns**, extra guns ride in your vehicle, auto-aim is off by default, and a slow-motion Focus mode highlights weak points. Jason and Lucia swap via a character wheel when the story allows it."
 facts:
   - k: "Official control map"
-    v: "Not published"
+    v: "Not verified in this guide"
   - k: "Carried weapons"
     v: "2 handguns + 2 long guns"
   - k: "Long guns on back"
@@ -24,13 +24,20 @@ facts:
   - k: "Livestream feed"
     v: "R3 on PS5 (reported)"
 faq:
+  - q: "What accessibility control options has Rockstar described?"
+    a: "Sam Grosset names larger font size, a more minimal screen experience and a sprinting-controls tweak in November 25 developer notes sent to TechRadar. These are examples, not a complete settings list or menu walkthrough, and this guide has not tested them on either console."
   - q: "Does GTA 6 have a weapon wheel?"
     a: "Previews say no. You carry two handguns and two long guns, one long gun visible on your back, and store the rest in your vehicle the way RDR2 used your horse."
   - q: "What are the GTA 6 controls?"
-    a: "Rockstar hasn't published a button layout. The only reported binding is R3 for the optional livestream feed on PlayStation."
+    a: "This guide has not verified a complete PS5 or Xbox button layout. Its older sources report R3 for the optional PlayStation livestream feed; the Xbox equivalent is not verified here. Newer developer notes name font, screen-clutter and sprint-control options, not a full button map."
   - q: "Can you switch characters any time in GTA 6?"
     a: "No. Rob Nelson told Famitsu switching is 'restricted depending on the progression of the story'; some missions lock you to Jason or Lucia."
 sources:
+  - title: "Sam Grosset on accessibility options and UI design"
+    url: "https://www.techradar.com/gaming/gta-6-dev-says-accessibility-is-considered-from-the-outset-and-making-a-game-for-diverse-needs-enables-us-to-create-better-games-for-everyone-we-create-inclusive-intuitive-and-immersive-experiences-for-every-player"
+    publisher: "TechRadar / Rob Dwiar; Rockstar developer statements"
+    date: "Nov 25, 2026; checked Nov 28"
+    tier: "primary"
   - title: "GTA 6 gameplay: Key details that you might have missed"
     url: "https://www.redbull.com/us-en/gta-6-gameplay-details"
     publisher: "Red Bull"
@@ -65,7 +72,7 @@ sources:
 related: ["gameplay/gta-6-weapons", "gameplay/gta-6-character-switching", "guides/gta-6-tips-before-you-start"]
 ---
 
-Rockstar has not published GTA VI's control layout, and the only button anyone has reported is R3 for the livestream feed. What previews and the Extended Look do describe is how the systems behave: no weapon wheel, a loadout of two handguns and two long guns, the rest of your arsenal in the car, and auto-aim switched off by default. Nearly all of it is <span class="tag-reported">reported</span> from Red Bull, Engadget and Edge, not from a Rockstar manual.
+This guide has not verified a complete PS5 or Xbox button map. Its older preview sources report R3 for the PlayStation livestream feed, but that is not an exhaustive survey of every control reported since launch. What previews and the Extended Look do describe is how the systems behave: no weapon wheel, a loadout of two handguns and two long guns, the rest of your arsenal in the car, and auto-aim switched off by default. Nearly all of it is <span class="tag-reported">reported</span> from Red Bull, Engadget and Edge, not from a Rockstar manual.
 
 The full primer for your first hours is [[guides/gta-6-tips-before-you-start|tips before you start]]; other launch guides are in the [[guides/index|guides hub]].
 
@@ -103,12 +110,24 @@ It isn't always available. Rob Nelson told Famitsu: "There are times when it's r
 
 ## What does the phone handle?
 
-Banking (BuckMe), car scans (Waink), ride-hailing (RydeMe), vehicle delivery (Scooter Bros) and the Snapmatic social feed <span class="tag-reported">reported</span>. An optional livestream feed opens with R3 on PlayStation, which fans read as a Lifeinvader nod <span class="tag-reported">reported</span>. Nobody has named the Xbox equivalent; the right-stick click is our guess <span class="tag-speculation">speculation</span>. See [[gameplay/gta-6-phone-and-social-media|phone and social media]].
+Banking (BuckMe), car scans (Waink), ride-hailing (RydeMe), vehicle delivery (Scooter Bros) and the Snapmatic social feed <span class="tag-reported">reported</span>. An optional livestream feed opens with R3 on PlayStation, which fans read as a Lifeinvader nod <span class="tag-reported">reported</span>. The Xbox equivalent is not verified in this guide; do not assume the same binding from the PlayStation report alone. See [[gameplay/gta-6-phone-and-social-media|phone and social media]].
 
 ## How does driving feel?
 
 Rockstar says handling blends GTA IV's weight with GTA V's accessibility <span class="tag-reported">reported</span>. Refueling means holding a button at the pump for about 10 seconds, and some car thefts end in a quick-time hijack <span class="tag-reported">reported</span>. Theft tools and car security are on [[gameplay/gta-6-vehicles|vehicles]].
 
-## What's still unknown?
+## What accessibility and sprint options has Rockstar described?
 
-Rockstar hasn't published the default PS5 or Xbox button layout, said whether controls can be fully remapped, listed accessibility options beyond auto-aim, or said whether a classic weapon wheel can be switched on. We will fill these in after the Nov 19 unlock. Short answers on everything else are in the [[guides/gta-6-faq|GTA 6 FAQ]].
+**November 28 correction:** this page's old pre-launch closing paragraph said accessibility options beyond auto-aim had not been listed. That is out of date. In [November 25 developer notes sent to TechRadar](https://www.techradar.com/gaming/gta-6-dev-says-accessibility-is-considered-from-the-outset-and-making-a-game-for-diverse-needs-enables-us-to-create-better-games-for-everyone-we-create-inclusive-intuitive-and-immersive-experiences-for-every-player), **Sam Grosset, associate UI director for UI/UX design**, names these examples. <span class="tag-reported">reported</span> (developer statement)
+
+| Named option | What the source does not specify |
+| --- | --- |
+| Larger font size | Exact size values or every text element affected |
+| A more minimal screen experience | A complete HUD-toggle list or an entirely HUD-free mode |
+| A tweak to sprinting controls | The exact setting, default binding or a PS5/Xbox menu path |
+
+These are developer-described options, not a new November 28 settings patch or our own console-menu test. The article does not establish full control remapping, screen-reader support or a complete accessibility checklist. The [[gameplay/gta-6-gameplay-features-confirmed#what-accessibility-options-does-the-developer-name|developer-options summary]] and [[guides/gta-6-tips-before-you-start|hands-on comfort-settings guide]] keep their own source scope separate.
+
+## What has this guide not verified?
+
+We have not verified a complete default PS5/Xbox button map, full remapping support, exact menu paths for the developer-named options, or a classic-weapon-wheel toggle. That is a limit of this guide's checks, not a claim that no manual, player report or setting exists elsewhere. Short answers on everything else are in the [[guides/gta-6-faq|GTA 6 FAQ]].
