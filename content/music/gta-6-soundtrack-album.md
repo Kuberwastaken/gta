@@ -5,8 +5,8 @@ shortTitle: "The Album (soundtrack)"
 description: "Rockstar lists 57 GTA VI Deluxe Album tracks. Compare the full list with four reported iTunes-exclusive additions and the separate score and radio."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-28
-verified: 2026-11-28
+updated: 2026-11-29
+verified: 2026-11-29
 weight: 3
 tags: ["music", "soundtrack"]
 tldr: "**The Album (Deluxe Edition)** adds **23 bonus tracks** to the original 34, for **57 songs**. Rockstar now lists tracks 1–57; the US Apple Music listing dates the Deluxe Edition **November 23**. Billboard separately reports **four iTunes-exclusive additions**, for 61, on November 24; the first-party pages checked here still show 57. The expanded Album is not a new game patch, a complete radio-song list or the separate Justice score album due December 11."
@@ -24,6 +24,8 @@ facts:
   - k: "Formats"
     v: "Digital, CD, standard and exclusive vinyl"
 faq:
+  - q: "Did GTA 6 top the UK album chart?"
+    a: "The Album debuts at No.1 on the separate UK Official Compilations Chart dated November 27–December 3, 2026. That is not a main Official Albums Chart No.1. Flower In A Hurricane is No.3 on the Singles Chart, where ten game-linked songs appear in the Top100. Music Week reports 34,743 first-week album consumption units, including sales-equivalent streams, not that many individual buyers."
   - q: "Did the GTA 6 soundtrack reach number one?"
     a: "The Official Aotearoa Charts reports the soundtrack at No.1 on its Top 40 Albums Chart on November 28, 2026, its first video-game album chart-topper. Separately, Spotify lists Flower in a Hurricane at No.1 on Weekly Top Songs Global for November 20–26. These are different territories and chart types, not worldwide album sales totals."
   - q: "When does the GTA 6 soundtrack come out?"
@@ -37,6 +39,26 @@ faq:
   - q: "Is there a physical GTA 6 soundtrack?"
     a: "Yes. Rockstar lists CD and vinyl formats. This is a format summary, not a current stock, price or shipping check. Several outlets noted the irony that the album gets physical formats while the game's boxed edition has no disc."
 sources:
+  - title: "Official Compilations Chart, November 27–December 3, 2026"
+    url: "https://www.officialcharts.com/charts/official-compilations-chart/20261127/7503/"
+    publisher: "Official Charts Company"
+    date: "Chart dated Nov 27–Dec 3; checked Nov 29, 2026"
+    tier: "primary"
+  - title: "Official Singles Chart Top100"
+    url: "https://www.officialcharts.com/charts/singles-chart/"
+    publisher: "Official Charts Company"
+    date: "Chart dated Nov 27–Dec 3; checked Nov 29, 2026"
+    tier: "primary"
+  - title: "GTA VI soundtrack songs on the UK Singles Chart"
+    url: "https://www.officialcharts.com/chart-news/jamie-miller-babydoll-gta-6-soundtrack-singles-chart/"
+    publisher: "Official Charts / Carl Smith"
+    date: "Page dated Nov 26, 2026; checked Nov 29"
+    tier: "primary"
+  - title: "GTA VI soundtrack first-week UK consumption"
+    url: "https://www.musicweek.com/labels/read/grand-theft-auto-vi-soundtrack-opens-with-almost-35-000-sales-as-multiple-tracks-enter-singles-chart/095607"
+    publisher: "Music Week / Andre Paine"
+    date: "Nov 27, 2026; checked Nov 29"
+    tier: "secondary"
   - title: "Grand Theft Auto takes chequered flag"
     url: "https://aotearoamusiccharts.co.nz/news/grand-theft-auto-takes-chequered-flag"
     publisher: "Official Aotearoa Music Charts"
@@ -229,6 +251,29 @@ The [Official Aotearoa Charts' November 28 announcement](https://aotearoamusicch
 [Spotify's weekly global song page](https://charts.spotify.com/charts/view/regional-global-weekly/latest), checked November 28, credits Flower In A Hurricane to Justice, Tame Impala, SZA, Grand Theft Auto VI and King Gizzard & The Lizard Wizard. A song from the [[music/gta-6-justice-score|Original Score]] charting before December 11 does not mean the full score album has been released early. The linked **latest** chart rolls forward; the November 20–26 window is the dated result recorded here.
 
 RockstarINTEL separately [reports 33,742,904 weekly streams, a global album No.1 and a No.9 artist-profile ranking](https://rockstarintel.com/grand-theft-auto-vi-become-a-spotify-top-10-artist-whilst-dominating-the-charts/). The readable Spotify song page checked here establishes the song positions and dates, not all those additional figures. This guide does not promote them to independently verified album or artist-chart results, convert streams into unique listeners or sales, or infer a new in-game station or story placement.
+
+### What happened on the UK charts?
+
+**November 29 source check:** the [Official Compilations Chart dated November 27–December 3](https://www.officialcharts.com/charts/official-compilations-chart/20261127/7503/) lists **Grand Theft Auto VI: The Album as a new entry at No.1**. This is the **UK compilations chart**, not a No.1 claim for the separate main Official Albums Chart or a worldwide album ranking. Its displayed dates identify the chart edition, not a promise that the result stays current after that week. <span class="tag-confirmed">confirmed</span> (chart-publisher disclosure)
+
+The issuer's [Singles Chart report](https://www.officialcharts.com/chart-news/jamie-miller-babydoll-gta-6-soundtrack-singles-chart/) identifies these ten game-linked songs in the Top100. We checked their positions against its [weekly singles table](https://www.officialcharts.com/charts/singles-chart/), also dated **November 27–December 3**. The article itself displays November 26 as its publication date; that is distinct from the chart's dates.
+
+| Song | UK singles position | Artist credited in the chart |
+| --- | --- | --- |
+| Flower In A Hurricane | 3, up from 9 | Justice / Tame Impala / SZA |
+| Go Easy | 21, new | Dua Lipa |
+| Run Away With Me | 28, re-entry | Carly Rae Jepsen |
+| Burn This S**t Down | 39, new | Travis Scott |
+| Starting From Zero | 44, new | Justice ft Michael McDonald |
+| Blood In Your Eyes | 47, up from 66 | Tove Lo |
+| Last Thing You Need | 64, re-entry | Morgan Wallen |
+| Crazy For You | 69, new | Lana Del Rey |
+| AHH YEA | 95, new | Playboi Carti |
+| RHYNO | 98, new | Travis Scott |
+
+**Run Away With Me is an older licensed song, not a new track on The Album.** This is a game-linked singles list, not ten new Album releases or ten No.1 songs. The table follows the chart's shorter artist credits without replacing the fuller release credits above. Its singles measure combines streams and purchases across formats, not just Spotify. The linked current singles page rolls forward; these positions are a dated snapshot. No story placement is needed to explain the result.
+
+[Andre Paine's November 27 Music Week report](https://www.musicweek.com/labels/read/grand-theft-auto-vi-soundtrack-opens-with-almost-35-000-sales-as-multiple-tracks-enter-singles-chart/095607), citing Official Charts Company data, gives **34,743 first-week UK album consumption units**: **8,058 CDs, 17,608 vinyl, 378 downloads and 8,699 sales-equivalent streams**. <span class="tag-reported">reported</span> (trade reporting of chart data) The components sum to the reported total, but these are not 34,743 unique buyers, physical copies or raw streams. We have read the report, not audited its underlying chart data. It does not provide an edition-by-edition split that resolves the 57-versus-61-track storefront question, and these music units are separate from game sales.
 
 ## Is the GTA 6 soundtrack on vinyl and CD?
 
