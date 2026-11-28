@@ -5,8 +5,8 @@ shortTitle: "PS5 Pro and performance"
 description: "GTA 6 targets 30 fps on consoles. DF finds Series X steadier than base PS5 in heavy scenes and Pro most stable, with PSSR and RT shadows. See testing caveats."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-25
-verified: 2026-11-25
+updated: 2026-11-28
+verified: 2026-11-28
 weight: 5
 tags: ["release", "performance", "ps5", "platforms"]
 tldr: "GTA 6 targets **30 fps on every console, PS5 Pro included**, with no 60 fps, 40 fps or performance mode at launch (Rockstar, Nov 10). The Pro adds **PSSR upscaling and ray-traced shadows**. Rockstar has now told Kotaku not to expect a higher-frame-rate mode on current consoles. Digital Foundry's November 24 matched comparison finds **Series X steadier than base PS5** in heavy scenes and **Pro most stable**, not immune to drops. These are test samples, not guaranteed full-game results."
@@ -24,6 +24,8 @@ facts:
   - k: "Confirmed by"
     v: "Rockstar pre-load post, Nov 10, 2026"
 faq:
+  - q: "Why does GTA 6 use my DualSense battery so quickly?"
+    a: "Game Informer reports about 4 hours 30 minutes on its fully charged standard DualSense supplied with a PS5 Pro, linking the drain to haptics, triggers and speaker use. Its roughly 3 hours 40 minutes for Edge comes from reports it cites. Battery age, replacement batteries and gameplay affect runtime; this is not a universal battery rating or a diagnosis of your controller."
   - q: "Does GTA 6 run better on Xbox Series X than base PS5?"
     a: "Digital Foundry's November 24 matched comparison finds fewer frame-rate drops on Series X in demanding sampled scenes, with broadly matched visuals. Both still target 30 fps and both can dip. This is testing of those versions, not a guarantee for every scene or later patch."
   - q: "Does GTA 6 have a 60 fps mode?"
@@ -37,6 +39,11 @@ faq:
   - q: "Can I play GTA 6 on PlayStation Portal?"
     a: "Yes. Remote Play uses your own PS5. The current US PlayStation listing also supports PS5 and PS Portal cloud streaming with Premium; Push Square reports that you must own the game and it is not included in the Premium catalogue. Availability and eligibility need checking on your account."
 sources:
+  - title: "Is Your DualSense Running Low Playing GTA VI?"
+    url: "https://gameinformer.com/psa/2026/11/26/is-your-dualsense-running-low-playing-gta-vi"
+    publisher: "Game Informer / Imran Khan"
+    date: "Nov 26, 2026; checked Nov 28"
+    tier: "primary"
   - title: "Matched four-console GTA VI comparison"
     url: "https://www.digitalfoundry.net/features/the-big-gta-6-console-comparison-ps5-vs-ps5-pro-xbox-series-x-and-series-s"
     publisher: "Digital Foundry (William Judd; Oliver Mackenzie comparison)"
@@ -205,6 +212,21 @@ A ComicBook.com "PlayStation leak" before the official post promised ray-traced 
 Not to unlock a higher frame-rate mode. The same 30 fps target remains, but DF now finds better stability as well as image-quality gains on Pro. That updates our earlier suggestion that only visuals differed. <span class="tag-reported">reported</span> Whether those gains justify an upgrade depends on the cost and your priorities; this page is not a current hardware-price or stock check. Sony has announced no GTA VI console bundle. Sony does launch a cheaper Midnight Black PS5 on Nov 19, but it is sold only in Japan and region-locked there. Forbes argues that console prices, pushed up by AI-driven memory costs, may blunt any GTA hardware bump. <span class="tag-reported">reported</span>
 
 The Limited Edition DualSense controllers ($84.99) use standard DualSense hardware, so they add nothing to performance. <span class="tag-confirmed">confirmed</span>
+
+## How long does a DualSense battery last in GTA 6?
+
+**November 28 source check:** [Imran Khan's November 26 Game Informer test](https://gameinformer.com/psa/2026/11/26/is-your-dualsense-running-low-playing-gta-vi) reports shorter controller sessions in GTA VI. Its standard DualSense result and the Edge reports are **different evidence**, not a fully documented head-to-head battery benchmark. <span class="tag-reported">reported</span> (press test and cited reports)
+
+| Controller | Reported runtime | Where the figure comes from |
+| --- | --- | --- |
+| Standard DualSense | About 4 hours 30 minutes from a full charge | Game Informer's own test, using the original controller supplied with a PS5 Pro |
+| DualSense Edge | Around 3 hours 40 minutes | Reports averaged in the article; not described as the same controlled test |
+
+Khan links the drain to extensive use of **haptic feedback, triggers and the built-in speaker**. The article says the standard controller lasts upwards of twice as long in *Phantom Blade 0*, but does not publish repeated-trial counts, matched gameplay, effect-intensity settings or a full measurement protocol. Do not turn that comparison into a universal promise that GTA VI halves every controller's battery life.
+
+Battery age, a replacement battery and what you do in-game can change runtime. These are not Sony or Rockstar battery-life ratings, a new performance patch, a frame-rate measurement or our own hardware test. A short session alone does not establish that a controller is faulty, and the report cannot diagnose an individual battery.
+
+For a long session, **charge beforehand and keep a USB-C charging cable nearby** rather than planning around the exact reported hours. The article discusses turning off controller effects, but gives no measured runtime with them disabled. We do not promise a particular battery saving, invent settings-menu steps or recommend replacing a controller on this evidence. The [[guides/gta-6-controls-and-weapon-slots|controls guide]] covers separately sourced control and accessibility options.
 
 ## Xbox Series X and Series S
 
