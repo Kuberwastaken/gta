@@ -5,8 +5,8 @@ shortTitle: "Confirmed features list"
 description: "Every GTA 6 gameplay feature in graded tables: six wanted stars, heat, a 2+2 gun loadout, fuel, hurricanes, 170+ animals, story-gated switching, fences and apps."
 status: "mixed"
 published: 2026-11-15
-updated: 2026-11-26
-verified: 2026-11-26
+updated: 2026-11-28
+verified: 2026-11-28
 weight: 1
 tags: ["gameplay", "wanted-system", "weapons", "vehicles", "money"]
 tldr: "Rockstar itself confirms **two playable leads with story-gated switching**, an optional romance and radio on foot. Six wanted stars, a two-handgun, two-long-gun loadout, fuel, bank vs cash vs loot, 170+ animal species and hurricanes come from Rockstar staff via press, graded reported."
@@ -24,6 +24,8 @@ facts:
   - k: "Map"
     v: "About 2x GTA 5 (reported)"
 faq:
+  - q: "Can you customize both Jason and Lucia in GTA 6?"
+    a: "David Vallance, Rockstar's wardrobe and inventory lead artist, tells TechRadar that both leads have clothing and appearance options, with shop inventories curated for different styles. His November 28 developer account names thrift, casual, sportswear and nightlife stores, but does not give prices, coordinates, unlock rules or a complete item list."
   - q: "How does GTA 6 model NPC dialogue and world audio?"
     a: "Alastair MacGregor tells TechRadar that Rockstar built a system for dialogue dynamic range and propagation through space, and captured speakers and room acoustics for music playback. These are developer production statements, not our own listening tests or exact audibility rules."
   - q: "Does GTA 6 offer larger text or sprint-control options?"
@@ -39,6 +41,11 @@ faq:
   - q: "Is GTA 6 multiplayer at launch?"
     a: "No. Rockstar's June 2026 pricing announcement called GTA 6 'a single-player experience', and no GTA 6 online mode has been announced."
 sources:
+  - title: "David Vallance on curated clothing stores and character customization"
+    url: "https://www.techradar.com/gaming/we-hope-it-allows-players-to-truly-create-a-stamp-of-individuality-gta-6-dev-says-every-store-inventory-is-specially-curated-across-leonida-to-give-players-a-true-sense-of-uniqueness-when-curating-looks-for-jason-and-lucia"
+    publisher: "TechRadar / Rob Dwiar"
+    date: "Nov 28, 2026; checked Nov 28"
+    tier: "primary"
   - title: "Alastair MacGregor on dialogue propagation and world sound"
     url: "https://www.techradar.com/gaming/we-built-an-entirely-new-system-for-this-game-to-capture-dialogue-dynamic-range-and-model-how-it-propagates-through-space-gta-6-dev-explains-the-intricacies-of-leonidas-sound-design-that-creates-a-sense-of-deep-immersion"
     publisher: "TechRadar / Rob Dwiar"
@@ -332,6 +339,22 @@ That is narrower than saying every delivery is continuously simulated off-screen
 Donkin presents that police example as a set of design questions, not a complete priority rule. It does not establish that officers always abandon their first suspect, always chase the more serious offence, or can reliably be distracted for an escape. For the separately sourced pursuit rules, use [[gameplay/gta-6-wanted-system-and-heat|wanted system and heat]].
 
 The production details also do not provide a count of unique NPCs, a guarantee that every person has a permanent daily schedule, or a benchmark for CPU load or frame rate. The related [[world/gta-6-interiors|interiors]] and [[gameplay/gta-6-activities-and-side-content|activities]] guides separate world detail from things players can actually enter or start.
+
+## How do clothing stores and character customization differ?
+
+**November 28 developer account:** [TechRadar's Rob Dwiar publishes notes supplied by Rockstar](https://www.techradar.com/gaming/we-hope-it-allows-players-to-truly-create-a-stamp-of-individuality-gta-6-dev-says-every-store-inventory-is-specially-curated-across-leonida-to-give-players-a-true-sense-of-uniqueness-when-curating-looks-for-jason-and-lucia) in which **David Vallance, lead artist for wardrobe and inventory**, describes customizing **both Jason and Lucia**. He says shop inventories were planned around different aesthetics while retaining each lead's core narrative identity. <span class="tag-reported">reported</span> (developer statement)
+
+| Store named in the notes | Style Vallance describes |
+| --- | --- |
+| Bargain World and Dr. Froogal | Thrift essentials, including worn-in graphic T-shirts |
+| Aline's Thrift Store | 1990s sportswear finds |
+| This/That and MID | Contemporary casual clothing downtown |
+| Eris flagship store | Sportswear, with a gym-going example |
+| Nola | Vice City nightlife glamour |
+
+The broader contrast is between **grungier Port Gellhorn thrift shopping and Vice City boutiques**, not an assertion that every store sells the same catalogue. Vallance also names hairstyles, piercings, nails and player-only tattoos as ways to finish a look, alongside visual body changes involving muscle and weight gain or loss. These are developer-described customization options, not proof that every item or style is available to both characters at every point in the story.
+
+The notes do **not** supply prices, map coordinates, opening hours, stock-refresh rules, a complete item count or a step-by-step unlock route. We have not visited and audited every shop. The sportswear example does not establish an exercise-stat bonus, and the statement does not announce a new patch, an Online clothing catalogue or a change to edition entitlements. Use [[gameplay/gta-6-activities-and-side-content|activities and side content]] for separately sourced gyms and salon activities, and [[release/gta-6-price-and-editions|price and editions]] for edition-specific style extras.
 
 ## Activities
 
